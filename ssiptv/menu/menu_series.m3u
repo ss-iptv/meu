@@ -4,6 +4,10 @@
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/era_uma_vez/menu_era_uma_vez.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",LOKi
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/loki/loki_1.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="",Arquivo X
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/arquivo_x/menu_x_files.m3u
