@@ -1,69 +1,12 @@
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: 1ª Temporada 720p
-#EXTINF:0, Ash vs Evil Dead - S01E01 - El Jefe.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E01%20-%20El%20Jefe.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12X6lwO7imZjUibEbhnGGp1KpGTEXIjLl
-#EXTINF:0, Ash vs Evil Dead - S01E02 - Bait.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E02%20-%20Bait.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16GKHBZQTH80pWsbs2M5WRor8dsISyZBz
-#EXTINF:0, Ash vs Evil Dead - S01E03 - Books from Beyond.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E03%20-%20Books%20from%20Beyond.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GslSMD_BEsAtgzdTh14wqOeSyzgFky6i
-#EXTINF:0, Ash vs Evil Dead - S01E04 - Brujo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E04%20-%20Brujo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WE71WSHDjX1TWHYWpEzQK7_p4BH4Q7Fg
-#EXTINF:0, Ash vs Evil Dead - S01E05 - The Host.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E05%20-%20The%20Host.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FHhzOdBkdpPHfKmGvpmabroelfZ1sbgc
-#EXTINF:0, Ash vs Evil Dead - S01E06 - The Killer of Killers.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E06%20-%20The%20Killer%20of%20Killers.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cq1gOEqgwfyELnckpHdObwiCOisMi0Vd
-#EXTINF:0, Ash vs Evil Dead - S01E07 - Fire in the Hole.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E07%20-%20Fire%20in%20the%20Hole.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g2uQHRzP_hppVG7Od6A8aKO_FkB7-nnE
-#EXTINF:0, Ash vs Evil Dead - S01E08 - Ashes to Ashes.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E08%20-%20Ashes%20to%20Ashes.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1euTta-i8Jiu1JFkjKhxKRwgzVA26DeA2
-#EXTINF:0, Ash vs Evil Dead - S01E09 - Bound in Flesh.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E09%20-%20Bound%20in%20Flesh.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IUdECox9xW2UyeX7M0f2Scy_THdmSqYD
-#EXTINF:0, Ash vs Evil Dead - S01E10 - The Dark One.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S01E10%20-%20The%20Dark%20One.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kgja9s7hC71V-CtXRf1PfVTkIJAMWfyk
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: 2ª Temporada 720p
-#EXTINF:0, Ash vs Evil Dead - S02E01 - Home.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E01%20-%20Home.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YclANJMuYFHTODmkm0VtnMJuneYrlJkn
-#EXTINF:0, Ash vs Evil Dead - S02E02 - The Morgue.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E02%20-%20The%20Morgue.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rdaNpgXiSNfKpS6ccuAcwOkLY4qUf2cf
-#EXTINF:0, Ash vs Evil Dead - S02E03 - Last Call.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E03%20-%20Last%20Call.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vH1TNOcXgPGKtKBnYn4yqXhgc0hxyBMx
-#EXTINF:0, Ash vs Evil Dead - S02E04 - DUI.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E04%20-%20DUI.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13O6CY35klxrkP5voyNX_3Ib705uUi-sU
-#EXTINF:0, Ash vs Evil Dead - S02E05 - Confinement.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E05%20-%20Confinement.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15fB1c4fgtSovtTF8u4EBEmvV7IR8SVu0
-#EXTINF:0, Ash vs Evil Dead - S02E06 - Trapped Inside.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E06%20-%20Trapped%20Inside.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vBrlVId_WUy0Yzz7jSGBZFeyq6OE4uoy
-#EXTINF:0, Ash vs Evil Dead - S02E07 - Delusion.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E07%20-%20Delusion.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oVil5w7PXHrJKA7t8vMDQmN8PXeuo2Qe
-#EXTINF:0, Ash vs Evil Dead - S02E08 - Ashy Slashy.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E08%20-%20Ashy%20Slashy.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ipgnypV-vPg1Czlxgaby_sd4ixjtknZe
-#EXTINF:0, Ash vs Evil Dead - S02E09 - Home Again.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E09%20-%20Home%20Again.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zIKkjN2wTZFJ95BEj-yDP_nsYb20YQ5w
-#EXTINF:0, Ash vs Evil Dead - S02E10 - Second Coming.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S02E10%20-%20Second%20Coming.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13_60WBKvAEgw6kInK9YrkOBe6vfIBlcS
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: 3ª Temporada 720p
-#EXTINF:0, Ash vs Evil Dead - S03E01 - Family.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E01%20-%20Family.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DlJavGzm9tyd064cCYckhioapa5NxoX-
-#EXTINF:0, Ash vs Evil Dead - S03E02 - Booth Three.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E02%20-%20Booth%20Three.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qQoO-5VZi9OGgadL6PwuLD60QbdiZ3TP
-#EXTINF:0, Ash vs Evil Dead - S03E03 - Apparently Dead.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E03%20-%20Apparently%20Dead.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19jnDQByf8jQiVwj8t6jz0Af7-FbQ-MHQ
-#EXTINF:0, Ash vs Evil Dead - S03E04 - Unfinished Business.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E04%20-%20Unfinished%20Business.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12Ha52dIeyknGKT0kRAg5YmuL3Nx_AgrN
-#EXTINF:0, Ash vs Evil Dead - S03E05 - Baby Proof.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E05%20-%20Baby%20Proof.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14PL02j2lOZqgcIktFLIa0lIkwBsrg8D3
-#EXTINF:0, Ash vs Evil Dead - S03E06 - Tales from the Rift.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E06%20-%20Tales%20from%20the%20Rift.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EOjaTaugGavfi-zhXib5TQ_q7ucMupcg
-#EXTINF:0, Ash vs Evil Dead - S03E07 - Twist and Shout.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E07%20-%20Twist%20and%20Shout.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oMN4YDGN7kAKIWpSVx5uQLamo2p-dBTl
-#EXTINF:0, Ash vs Evil Dead - S03E08 - Rifting Apart.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E08%20-%20Rifting%20Apart.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XNtPv4csQ0R3dvnLwDLDa6AwWnZOcDP7
-#EXTINF:0, Ash vs Evil Dead - S03E09 - Judgement Day.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E09%20-%20Judgement%20Day.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19prfgjBftFDq1UTPmkF1PyLIOnwhapKz
-#EXTINF:0, Ash vs Evil Dead - S03E10 - The Mettle of Man.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E10%20-%20The%20Mettle%20of%20Man.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vV0CpKAVnez66ktsN2ylvZnX8iTfmJTJ
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1
+https://elthondsaraujo.github.io/meu/ssiptv/series/ash_vs_evil/ash_vs_evil_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
+https://elthondsaraujo.github.io/meu/ssiptv/series/ash_vs_evil/ash_vs_evil_2.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 3
+https://elthondsaraujo.github.io/meu/ssiptv/series/ash_vs_evil/ash_vs_evil_3.m3u8
+
+
