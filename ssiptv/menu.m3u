@@ -3,12 +3,12 @@
 #EXTINF:0 type="playlist" tvg-logo="",SERIES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",FILMES - Atualizando
+#EXTINF:0 type="playlist" tvg-logo="",FILMES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",ANIMES - Atualizando
+#EXTINF:0 type="playlist" tvg-logo="",ANIMES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_animes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS - Em Breve
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_canais.m3u
 
