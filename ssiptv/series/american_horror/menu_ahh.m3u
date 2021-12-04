@@ -1,37 +1,210 @@
- #EXTM3U size="big"
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1 - M3U
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_1.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_1.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_2.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 3
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_3.m3u8
- 
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 4
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_4.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 5
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_5.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 6
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_6.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 7
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_7.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 8
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_8.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 9
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_9.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 10
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_10.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 11
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/ahh_11.m3u8
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 01 · Murder House
+#EXTINF:0, murder house 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2001?a=0&id=1soHsKnJ5nIEabxg0Wwa0ZcKVj4FSgsig
+#EXTINF:0, murder house 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2002?a=0&id=1i5qFlZHzNJWNMp9r9AH16CAHQSz66Ttt
+#EXTINF:0, murder house 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2003?a=0&id=1nLjeod4ZkdJTgUH07OTwFXDv36oizUwo
+#EXTINF:0, murder house 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2004?a=0&id=1yaQHhAkVnB9sRgDCwQFyitBeZWIeWYBY
+#EXTINF:0, murder house 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2005?a=0&id=1q5IlPNOwrVjJnoB-ES_vcqXb99b____I
+#EXTINF:0, murder house 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2006?a=0&id=1m7a15N8_tPMN5mQsiWEX54SUMAhu7vu1
+#EXTINF:0, murder house 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2007?a=0&id=1tDq9DHuDMYkmYAUGUMSFpRICUthyjbPe
+#EXTINF:0, murder house 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2008?a=0&id=1AdUq-IBiCk7O78D__t4JZxIpajL5_Ii9
+#EXTINF:0, murder house 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2009?a=0&id=1ai3bDjfwNu2sPeY6_WKLA5IGLWR_r8cc
+#EXTINF:0, murder house 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2010?a=0&id=1dRxueuIrRmbCUCeCLc0yqYmPKmRcWPwj
+#EXTINF:0, murder house 11
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2011?a=0&id=1Jturye9sBTPEm-3FTadY5Jt3Ag3X7vPX
+#EXTINF:0, murder house 12
+https://m3u.herokuapp.com/api/v1/redirectdownload/murder%20house%2012?a=0&id=13P1tjkZvpKkYHWzID6j-J0QJ8ojvn0yw
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 02 · Asylum
+#EXTINF:0, asylum 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2001?a=0&id=1s7upVcmpedoJ684YcBMZ67yLw5KQfCNj
+#EXTINF:0, asylum 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2002?a=0&id=18snp8Axr808gniCgSzHM2lVtE6dusxvm
+#EXTINF:0, asylum 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2003?a=0&id=1TM6Wyjq_eXNAcbHbEbhH1aESKlMy0pBu
+#EXTINF:0, asylum 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2004?a=0&id=1dcQm76Q6n4v2f-logOuseqNiyymToWi-
+#EXTINF:0, asylum 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2005?a=0&id=1ewa8D9F-4a60RNCm8ySnZT1qf5sFpc_Q
+#EXTINF:0, asylum 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2006?a=0&id=17uPk12hWpyyYus6sjNnuTtnyjhJoX1Mk
+#EXTINF:0, asylum 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2007?a=0&id=1Jw-0gRXeoj2_-FLQ9sEIUazF-zF_XFHW
+#EXTINF:0, asylum 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2008?a=0&id=1Apdc3bdln55fOONjemPi6f-QlUnohHZ1
+#EXTINF:0, asylum 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2009?a=0&id=13s5Cos8k3Vq2n5fY7P-rIsBhHenT48aa
+#EXTINF:0, asylum 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2010?a=0&id=176H2plbE19tLQjUvCk9qs50bTCrIb9w0
+#EXTINF:0, asylum 11
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2011?a=0&id=1EQC5nAM-OSyCxsWxCOBR7eR9itFqsdpo
+#EXTINF:0, asylum 12
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2012?a=0&id=13oDxGiT5sjxiiuNKcPHi7jwg_K_LRTCC
+#EXTINF:0, asylum 13
+https://m3u.herokuapp.com/api/v1/redirectdownload/asylum%2013?a=0&id=1q9mtTpvTGnZgep9KL6ddKw7R9Zhk4-Mn
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dublado
+#EXTINF:0, coven 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2001?a=0&id=1VK_11VIqQ1IGYHRqh4XoTrgclorj-S1O
+#EXTINF:0, coven 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2002?a=0&id=1VlFfNb7W-jYL7QQmj8oflc2ZYiVmSBtS
+#EXTINF:0, coven 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2003?a=0&id=1VwLAz4UVJ1J2-4YD1_ZqQuCOSCCQgQby
+#EXTINF:0, coven 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2004?a=0&id=1JCTNFM216hKpvQGO7fDGK6UX1Ihh3cEU
+#EXTINF:0, coven 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2005?a=0&id=1UFfwwjNYjG0W5uFKOY3sZc5SnZ1jAhbA
+#EXTINF:0, coven 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2006?a=0&id=1WoEXM8gpuz5RSXGXrG8-fVjvby172-a5
+#EXTINF:0, coven 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2007?a=0&id=1RegqTUR_Eerj2waAAW4oPFnmXvCpVUSr
+#EXTINF:0, coven 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2008?a=0&id=1SRmq1ttuF8gaYhXrC1spPtdIs-TL4JVF
+#EXTINF:0, coven 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2009?a=0&id=1SVgdbtTVY9GwIqHlHDsOwhmkjQDfyID4
+#EXTINF:0, coven 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2010?a=0&id=1TgDeid8s3EQVOdJHl5Nurb-bj-YznS0H
+#EXTINF:0, coven 11
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2011?a=0&id=1TjSsWjKdVap6QNwcSm0zFIHAiuAEsnov
+#EXTINF:0, coven 12
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2012?a=0&id=1Tql8ZsCyh9h_layy0zBPO2EANoYrNxCY
+#EXTINF:0, coven 13
+https://m3u.herokuapp.com/api/v1/redirectdownload/coven%2013?a=0&id=1Tvb_buL5donggUKNh5CTNYGUz4vZwRy8
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 04 · Freak Show
+#EXTINF:0, American Horror Story S04E01 - Monstros Entre Nós 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E01%20-%20Monstros%20Entre%20N%C3%B3s%20720p%20-%20By-LuanHarper.mp4?a=0&id=1h-2Cni17XhbpUrlucCxxnJ0SxS80FdeR
+#EXTINF:0, American Horror Story S04E02 - Massacres e Matinês 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E02%20-%20Massacres%20e%20Matin%C3%AAs%20720p%20-%20By-LuanHarper.mp4?a=0&id=1NoF1Ra4VM1clpTc8UhWEhH5wKMUmx_lM
+#EXTINF:0, American Horror Story S04E04 - Edward Mordrake (Part 2) 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E04%20-%20Edward%20Mordrake%20(Part%202)%20720p%20-%20By-LuanHarper.mp4?a=0&id=16FJ1dReV7hM7tPhoZd8THZWBygsIE3dr
+#EXTINF:0, American Horror Story S04E05 - Cupcakes Rosa 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E05%20-%20Cupcakes%20Rosa%20720p%20-%20By-LuanHarper.mp4?a=0&id=1-ZXPMpjXMvz66mSIYCuz1R8VFUQdhwug
+#EXTINF:0, American Horror Story S04E06 - No Alvo 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E06%20-%20No%20Alvo%20720p%20-%20By-LuanHarper.mp4?a=0&id=1pfCZ6-hmZKDhDoY_ZaP3uN1e5Wr5FK0z
+#EXTINF:0, American Horror Story S04E07 - Teste de Resistencia 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E07%20-%20Teste%20de%20Resistencia%20720p%20-%20By-LuanHarper.mp4?a=0&id=1H3LQmTKE4mz-4mmeTJpnFG3DMuR3aI7E
+#EXTINF:0, American Horror Story S04E08 - Banho de Sangue 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E08%20-%20Banho%20de%20Sangue%20720p%20-%20By-LuanHarper.mp4?a=0&id=18b1pgidYHmwv88NggzbqEoERppM8_T9E
+#EXTINF:0, American Horror Story S04E09 - O Massacre da Reunião de Tupperware 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E09%20-%20O%20Massacre%20da%20Reuni%C3%A3o%20de%20Tupperware%20720p%20-%20By-LuanHarper.mp4?a=0&id=1QWNW5tiqgnoEk4ktmg-oP-AwVhIh0FJM
+#EXTINF:0, American Horror Story S04E10 - Orfãos 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E10%20-%20Orf%C3%A3os%20720p%20-%20By-LuanHarper.mp4?a=0&id=11GODLWxA05DkgOp69sYn9fARSYt6CcTD
+#EXTINF:0, American Horror Story S04E11 - Pensamento Mágico 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E11%20-%20Pensamento%20M%C3%A1gico%20720p%20-%20By-LuanHarper.mp4?a=0&id=1eItxqR9pKMq9EVVhpa-XXaHQ-3xM5S3z
+#EXTINF:0, American Horror Story S04E12 - O Ponto Alto 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E12%20-%20O%20Ponto%20Alto%20720p%20-%20By-LuanHarper.mp4?a=0&id=1uA7AYaGIqff9Negoc6JnvJoz5YN1mPas
+#EXTINF:0, American Horror Story S04E13 - A Cortina Chama 720p - By-LuanHarper.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/American%20Horror%20Story%20S04E13%20-%20A%20Cortina%20Chama%20720p%20-%20By-LuanHarper.mp4?a=0&id=1llLWSZH_xEcCb171IReSk_ceT01JYXbX
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 05 · Hotel
+#EXTINF:0, hotel 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2001?a=0&id=1aC7O38F_ylS5xs-idV17JWfIECsyEiFe
+#EXTINF:0, hotel 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2002?a=0&id=1ec_C0zSwIuwwNxBGjdBXUKDnNb3WScGC
+#EXTINF:0, hotel 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2003?a=0&id=1Yht4l0mn3_SHETDIk_UNvQB7yoa7nt3K
+#EXTINF:0, hotel 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2004?a=0&id=1c9FZ6RKNSuM7D7Hkr0OR83fSNGyvkHdv
+#EXTINF:0, hotel 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2005?a=0&id=1ekM6xej2OznSjV9foy_6m5pCjZu1F9ou
+#EXTINF:0, hotel 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2006?a=0&id=1T3ttdc0ITHhar8eAh0DggsgdxnZPgfwS
+#EXTINF:0, hotel 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2007?a=0&id=1m9LMfkQJDpissSceBtwXTiJ6N_LEk4UB
+#EXTINF:0, hotel 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2008?a=0&id=1uq9eim7PCR7lexrJqzZmtcINRwcpzYZ-
+#EXTINF:0, hotel 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2009?a=0&id=1lLbzUdB3QF5w5OX2cMOzWNoF_tY2xmvw
+#EXTINF:0, hotel 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2010?a=0&id=1asZ5tWyFlgPsFWVV4cXGU2pCKfVahIsm
+#EXTINF:0, hotel 11
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2011?a=0&id=11cxZDRusnrScnx1S0o1-8Z3PqhLQNQXm
+#EXTINF:0, hotel 12
+https://m3u.herokuapp.com/api/v1/redirectdownload/hotel%2012?a=0&id=1I8vVfsZIzbvbAc7psmJkUi-gJGMIGEoo
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 06 · Roanoke
+#EXTINF:0, roanoke 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2001?a=0&id=1ufMtGXELLV2RBnDKkcExmu6EF63T1igj
+#EXTINF:0, roanoke 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2002?a=0&id=1yjPChtQQbMxjB1llMlxAgYaORMXFysDd
+#EXTINF:0, roanoke 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2003?a=0&id=1rYpeUA4NceVGpTS6q9zCR66piIWxmiLU
+#EXTINF:0, roanoke 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2004?a=0&id=11L4Jg_KVjan9_pCFNwIsmMkxvBVbxrDN
+#EXTINF:0, roanoke 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2005?a=0&id=1ZUl0lGfvk9_yzcr50n93Px8ELASVyXf3
+#EXTINF:0, roanoke 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2006?a=0&id=1U8n4uzLCQ1RuTQT-2x1BXZYaR9roPD9z
+#EXTINF:0, roanoke 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2007?a=0&id=1hHsyBNmCd8ECvw6yCj9HOJB_-Gt2cUSr
+#EXTINF:0, roanoke 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2008?a=0&id=15-g8SN5F35etSqbjlIYtUDQg750oSbMT
+#EXTINF:0, roanoke 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2009?a=0&id=1ZEkcNKFDhUbUupTpCvXrN-E6n5vjb6aT
+#EXTINF:0, roanoke 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/roanoke%2010?a=0&id=1KhHj4m7Ing-aDuvxOXYlipJzNdikUhzZ
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 07 · Cult
+#EXTINF:0, cult 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2001?a=0&id=1T2p3AtFzlYcg_qX6K1URbjo9OVU7lpjP
+#EXTINF:0, cult 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2002?a=0&id=15U6QEiz2g9cvqbY7jdQC3kjWFdvM49yq
+#EXTINF:0, cult 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2003?a=0&id=1CVzhPgGrXIGN4MBAN9PeyaVqTb_9I955
+#EXTINF:0, cult 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2004?a=0&id=1g7xPa0lY7FTrOiwCbRhvigHe3iA9RWIT
+#EXTINF:0, cult 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2005?a=0&id=1q0yXc3kJMdGUZ0B3EKabeK5Fm3fQck95
+#EXTINF:0, cult 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2006?a=0&id=1RcsWYYy2BTXCo4dNcnlD-cIfsGBqbX2j
+#EXTINF:0, cult 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2007?a=0&id=1Jra9E2WIzPy2tGcTf9sVeeETKSJwFXNG
+#EXTINF:0, cult 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2008?a=0&id=19RBnzj6z2jakmQ8dos0X34Ru3De5aNJu
+#EXTINF:0, cult 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2009?a=0&id=1ZMbbfbb4ELCIQiKZfJyT_L3k6hniqqeA
+#EXTINF:0, cult 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2010?a=0&id=1uBs2ssX0bvpu0jLCkJ_P2Tm9Rrb7tncp
+#EXTINF:0, cult 11
+https://m3u.herokuapp.com/api/v1/redirectdownload/cult%2011?a=0&id=14MixmuSp2M5Eqv6L7HMr91T8VjWio2pb
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 08 · Apocalypse
+#EXTINF:0, apocalypse 01
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2001?a=0&id=1JW-50axgN5A-FL5sJm91VlK3e5EmoN8u
+#EXTINF:0, apocalypse 02
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2002?a=0&id=1O4ghmGIadfQMoVcxGqw8yzLRRy0GIxB6
+#EXTINF:0, apocalypse 03
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2003?a=0&id=1AQmDPteiP9xxiPqQ3yQqG1J1WhtlichQ
+#EXTINF:0, apocalypse 04
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2004?a=0&id=1oyi1sfZia9TnNiih_4smpBXk_KR4yvyg
+#EXTINF:0, apocalypse 05
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2005?a=0&id=1lwIwGWXydwPQCJV0_-c2VE_PGuz1FZGd
+#EXTINF:0, apocalypse 06
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2006?a=0&id=1w5HovOPVcmF8ul9VVrfoRwXXQn8l8AO1
+#EXTINF:0, apocalypse 07
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2007?a=0&id=1I-6R4zPnIAdJ96g3c9oN9RyLvk-9ur2l
+#EXTINF:0, apocalypse 08
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2008?a=0&id=1mecEEpolqPVm1Z8LF1lILtv0Po4SDFhS
+#EXTINF:0, apocalypse 09
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2009?a=0&id=1JnafWr_MgemY6RlukLy03yAFU0OsdxhP
+#EXTINF:0, apocalypse 10
+https://m3u.herokuapp.com/api/v1/redirectdownload/apocalypse%2010?a=0&id=19AWz9PWZDR54OF2d_FMTU9DMgTVkyA6Y
