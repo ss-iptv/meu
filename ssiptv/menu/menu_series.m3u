@@ -44,6 +44,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/stargate/menu_sga.m3u
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/familia_dinossauro/familia_dinossauro.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",Eu a Patroa e as Crianças
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/eu_patroa/menu_eu_patroa.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="",AMERICAN HORROR HISTORY
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/menu_ahh.m3u
