@@ -5,3 +5,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/filmes/menu_filmes_full_hd.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",FILMES  POR GÊNERO
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/menu_filmes_por_genero.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",FILMES  BITLY
+http://bit.ly/Gleydson_FilmesHD
