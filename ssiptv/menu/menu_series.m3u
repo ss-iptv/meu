@@ -4,6 +4,10 @@
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/mandaloriano/mandaloriano_1.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="",ARCANJO RENEGADO
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/arcanjo_renegado/arcanjo_renegado.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="",ERA UMA VEZ
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/era_uma_vez/menu_era_uma_vez.m3u
@@ -15,6 +19,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/loki/loki_1.m3u8
 #EXTINF:0 type="playlist" tvg-logo="",ARQUIVO X
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/arquivo_x/menu_x_files.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",ROSWELL
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/roswell/roswell.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",STARGATE UNIVERSE
 #EXTBG: #000000
@@ -83,4 +91,8 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/walking_dead/menu_walking_dea
 #EXTINF:0 type="playlist" tvg-logo="",DR. WHO
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/dr_who/menu_dr_who.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",CHUCK
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/chuck/chuck.m3u8
 
