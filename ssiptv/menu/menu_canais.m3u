@@ -9,3 +9,5 @@ https://elthondsaraujo.github.io/meu/ssiptv/canais/canais.m3u
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS - BITLY
 http://bit.ly/Gleydson_Canais
 
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS - IPTV-FREE
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
