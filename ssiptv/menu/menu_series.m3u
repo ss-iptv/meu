@@ -16,6 +16,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/era_uma_vez/menu_era_uma_vez.
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/loki/loki_1.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="",LENDAS DA MARVEL
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/marvel/lendas_da_marvel.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="",ARQUIVO X
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/arquivo_x/menu_x_files.m3u
