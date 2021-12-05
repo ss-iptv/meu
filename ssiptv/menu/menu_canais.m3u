@@ -1,7 +1,7 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS - EM BREVE
-https://elthondsaraujo.github.io/meu/ssiptv/animes/naruto/nar_ship_leg.m38u
+#EXTINF:0 type="playlist" tvg-logo="",PLUTO TV
+https://elthondsaraujo.github.io/meu/ssiptv/canais/pluto_tv.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS - TESTE
 https://elthondsaraujo.github.io/meu/ssiptv/canais/canais.m3u
