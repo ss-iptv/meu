@@ -28,26 +28,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/arquivo_x/menu_x_files.m3u
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/roswell/roswell.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",STARGATE UNIVERSE
-#EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/stargate/menu_sgu.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",STARGATE SG1
-#EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/stargate/menu_sg1.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",STARGATE ATLANTIS
-#EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/stargate/menu_sga.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",FAMÍLIA DINOSSAURO
-#EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/familia_dinossauro/familia_dinossauro.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",Eu a Patroa e as Crianças
-#EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/eu_patroa/menu_eu_patroa.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="",AMERICAN HORROR HISTORY
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/menu_ahh.m3u
@@ -80,19 +60,19 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/ash_vs_evil/menu_ash_vs_evil.
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/dr_house/menu_dr_house.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",American Gods
+#EXTINF:0 type="playlist" tvg-logo="",AMERICAN GODS
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/american_gods/menu_american_gods.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Westworld
+#EXTINF:0 type="playlist" tvg-logo="",WESTWORLD
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/westworld/menu_westworld.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Tres é Demais
+#EXTINF:0 type="playlist" tvg-logo="",TRÊS É DEMAIS
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/tres_e_demais/menu_tres_e_demais.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Walking Dead
+#EXTINF:0 type="playlist" tvg-logo="",WALKING DEAD
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/walking_dead/menu_walking_dead.m3u
 
@@ -104,3 +84,14 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/dr_who/menu_dr_who.m3u
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/chuck/chuck.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="",FRINGE
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/fringe/menu_fringe.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Eu a Patroa e as Crianças
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/eu_patroa/menu_eu_patroa.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",FAMÍLIA DINOSSAURO
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/familia_dinossauro/familia_dinossauro.m3u
