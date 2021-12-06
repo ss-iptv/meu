@@ -1,53 +1,51 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: Arquivo X 02 temporada
-#EXTINF:0, EPISÓDIO 01
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZDrMe-fjWv92fQC1fLXAikZQP860QI5p
-#EXTINF:0, EPISÓDIO 02
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E02.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rItJqSnYelAs6FLraGZnyqnPw3NKECni
-#EXTINF:0, EPISÓDIO 03
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E03.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UYWrkjKMXDyszdAElELyO8ipO62k2NuA
-#EXTINF:0, EPISÓDIO 04
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E04.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kHoxtrGF-eoxrH8Tbm2LOvU3uFfrcuJN
-#EXTINF:0, EPISÓDIO 05
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E05.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yv3yrfhtnqH6Oetyun3x2X2qmvF2v2-a
-#EXTINF:0, EPISÓDIO 06
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E06.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wjmVNCBBQ6vn_JCla-RGX58BR2OPiMtP
-#EXTINF:0, EPISÓDIO 07
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E07.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pG8OCa0drgb7o2cCNLY3LLGo1l63YbGx
-#EXTINF:0, EPISÓDIO 08
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E08.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oHbtA5LH04WHRM4dtB9g3qzSc3Qeh1Fu
-#EXTINF:0, EPISÓDIO 09
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E09.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Gs1KKtWekG8zl_ZHGfNdwszaVl2TptC0
-#EXTINF:0, EPISÓDIO 10
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E10.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jv_gYaI-ZfWN130m9KyxCgpR0u13WG2n
-#EXTINF:0, EPISÓDIO 11
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E11.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1azEesYpqv5b05gPlBoNgV2Ixay9yXpcQ
-#EXTINF:0, EPISÓDIO 12
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E12.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Dk4asi4N8Y4e55RN8Gr3TZl0RlAfbgTm
-#EXTINF:0, EPISÓDIO 13
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E13.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oFzQ0vMtkzKErdhZmHmKy26eeXuLvq48
-#EXTINF:0, EPISÓDIO 14
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E14.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lbcGrS0kR2L_oYeJbf4T6V_VehZAemwS
-#EXTINF:0, EPISÓDIO 15
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E15.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19NivK4agzS_W__-VIRQlsz_QKUPbcWvs
-#EXTINF:0, EPISÓDIO 16
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E16.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VVlzREWmWs--MzwmBFtcfinKA7wjKuKU
-#EXTINF:0, EPISÓDIO 17
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E17.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EvlD_kEooXRmF8WgpNxZuEKV7MXGrnPm
-#EXTINF:0, EPISÓDIO 18
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E18.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14DvHPU6tV90ehrQ7WBRXB6YUXagw2-l1
-#EXTINF:0, EPISÓDIO 19
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E19.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KztYugTuOotdKK5-tMJ0grcZ47SCOOQR
-#EXTINF:0, EPISÓDIO 20
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E20.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GzTTu0tQjyMe7dXn6ZKz9zlTgN1NYX6O
-#EXTINF:0, EPISÓDIO 21
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E21.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18jOG_U67WVtQmedPBV2W2l32QIciHf8e
-#EXTINF:0, EPISÓDIO 22
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E22.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eCoNKnPHzSbgbBAdVqtqF1DLMkLVOEPg
-#EXTINF:0, EPISÓDIO 23
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E23.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BbFS16pai522Vz61OTOxTQGiUXQ08EVJ
-#EXTINF:0, EPISÓDIO 24
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E24.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FbMMEwrSnvU3Ol0eXTeKV9CgPqnFv-7v
-#EXTINF:0, EPISÓDIO 25
-https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E25.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GooQwNkH4RR752QM4x85-JFhLyeioTRN
+#PLAYLIST: Temporada 2
+#EXTINF:0, Episódio 1.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%201.mp4?a=0&id=1ZcoazqtxxCJLeIrTLCTMFwlHelgWn86V
+#EXTINF:0, Episódio 10.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2010.mp4?a=0&id=15qC72m5HYnHKlSPBcgOt2tdnOWTsHCS2
+#EXTINF:0, Episódio 11.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2011.mp4?a=0&id=1RSYYl0o3PZfDr9RcwqZZO1UR1eVYrs6k
+#EXTINF:0, Episódio 12.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2012.mp4?a=0&id=15qVBwCWTTVclPTrVl3qTrZlTujXiDS0w
+#EXTINF:0, Episódio 13.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2013.mp4?a=0&id=1bflOweF8L0DmVM9FHsuc3bjXDKhAChmL
+#EXTINF:0, Episódio 14.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2014.mp4?a=0&id=1yDZJlnkvZmry_an-8khUuDZqL6EZQ1rz
+#EXTINF:0, Episódio 15.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2015.mp4?a=0&id=1_7uans_1jXWz5SU554DKPGwwesSZuKn1
+#EXTINF:0, Episódio 16.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2016.mp4?a=0&id=1JzICIhUEuCvQlzifzgQckJGKbqBdD9Q4
+#EXTINF:0, Episódio 17.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2017.mp4?a=0&id=1dbqlQ7jQqbKssbWWPmuQUJ0zKa29d6O1
+#EXTINF:0, Episódio 18.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2018.mp4?a=0&id=1fjaR7hQ7Fwf8eM49af_SeVJL7D5g2xwh
+#EXTINF:0, Episódio 19.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2019.mp4?a=0&id=1Ol6BIxam69MJx18Tl6yCu5BJY1_xOtPm
+#EXTINF:0, Episódio 2.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%202.mp4?a=0&id=1ULB7IhVGIbMl47KpmEEfe2115tjkGuIo
+#EXTINF:0, Episódio 20.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2020.mp4?a=0&id=1jLOXVa8ByXBuo8b5g5NfeaPYnAE_Q3qv
+#EXTINF:0, Episódio 21.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2021.mp4?a=0&id=17yZsBACOp5Z3GzBtCns5GeLqQrRH37dR
+#EXTINF:0, Episódio 22.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2022.mp4?a=0&id=1W2uAdNcYTfXcYgWPsuQK4uwP-3jUNB9C
+#EXTINF:0, Episódio 23.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2023.mp4?a=0&id=1kJgWH-sYryIx3DoAI_tn_gGbAk-s5T5l
+#EXTINF:0, Episódio 24.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2024.mp4?a=0&id=1CH4AfFZBO5hbWRF0TUbKLNj_iHuL9241
+#EXTINF:0, Episódio 3.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%203.mp4?a=0&id=1T98CBIDYM8H6jJQ1wgidAYvXlyVNsRfz
+#EXTINF:0, Episódio 4.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%204.mp4?a=0&id=1iyS5RtfsxpT85IDty63Z1wPoXxFCidJq
+#EXTINF:0, Episódio 5.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%205.mp4?a=0&id=13NyjQ20_E35p4XN25MrU3cHYoCtBAj-e
+#EXTINF:0, Episódio 6.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%206.mp4?a=0&id=1wR0ZGsTawt86405oAF8pe2Wa1OmUdNI_
+#EXTINF:0, Episódio 7.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%207.mp4?a=0&id=1yUcj60H-DWjx9cWAucQ_LL0gK3CXuza5
+#EXTINF:0, Episódio 8.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%208.mp4?a=0&id=1x9q2Sxe8qPBeWuULLpGOq6abBkFUjFxR
+#EXTINF:0, Episódio 9.mp4
+https://podre.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%209.mp4?a=0&id=11qA5hpSfCpePpPiRKRPwguuX3hHnLP1e
