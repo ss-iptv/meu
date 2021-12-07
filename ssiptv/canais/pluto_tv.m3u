@@ -273,3 +273,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="https://imgur.com/tFHX4TG.png" group-title="Canais | INFANTIL",Babyfirst
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Tv Series" tvg-name="Tv Series" tvg-logo="https://imgur.com/tFHX4TG.png" group-title="Canais | TV Series",Tv Series
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1267698799.m3u8
