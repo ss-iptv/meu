@@ -4,7 +4,8 @@ ____________FUNCIONANDO_______________________
 http://vipeiptv.com:8080/get.php?username=123456789&password=123456789&type=m3u
 http://vipeiptv.com:8080/get.php?username=123456789&password=123456789&type=m3u_plus
 http://vipeiptv.com:8080/get.php?username=flavio001&password=flavio001&type=m3u_plus
-
+http://vipeiptv.com:8080/get.php?username=jorge.rosa&password=98981149760&type=m3u_plus
+jorge.rosa/98981149760
 
 
 http://vipeiptv.com:25461/tel123/tel123/856119
