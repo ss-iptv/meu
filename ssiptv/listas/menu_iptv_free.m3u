@@ -11,3 +11,7 @@ https://elthondsaraujo.github.io/meu/ssiptv/listas/hbo-max-fox.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",STARZ
 https://elthondsaraujo.github.io/meu/ssiptv/listas/starz.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",AMAZON
+https://elthondsaraujo.github.io/meu/ssiptv/listas/amazon.m3u
+
