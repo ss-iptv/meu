@@ -1,0 +1,7 @@
+ #EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="",UNIVERSO
+https://elthondsaraujo.github.io/meu/meu/ssiptv/documentarios/universo/universo.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",UNIVERSO
+https://elthondsaraujo.github.io/meu/meu/ssiptv/documentarios/[BBC].m3u8
