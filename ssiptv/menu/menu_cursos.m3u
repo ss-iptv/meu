@@ -1,0 +1,19 @@
+ #EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="",PC/SP
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/pcsp.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Sou Mais
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Enem - Isabela
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Vinícius
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Cursos
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",Outros Cursos
+https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
