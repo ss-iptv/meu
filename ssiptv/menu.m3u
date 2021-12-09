@@ -2,7 +2,6 @@
 
 #EXTINF:0 type="playlist"  tvg-logo="https://elthondsaraujo.github.io/meu/logo/dot.png"
 #EXTBG:https://elthondsaraujo.github.io/meu/logo/logo_series.jpg
-#EXTSIZE: big
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES
