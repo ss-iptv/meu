@@ -29,6 +29,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_cursos.m3u
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_documentarios.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS E FILMES TUGA
+#EXTINF:0 type="playlist" tvg-logo="",Canais e Filmes Tuga
 #EXTBG: #11609E
 https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Lista Premium
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_lista_premium.m3u
