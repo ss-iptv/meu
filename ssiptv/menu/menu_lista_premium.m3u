@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="" type="video" tvg-logo="",Apagador Voador
 http://ftpinterno.alfaconcursos.com.br/videos_censurados_professores/apagador%20voador.mp4
 
-#EXTINF:0 type="playlist" tvg-logo="",Naruto Completo
-https://elthondsaraujo.github.io/meu/ssiptv//animes/naruto/menu_naruto.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball - Completo
-https://elthondsaraujo.github.io/meu/ssiptv//animes/dragon_ball/menu_dragon_ball.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="",NetFlix
 https://elthondsaraujo.github.io/meu/ssiptv/listas/netflix.m3u
 
@@ -23,7 +17,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/listas/hbo-max-fox.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",Apple/TNT
 https://elthondsaraujo.github.io/meu/ssiptv/listas/apple-tnt.m3u
-
 
 #EXTINF:0 type="playlist" tvg-logo="",Starz
 https://elthondsaraujo.github.io/meu/ssiptv/listas/starz.m3u
