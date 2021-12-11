@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+#EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 0-9
 #EXTINF:0, 1 Contra Todos O Filme (2016) Bluray 1080p Nacional.mp4
@@ -719,7 +720,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Donnie.Darko.2001.1080p.
 #EXTINF:0, Doutor Estranho (2007).mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Doutor%20Estranho%20(2007).mp4?a=0&id=1IS1Orenz4YyeohmzNre22gylJ76AM0RX
 #EXTINF:0, Doutor.Estranho.2017.IMAX.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Doutor.Estranho.2017.IMAX.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1Bsz5_YZWP5F3Xy-PzfRtiS2D71VUkf0k
+https://m3u.herokuapp.com/api/v1/redirectdownload/Doutor.Estranho.2017.IMAX.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1Bsz5_YZWP5F3Xy-PzfRtiS2D71VUkf0k
 #EXTINF:0, Dragnet - Desafiando o Perigo (1987) Bluray 1080p Dual Áudio.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Dragnet%20-%20Desafiando%20o%20Perigo%20(1987)%20Bluray%201080p%20Dual%20%C3%81udio.mkv?a=0&id=1w5sJmFfqqk77Yv5Fd3lWi0axaGXGGmBd
 #EXTINF:0, Dragon Ball Z - A Batalha Nos Dois Mundos.mkv
