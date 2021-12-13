@@ -22,16 +22,19 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/lost/menu_lost.m3
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Zona
+#EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/A%20Zona.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Ballers
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/Ballers.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BatWoman
+#EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/Batwoman.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Euphoria
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/Euphoria.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Friends
+#EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/Friends.m3u8
