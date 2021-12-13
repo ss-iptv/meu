@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: A Casa da Raven
+
+###   TEMPORADA 01   ###
+
 #EXTINF:0, A Casa da Raven S01 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S01%20E01.mp4?a=0&id=1QXYXkZ5y70Tp_eITz0CXlwDNn-CXIxvk
 #EXTINF:0, A Casa da Raven S01 E02.mp4
@@ -27,6 +30,9 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S01%20E12.mp4?a=0&id=1QywyFq-QqtGR7ZwLNpMsUrMZ_K7Yg_ER
 #EXTINF:0, A Casa da Raven S01 E13.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S01%20E13.mp4?a=0&id=1R2lU6lVrhK5yjI6ZQ5MaXDeQWHR0nA8S
+
+###   TEMPORADA 02   ###
+
 #EXTINF:0, A Casa da Raven S02 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S02%20E01.mp4?a=0&id=1R3dQ1O89NjQc3PhQno-9S8sjuxW0ew72
 #EXTINF:0, A Casa da Raven S02 E02.mp4
@@ -67,6 +73,9 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S02%20E19.mp4?a=0&id=1RQyOdH8isbspED2fQRqJfLp3Igyd9-r3
 #EXTINF:0, A Casa da Raven S02 E20.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S02%20E20.mp4?a=0&id=1RabjuB_jEjrsaow6-yoCaNoqkTT5obG9
+
+###   TEMPORADA 03   ###
+
 #EXTINF:0, A Casa da Raven S03 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20da%20Raven%20S03%20E01.mp4?a=0&id=1RcniUl7WSDTSuYULZs-L86ZekSos_aEI
 #EXTINF:0, A Casa da Raven S03 E02.mp4
