@@ -1,7 +1,6 @@
 #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://elthondsaraujo.github.io/meu/logo/dot.png",SERIES | HBO|MAX|FOX
-#EXTBG: #000000
 #EXTSIZE: big
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
