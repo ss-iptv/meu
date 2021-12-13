@@ -4,9 +4,9 @@
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/_hbo_max_fox/menu_hbo_max_fox.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",O MANDALORIANO
+#EXTINF:0 type="playlist" tvg-logo="",DISNEY PLUS
 #EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/mandaloriano/mandaloriano_1.m3u8
+https://elthondsaraujo.github.io/meu/ssiptv/series/_disney/menu_disney.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",ARCANJO RENEGADO
 #EXTBG: #11609E
@@ -15,14 +15,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/arcanjo_renegado/arcanjo_rene
 #EXTINF:0 type="playlist" tvg-logo="",ERA UMA VEZ
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/era_uma_vez/menu_era_uma_vez.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",LOKi
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/loki/loki_1.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",LENDAS DA MARVEL
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/marvel/lendas_da_marvel.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",ARQUIVO X
 #EXTBG: #11609E

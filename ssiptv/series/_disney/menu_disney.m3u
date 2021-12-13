@@ -18,3 +18,13 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/_disney/Agente%20Carter,%20da
 #EXTINF:0 type="playlist" tvg-logo="",Agentes Shield
 https://elthondsaraujo.github.io/meu/ssiptv/series/_disney/Agentes%20da%20S.H.I.E.L.D.%20da%20Marvel.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="",O MANDALORIANO
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/mandaloriano/mandaloriano_1.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",LOKi
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/loki/loki_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",LENDAS DA MARVEL
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/marvel/lendas_da_marvel.m3u8
