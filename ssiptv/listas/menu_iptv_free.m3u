@@ -1,17 +1,17 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="",DISNEY
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DISNEY
 https://elthondsaraujo.github.io/meu/ssiptv/listas/disney.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",GLOBO
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GLOBO
 https://elthondsaraujo.github.io/meu/ssiptv/series/listas/globo-telecine.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",HBO/MAX/FOX
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",HBO/MAX/FOX
 https://elthondsaraujo.github.io/meu/ssiptv/listas/hbo-max-fox.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",STARZ
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",STARZ
 https://elthondsaraujo.github.io/meu/ssiptv/listas/starz.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",AMAZON
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AMAZON
 https://elthondsaraujo.github.io/meu/ssiptv/listas/amazon.m3u
 

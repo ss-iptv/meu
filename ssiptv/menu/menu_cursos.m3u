@@ -1,22 +1,22 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="",PC/SP
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PC/SP
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/pcsp.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Sou Mais
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sou Mais
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Do Zero - Alfacon
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Do Zero - Alfacon
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/do_zero.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Enem - Isabela
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Enem - Isabela
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/isabela.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Vinícius
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vinícius
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/vinicius.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Cursos
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Cursos
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",Outros Cursos
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Outros Cursos
 https://elthondsaraujo.github.io/meu/ssiptv/cursos/soumais.m3u

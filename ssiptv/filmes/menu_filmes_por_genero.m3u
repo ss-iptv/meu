@@ -1,38 +1,38 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="",AÇÃO  
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AÇÃO  
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/acao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",ANIMAÇÃO
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMAÇÃO
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/animacao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",CLÁSSICOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CLÁSSICOS
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/classicos.m3u8
  
-#EXTINF:0 type="playlist" tvg-logo="",COMÉDIA
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",COMÉDIA
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/comedia.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",FICÇÃO
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FICÇÃO
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/ficcao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",BIOGRAFIA
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BIOGRAFIA
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/biografia.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Filmes de 2020
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Filmes de 2020
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/2020.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",DOCUMENTÁRIOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DOCUMENTÁRIOS
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/documentarios.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",NACIONAL
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",NACIONAL
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/nacional.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",TERROR
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TERROR
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/terror.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",ROMANCE
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ROMANCE
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/romance.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",DIVERSOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DIVERSOS
 https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/diversos.m3u8
 

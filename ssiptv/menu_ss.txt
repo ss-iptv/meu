@@ -5,16 +5,16 @@
 #EXTINF:-1, Apagador Voador
 http://ftpinterno.alfaconcursos.com.br/videos_censurados_professores/apagador%20voador.mp4
 
-#EXTINF:0 type="playlist" tvg-logo="",SERIES
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",FILMES
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FILMES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",ANIMES
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMES
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_animes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_canais.m3u
 
 #EXTINF:-1, FODA_SE
