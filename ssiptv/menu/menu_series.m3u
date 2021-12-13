@@ -1,11 +1,11 @@
 #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="",HBO-MAX-FOX
-#EXTBG: #11609E
+#EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",DISNEY PLUS
-#EXTBG: #11609E
+#EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/disney/menu_disney.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",ARCANJO RENEGADO
