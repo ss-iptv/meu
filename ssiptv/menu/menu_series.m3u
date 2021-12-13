@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="",HBO/MAX/FOX
+#EXTINF:0 type="playlist" tvg-logo="",HBO-MAX-FOX
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
