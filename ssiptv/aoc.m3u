@@ -5,27 +5,29 @@
 #EXTSIZE: big
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FILMES
+#EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Filmes 2021
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FILMES 2021
+#EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
 #EXTBG: #11609E
 http://bit.ly/Gleydson_FilmesHD
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",ANIMES
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMES
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_animes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",CANAIS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_canais.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",CURSOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CURSOS
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_cursos.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",DOCUMENTÁRIOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DOCUMENTÁRIOS
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_documentarios.m3u
 
@@ -33,6 +35,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_documentarios.m3u
 #EXTBG: #11609E
 https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Lista Premium
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lista Premium
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_lista_premium.m3u
