@@ -3,17 +3,8 @@
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PLUTO TV
 https://elthondsaraujo.github.io/meu/ssiptv/canais/pluto_tv.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - TESTE
-https://elthondsaraujo.github.io/meu/ssiptv/canais/canais.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - BITLY
 http://bit.ly/Gleydson_Canais
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - IPTV-FREE
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - TV ABERTA
-http://lib.bz
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - Portugal
 https://elthondsaraujo.github.io/meu/ssiptv/canais/portugal.m3u
