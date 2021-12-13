@@ -5,11 +5,11 @@
 #EXTSIZE: big
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/000000/watch-tv.png", 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios-filed/100/000000/watch-tv.png", 
 #EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/000000/watch-tv.png", 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios-filed/100/000000/watch-tv.png", 
 #EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
 http://bit.ly/Gleydson_FilmesHD
 
