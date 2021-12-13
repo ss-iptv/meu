@@ -1,4 +1,5 @@
- #EXTM3U 
+#EXTM3U
+#EXTENC: UTF-8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ep.1 - Garrafa de Bruxa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Castlevania_netflix_titlecard.png/250px-Castlevania_netflix_titlecard.png" group-title="Castlevania" subtitles="https://github.com/leandro-brandao96/leandro-brandao96_Subs/raw/main/Castlevania%202017%20Ep.1.srt",Ep.1 - Garrafa de Bruxa
 https://archive.org/download/casvaa-2017/Casvaa201701.mp4

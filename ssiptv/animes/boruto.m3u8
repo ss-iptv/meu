@@ -1,4 +1,5 @@
- #EXTM3U 
+#EXTM3U
+#EXTENC: UTF-8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ep.1 - Uzumaki Boruto!!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Boruto_logo.png/440px-Boruto_logo.png" group-title="Boruto: Naruto Next Generations",Ep.1 - Uzumaki Boruto!!
 https://videos.animesgratisbr.com/pubfolder/animes/Boruto/Boruto_01.mp4
