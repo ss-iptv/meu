@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: A Bela e a Fera
+
+###   TEMPORADA 01   ###
+
 #EXTINF:0, A Bela e a Fera S01 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S01%20E01.mp4?a=0&id=1N9Az8YPW7WLkbYWZg5OFhc40RX64vnj-
 #EXTINF:0, A Bela e a Fera S01 E02.mp4
@@ -45,6 +48,9 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S01%20E21.mp4?a=0&id=1NvOLvAoPHNN8GYS1QdLk9AT81Ndc5qeS
 #EXTINF:0, A Bela e a Fera S01 E22.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S01%20E22.mp4?a=0&id=1NzPK162pa-QH-L1Gw_BqgazTKhr35J2O
+
+###   TEMPORADA 02   ###
+
 #EXTINF:0, A Bela e a Fera S02 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S02%20E01.mp4?a=0&id=1O-tImZrMIlzaC_GN0c9w60MIRxqcltTC
 #EXTINF:0, A Bela e a Fera S02 E02.mp4
@@ -89,6 +95,8 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S02%20E21.mp4?a=0&id=1OygMChyNb7cVKoP_wUZy3ThoS6xD-yJ5
 #EXTINF:0, A Bela e a Fera S02 E22.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S02%20E22.mp4?a=0&id=1OzzkTZunDkZMIElNMNCIVTYlWFZ7g4bw
+
+###   TEMPORADA 03   ###
 #EXTINF:0, A Bela e a Fera S03 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S03%20E01.mp4?a=0&id=1P0tRpBEpq0mV8s2JEoWOchvgRncIWhpx
 #EXTINF:0, A Bela e a Fera S03 E02.mp4
@@ -115,6 +123,9 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S03%20E12.mp4?a=0&id=1PzOZWFyiqL12m9MoEWPRAWMz3_vSRxvN
 #EXTINF:0, A Bela e a Fera S03 E13.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S03%20E13.mp4?a=0&id=1Q3quwNKHIxpXojAA4q8rIfhwrbmCSPfN
+
+###   TEMPORADA 04   ###
+
 #EXTINF:0, A Bela e a Fera S04 E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Bela%20e%20a%20Fera%20S04%20E01.mp4?a=0&id=1Q7E1II9_YOxxEbIYEdftWYdPMcgAxFzG
 #EXTINF:0, A Bela e a Fera S04 E02.mp4
