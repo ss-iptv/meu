@@ -24,29 +24,27 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/menu_starz.m3u
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/netflix/menu_netflix.m3u
 
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/globo/menu_telecine.m3u
+
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | NETFLIX
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/netflix/menu_netflix.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ERA UMA VEZ
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/era_uma_vez/menu_era_uma_vez.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ARQUIVO X
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/arquivo_x/menu_x_files.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ROSWELL
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/roswell/roswell.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AMERICAN HORROR HISTORY
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/american_horror/menu_ahh.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",EUPHORIA
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/euphoria/menu_euphoria.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LOST
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/lost/menu_lost.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",V - VISITANTES
 #EXTBG: #11609E
