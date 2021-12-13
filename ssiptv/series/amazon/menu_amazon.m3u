@@ -11,3 +11,15 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Boys
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_boys.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Feed
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_feed.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Terror
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/The%20Terror%20%E2%80%93%201%C2%AA%20Temporada__720p%20Mp4.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Preacher
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Preacher%201%C2%B0%20Temporada%20720p%20Mp4.m3u8
