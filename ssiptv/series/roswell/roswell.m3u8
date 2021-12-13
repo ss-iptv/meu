@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 type="video" tvg-logo="",T01 - EPISÓDIO  0 -OFF
-http://cinevision.cc/gun04.php?b=tv/82001/1/dub/1.mp4
-http://gun.datacamp.store/online/tv/82001/1/dub/1.mp4
-
 #EXTINF:0 type="video" tvg-logo="",T01 - EPISÓDIO  1
 http://x5rg.8f1cc930fc5556.cdn.fdcservers.com/online/tv/82001/1/dub/1.mp4
 
@@ -136,3 +132,7 @@ CANAL- @drivefilmesz_downloads
 GRUPO- @drivefilmesz_chat
 ➖➖➖➖➖➖➖➖➖➖➖➖ 
 ➖➖➖➖➖➖➖➖➖➖➖➖
+
+#EXTINF:0 type="video" tvg-logo="",T01 - EPISÓDIO  0 -OFF
+http://cinevision.cc/gun04.php?b=tv/82001/1/dub/1.mp4
+http://gun.datacamp.store/online/tv/82001/1/dub/1.mp4

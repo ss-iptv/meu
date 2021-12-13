@@ -7,12 +7,16 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/arquivo_x/menu_x_
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Garota da Limpeza
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/A%20Garota%20da%20Limpeza.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AMERICAN HORROR HISTORY
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Horror History
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/american_horror/menu_ahh.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Sete Palmos
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/A%20Sete%20Palmos.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lost
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/lost/menu_lost.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vida Secreta dos Casais
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
