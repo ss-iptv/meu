@@ -3,19 +3,19 @@
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/fluency/48/4a90e2/tv.png",SERIES | HBO|MAX|FOX
 https://elthondsaraujo.github.io/meu/ssiptv/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",SERIES | DISNEY+ PLUS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | DISNEY+ PLUS
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/disney/menu_disney.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",SERIES | AMAZON
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | AMAZON
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/menu_amazon.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",SERIES | GLOBO PLAY
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | GLOBO PLAY
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/globo/menu_globo.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",SERIES | STARZ+ PLUS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | STARZ+ PLUS
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/starz/menu_starz.m3u
 
