@@ -80,10 +80,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/dr_who/menu_dr_who.m3u
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/chuck/chuck.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FRINGE
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/fringe/menu_fringe.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Eu a Patroa e as Crianças
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/eu_patroa/menu_eu_patroa.m3u
