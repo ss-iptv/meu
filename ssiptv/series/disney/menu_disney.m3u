@@ -24,6 +24,11 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/disney/marvel/lendas_da_marve
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Verdade Homen nas Lua
 https://elthondsaraujo.github.io/meu/ssiptv/series/disney/A%20verdade%20por%20tras%20do%20homem%20na%20lua.m3u8
 
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ERA UMA VEZ
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/disney/era_uma_vez/menu_era_uma_vez.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Agente Carter
 https://elthondsaraujo.github.io/meu/ssiptv/series/disney/Agente%20Carter,%20da%20Marvel%20S01%20E01.m3u8
 
