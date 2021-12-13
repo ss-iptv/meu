@@ -10,11 +10,15 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/disney/menu_disney.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",SERIES | AMAZON
 #EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/disney/menu_disney.m3u
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/menu_amazon.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",SERIES | GLOBO PLAY
 #EXTBG: #000000
-https://elthondsaraujo.github.io/meu/ssiptv/series/disney/menu_disney.m3u
+https://elthondsaraujo.github.io/meu/ssiptv/series/globo/menu_globo.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",SERIES | STARZ+ PLUS
+#EXTBG: #000000
+https://elthondsaraujo.github.io/meu/ssiptv/series/starz/menu_starz.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",ARCANJO RENEGADO
 #EXTBG: #11609E
