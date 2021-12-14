@@ -25,17 +25,3 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E11%20-%20Black%20Fri
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E12%20-%20Dorkus.mkv?a=0&id=1TDnfGZvn9KW6Vd_a8jr1g9JEj83CHrNM
 #EXTINF:0, T01E13 - As Últimas Garotas.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E13%20-%20As%20%C3%9Altimas%20Garotas.mkv?a=0&id=1Xagg6fbmz6dlt0bkkK9M1fvrymJeU1fY
-
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: 2 Temporada
-#EXTINF:0, See.S02E01.Dub.BRUNIN.BEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/See.S02E01.Dub.BRUNIN.BEAT.mp4?a=0&id=1vp5EYdUBiwTAl85xAEXb3LuRpO9MTAsP
-#EXTINF:0, See.S02E02.Dub.BRUNIN.BEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/See.S02E02.Dub.BRUNIN.BEAT.mp4?a=0&id=1yfog43pQlLapTukhnYCb7Sv8Vzr4AM76
-#EXTINF:0, See.S02E03.720p.Dub.BRUNIN.BEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/See.S02E03.720p.Dub.BRUNIN.BEAT.mp4?a=0&id=16Q6icb316uk1gILBMFEunS8Qrim3vc8Q
-#EXTINF:0, See.S02E04.720p.Dub.BRUNIN.BEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/See.S02E04.720p.Dub.BRUNIN.BEAT.mp4?a=0&id=153g7XQjFkQ_onnjTKhockwPlRkZhSf_T
-#EXTINF:0, See.S02E05.720p.WEBRip.Dub.BRUNIN.BEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/See.S02E05.720p.WEBRip.Dub.BRUNIN.BEAT.mp4?a=0&id=17d85wPF8ifvP9pgZOz5OXl59CvFmoMxm

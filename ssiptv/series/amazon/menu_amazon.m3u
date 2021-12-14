@@ -12,6 +12,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_boys.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Eu Sei o Que Vocês Fizeram no Verão Passado
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Jack Ryan
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Jack%20Ryan%20-%201%C2%B0%20Temporada%20720p%20Mkv.m3u8
