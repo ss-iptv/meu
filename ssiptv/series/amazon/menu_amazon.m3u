@@ -1,6 +1,6 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AMERICAN GODS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Gods
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/starz/american_gods/menu_american_gods.m3u
 
@@ -11,6 +11,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Boys
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_boys.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Jack Ryan
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Jack%20Ryan%20-%201%C2%B0%20Temporada%20720p%20Mkv.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Feed
 #EXTBG: #11609E
@@ -35,3 +39,7 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Dom.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Liga da Justiça
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Liga%20da%20Justi%C3%A7a.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Breaking Bad
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/netflix/breaking_bad/menu_breaking_bad.m3u

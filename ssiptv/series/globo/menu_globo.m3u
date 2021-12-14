@@ -67,3 +67,8 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/globo/Big%20Bang%20A%20Teoria
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Carcereiros
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/globo/Carcereiros.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Breaking Bad
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/netflix/breaking_bad/menu_breaking_bad.m3u
+
