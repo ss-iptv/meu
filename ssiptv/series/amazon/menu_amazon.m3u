@@ -27,3 +27,11 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Preacher%201%C2%B0%20T
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",24 Horas
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/24%20Horas%20.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dom
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Dom.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Liga da Justiça
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Liga%20da%20Justi%C3%A7a.m3u8
