@@ -1,18 +1,28 @@
- #EXTM3U size="medium"
+#EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Stargate SG - 1
 #EXTINF:0, Stargate SG-1 S01 E01.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E01.mp4?a=0&id=1vHnRrciPBElswxIhJnvKzK9cQQQK_bH0
+#EXTINF:0, Stargate SG-1 S01 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E02.mp4?a=0&id=1vHQsrRUH4KtzZ-LSposUUgUMvXUWKBhk
 #EXTINF:0, Stargate SG-1 S01 E03.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E03.mp4?a=0&id=1vRNu6FCx4UHNHiJZNQcrr3bL9jmiRbjB
+#EXTINF:0, Stargate SG-1 S01 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E04.mp4?a=0&id=1vSEELRqgHxU_xKU2M69dNSXfPxZaaBoI
+#EXTINF:0, Stargate SG-1 S01 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E05.mp4?a=0&id=1vShjx1JWb7mhBl6LmxzXiVVNK75jKE3D
 #EXTINF:0, Stargate SG-1 S01 E06.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E06.mp4?a=0&id=1vTjb8tEzIYsfOFuBZlzwcl1h740if60N
 #EXTINF:0, Stargate SG-1 S01 E07.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E07.mp4?a=0&id=1vUyHu5bLrz2g20vS74zKpWzbpNwrPp_j
+#EXTINF:0, Stargate SG-1 S01 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E08.mp4?a=0&id=1vVUuw23s60GxdwEoZeRX03E7Zpr9MhHk
 #EXTINF:0, Stargate SG-1 S01 E09.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E09.mp4?a=0&id=1vX1UHwSq4DY2reezp3UgDP02SdkROlk6
 #EXTINF:0, Stargate SG-1 S01 E10.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E10.mp4?a=0&id=1vYtm9enSi8YoNqQ4cbJ8X6syaKqUF2y0
+#EXTINF:0, Stargate SG-1 S01 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E11.mp4?a=0&id=1vYvwWQOZjG9EDBwSppY-otxn0kLeJuTQ
 #EXTINF:0, Stargate SG-1 S01 E12.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20S01%20E12.mp4?a=0&id=1vZVRZRNJylYPJNhq0j2u4w0-CENtzQUn
 #EXTINF:0, Stargate SG-1 S01 E13.mp4
