@@ -11,3 +11,12 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Stargate SG - 1
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/starz/stargate_sg_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Chuck
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/starz/Chuck.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",1 Contra Todos
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/1_contra_todos.m3u8
+
