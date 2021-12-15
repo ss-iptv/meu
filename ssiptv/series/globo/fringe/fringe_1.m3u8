@@ -1,43 +1,43 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: Fringe Season 1
-#EXTINF:0, Fringe S01E01 Pilot (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E01%20Pilot%20(1080p%20x265%20Joy).m4v?a=0&id=1FnLNfXmARVdx7SOnkv5gD_mEnjrUOetI
-#EXTINF:0, Fringe S01E02 The Same Old Story (1080 x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E02%20The%20Same%20Old%20Story%20(1080%20x265%20Joy).m4v?a=0&id=1Ftd-AA8xjpycEvBykZJeQOKUeMIsCI_S
-#EXTINF:0, Fringe S01E03 The Ghost Network (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E03%20The%20Ghost%20Network%20(1080p%20x265%20Joy).m4v?a=0&id=1FyzlgNoO-D9MhSsF02WPnbUKep0vEZb6
-#EXTINF:0, Fringe S01E04 The Arrival (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E04%20The%20Arrival%20(1080p%20x265%20Joy).m4v?a=0&id=1Gq0TCywi94Upu2-qI1Be2DXuFoVtfk8k
-#EXTINF:0, Fringe S01E05 Power Hungry (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E05%20Power%20Hungry%20(1080p%20x265%20Joy).m4v?a=0&id=1Gnyo84U4_pd-zGaQXWdiUwM_P9v8fNRP
-#EXTINF:0, Fringe S01E06 The Cure (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E06%20The%20Cure%20(1080p%20x265%20Joy).m4v?a=0&id=1GKFtc1uJ7ceK-HVEGZD19j9U7C1R6gQj
-#EXTINF:0, Fringe S01E07 In Which We Meet Mr .Jones (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E07%20In%20Which%20We%20Meet%20Mr%20.Jones%20(1080p%20x265%20Joy).m4v?a=0&id=1GQGA4wbBqaZkQ3_7ZOEtlox_YgTgjncm
-#EXTINF:0, Fringe S01E08 The Equation (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E08%20The%20Equation%20(1080p%20x265%20Joy).m4v?a=0&id=1GkZlL9Bh6TqBmbuEKOnhhg2_tvCC8Fq0
-#EXTINF:0, Fringe S01E09 The Dreamscape (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E09%20The%20Dreamscape%20(1080p%20x265%20Joy).m4v?a=0&id=1HOU9cRCe4RuZj1o41ZflVwnqy0t9NaQJ
-#EXTINF:0, Fringe S01E10 Safe (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E10%20Safe%20(1080p%20x265%20Joy).m4v?a=0&id=1GyE3TvbLw6OuSxu4dmCPG3akaEP2xdR9
-#EXTINF:0, Fringe S01E11 Bound (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E11%20Bound%20(1080p%20x265%20Joy).m4v?a=0&id=1HN__X6TZkOZOS-pnKt5hQyOj0zSBFp-8
-#EXTINF:0, Fringe S01E12 The No-Brainer (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E12%20The%20No-Brainer%20(1080p%20x265%20Joy).m4v?a=0&id=1GfXpFHqcEIDwehaJEAuxGCeiEcA8Tfk_
-#EXTINF:0, Fringe S01E13 The Transformation (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E13%20The%20Transformation%20(1080p%20x265%20Joy).m4v?a=0&id=1GSsR2V0z4fQeaXuVggu50QERUTeMQlkL
-#EXTINF:0, Fringe S01E14 Ability (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E14%20Ability%20(1080p%20x265%20Joy).m4v?a=0&id=1GA7s8erEpV_u4GJWbjs0Pvk3fuGHjYD-
-#EXTINF:0, Fringe S01E15 Inner Child (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E15%20Inner%20Child%20(1080p%20x265%20Joy).m4v?a=0&id=1HL7NrlC467kbaaw9Fsi_DKXy0d4ImbZ6
-#EXTINF:0, Fringe S01E16 Unleashed (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E16%20Unleashed%20(1080p%20x265%20Joy).m4v?a=0&id=1G5776VxljHGxdmRxo6yrQWPwR-ZOu2iA
-#EXTINF:0, Fringe S01E17 Bad Dreams (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E17%20Bad%20Dreams%20(1080p%20x265%20Joy).m4v?a=0&id=1GPW9HwD4D1Mv5pCm07urVfYFZ0JnXeRl
-#EXTINF:0, Fringe S01E18 Midnight (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E18%20Midnight%20(1080p%20x265%20Joy).m4v?a=0&id=1GwrKa35bmAJlVecIW47eNN23wW7b2FTt
-#EXTINF:0, Fringe S01E19 The Road Not Taken (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E19%20The%20Road%20Not%20Taken%20(1080p%20x265%20Joy).m4v?a=0&id=1GZF7U4gwygOOv71C6aKuM6eelPC-_IjB
-#EXTINF:0, Fringe S01E20 There's More Than One Of Everything (1080p x265 Joy).m4v
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20S01E20%20There's%20More%20Than%20One%20Of%20Everything%20(1080p%20x265%20Joy).m4v?a=0&id=1HQOgAiwJM_NaD5-0JmUSj5CN6ijeni7d
+#PLAYLIST: Fringe
+#EXTINF:0, Fringe  S01 E01.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E01.mp4?a=0&id=1eUS4GQM6Za2ThjJ-hro5wNkxeUgGpxxq
+#EXTINF:0, Fringe  S01 E02.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E02.mp4?a=0&id=1eXwnTXWLa9AvMBU2eRnLWeKtQvhVPwW5
+#EXTINF:0, Fringe  S01 E03.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E03.mp4?a=0&id=1edbDPD433U6Bz4y9yLiNgVrD2r27jYZJ
+#EXTINF:0, Fringe  S01 E04.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E04.mp4?a=0&id=1eehcWmyKVM9C6fk1VqbJRFzHdzuGsIXM
+#EXTINF:0, Fringe  S01 E05.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E05.mp4?a=0&id=1elJ_-HK4bfh-mpIh8bh5IIdCgJGZ-6Er
+#EXTINF:0, Fringe  S01 E06.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E06.mp4?a=0&id=1emehYdhX5AQyUn2Rebcez5i8PXZmz--T
+#EXTINF:0, Fringe  S01 E07.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E07.mp4?a=0&id=1eq1RZS8qKnYhMZWWs1xsiS-Pbmp-yJPI
+#EXTINF:0, Fringe  S01 E08.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E08.mp4?a=0&id=1exA-0ubX33vWFCt-V8d9Hztz5GWKHT_K
+#EXTINF:0, Fringe  S01 E09.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E09.mp4?a=0&id=1ez_vcToJF6rFeTHWZDhFwqyQHKpaK6fG
+#EXTINF:0, Fringe  S01 E10.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E10.mp4?a=0&id=1f2avqP_hiBNlAbrky2cFXjOLTd8dGxt5
+#EXTINF:0, Fringe  S01 E11.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E11.mp4?a=0&id=1f6KEyVzKy5MoLPw0C2bE3sn-l09c-x4b
+#EXTINF:0, Fringe  S01 E12.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E12.mp4?a=0&id=1f7mMpbd2vkEeg-Gh7X3yDS7WM-CYGEl1
+#EXTINF:0, Fringe  S01 E13.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E13.mp4?a=0&id=1f9l4eTD0ytWf9iOOqyGmKdApkAjQNtU0
+#EXTINF:0, Fringe  S01 E14.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E14.mp4?a=0&id=1fEBXldx3188CW6AUxdK3DGSf9d7-9D89
+#EXTINF:0, Fringe  S01 E15.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E15.mp4?a=0&id=1fEeiXGy5JZlNoYsxNEdm5pgKIFjo5X10
+#EXTINF:0, Fringe  S01 E16.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E16.mp4?a=0&id=1fH2YRofpHR7IljEYM57cyNqsv6niGlLj
+#EXTINF:0, Fringe  S01 E17.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E17.mp4?a=0&id=1fHKmLhm33ahJLCyBSmjbOltfFjlHbGA-
+#EXTINF:0, Fringe  S01 E18.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E18.mp4?a=0&id=1fOetCG0PWNyBwtj_-wM6L7gH_LTKrvoz
+#EXTINF:0, Fringe  S01 E19.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E19.mp4?a=0&id=1fQ02vvwP4qiuFs32aEf0Iv5fXGMfvTP_
+#EXTINF:0, Fringe  S01 E20.mp4
+http://podre.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S01%20E20.mp4?a=0&id=1fQq8Uqab1ooNvcq3wsekNMdW4OeYmUZa
