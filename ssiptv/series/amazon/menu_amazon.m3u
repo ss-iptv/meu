@@ -8,6 +8,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/american_gods/menu_amer
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs_evil.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Invencível
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/starz/invencivel.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Boys
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_boys.m3u8
@@ -35,6 +39,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Preacher%201%C2%B0%20T
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",24 Horas
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/24%20Horas%20.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",1 Contra Todos
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/1_contra_todos.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dom
 #EXTBG: #11609E
