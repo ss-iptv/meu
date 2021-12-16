@@ -15,3 +15,7 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/apple/forever.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Em Defesa de Jacob
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/apple/em_defesa_de_jacob.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",INVASÃO
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/apple/invasao.m3u8
