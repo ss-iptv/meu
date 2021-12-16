@@ -1,6 +1,29 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Invasão
+
+#EXTINF:0, Episódio 1.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%201.mp4?a=0&id=16pABPN3Eoq9d_Le8I4AXvPw_AVRqdBhi
+#EXTINF:0, Episódio 10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%2010.mp4?a=0&id=1P1rq_bEBVzhJAF9sBty66u63yFuVzC6b
+#EXTINF:0, Episódio 2.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%202.mp4?a=0&id=1EZSne_Lz5WCnIt1cEr88rH_B0xu_zxWT
+#EXTINF:0, Episódio 3.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%203.mp4?a=0&id=1jFO2MkECSe8Kcyxr54TaZkc9MTGLDQtb
+#EXTINF:0, Episódio 4.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%204.mp4?a=0&id=1ZDLskj-EwfjIADHl-bYktZeGDc0HkEr_
+#EXTINF:0, Episódio 5.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%205.mp4?a=0&id=1WWNt7IuK47ogwIUunIcN7pcnp30n8mvv
+#EXTINF:0, Episódio 6.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%206.mp4?a=0&id=1KNXwvEmRWmJoXYH_VpHkCt29AR8ea4YX
+#EXTINF:0, Episódio 7.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%207.mp4?a=0&id=1deNNpHP_eTar_HLKJ-nqTGA8WxkRSa-8
+#EXTINF:0, Episódio 8.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%208.mp4?a=0&id=1Ul7nzrR3hzyPibwyOWvoW8WMMefGaFSo
+#EXTINF:0, Episódio 9.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%209.mp4?a=0&id=1R0XOeJYzXcpVeWPT2ZBezSxhKBm-08PY
+
+
 #EXTINF:0, Invasão S01 E01.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Invas%C3%A3o%20S01%20E01.mp4?a=0&id=1QcEaaHfytyr1otEzzIf1aIS7KQZeOASy
 #EXTINF:0, Invasão S01 E02.mp4
