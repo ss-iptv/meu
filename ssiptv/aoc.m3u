@@ -9,10 +9,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_series.m3u
 #EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios-filled/100/ffffff/watch-tv.png", 
-#EXTBG:https://elthondsaraujo.github.io/meu/logo/ssiptv_banner-filmes.jpg
-http://bit.ly/Gleydson_FilmesHD
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMES
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/menu/menu_animes.m3u
