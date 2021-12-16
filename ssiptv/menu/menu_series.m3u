@@ -32,10 +32,6 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/globo/menu_telecine.m3u
 #EXTBG: #000000
 https://elthondsaraujo.github.io/meu/ssiptv/series/apple/menu_apple.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ROSWELL
-#EXTBG: #11609E
-https://elthondsaraujo.github.io/meu/ssiptv/series/roswell/roswell.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",EUPHORIA
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/euphoria/menu_euphoria.m3u
