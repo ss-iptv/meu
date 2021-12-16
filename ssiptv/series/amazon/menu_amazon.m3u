@@ -12,6 +12,10 @@ https://elthondsaraujo.github.io/meu/ssiptv/series/starz/ash_vs_evil/menu_ash_vs
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/Invencivel.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Absentia
+#EXTBG: #11609E
+https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/absentia.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Boys
 #EXTBG: #11609E
 https://elthondsaraujo.github.io/meu/ssiptv/series/amazon/the_boys.m3u8
