@@ -17,10 +17,6 @@ https://ss-iptv.github.io/meu/ssiptv/menu/menu_canais.m3u
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/menu/menu_animes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CURSOS
-#EXTBG: #11609E
-https://ss-iptv.github.io/meu/ssiptv/menu/menu_cursos.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DOCUMENTÁRIOS
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/menu/menu_documentarios.m3u
@@ -32,3 +28,7 @@ https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/m
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lista Premium (Sò Series)
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/menu/menu_lista_premium.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CURSOS
+#EXTBG: #11609E
+https://ss-iptv.github.io/meu/ssiptv/menu/menu_cursos.m3u
