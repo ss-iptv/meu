@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_series.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios-filled/100/ffffff/watch-tv.png", 
 #EXTBG:https://raw.githubusercontent.com/ss-iptv/meu/main/logo/ssiptv_banner-filmes.jpg
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_series.m3u
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_filmes.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS
 #EXTBG: #11609E
