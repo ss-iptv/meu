@@ -2,6 +2,13 @@
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
 
+#EXTINF:0, Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
+#EXTINF:0, A Sonata Maldita 2022 1080p BluRay DUAL.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20A%20Sonata%20Maldita%202022%201080p%20BluRay%20DUAL.mkv?a=0&id=1-zwuVMS9o3kxJY88ocOiopRKVfDWGSOs
+#EXTINF:0, Reféns 2021 1080p WEB-DL DUAL 5.1.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Ref%C3%A9ns%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-N1uKBdIWWwgUAgV4jDWmNc3hatEVFIJ
+
 #EXTINF:0, John Wick 1.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
 #EXTINF:0, John Wick 2.mp4

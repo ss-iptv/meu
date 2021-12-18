@@ -27,8 +27,8 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/am
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 9
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/american_horror/ahh_9.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 10
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/american_horror/ahh_10.m3u8
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 10 (DUB)
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/american_horror/ahh_10_dub.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 11
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/american_horror/ahh_11.m3u8
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 10 (LEG)
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//series/hbo_max_fox/american_horror/ahh_10_leg.m3u8
