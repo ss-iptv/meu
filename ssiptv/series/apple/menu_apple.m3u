@@ -20,14 +20,14 @@ https://ss-iptv.github.io/meu/ssiptv/series/apple/em_defesa_de_jacob.m3u8
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/series/apple/invasao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",I Am the Night
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PRIVATE PRACTICE
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/series/apple/Private_Practice.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Private Practice
-#EXTBG: #11609E
-https://ss-iptv.github.io/meu/ssiptv/series/apple/I_Am_the_Night.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Servant
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERVANT
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/series/apple/Servant.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",I Am the Night
+#EXTBG: #11609E
+https://ss-iptv.github.io/meu/ssiptv/series/apple/I_Am_the_Night.m3u8

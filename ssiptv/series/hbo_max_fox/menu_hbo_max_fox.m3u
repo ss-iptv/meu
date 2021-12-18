@@ -43,7 +43,7 @@ https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/Euphoria.m3u8
 #EXTBG: #11609E
 https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/Friends.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SCREAM QUEENS - 2015
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Scream Queens
 https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/scream_queens.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",RossWell
@@ -52,3 +52,11 @@ https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/rosswell/rosswell.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Das Boot
 https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/das_boot.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Aeroporto Área Restrita
+#EXTBG: #11609E
+https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/aeroporto_area_restrita.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Smallville
+#EXTBG: #11609E
+https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/Smallville.m3u8
