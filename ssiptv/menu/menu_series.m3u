@@ -1,18 +1,18 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | GLOBO PLAY
-#EXTBG: #000000
-https://ss-iptv.github.io/meu/ssiptv/series/globo/menu_globo.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/color/50/4a90e2/watch-tv.png",SERIES | HBO|MAX|FOX
 #EXTBG: #000000
 https://ss-iptv.github.io/meu/ssiptv/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | DISNEY+ PLUS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | GLOBOPLAY
+#EXTBG: #000000
+https://ss-iptv.github.io/meu/ssiptv/series/globo/menu_globo.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | DISNEY + PLUS
 #EXTBG: #000000
 https://ss-iptv.github.io/meu/ssiptv/series/disney/menu_disney.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | AMAZON
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | AMAZON PRIME
 #EXTBG: #000000
 https://ss-iptv.github.io/meu/ssiptv/series/amazon/menu_amazon.m3u
 
@@ -24,7 +24,7 @@ https://ss-iptv.github.io/meu/ssiptv/series/starz/menu_starz.m3u
 #EXTBG: #000000
 https://ss-iptv.github.io/meu/ssiptv/series/netflix/menu_netflix.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE (OFF)
 #EXTBG: #000000
 https://ss-iptv.github.io/meu/ssiptv/series/globo/menu_telecine.m3u
 
