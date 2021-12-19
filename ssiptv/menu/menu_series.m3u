@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/menu_ne
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE (OFF)
 #EXTBG: #000000
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/menu_telecine.m3u
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/telecine/menu_telecine.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | APPLE TV
 #EXTBG: #000000
