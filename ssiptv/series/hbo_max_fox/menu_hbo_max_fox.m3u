@@ -57,6 +57,19 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/das
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/aeroporto_area_restrita.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Familia Soprano
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Familia_Soprano.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Smallville
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Smallville.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",True Blood
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/True_Blood.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Game of Thrones
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Game_of_Thrones.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Future Man
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Future_Man.m3u8
