@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/menu_star
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/menu_netflix.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE (OFF)
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/telecine/menu_telecine.m3u
 
