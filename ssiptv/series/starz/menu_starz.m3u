@@ -7,6 +7,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/american_
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Ash Vs Evil Death
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/ash_vs_evil/menu_ash_vs_evil.m3u
+ 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lost
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/lost/menu_lost.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Aeroporto Área Restrita
 #EXTBG: #11609E
@@ -43,3 +47,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Pennywort
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Eu a Patroa e as Crianças
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/eu_patroa/menu_eu_patroa.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Super Máquina
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/A_Super_Máquina.m3u
