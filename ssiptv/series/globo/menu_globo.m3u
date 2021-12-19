@@ -83,3 +83,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/LIMITLESS
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Anos Incríveis
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/anos_incriveis.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FAMÍLIA DINOSSAURO
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/familia_dinossauro/familia_dinossauro.m3u

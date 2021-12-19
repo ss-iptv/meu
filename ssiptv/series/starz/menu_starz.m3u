@@ -39,3 +39,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/power.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Pennyworth
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Pennyworth.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Eu a Patroa e as Crianças
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/eu_patroa/menu_eu_patroa.m3u
