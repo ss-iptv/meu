@@ -1,0 +1,763 @@
+http://168.205.87.198:8555/get.php?username=adriana&password=123456&type=m3u_plus&output=ts
+
+http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts
+
+http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plus&output=ts
+
+http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts
+
+http://168.205.87.198:8555/get.php?username=1458&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=1458&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=Andrew&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=1112&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=1113&password=123456&type=m3u_plus
+
+http://168.205.87.198:8555/get.php?username=1010&password=123456&type=m3u_plus
+
+
+
+
+ 
+ 
+
+http://portal.supertela.cloudns.cl/get.php?username=rosana&password=123456&type=m3u_plus&output=ts
+
+Real Url: portal.supertela.cloudns.cl:80     Status: Active    Created: 27/10/2021 23:25:58     Expires: 29/12/2021 22:42:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle
+
+https://iptvfree-brasil0010.blogspot.com
+
+
+
+https://iptvfree-brasil009.blogspot.com
+
+
+
+http://starshare.live:8080/get.php?username=aa1bb2cc3&password=aa1bb2cc3&type=m3u_plus&output=ts
+
+Real Url: starshare.live:8080     Status: Banned    Created: 16/09/2021 09:56:35     Expires: 16/03/2022 00:00:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
+
+http://cdn1.mg99.xyz/get.php?username=clara2021&password=2021clara&type=m3u_plus&output=ts
+
+Real Url: cdn1.mg99.xyz:80     Status: Active    Created: 26/11/2021 15:03:50     Expires: 26/12/2021 19:24:50    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle
+
+http://mains.services:2086/get.php?username=RtK9NG97M8&password=8O16aw5yiQ&type=m3u_plus&output=ts
+
+Real Url: p2086.securepoint.io:2086     Status: Banned    Created: 08/09/2021 18:15:16     Expires: 24/12/2021 00:00:00    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+
+
+http://cdn1.mg99.xyz/get.php?username=leo900&password=900leo&type=m3u_plus&output=ts
+
+Real Url: cdn1.mg99.xyz:80     Status: Active    Created: 08/09/2021 18:15:16     Expires: 23/12/2021 12:35:59    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://cdn1.mg99.xyz/get.php?username=salgado100&password=100salgado&type=m3u_plus&output=ts
+
+Real Url: cdn1.mg99.xyz:80     Status: Active    Created: 16/11/2021 20:48:51     Expires: 16/12/2021 20:48:51    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://cdn1.mg99.xyz/get.php?username=tania2021&password=2021tania&type=m3u_plus&output=ts
+
+Real Url: cdn1.mg99.xyz:80     Status: Active    Created: 25/11/2021 22:09:00     Expires: 25/12/2021 22:09:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://main.cteam.me:8880/get.php?username=zezinho15&password=15zezinho&type=m3u_plus&output=ts
+
+Real Url: main.cteam.me:80     Status: Active    Created: 08/06/2020 16:01:05     Expires: 08/01/2022 19:01:05    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle carlos valle
+
+http://rv.flysat.live/get.php?username=307211161330&password=307211161330&type=m3u_plus&output=ts
+
+Real Url: rv.flysat.live:80     Status: Active    Created: 01/01/1970 00:33:41     Expires: 09/01/2022 11:43:00    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+
+
+http://sv1.casaplayer.cf/get.php?username=elaine&password=102030&type=m3u_plus&output=ts
+
+Real Url: cms-eu-01.casap2p.online:8080     Status: Active    Created: 28/08/2021 13:06:47     Expires: 01/01/2022 03:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://iptv.tvmalaysia.cc/get.php?username=321456&password=321456&type=m3u_plus&output=ts
+
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 04/05/2021 14:18:35     Expires: 03/05/2022 16:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
+
+http://look-move.cf:2095/login.php
+
+
+
+http://spidertv.xyz:2052/get.php?username=713289&password=FPSTCN&type=m3u_plus&output=ts
+
+Real Url: pablotv.us:80     Status: Active    Created: 22/04/2021 20:38:15     Expires: 22/04/2022 20:38:15    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://panel.trufast.eu/smarters/
+
+
+
+http://restream.tivivo.cc:25461/get.php?username=ItrpBYhlsm&password=5tHUqUpEW9&type=m3u_plus&output=ts
+
+Real Url: restream.tivivo.cc:25461     Status: Active    Created: 06/02/2021 21:19:40     Expires: 14/02/2022 21:19:40    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
+
+http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plus&output=ts
+
+Real Url: 168.205.87.198:8555     Status: Active    Created: 26/05/2020 19:07:09     Expires: Null    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+
+
+http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts
+
+Real Url: 168.205.87.198:8555     Status: Active    Created: 02/10/2020 12:34:36     Expires: Null    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+
+
+http://2022tv.co:8000/get.php?username=n-rami_M64157986&password=HtKIbJ9L&type=m3u_plus&output=ts
+
+Real Url: 2022tv.co:80     Status: Active    Created: 09/02/2021 11:15:49     Expires: 09/02/2022 17:15:48    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://168.205.87.198:8555/get.php?username=adriana&password=123456&type=m3u_plus&output=ts
+
+Real Url: 168.205.87.198:8555     Status: Active    Created: 25/06/2020 17:07:19     Expires: Null    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts"
+
+
+
+https://donkey.pw/login.php
+
+
+
+https://tugamagic.tvoon.com.br/
+
+
+
+http://in.lionboxiptv.nl:80/get.php?username=KNXAWTZyJE&password=9GJE9JnShb&type=m3u_plus&output=ts
+
+Real Url: in.lionboxiptv.nl:80     Status: Active    Created: 15/04/2021 13:41:42     Expires: 18/04/2022 13:41:00    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
+
+
+http://nocablify.xyz:8080/get.php?username=jonymm5rc&password=crsu0t4wya&type=m3u_plus&output=ts
+
+Real Url: nocablify.xyz:8080     Status: Active    Created: 08/08/2021 22:16:18     Expires: 17/03/2022 22:21:36    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+
+
+http://ukvip.viptvapp.com:25443/get.php?username=V5C4Fya2dC6y&password=ibgGvYhNDA&type=m3u_plus&output=ts
+
+Real Url: xpro.xviptv.com:25443     Status: Active    Created: 21/12/2019 18:01:02     Expires: 20/12/2022 22:00:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://ukvip.viptvapp.com:25443/get.php?username=VvyoaUsXcva&password=weoWVTmFTQ&type=m3u_plus&output=ts
+
+Real Url: xpro.xviptv.com:25443     Status: Active    Created: 25/07/2020 12:43:03     Expires: 26/07/2022 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://megan3live.live:8080/get.php?username=sKznqcgr6L&password=hbRfffCVNt&type=m3u_plus&output=ts
+
+Real Url: rfg.loadvpn.top:8080     Status: Active    Created: 23/09/2019 12:08:39     Expires: 25/12/2021 22:26:20    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+
+http://vpro.viptvclub.com:25443/get.php?username=V59Ssbxk605P&password=S8r5cjP9Ym&type=m3u_plus&output=ts
+
+Real Url: xpro.xviptv.com:25443     Status: Active    Created: 23/11/2020 22:27:01     Expires: 23/05/2022 22:00:00    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+
+
+http://163.172.5.94:8080/get.php?username=21635&password=86637&type=m3u_plus&output=ts
+
+Real Url: speccy.pw:8080     Status: Active    Created: 22/09/2021 09:09:18     Expires: 25/12/2021 00:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+HIT | http://serverfulltop.com:80/get.php?username=felipe&password=123456&type=m3u | Active | 10/13/2021 - 12/14/2021 | Max Connections: 1 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=cristiano&password=123456&type=m3u | Active | 10/18/2021 - 03/06/2022 | Max Connections: 1 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=moacir&password=123456&type=m3u | Active | 08/19/2021 - 08/20/2022 | Max Connections: 1 | 1 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=richard&password=123456&type=m3u | Active | 10/09/2021 - 03/09/2022 | Max Connections: 1 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=frederico&password=123456&type=m3u | Active | 06/16/2021 - 12/16/2021 | Max Connections: 2 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=hamilton&password=123456&type=m3u | Active | 10/09/2021 - 03/09/2022 | Max Connections: 1 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America/Sao_Paulo
+
+Click to see the channels list!
+
+
+
+HIT | http://serverfulltop.com:80/get.php?username=nazare&password=123456&type=m3u | Active | 11/18/2021 - 11/19/2022 | Max Connections: 1 | 0 Connected | Real Url: portal.supertela.cloudns.cl | Time Zone: America
+
+============================= Account =============================
+
+Combo..............: richard : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 09/10/2021 13:36:23
+
+End Date...........: 10/03/2022 00:45:05
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=richard&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: richard : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 09/10/2021 13:36:23
+
+End Date...........: 10/03/2022 00:45:05
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=richard&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: qwertyuiop : 1234567890
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 20/09/2021 13:27:04
+
+End Date...........: 20/10/2023 13:27:04
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=qwertyuiop&password=1234567890&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: moacir : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 19/08/2021 17:04:39
+
+End Date...........: 20/08/2022 18:30:39
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=moacir&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: priscila : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 16/10/2021 22:05:13
+
+End Date...........: 18/08/2023 22:25:36
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=priscila&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: joao10 : joao10
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 08/09/2021 23:50:53
+
+End Date...........: 10/01/2022 02:02:06
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=joao10&password=joao10&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: moacir : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 19/08/2021 17:04:39
+
+End Date...........: 20/08/2022 18:30:39
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=moacir&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: joao10 : joao10
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 08/09/2021 23:50:53
+
+End Date...........: 10/01/2022 02:02:06
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=joao10&password=joao10&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: jessica : jessica
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 15/11/2021 14:48:05
+
+End Date...........: 15/12/2021 14:48:05
+
+Channel Count......: 58490
+
+Group Count........: 55
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=jessica&password=jessica&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: frederico : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 2
+
+Active Connections.: 1
+
+Create Date........: 16/06/2021 22:03:04
+
+End Date...........: 17/12/2021 02:03:03
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=frederico&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: Miguel : 102030
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 05/11/2021 23:00:19
+
+End Date...........: 06/01/2022 22:34:29
+
+Channel Count......: 910
+
+Group Count........: 27
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=Miguel&password=102030&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: richard : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 09/10/2021 13:36:23
+
+End Date...........: 10/03/2022 00:45:05
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=richard&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: bruna1 : bruna1
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 07/11/2021 16:50:59
+
+End Date...........: 07/02/2022 16:56:56
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=bruna1&password=bruna1&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: pedro2 : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 11/09/2021 20:45:06
+
+End Date...........: 23/12/2021 01:38:49
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=pedro2&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: rosana : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 27/10/2021 23:25:58
+
+End Date...........: 29/12/2021 22:42:00
+
+Channel Count......: 58490
+
+Group Count........: 55
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=rosana&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: Osvaldo : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 24/11/2021 18:31:46
+
+End Date...........: 24/12/2021 22:31:45
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=Osvaldo&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: Ribeiro : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 01/10/2021 12:47:18
+
+End Date...........: 07/01/2022 13:38:17
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=Ribeiro&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: richard : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 09/10/2021 13:36:23
+
+End Date...........: 10/03/2022 00:45:05
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=richard&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: Osvaldo : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 24/11/2021 18:31:46
+
+End Date...........: 24/12/2021 22:31:45
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=Osvaldo&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: Ribeiro : 123456
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 01/10/2021 12:47:18
+
+End Date...........: 07/01/2022 13:38:17
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=Ribeiro&password=123456&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: joao10 : joao10
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 0
+
+Create Date........: 08/09/2021 23:50:53
+
+End Date...........: 10/01/2022 02:02:06
+
+Channel Count......: 58650
+
+Group Count........: 56
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=joao10&password=joao10&type=m3u_plus
+
+
+
+============================= Account =============================
+
+Combo..............: jessica : jessica
+
+Account Type.......: Premium
+
+Status.............: Active
+
+Max Connections....: 1
+
+Active Connections.: 1
+
+Create Date........: 15/11/2021 14:48:05
+
+End Date...........: 15/12/2021 14:48:05
+
+Channel Count......: 58490
+
+Group Count........: 55
+
+Playlist URL.......: http://serverfulltop.com:80//get.php?username=jessica&password=jessica&type=m3u_plus
+
+
+
+
+
+
