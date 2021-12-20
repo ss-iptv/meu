@@ -3,9 +3,7 @@
 #PLAYLIST: ! Lançamentos 2021
 #EXTINF:0, Encontrando Forestier Completo Dublado.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
-#EXTINF:0, Encontrando Forestier Completo Dublado.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
-#EXTINF:0, M.4.R.2021.LEGENDADO
+#EXTINF:0, Matrix 4.R.2021.LEGENDADO
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/M.4.R.2021.LEGENDADO?a=0&id=1B0vTWoiEc1Pi1em_1dhiJKZ8NdrVp31F
 #EXTINF:0, M.4.R.2021.LEGENDADO.MP4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/M.4.R.2021.LEGENDADO.MP4?a=0&id=1lO6DoD1ocOnTZWYwTh3Qy9dzXl-ybVbP
