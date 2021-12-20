@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+ #EXTENC: UTF-8
 #PLAYLIST: [Guerra]
 #EXTINF:0, A Confissão Vivendo a Guerra ao Terror - Philostv.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Confiss%C3%A3o%20Vivendo%20a%20Guerra%20ao%20Terror%20-%20Philostv.mp4?a=0&id=1CI6Hq0Kiqyo6NK13ZkXBl19TPtrUwXpl

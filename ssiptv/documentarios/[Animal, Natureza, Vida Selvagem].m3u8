@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+ #EXTENC: UTF-8
 #PLAYLIST: [Animal, Natureza, Vida Selvagem]
 #EXTINF:0, O Lobo de Yellowstone.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Lobo%20de%20Yellowstone.mp4?a=0&id=1ZndGN43S5P53Zk_f4C2auC4pUph2Aa7K

@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+ #EXTENC: UTF-8
 #PLAYLIST: [UFOs, Mistérios, Conspirações]
 #EXTINF:0, A Ciência do Impossível - Aliens, Onde Eles Estão.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Ci%C3%AAncia%20do%20Imposs%C3%ADvel%20-%20Aliens,%20Onde%20Eles%20Est%C3%A3o.mp4?a=0&id=10vXmZb4BmIZwwi3_A2IMppXDKs66Qv_7

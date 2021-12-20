@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+ #EXTENC: UTF-8
 #PLAYLIST: [Universo, Ciência, Tecnológia, Diversos]
 #EXTINF:0, 101 Armas Que Mudaram O Mundo.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/101%20Armas%20Que%20Mudaram%20O%20Mundo.mkv?a=0&id=16STymrUJMriicfROW8MFb2MySSgnLhSa

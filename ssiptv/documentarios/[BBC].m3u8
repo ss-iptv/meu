@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+ #EXTENC: UTF-8
 #PLAYLIST: [BBC]
 #EXTINF:0, Ataque das Formigas.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ataque%20das%20Formigas.mkv?a=0&id=13zMIqGxmBheq7OXT0WcySaaniDy0awtK
