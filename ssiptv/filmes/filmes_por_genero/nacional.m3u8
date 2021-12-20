@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: -pobreflix - Filmes
+#PLAYLIST: -lib-drive - Filmes
 #EXTINF:0, A Cidade das Mulheres (2005)
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Cidade%20das%20Mulheres%20(2005)?a=0&id=1jdMp-ROCwPpo47Ekfk-2SsHUa6sGHacg
 #EXTINF:0, A.Comedia.Divina.2018.720p.NACIONAL
