@@ -1,3 +1,7 @@
+PS3 raw
+https://raw.githubusercontent.com/ss-iptv/ps3tv/main
+
+
 http://168.205.87.198:8555/get.php?username=adriana&password=123456&type=m3u_plus&output=ts
 
 http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts
