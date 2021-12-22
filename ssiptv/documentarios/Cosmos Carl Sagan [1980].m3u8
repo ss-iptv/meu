@@ -1,6 +1,19 @@
  #EXTM3U size="medium"
 #EXTENC: UTF-8
 #PLAYLIST: Cosmos Carl Sagan [1980]
+
+
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S02 E04.mp4 https://www.googleapis.com/drive/v3/files/1osTZ0guGTPMZCltSalkulxak5O-fqbhu?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S02 E03.mp4 https://www.googleapis.com/drive/v3/files/1or_jFzk-IaHv0SfVFpw5GKyMWed_6JVE?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S02 E02.mp4 https://www.googleapis.com/drive/v3/files/1oqWEXUrDbnB3z4DCnDhhUKtd3MYLreJa?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S02 E01.mp4 https://www.googleapis.com/drive/v3/files/1okYylgpUX495UrEOuHTKLXLPziFSG2oL?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S01 E03.mp4 https://www.googleapis.com/drive/v3/files/1oiek7gwPVzU5rFy5SlkLmQGvef71UWE0?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S01 E02.mp4 https://www.googleapis.com/drive/v3/files/1oeWgVOaGnxuqSttyVTLgnDQHscazDhwe?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0,  Criminal - Reino Unido/Criminal - Reino Unido S01 E01.mp4 https://www.googleapis.com/drive/v3/files/1oZLx-ijupfUHo5jSJKYi5y35298cGcpX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+
+
+
+
 #EXTINF:0, Cosmos.E01.Os Limites.do.Oceano.Cosmico.avi
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E01.Os%20Limites.do.Oceano.Cosmico.avi?a=0&id=1J1MVI3opIciL8FR39WypxG8FZKw62KPr
 #EXTINF:0, Cosmos.E02.Uma Voz.na.Sinfonia.Cosmica.avi
