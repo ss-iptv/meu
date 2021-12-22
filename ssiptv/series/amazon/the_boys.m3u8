@@ -1,10 +1,34 @@
 ﻿#EXTM3U
-
 #EXTENC: UTF-8
-
 #PLAYLIST: 1 Temporada
-
 
 #EXTINF:0, The Boys S1E01
 https://r4---sn-bg07dn6d.googlevideo.com/videoplayback?expire=1639378225&ei=EdG2Ya6OMZCI1sQPw_sb&ip=2804:431:cfc4:fe20:d456:a448:a4de:cab1&id=a2656309ebf68065&itag=137&source=picasa&requiressl=yes&ttl=transient&susc=ph&mh=B6&mm=32&mn=sn-bg07dn6d&ms=su&mv=m&mvi=4&pl=50&sc=yes&vprv=1&prv=1&app=fife&ic=51&eaua=V5AnXV-fwI8&eaol=https:%2F%2Fphotos.google.com,https:%2F%2Fyoutube.googleapis.com&ratebypass=yes&mime=video%2Fmp4&otfp=1&gir=yes&clen=456173526&lmt=1599951152682089&dur=3609.855&authuser=0&alr=yes&cpn=B8uhLnAvkOIEDs86&mpd_version=5&mt=1639370903&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,vprv,prv,app,ic,eaua,eaol,ratebypass,mime,otfp,gir,clen,lmt,dur&sig=AOq0QJ8wRQIhAIV6jc8gyufNxJphqCOxkLhnFNTnLSwQIOTKR8Jt_xZLAiAbTOCwr-aw2LnNmuBFqCADAuj4XB4oLcqUvDrl0ZHokQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRQIhAPSW3o98J3_-jdnYrVZ3TxfsiSuWXpAF27xcbojL0ghWAiBv2RYQEyq1U5Qx0qLgb2glQZ_cZMf4RsjVWbHyLjf6wA%3D%3D&c=WEB_EMBEDDED_PLAYER&cver=1.20211208.02.02&range=0-738&rn=27&rbuf=0
-
+#EXTINF:0, The.Boys.S01 E01.avi
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The.Boys.S01E01.720p.WEB-DL.DDP5.1.H.264-DUAL.WWW.COMANDOTORRENTS.COM.avi?a=0&id=1FL5IyhhPmrPlPnVckY_sinT_6Kos6ebh
+#EXTINF:0, The.Boys.S01 E02.avi
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The.Boys.S01E02.720p.WEB-DL.DDP5.1.H.264-DUAL.WWW.COMANDOTORRENTS.COM.avi?a=0&id=1Eb48_O8jtxRSNRh6N00Q0zh2ZKVJZTN1
+#EXTINF:0, The Boys S01 E03.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S01%20E03.mp4?a=0&id=1fvycIRr7oQ7TDSvrYnfNAF1rliPi4G4m
+#EXTINF:0, The Boys S01 E04.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S01%20E04.mp4?a=0&id=1fxdqFkfOnPrBNtSXGFTFv0q6kkrW8Pdv
+#EXTINF:0, The Boys S01 E05.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S01%20E05.mp4?a=0&id=1fyqcJLm8MukgiEIYzXemZuKtitORgJr6
+#EXTINF:0, The Boys S01 E07.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S01%20E07.mp4?a=0&id=1g-s-RcH4vet5-W2vOoKYD2c_3x7ox8fz
+#EXTINF:0, The Boys S01 E08.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S01%20E08.mp4?a=0&id=1g1xyDl2Tf1lAQ0_hUn6PEHFZxTQTdMRh
+#EXTINF:0, The Boys S02 E01.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E01.mp4?a=0&id=1g3mzzGLvDMiakJR-F33tGD7SmQoE_nc7
+#EXTINF:0, The Boys S02 E02.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E02.mp4?a=0&id=1g4cIrjVbpzQlaJTeFpjIko2couXEB5XS
+#EXTINF:0, The Boys S02 E03.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E03.mp4?a=0&id=1g56WY8c1nsGZSdK224PX-T5qPjyySzSp
+#EXTINF:0, The Boys S02 E05.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E05.mp4?a=0&id=1g7nmgfhfrSohbew8nXguqHe6zSo_E2e6
+#EXTINF:0, The Boys S02 E06.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E06.mp4?a=0&id=1g89X8CsZX7JprPKyiZYn5b7bD_hgC9b4
+#EXTINF:0, The Boys S02 E07.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E07.mp4?a=0&id=1gAlqAh6Re8UKXwNeSn7i9bOgJxdMcnLB
+#EXTINF:0, The Boys S02 E08.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Boys%20S02%20E08.mp4?a=0&id=1gE9USbDPqBad0iOKPdAdNMkTkPhzrbca
