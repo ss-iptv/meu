@@ -1,32 +1,7 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Heroes
-#EXTINF:-1, Heroes Reborn S01 E01.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E01.mp4?a=0&id=143RlbaVeIykZ2I563UFKDj11pQ4xf4Ni
-#EXTINF:-1, Heroes Reborn S01 E02.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E02.mp4?a=0&id=144NccJeFCEUBMBr46sdbxK_ZbfvJHSci
-#EXTINF:-1, Heroes Reborn S01 E03.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E03.mp4?a=0&id=144UIe2BKuS1EwYs3d1jJjvQd22nAOIl2
-#EXTINF:-1, Heroes Reborn S01 E04.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E04.mp4?a=0&id=144z6gnxy1-9M3OCx8RR-pjlNQsmyiT_g
-#EXTINF:-1, Heroes Reborn S01 E05.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E05.mp4?a=0&id=145Mu9FXQCUBruODxTElCHRwODsYk0PSd
-#EXTINF:-1, Heroes Reborn S01 E06.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E06.mp4?a=0&id=145WHKJJPQsJ8e1bwaah8qEmsRQFsRMTv
-#EXTINF:-1, Heroes Reborn S01 E07.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E07.mp4?a=0&id=145XeC34SzYwyVmrlROtL1AchdDTB3Sp_
-#EXTINF:-1, Heroes Reborn S01 E08.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E08.mp4?a=0&id=147B3mP7q3m6UznavWtFUs_3E6e2fLqdn
-#EXTINF:-1, Heroes Reborn S01 E09.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E09.mp4?a=0&id=148KCTZ67YrHfFVoN6wK47WGUV8ILteSj
-#EXTINF:-1, Heroes Reborn S01 E10.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E10.mp4?a=0&id=149uMbjq70x62yx9E4mZY0wxa6WbRcyCt
-#EXTINF:-1, Heroes Reborn S01 E11.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E11.mp4?a=0&id=14AN78Xc5QAB3047ESZ5hO0l8myzhDaFZ
-#EXTINF:-1, Heroes Reborn S01 E12.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E12.mp4?a=0&id=14BMM-2rgfFEbd1W9NBicQeho5cdLPEvH
-#EXTINF:-1, Heroes Reborn S01 E13.mp4
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E13.mp4?a=0&id=14Be6oa0a75ghS9i_7hAP07L8-pBEh5mH
+
 #EXTINF:-1,  Heroes S01 E01.mp4
 http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20S01%20E01.mp4?a=0&id=12CRKQAWT5zBJ6VK-FWENPeU5MaxrrWn7
 #EXTINF:-1,  Heroes S01 E02.mp4
@@ -253,6 +228,34 @@ http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20S05%20E11.mp4?a
 http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20S05%20E12.mp4?a=0&id=13tzEd2HniVfB2Ts224apoBvIKO_vhRVS
 #EXTINF:-1,  Heroes S05 E13.mp4
 http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20S05%20E13.mp4?a=0&id=13uA3aEDdrf8uFP4g7SB8nCOgRgA_jtHD
+
+#EXTINF:-1, Heroes Reborn S01 E01.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E01.mp4?a=0&id=143RlbaVeIykZ2I563UFKDj11pQ4xf4Ni
+#EXTINF:-1, Heroes Reborn S01 E02.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E02.mp4?a=0&id=144NccJeFCEUBMBr46sdbxK_ZbfvJHSci
+#EXTINF:-1, Heroes Reborn S01 E03.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E03.mp4?a=0&id=144UIe2BKuS1EwYs3d1jJjvQd22nAOIl2
+#EXTINF:-1, Heroes Reborn S01 E04.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E04.mp4?a=0&id=144z6gnxy1-9M3OCx8RR-pjlNQsmyiT_g
+#EXTINF:-1, Heroes Reborn S01 E05.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E05.mp4?a=0&id=145Mu9FXQCUBruODxTElCHRwODsYk0PSd
+#EXTINF:-1, Heroes Reborn S01 E06.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E06.mp4?a=0&id=145WHKJJPQsJ8e1bwaah8qEmsRQFsRMTv
+#EXTINF:-1, Heroes Reborn S01 E07.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E07.mp4?a=0&id=145XeC34SzYwyVmrlROtL1AchdDTB3Sp_
+#EXTINF:-1, Heroes Reborn S01 E08.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E08.mp4?a=0&id=147B3mP7q3m6UznavWtFUs_3E6e2fLqdn
+#EXTINF:-1, Heroes Reborn S01 E09.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E09.mp4?a=0&id=148KCTZ67YrHfFVoN6wK47WGUV8ILteSj
+#EXTINF:-1, Heroes Reborn S01 E10.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E10.mp4?a=0&id=149uMbjq70x62yx9E4mZY0wxa6WbRcyCt
+#EXTINF:-1, Heroes Reborn S01 E11.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E11.mp4?a=0&id=14AN78Xc5QAB3047ESZ5hO0l8myzhDaFZ
+#EXTINF:-1, Heroes Reborn S01 E12.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E12.mp4?a=0&id=14BMM-2rgfFEbd1W9NBicQeho5cdLPEvH
+#EXTINF:-1, Heroes Reborn S01 E13.mp4
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/Heroes%20Reborn%20S01%20E13.mp4?a=0&id=14Be6oa0a75ghS9i_7hAP07L8-pBEh5mH
+
 #EXTINF:-1, Rio Heroes S01 E01.mp4
 http://amazonplay.herokuapp.com/api/v1/redirectdownload/Rio%20Heroes%20S01%20E01.mp4?a=0&id=13uf_0SZV1r-fsrlMeyvhT7tuRcj-hVxy
 #EXTINF:-1, Rio Heroes S01 E02.mp4
