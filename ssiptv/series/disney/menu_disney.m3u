@@ -4,6 +4,18 @@
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Gavi%C3%A3o%20Arqueiro.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Monstros no Trabalho
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Monstros%20no%20Trabalho.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Hanna
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Hanna.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Entre Dois Mundos
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Entre%20Dois%20Mundos.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Bela e a Fera
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Bela%20e%20a%20Fera.m3u8
 
@@ -20,6 +32,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/mandalor
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Casa da Raven
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Casa%20da%20Raven.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",As Visões da Raven
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/As%20Vis%C3%B5es%20da%20Raven.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LOKi
 #EXTBG: #11609E
