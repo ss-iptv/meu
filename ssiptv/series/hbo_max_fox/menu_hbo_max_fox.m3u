@@ -1,5 +1,8 @@
  #EXTM3U size="medium"
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png", Stargirl
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Stargirl.m3u8
+ 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Admirável Mundo Novo
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Admir%C3%A1vel%20Mundo%20Novo.m3u8
