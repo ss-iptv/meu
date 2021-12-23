@@ -9,26 +9,27 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_series.m3u
 #EXTBG:https://raw.githubusercontent.com/ss-iptv/meu/main/logo/ssiptv_banner-filmes.jpg
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMES
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_animes.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_canais.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CURSOS
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANIMES
 #EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_cursos.m3u
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_animes.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DOCUMENTÁRIOS
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_documentarios.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais e Filmes Tuga
-#EXTBG: #11609E
-https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lista Premium
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lista Premium (Sò Series)
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_lista_premium.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CURSOS
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/menu_cursos.m3u
+
+LINK RAW - SUBSTITUIR 
+###https://raw.githubusercontent.com/ss-iptv/meu/main###
+POR:
+###https://raw.githubusercontent.com/ss-iptv/meu/main/###
