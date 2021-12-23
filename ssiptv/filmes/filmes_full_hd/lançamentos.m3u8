@@ -2,10 +2,12 @@
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
 
-#PLAYLIST: The.Matrix.Resurrections
-#EXTINF:0, The.Matrix.Resurrections (LEG)
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
-subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
+
+#EXTINF:0, The Matrix 4 Resurrections (LEG)
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20RMTeam,%20RMZ.cr.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
+
+#EXTINF:0, The.Matrix.Resurrections (ENG), subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
+http://amazonplay.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
 
 #EXTINF:0, The.Matrix.Resurrections (CDN)
 subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
