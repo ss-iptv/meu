@@ -4,6 +4,7 @@
 
 
 #EXTINF:0, The Matrix 4 Resurrections (LEG)
+subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20RMTeam,%20RMZ.cr.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
 
 #EXTINF:0, The.Matrix.Resurrections (ENG)
