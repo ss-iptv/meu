@@ -4,7 +4,7 @@
 
 #PLAYLIST: The.Matrix.Resurrections
 #EXTINF:0, The.Matrix.Resurrections (LEG)
-http://amazonplay.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
 subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
 
 #EXTINF:0, The.Matrix.Resurrections (CDN)
