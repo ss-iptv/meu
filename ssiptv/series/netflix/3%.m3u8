@@ -1,5 +1,24 @@
 #EXTM3U
 #EXTENC: UTF-8
+#PLAYLIST: 01 - 3% 2016 - 1ª Temporada Completa Nacional Mkv
+#EXTINF:0, 3%.S01E01.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E01.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1__XnEf5uQF43XOgkyBRt-UHxyxig-JFR
+#EXTINF:0, 3%.S01E02.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E02.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1VPG4VpfkpOEY4mqFTjZO2A9OBtcou2xX
+#EXTINF:0, 3%.S01E03.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E03.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=11nwYU_UuoxyN99C02nkjSKPCOaEEkNJC
+#EXTINF:0, 3%.S01E04.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E04.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1_bDGMlUUaHugI0_Tf2q6QRMWCHlzP3dN
+#EXTINF:0, 3%.S01E05.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E05.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1BfBPEXaM4TZn_kGns0692BmXj5pw7Wkj
+#EXTINF:0, 3%.S01E06.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E06.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1CAJG22r659F1AFMODJqbxn_508FVBNyl
+#EXTINF:0, 3%.S01E07.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E07.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1gGBTx1xP13jIjerCVUKeEkmJVGHsp5Vn
+#EXTINF:0, 3%.S01E08.720p.WEBRip.Nacional - TPF.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S01E08.720p.WEBRip.Nacional%20-%20TPF.mp4?a=0&id=1bmlXBugRMAAriq054JzHAIh4papiPlE_
+#EXTM3U
+#EXTENC: UTF-8
 #PLAYLIST: 02 - 3% 2018 - 2ª Temporada Completa Nacional Mkv
 #EXTINF:0, 3%.S02E01.720p.WEB-DL.5.1.x264.NACIONAL-WWW.BLUDV.COM.mkv
 https://amazonplay.herokuapp.com/api/v1/redirectdownload/3%25.S02E01.720p.WEB-DL.5.1.x264.NACIONAL-WWW.BLUDV.COM.mkv?a=0&id=1-sUncPyi4a80_HLl08rYh0smxd7eO2eR
