@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breakin
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/anne.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Maldição (Séries)
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Maldição da Mansão Bly
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/maldicao.m3u8
 
@@ -55,3 +55,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/Shadowh
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Rain
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/The_Rain.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Maldição da Residência Hill
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill.m3u8
