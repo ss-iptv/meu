@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/bla
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/arquivo_x/menu_x_files.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Krypton
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Krypton.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Garota da Limpeza
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Garota%20da%20Limpeza.m3u8
 
