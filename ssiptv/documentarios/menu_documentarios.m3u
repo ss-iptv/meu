@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cos
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",UNIVERSO
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/O_Universo.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COLEÇÃO
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv//documentarios/Colecao.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",BBC
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[BBC].m3u8
 
