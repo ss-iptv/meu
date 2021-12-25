@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/menu_ama
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/menu_starz.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="<img src="https://img.icons8.com/wired/64/4a90e2/netflix.png"/>",SERIES | NETFLIX
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/wired/64/4a90e2/netflix.png",SERIES | NETFLIX
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/menu_netflix.m3u
 
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/telecine/menu_t
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/menu_apple.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/officel/16/4a90e2/captain-america.png",SERIES | MARVEL
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ultraviolet/80/4a90e2/captain-america.png",SERIES | MARVEL
 #EXTBG: #000000
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/menu_marvel.m3u
 
