@@ -32,3 +32,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Os_Defen
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Punho de Ferro
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Punho_de_Ferro.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Marvel 616
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Marvel_616.m3u8
