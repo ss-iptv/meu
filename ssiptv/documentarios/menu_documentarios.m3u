@@ -28,3 +28,9 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[UFOs,%2
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",CIÊNCIA
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Universo,%20Ci%C3%AAncia,%20Tecnol%C3%B3gia,%20Diversos].m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",NACIONAL
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Nacional].m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",NACIONAL
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Diversos].m3u8
