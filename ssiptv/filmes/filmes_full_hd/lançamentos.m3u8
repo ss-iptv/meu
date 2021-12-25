@@ -5,9 +5,12 @@
 
 #EXTINF:0, The Matrix 4 Resurrections (LEG)
 subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20RMTeam,%20RMZ.cr.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
-
-#EXTINF:0, OLHAR DE ANJO DUBLADO
+https://cdn.libdrive.cf/api/v1/download/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E&session=eyJhY2Nlc3NfdG9rZW4iOiAieWEyOS5hMEFScmRhTTl6cF9mY3hCcmJjOGJjakNSdWNtQUFTTk8xMTBqMVk3YjlRYlBrSHNGTkdRY1U5Zm1zNjU5WGEtVkVBdHl0cE5WcmxhWFVzOGFSSTI4M1oyZ1VlNXV1bUtrRE9NV3JtSkNRYkdWZUhpeHBsTG00eTRGTnZScVhhcmNRVDhXYmtfRzVQYlRkZHFCSVptV21kb0dhaDIzZTc4ZyIsICJjbGllbnRfaWQiOiAiMTA5NzkwMTA0NjU4NC1icHEzamJjdWxoNGEycWVxaWcyc2VuaDViMDM1OTNkaC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsICJjbGllbnRfc2VjcmV0IjogIkdPQ1NQWC11Tm0xODMwWm9DcFQyNkhqcFp2S05nblIxMm0zIiwgInJlZnJlc2hfdG9rZW4iOiAiMS8vMGhtMDZ1Mzljall2U0NnWUlBUkFBR0JFU053Ri1MOUlyYlVxZnhwMFJKY3hGNHczWWhZTzFQRF9ubDR0YUJrUGVsemlKNGhncHJ1NS1CWGxaV1BZVVEyZTdING45YkNhbGRHVSIsICJ0b2tlbl9leHBpcnkiOiAiMjAyMS0xMi0yNSAyMjoyNTozNS4xMDM1ODEiLCAidXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2RyaXZlL3YzL2ZpbGVzLzE5UTRNZ0VmQ0RIUVFhdnAtS01hUld4Rkk4ZG1JZ3YwRT9hbHQ9bWVkaWEifQ==&
+#EXTINF:0, The Matrix 4 Resurrections - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20Legendado.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
+#EXTINF:0, The.Matrix.Resurrections.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
+#EXTINF:0,Olhar de Anjo
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
 #EXTINF:0, Encontrando Forestier Completo Dublado.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
