@@ -1,13 +1,13 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",Aeroporto Área Restrita
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",AEROPORTO
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/aeroporto_area_restrita.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS (1980)
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/Cosmos_Carl_Sagan.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",Cosmos
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cosmos.m3u8
 
@@ -32,5 +32,5 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Univers
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",NACIONAL
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Nacional].m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",NACIONAL
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",DIVERSOS
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/[Diversos].m3u8
