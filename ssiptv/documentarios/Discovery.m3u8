@@ -563,11 +563,11 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20da%20Escurid%C3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes da Escuridão",Última Caminhada.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20da%20Escurid%C3%A3o%20%20-%20%C3%9Altima%20Caminhada.mp4?a=0&id=1DSCGI1ptdSEfng9PJUBqqZOFi2Cjywr_
 
-#EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", Crimes Milionarios - Até Que a Morte nos Separe.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Milionários",Até Que a Morte nos Separe.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milionarios%20-%20At%C3%A9%20Que%20a%20Morte%20nos%20Separe.mp4?a=0&id=1GxgnSAXOZrlFbVCviGqi6gQi2j2GPs3q
-#EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", Crimes Milionarios - Briga de Família.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Milionários",Briga de Família.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milionarios%20-%20Briga%20de%20Fam%C3%ADlia.mp4?a=0&id=1mcj8KyMnnGzcsvORXvg-PVr8erPgPthJ
-#EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", Crimes Milionarios - Contratados para Matar.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Milionários",Contratados para Matar.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milionarios%20-%20Contratados%20para%20Matar.mp4?a=0&id=1moB3tSVAL9eUmiezlEqxuyrwp0mBdfHI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Milionários",Dinastia Fatal.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milion%C3%A1rios%20-%20Dinastia%20Fatal.mp4?a=0&id=1nBUlqb6pzO6wp_nPLcNSHOdjz3inK_Ah
@@ -586,7 +586,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milion%C3%A1rio
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Milionários",Vidas Secretas.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Milion%C3%A1rios%20-%20Vidas%20Secretas.mp4?a=0&id=14Gx6JwqVUmDC1l1-KQwh65NAimAhu5O_
 
-#EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", Crimes que Ficaram na Historia - Um Novo Tipo de Monstro.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes que Ficaram na Historia",Um Novo Tipo de Monstro.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20que%20Ficaram%20na%20Historia%20-%20Um%20Novo%20Tipo%20de%20Monstro.mp4?a=0&id=1axUcq16NxqFpH6g4GARPq5KaGLCVLsF9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Crimes Que Ficaram Na História",Acidente na Rua B anya.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Crimes%20Que%20Ficaram%20Na%20Hist%C3%B3ria%20-%20Acidente%20na%20Rua%20B%20anya.mp4?a=0&id=1rzfFVqnfo0oXrJnZyeCk_9uWeAJjpV4j
