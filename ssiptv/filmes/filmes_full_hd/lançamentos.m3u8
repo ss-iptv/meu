@@ -3,182 +3,178 @@
 #PLAYLIST: ! Lançamentos 2021
 
 
-#EXTINF:0, The Matrix 4 Resurrections (LEG)
+#EXTINF:0 group-title="Filmes | Lancamentos", The Matrix 4 Resurrections (LEG)
 subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
 https://cdn.libdrive.cf/api/v1/download/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E&session=eyJhY2Nlc3NfdG9rZW4iOiAieWEyOS5hMEFScmRhTTl6cF9mY3hCcmJjOGJjakNSdWNtQUFTTk8xMTBqMVk3YjlRYlBrSHNGTkdRY1U5Zm1zNjU5WGEtVkVBdHl0cE5WcmxhWFVzOGFSSTI4M1oyZ1VlNXV1bUtrRE9NV3JtSkNRYkdWZUhpeHBsTG00eTRGTnZScVhhcmNRVDhXYmtfRzVQYlRkZHFCSVptV21kb0dhaDIzZTc4ZyIsICJjbGllbnRfaWQiOiAiMTA5NzkwMTA0NjU4NC1icHEzamJjdWxoNGEycWVxaWcyc2VuaDViMDM1OTNkaC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsICJjbGllbnRfc2VjcmV0IjogIkdPQ1NQWC11Tm0xODMwWm9DcFQyNkhqcFp2S05nblIxMm0zIiwgInJlZnJlc2hfdG9rZW4iOiAiMS8vMGhtMDZ1Mzljall2U0NnWUlBUkFBR0JFU053Ri1MOUlyYlVxZnhwMFJKY3hGNHczWWhZTzFQRF9ubDR0YUJrUGVsemlKNGhncHJ1NS1CWGxaV1BZVVEyZTdING45YkNhbGRHVSIsICJ0b2tlbl9leHBpcnkiOiAiMjAyMS0xMi0yNSAyMjoyNTozNS4xMDM1ODEiLCAidXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2RyaXZlL3YzL2ZpbGVzLzE5UTRNZ0VmQ0RIUVFhdnAtS01hUld4Rkk4ZG1JZ3YwRT9hbHQ9bWVkaWEifQ==&
-#EXTINF:0, The Matrix 4 Resurrections - Legendado.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", The Matrix 4 Resurrections - Legendado.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20Legendado.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
-#EXTINF:0, The.Matrix.Resurrections.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", The.Matrix.Resurrections.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
-#EXTINF:0,Olhar de Anjo
+#EXTINF:0 group-title="Filmes | Drama",Olhar de Anjo
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
-#EXTINF:0, Encontrando Forestier Completo Dublado.mp4
+#EXTINF:0 group-title="Filmes | Drama", Encontrando Forestier Completo Dublado.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
-#EXTINF:0, Matrix 4.R.2021.LEGENDADO
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/M.4.R.2021.LEGENDADO?a=0&id=1B0vTWoiEc1Pi1em_1dhiJKZ8NdrVp31F
-#EXTINF:0, M.4.R.2021.LEGENDADO.MP4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/M.4.R.2021.LEGENDADO.MP4?a=0&id=1lO6DoD1ocOnTZWYwTh3Qy9dzXl-ybVbP
 
-#EXTINF:0, Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
-#EXTINF:0, A Sonata Maldita 2022 1080p BluRay DUAL.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", A Sonata Maldita 2022 1080p BluRay DUAL.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20A%20Sonata%20Maldita%202022%201080p%20BluRay%20DUAL.mkv?a=0&id=1-zwuVMS9o3kxJY88ocOiopRKVfDWGSOs
-#EXTINF:0, Reféns 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", Reféns 2021 1080p WEB-DL DUAL 5.1.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Ref%C3%A9ns%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-N1uKBdIWWwgUAgV4jDWmNc3hatEVFIJ
 
-#EXTINF:0, John Wick 1.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, John Wick 1.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
-#EXTINF:0, John Wick 2.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, John Wick 2.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
-#EXTINF:0, John Wick 3.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, John Wick 3.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
-#EXTINF:0, As Donas do Pedaço 2021 1080p WEB-DL DUAL.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, As Donas do Pedaço 2021 1080p WEB-DL DUAL.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
-#EXTINF:0, Asteroid.2021.720p.WEBRip.Legendado.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Asteroid.2021.720p.WEBRip.Legendado.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Asteroid.2021.720p.WEBRip.Legendado.mkv?a=0&id=1-93kwnu3GtIZh0zmvItFLqqzmIH72xHR
-#EXTINF:0, Boogie 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Boogie 2021 1080p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Boogie%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-1PT8lZm_CbqJelK1OTgQv97Ld4FQ0DW
-#EXTINF:0, David e os Duendes de Natal 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, David e os Duendes de Natal 2021 1080p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20David%20e%20os%20Duendes%20de%20Natal%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1LD3tYDYcI0TPCJt5BGcN48gtpeT6UISk
-#EXTINF:0, Dois 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Dois 2021 1080p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Dois%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=11BAmW5CvQJYP5atsbowZ8BE55joknD0F
-#EXTINF:0, Encontros 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Encontros 2021 1080p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Encontros%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=10qpbzDfm08ox90SwF5uzFPXbONUaDtRe
-#EXTINF:0, Home.2021.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Home.2021.1080p.WEBRip.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Home.2021.1080p.WEBRip.mp4?a=0&id=1-OfQQ1ks1XzEGR3DFObnF7Uba3pyX9tS
-#EXTINF:0, Imperdoavel 2021 1080p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Imperdoavel 2021 1080p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-Y_3iSxoBO6FpNvyG3D1M6PIFTAOEAwh
-#EXTINF:0, Limite do Mundo 2021 1080p BluRay DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Limite do Mundo 2021 1080p BluRay DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Limite%20do%20Mundo%202021%201080p%20BluRay%20DUAL%205.1.mkv?a=0&id=1s915BzWhEhxcmBjg0ISM4wjSkxugcJg9
-#EXTINF:0, Maledicto.2019.1080p.WEBRip.Dublado.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Maledicto.2019.1080p.WEBRip.Dublado.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Maledicto.2019.1080p.WEBRip.Dublado.mkv?a=0&id=1-M61QCcieqjzKByNKuPurMjW2COe05Tk
-#EXTINF:0, Night.Night.2021.1080p.WEBRip.Legendado.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Night.Night.2021.1080p.WEBRip.Legendado.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Night.Night.2021.1080p.WEBRip.Legendado.mkv?a=0&id=1-9xgpHDHmwgGUAw5RBUyxeNozd16JsBv
-#EXTINF:0, O Mundo Mágico de Rufus 2021 1080p WEB-DL DUAL.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, O Mundo Mágico de Rufus 2021 1080p WEB-DL DUAL.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20O%20Mundo%20M%C3%A1gico%20de%20Rufus%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1kqoYQJJUTi1AXgQUPTyeAJAi6hugblIi
-#EXTINF:0, Death.Valley.2021.1080p.WEBRip.x264.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Death.Valley.2021.1080p.WEBRip.x264.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Death.Valley.2021.1080p.WEBRip.x264.mp4?a=0&id=1-jKqDGvjB7qBInQsFNGoVBUbKhTXVQ7E
-#EXTINF:0, Duna 2021 720p WEB-DL DUAL 5.1.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Duna 2021 720p WEB-DL DUAL 5.1.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%20Duna%202021%20720p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1hqlq3MDVkkQ7zzJobH7ENkBHZX2bs9tH
-#EXTINF:0, L1G4.D4.JUSTIC4. DUAL AUDIO 720P. WWW.BAIXARVIAMEGA.COM-DUAL.mkv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, L1G4.D4.JUSTIC4. DUAL AUDIO 720P. WWW.BAIXARVIAMEGA.COM-DUAL.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/L1G4.D4.JUSTIC4.%20DUAL%20AUDIO%20720P.%20WWW.BAIXARVIAMEGA.COM-DUAL.mkv?a=0&id=1EZb3AUsYHoVPDqXXB-mpwm-EUhkcVwce
-#EXTINF:0, Diário de um Banana (2021).mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Diário de um Banana (2021).mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Di%C3%A1rio%20de%20um%20Banana%20(2021).mp4?a=0&id=1fH7lp6SXPegSXMMSxAmfWB-ox2pEk8Lh
 
 
-#EXTINF:0, #REALITYHIGH.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, #REALITYHIGH.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/#REALITYHIGH.mp4?a=0&id=1Hg8hxuF5awNXpvnEwJJQvl2T_32TWZwy
-#EXTINF:0, 10 Anos de Pura Amizade.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 10 Anos de Pura Amizade.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20Anos%20de%20Pura%20Amizade.mp4?a=0&id=1I8W0zHhM7aucddWgAyXwOwx4HaLnTJes
-#EXTINF:0, 17 Outra Vez.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 17 Outra Vez.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/17%20Outra%20Vez.mp4?a=0&id=1IIR735nyORohopuxPg1hRU20tnfEIwxk
-#EXTINF:0, 2 Minutos de Fama.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 2 Minutos de Fama.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/2%20Minutos%20de%20Fama.mp4?a=0&id=1ITpMhgSscrzCM6QLMl-kXTpQhT3d_0CR
-#EXTINF:0, 20 Anos Mais Jovem.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 20 Anos Mais Jovem.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/20%20Anos%20Mais%20Jovem.mp4?a=0&id=1IYiTYzXon1P7iI-GskOkZKX4WHiTP7jb
-#EXTINF:0, 3 Turcos e um Bebê.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 3 Turcos e um Bebê.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/3%20Turcos%20e%20um%20Beb%C3%AA.mp4?a=0&id=1IalT2IDVwFaNbPIfcGs4RHT6MJkgxgKO
-#EXTINF:0, 4 Latas.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 4 Latas.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/4%20Latas.mp4?a=0&id=1Ih5NZ30yFFcCzxEGNJzg2v4P6w6MoR0X
-#EXTINF:0, 8 Mulheres e 1 Segredo.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, 8 Mulheres e 1 Segredo.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/8%20Mulheres%20e%201%20Segredo.mp4?a=0&id=1IoPgOWOBfPurv86IwactwQty1AcchwcR
-#EXTINF:0, A Agenda Secreta do Meu Namorado.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Agenda Secreta do Meu Namorado.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Agenda%20Secreta%20do%20Meu%20Namorado.mp4?a=0&id=1IpqsCI8sSiAvmeik6cGCQQtjkSW2ljQD
-#EXTINF:0, A Barraca do Beijo 2.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Barraca do Beijo 2.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Barraca%20do%20Beijo%202.mp4?a=0&id=1J0UKXJ1jJ2kfj3NHw9DcUtciGIwvjkWN
-#EXTINF:0, A Cara do Pai.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Cara do Pai.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Cara%20do%20Pai.mp4?a=0&id=1J2YEfZzGQPln7ZWRoUW9fsILMHTyW9gY
-#EXTINF:0, A Casa Caiu Um Cassino na Vizinhanca.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Casa Caiu Um Cassino na Vizinhanca.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Casa%20Caiu%20Um%20Cassino%20na%20Vizinhanca.mp4?a=0&id=1J30RTb8VzdZzU1xGmV_hAzi9MplEhAlL
-#EXTINF:0, A Chefa.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Chefa.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Chefa.mp4?a=0&id=1J4JjC20hmu_yTGe1FYOkCkluwFnBcLup
-#EXTINF:0, A Despedida (2019).mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Despedida (2019).mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Despedida%20(2019).mp4?a=0&id=1JUCq9HWChfl594m-5AwdzV472d5NVYqO
-#EXTINF:0, A Escolha Perfeita 2.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Escolha Perfeita 2.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Escolha%20Perfeita%202.mp4?a=0&id=1JkIG_esNYOs6qyek7YFnewo9wlqU0wng
-#EXTINF:0, A Extraordinária Jornada do Faquir.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Extraordinária Jornada do Faquir.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Extraordin%C3%A1ria%20Jornada%20do%20Faquir.mp4?a=0&id=1JtGTLxjpvfeoR-rtlHwL0IfrWsBkcEPV
-#EXTINF:0, A Filha do Presidente.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Filha do Presidente.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Filha%20do%20Presidente.mp4?a=0&id=1KAgfVPXQkR8ebmP2jj0sHcsKU_oZVGb0
-#EXTINF:0, A Fogueira das Vaidades.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Fogueira das Vaidades.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Fogueira%20das%20Vaidades.mp4?a=0&id=1KBFXnvmF4s9n8xovasLnGBn5ZlMTxLCF
-#EXTINF:0, A Fortuna.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Fortuna.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Fortuna.mp4?a=0&id=1KFWLPL_rCFzvMIoEjkI5DZkwj_pgnjbT
-#EXTINF:0, A Galeria dos Corações Partidos.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Galeria dos Corações Partidos.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Galeria%20dos%20Cora%C3%A7%C3%B5es%20Partidos.mp4?a=0&id=1KJb-rfcQHvtH1x1Bz5pUfJ4M8EcwQy4-
-#EXTINF:0, A Grande Aposta.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Grande Aposta.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Aposta.mp4?a=0&id=1KJdbNrRG_iywJnKeVPfdBtuUGTjfisM_
-#EXTINF:0, A Grande Luta.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Grande Luta.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Luta.mp4?a=0&id=1KbVLRUG73QXYxLPb0HME_plPIvjyvyC3
-#EXTINF:0, A Guerra dos Roses.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Guerra dos Roses.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Guerra%20dos%20Roses.mp4?a=0&id=1KdnxA2ohwwTaUz6ElyjAph3jS80-gqz3
-#EXTINF:0, A Hora da Virada.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Hora da Virada.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hora%20da%20Virada.mp4?a=0&id=1KpSPJJJZ8BA3SNBvUteV2NEFq6hzcV1C
-#EXTINF:0, A Hora do Rush 2.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Hora do Rush 2.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hora%20do%20Rush%202.mp4?a=0&id=1Kv0BZf7sp24sP7b9DQ1QjOtki0e9YsPr
-#EXTINF:0, A Hora do Rush.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Hora do Rush.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hora%20do%20Rush.mp4?a=0&id=1KuWG0TCAOqKHdbfzREhQeXD_wjUQITql
-#EXTINF:0, A Lenda da Befana.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Lenda da Befana.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Lenda%20da%20Befana.mp4?a=0&id=1L59rEbpilB_9_MuO84Xmb_vEV_txK7ia
-#EXTINF:0, A Mentira.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Mentira.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Mentira.mp4?a=0&id=1LGJslNKstmheX-diqk0K4MMQsjPJ9pSz
-#EXTINF:0, A Namorada do Meu Irmão.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Namorada do Meu Irmão.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Namorada%20do%20Meu%20Irm%C3%A3o.mp4?a=0&id=1LoUqDCB3NCrn9J2WAyAaBTp-z4Jk7Qs7
-#EXTINF:0, A Odisseia dos Tontos.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Odisseia dos Tontos.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Odisseia%20dos%20Tontos.mp4?a=0&id=1M1LeATHFOeQFJGcIoK00tIt7Rd6J5i71
-#EXTINF:0, A Pata de Um Milhão de Dólares.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Pata de Um Milhão de Dólares.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Pata%20de%20Um%20Milh%C3%A3o%20de%20D%C3%B3lares.mp4?a=0&id=1MAhsyjyux0TEEBftTjSQKMqzoWkX5UK1
-#EXTINF:0, A Pequena Suíça.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Pequena Suíça.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Pequena%20Su%C3%AD%C3%A7a.mp4?a=0&id=1MIuyw2JGQbwhtafV3XceUCVFNJyID6Fg
-#EXTINF:0, A Proposta.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Proposta.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Proposta.mp4?a=0&id=1MKOslXtNupAxbO1snQmM8vBbKPuOpFKY
-#EXTINF:0, A Roda da Fortuna.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Roda da Fortuna.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Roda%20da%20Fortuna.mp4?a=0&id=1MY6Y0n3bIwxKOIWGHYZl-sgfmp5iC6eU
-#EXTINF:0, A Sua Parte Fragil.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Sua Parte Fragil.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sua%20Parte%20Fragil.mp4?a=0&id=1MiDvPuyThi756mowUweU1L2UtRndSttf
-#EXTINF:0, A Vida Secreta de Walter Mitty.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Vida Secreta de Walter Mitty.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Vida%20Secreta%20de%20Walter%20Mitty.mp4?a=0&id=1MryytselO-J1M4OqBlLpUqLAB9AL4I5k
-#EXTINF:0, A Volta do Todo Poderoso.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A Volta do Todo Poderoso.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Volta%20do%20Todo%20Poderoso.mp4?a=0&id=1N46OCzYIpxHEJ8kbzQXMHqwBsoe2Q0k6
-#EXTINF:0, A �sltima Gargalhada.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A �sltima Gargalhada.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Gargalhada.mp4?a=0&id=1N7UhLfqp7icsbwLO2dACc83AK4jsyLEd
-#EXTINF:0, A �sltima Ressaca do Ano.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, A �sltima Ressaca do Ano.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Ressaca%20do%20Ano.mp4?a=0&id=1ND5cM2xDg9iNLf13fxxQBCbvGJQHFlSd
-#EXTINF:0, AA do Amor.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, AA do Amor.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/AA%20do%20Amor.mp4?a=0&id=1NFV5kjvhzHdhTM0fcJrwjj1k9-6Qe6PT
-#EXTINF:0, Abracadabra.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Abracadabra.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Abracadabra.mp4?a=0&id=1NMEqaLPoL6t76NM3I-7uh2f12Qt90Aq5
-#EXTINF:0, Academia de Vampiros.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Academia de Vampiros.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Academia%20de%20Vampiros.mp4?a=0&id=1NRGEl22gTSoqcUQx1VbAqyw3Sg7SigRL
-#EXTINF:0, Ace Ventura 2 Um Maluco na África.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Ace Ventura 2 Um Maluco na África.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ace%20Ventura%202%20Um%20Maluco%20na%20%C3%81frica.mp4?a=0&id=1NUQ9QMOQ0m2hERtj4PJSlU6Bn6dzWw8V
-#EXTINF:0, Ace Ventura Um Detetive Diferente.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Ace Ventura Um Detetive Diferente.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ace%20Ventura%20Um%20Detetive%20Diferente.mp4?a=0&id=1NdNLeA3EgIBXzjSp1FGDDJQIpzmWaA3z
-#EXTINF:0, Acho Que Matei Minha Chefe.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Acho Que Matei Minha Chefe.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Acho%20Que%20Matei%20Minha%20Chefe.mp4?a=0&id=1No_-8OcKIme4iBEGR9nlhfjGg2U2kI6W
-#EXTINF:0, Adam e Seus Clones.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Adam e Seus Clones.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Adam%20e%20Seus%20Clones.mp4?a=0&id=1NsTJ-aLJWwLhSILcc_8H72Lzhds2JsQk
-#EXTINF:0, Agente 86.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Agente 86.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Agente%2086.mp4?a=0&id=1OEr3o-07CFSFsMHbaofNbdBlYgW8G1TW
-#EXTINF:0, Ainda Muito Loucos.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Ainda Muito Loucos.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ainda%20Muito%20Loucos.mp4?a=0&id=1ORHO-LUHnNrtr4jEd2VDU4zkWYvp1lQs
-#EXTINF:0, Amantes e Traições.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amantes e Traições.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amantes%20e%20Trai%C3%A7%C3%B5es.mp4?a=0&id=1P8EpcAapU2YgJUBfJQVUYYwusmeh6lhr
-#EXTINF:0, American Pie 2 A Segunda Vez e Ainda Melhor.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, American Pie 2 A Segunda Vez e Ainda Melhor.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/American%20Pie%202%20A%20Segunda%20Vez%20e%20Ainda%20Melhor.mp4?a=0&id=1P8Weu8_0-L46aWgWnV4pJmIhMNH1gz-H
-#EXTINF:0, American Pie A Primeira Vez e Inesquecivel.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, American Pie A Primeira Vez e Inesquecivel.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/American%20Pie%20A%20Primeira%20Vez%20e%20Inesquecivel.mp4?a=0&id=1PJDKweNedca3v9B6IzitRbqZBLZ13MMT
-#EXTINF:0, American Pie Caindo em Tentacao.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, American Pie Caindo em Tentacao.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/American%20Pie%20Caindo%20em%20Tentacao.mp4?a=0&id=1PLIToDlx-0DanmQRct8SqiEtZ0cze6m5
-#EXTINF:0, Amigos para Sempre.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amigos para Sempre.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amigos%20para%20Sempre.mp4?a=0&id=1PgEa9mI874YNDrVhF-MdfAmwVw4uVnao
-#EXTINF:0, Amor com Data Marcada.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amor com Data Marcada.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amor%20com%20Data%20Marcada.mp4?a=0&id=1PntZ7KEOAliHuBzBZuq3yiq5HbNm6oze
-#EXTINF:0, Amor de Aluguel.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amor de Aluguel.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amor%20de%20Aluguel.mp4?a=0&id=1PoXQxKfgk7uIlQuopVj-bKr-Vh3DAu3u
-#EXTINF:0, Amor e a Máfia.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amor e a Máfia.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amor%20e%20a%20M%C3%A1fia.mp4?a=0&id=1PtGatcVnq-Ut_BCgIsnRKQJCdbvMfjYH
-#EXTINF:0, Amor em Little Italy.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados",, Amor em Little Italy.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Amor%20em%20Little%20Italy.mp4?a=0&id=1Q4rQRiSfzO1-Neo7GQFYPS3Sy2oMSuZy
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/oKJh6X4kadnfPBKj9DvKwz68Cn_big.jpg" group-title="Filmes | Acao",Esquadrao Suicida
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/100000.mp4
