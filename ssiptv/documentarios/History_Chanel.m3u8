@@ -3,16 +3,16 @@
 #PLAYLIST: !HISTORY
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS (1980)
-#EXTSIZE: big
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/Cosmos_Carl_Sagan.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS
-#EXTSIZE: big
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cosmos.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",UNIVERSO
-#EXTSIZE: big
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/O_Universo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",RESERVADO
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/O_Universo.m3u8
 
 #EXTINF:0, A Grande História - 1 - Sal.mkv
