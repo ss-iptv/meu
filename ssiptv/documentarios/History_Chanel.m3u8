@@ -4,22 +4,6 @@
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%201%20-%20Sal.mkv?a=0&id=17gqnjgsV-3jpxH1uiQ1I2S1JW3g_JkQS
-#EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", A Grande História - 10 - Desafiando A Gravidade.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mkv?a=0&id=16onSkHjYCKYcLS9fZ7MQnOJBgQEfUE_r
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 11 - Máquina do Tempo Portátil.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2011%20-%20M%C3%A1quina%20do%20Tempo%20Port%C3%A1til.mkv?a=0&id=1lSLUkiDATqnc3YU__nPrKIFWFNEjdxhj
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 12 - Meteoros Mortais.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2012%20-%20Meteoros%20Mortais.mkv?a=0&id=1wW1LkXpSv8CGProuVPDPROTgZtf12LZ2
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 13 - Decodificado.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2013%20-%20Decodificado.mkv?a=0&id=1HLDlmgyPXBzA6MUO58lKV5UJ6wiOhXmF
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 14 - Supernova de Prata.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2014%20-%20Supernova%20de%20Prata.mkv?a=0&id=1kuHIYhgRCJlHetoNnwgAuL7dHmdj_bIC
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 15 - O Sol.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2015%20-%20O%20Sol.mkv?a=0&id=1LrOznzCCAUGN02hQHAFwd3Pr4o2jyFvN
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 16 - H2O.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2016%20-%20H2O.mkv?a=0&id=1C8W3_4cRFRsVSww7NXnmnya-DwOHA9Eq
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 17 - Final.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2017%20-%20Final.mkv?a=0&id=1FTtOJeF19qYKB2csGofxxx-jyNUxqeGM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 2 - Ouro.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%202%20-%20Ouro.mkv?a=0&id=1buS5WLZVht4oY_eUdUA-asFDxzBIaThY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 3 - Cavalo.mkv
@@ -36,6 +20,22 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3r
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%208%20-%20Montanhas.mkv?a=0&id=1y5c9ESfABQLAcpPL6EavBSKZkf45Sbgz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 9 - Estímulo Cerebral.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%209%20-%20Est%C3%ADmulo%20Cerebral.mkv?a=0&id=1ea4DE8L1p3LWXXmayU7xvn3U6fybttXw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 10 - Desafiando A Gravidade.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mkv?a=0&id=16onSkHjYCKYcLS9fZ7MQnOJBgQEfUE_r
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 11 - Máquina do Tempo Portátil.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2011%20-%20M%C3%A1quina%20do%20Tempo%20Port%C3%A1til.mkv?a=0&id=1lSLUkiDATqnc3YU__nPrKIFWFNEjdxhj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 12 - Meteoros Mortais.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2012%20-%20Meteoros%20Mortais.mkv?a=0&id=1wW1LkXpSv8CGProuVPDPROTgZtf12LZ2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 13 - Decodificado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2013%20-%20Decodificado.mkv?a=0&id=1HLDlmgyPXBzA6MUO58lKV5UJ6wiOhXmF
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 14 - Supernova de Prata.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2014%20-%20Supernova%20de%20Prata.mkv?a=0&id=1kuHIYhgRCJlHetoNnwgAuL7dHmdj_bIC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 15 - O Sol.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2015%20-%20O%20Sol.mkv?a=0&id=1LrOznzCCAUGN02hQHAFwd3Pr4o2jyFvN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 16 - H2O.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2016%20-%20H2O.mkv?a=0&id=1C8W3_4cRFRsVSww7NXnmnya-DwOHA9Eq
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 17 - Final.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2017%20-%20Final.mkv?a=0&id=1FTtOJeF19qYKB2csGofxxx-jyNUxqeGM
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A.Bíblia.Proibida", A.Bíblia.Proibida.S01E01.INTERNAL.720p.HDTV.x264-MJ.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.B%C3%ADblia.Proibida.S01E01.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1pWiVbPhjZHcvaf8Vq06g3U9hjMF4t1xH
@@ -99,6 +99,36 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E11.A.Persistenci
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E12.Enciclopedia.Galactica.avi?a=0&id=1B5g35VasbM1aqhVdaoW9oI3914Zo_juM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E13.Quem.Responde.pela.Terra.avi
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E13.Quem.Responde.pela.Terra.avi?a=0&id=1-wucFN6l_CVN7HHDzEs08BXwKlwSxq4X
+
+#PLAYLIST: Cosmos Carl Sagan [1980]
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E01.Os Limites.do.Oceano.Cosmico.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E01.Os%20Limites.do.Oceano.Cosmico.avi?a=0&id=1J1MVI3opIciL8FR39WypxG8FZKw62KPr
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E02.Uma Voz.na.Sinfonia.Cosmica.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E02.Uma%20Voz.na.Sinfonia.Cosmica.avi?a=0&id=1CMGoAAAS2c3eVSSR8Rd4ka6almIeRPMn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E03.A.Harmonia.dos.Mundos.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E03.A.Harmonia.dos.Mundos.avi?a=0&id=1eoYyX-L5Tp9pDq9xVDfZEcmdhta7j3z6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E04.Ceu.e.Inferno.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E04.Ceu.e.Inferno.avi?a=0&id=17_WA2qycKYEZRUzoI9NCDA2uyPFQif2L
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E05.Os.Segredos.de.Marte.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E05.Os.Segredos.de.Marte.avi?a=0&id=1NCyskJjMH-llez40IkKpiOyRTv9QWbb9
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E06.Historias.de.Viajantes.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E06.Historias.de.Viajantes.avi?a=0&id=189X5z6HhQkdQesTK7Nv7OJ7xiEHLuT22
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi?a=0&id=1ZAqrfxqM-Uv95-x202zDXaE87JUy0UHb
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi?a=0&id=1WqxFLNlVscKZqeXrm5OXLv-2olhfPi4E
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E09.As.Vidas.das.Estrelas.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E09.As.Vidas.das.Estrelas.avi?a=0&id=1jFLmZpcsa-AagSURunFU0S0jRpzhzVT9
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E10.O.Limiar.da.Eternidade.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E10.O.Limiar.da.Eternidade.avi?a=0&id=1rwLO_JEMfvD5LaD3w4-M5VPCMJl7zH4e
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E11.A.Persistencia.da.Memoria.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E11.A.Persistencia.da.Memoria.avi?a=0&id=1jCS4NIoaWUxTT3qYSj16OJnzf2kcN072
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E12.Enciclopedia.Galactica.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E12.Enciclopedia.Galactica.avi?a=0&id=1B5g35VasbM1aqhVdaoW9oI3914Zo_juM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E13.Quem.Responde.pela.Terra.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E13.Quem.Responde.pela.Terra.avi?a=0&id=1-wucFN6l_CVN7HHDzEs08BXwKlwSxq4X
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Imagens
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Imagens?a=0&id=1vM1BanfA_De3unPTZmSSE5noyi1wyqYy
 
 
 #PLAYLIST: Cosmos
@@ -220,7 +250,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/S06E07.FLV?a=0&id=1SX4AB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Os Enigmas da Biblia", Unidos pela História - 06 - O Lado Obscuro
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%2006%20-%20O%20Lado%20Obscuro?a=0&id=18yZmOg41MXE2zDXEPTbyjo4E09cx3g6W
 
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Star Trek_ Segredos do Universo", Star Trek_ Segredos do Universo (Dublado HD Completo) The History Channel_(1080p).mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Star Trek Segredos do Universo", Star Trek  Segredos do Universo (Dublado HD Completo) The History Channel_(1080p).mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Star%20Trek_%20Segredos%20do%20Universo%20(Dublado%20HD%20Completo)%20The%20History%20Channel_(1080p).mp4?a=0&id=17U5JNRs9TSAkn1Xj36xRqBkatCYtP8TD
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Viagem no Tempo", Viagem no Tempo  - A Verdadeira História da Ficção Científica Dublado HD.mp4
@@ -419,37 +449,6 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E02
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E03.mp4?a=0&id=1wlVBzHQxlxNIMbMgtLWSrqeI5wxpuSOe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S09 E04.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E04.mp4?a=0&id=1ws4r0LwHokxL9HLgpSQVGz4JZO0FL_MV
-
-
-#PLAYLIST: Cosmos Carl Sagan [1980]
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E01.Os Limites.do.Oceano.Cosmico.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E01.Os%20Limites.do.Oceano.Cosmico.avi?a=0&id=1J1MVI3opIciL8FR39WypxG8FZKw62KPr
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E02.Uma Voz.na.Sinfonia.Cosmica.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E02.Uma%20Voz.na.Sinfonia.Cosmica.avi?a=0&id=1CMGoAAAS2c3eVSSR8Rd4ka6almIeRPMn
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E03.A.Harmonia.dos.Mundos.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E03.A.Harmonia.dos.Mundos.avi?a=0&id=1eoYyX-L5Tp9pDq9xVDfZEcmdhta7j3z6
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E04.Ceu.e.Inferno.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E04.Ceu.e.Inferno.avi?a=0&id=17_WA2qycKYEZRUzoI9NCDA2uyPFQif2L
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E05.Os.Segredos.de.Marte.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E05.Os.Segredos.de.Marte.avi?a=0&id=1NCyskJjMH-llez40IkKpiOyRTv9QWbb9
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E06.Historias.de.Viajantes.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E06.Historias.de.Viajantes.avi?a=0&id=189X5z6HhQkdQesTK7Nv7OJ7xiEHLuT22
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi?a=0&id=1ZAqrfxqM-Uv95-x202zDXaE87JUy0UHb
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi?a=0&id=1WqxFLNlVscKZqeXrm5OXLv-2olhfPi4E
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E09.As.Vidas.das.Estrelas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E09.As.Vidas.das.Estrelas.avi?a=0&id=1jFLmZpcsa-AagSURunFU0S0jRpzhzVT9
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E10.O.Limiar.da.Eternidade.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E10.O.Limiar.da.Eternidade.avi?a=0&id=1rwLO_JEMfvD5LaD3w4-M5VPCMJl7zH4e
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E11.A.Persistencia.da.Memoria.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E11.A.Persistencia.da.Memoria.avi?a=0&id=1jCS4NIoaWUxTT3qYSj16OJnzf2kcN072
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E12.Enciclopedia.Galactica.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E12.Enciclopedia.Galactica.avi?a=0&id=1B5g35VasbM1aqhVdaoW9oI3914Zo_juM
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E13.Quem.Responde.pela.Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E13.Quem.Responde.pela.Terra.avi?a=0&id=1-wucFN6l_CVN7HHDzEs08BXwKlwSxq4X
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Imagens
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Imagens?a=0&id=1vM1BanfA_De3unPTZmSSE5noyi1wyqYy
 
 #PLAYLIST: A Grande História
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
