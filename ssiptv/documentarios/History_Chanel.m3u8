@@ -1,6 +1,32 @@
 #EXTM3U size="medium"
 #EXTENC: UTF-8
 #PLAYLIST: !HISTORY
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História da Matemática",01 - A Linguagem do Universo (480p).mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%2001%20-%20A%20Linguagem%20do%20Universo%20(480p).mp4?a=0&id=1iRorxctIxACMGCTaNPkfmnNnknBVbJXs
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História da Matemática",02 - O Gênio do Oriente (480p).mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%2002%20-%20O%20G%C3%AAnio%20do%20Oriente%20(480p).mp4?a=0&id=1QVjWylNtKkm1ofzNy7zaPBEz3a3RDaaz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História da Matemática",03 - As Fronteiras do Espaço (480p).mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%2003%20-%20As%20Fronteiras%20do%20Espa%C3%A7o%20(480p).mp4?a=0&id=1_AqMTXg5Qrv4KxOFbyCKC43vnbqUCsaV
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História da Matemática",04 - Além do Infinito (480p).mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Hist%C3%B3ria%20da%20Matem%C3%A1tica%2004%20-%20Al%C3%A9m%20do%20Infinito%20(480p).mp4?a=0&id=1Q7kXX1EJDHxx6jEF_vxtVA_I4NdbuCdL
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title=" Livro dos Segredos da América",O Acobertamento dos Antigos Astronautas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Livro%20dos%20Segredos%20da%20Am%C3%A9rica%20-%20O%20Acobertamento%20dos%20Antigos%20Astronautas.mp4?a=0&id=12chHWxGBYFQI20aWadaH2zhw-5F0TCcU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title=" Livro dos Segredos da América",Segredos de Estado - Área 51.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Livro%20dos%20Segredos%20da%20Am%C3%A9rica%20-%20Segredos%20de%20Estado%20-%20%C3%81rea%2051.mp4?a=0&id=16ZFIUEpmmplx4Vb8I51GrDdp64G8iBNC
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo um Imperio - Astecas
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20um%20Imperio%20-%20Astecas%20-%20Dublado%20-%20HD%20720p%20-%20Documentario%20-%20YouTube.mp4?a=0&id=1AL-hJNYrBlCVu-G08VncafhWbTDYXl-6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo Um Império- Cartago - Dulabo - HD 720p - Documentario.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20Um%20Imp%C3%A9rio-%20Cartago%20-%20Dulabo%20-%20HD%20720p%20-%20Documentario.mp4?a=0&id=1on8qloSblNbDQXuyXy-H5Lb84kv098WM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo Um Império- China
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20Um%20Imp%C3%A9rio-%20China%20-%20Dublado%20-%20HD%20720p%20-%20Documentario%20-%20YouTube.mp4?a=0&id=1BrA9MshNZz6BHhAIVObvZvGuF6T0nP3c
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo Um Império- Napoleão - Dublado - HD - Documentario.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20Um%20Imp%C3%A9rio-%20Napole%C3%A3o%20-%20Dublado%20-%20HD%20-%20Documentario.mp4?a=0&id=1kJQZTfu1px6ycJSE-PjWIGUckv_BAh4n
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo Um Império- Russia - Dublado - Full HD  1080p - Documentario.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20Um%20Imp%C3%A9rio-%20Russia%20-%20Dublado%20-%20Full%20HD%20%201080p%20-%20Documentario.mp4?a=0&id=1MDbd230A8BL3TQ9NN2FHYIKj_fCAIbNT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construindo um Imperio", Construindo Um Império-Leonardo Da Vinci
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Construindo%20Um%20Imp%C3%A9rio-Leonardo%20Da%20Vinci%20-%20Dublado%20-%20HD%20720p%20-%20Documentario%20-%20YouTube.mp4?a=0&id=1Ur0SAOt2wk0BHrsbpaYn3wbw9v_SoA0Q
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%201%20-%20Sal.mkv?a=0&id=17gqnjgsV-3jpxH1uiQ1I2S1JW3g_JkQS
