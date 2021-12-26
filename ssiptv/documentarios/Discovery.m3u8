@@ -337,6 +337,35 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%2023%20-%20Seres%20Da
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Ep 25 - Molhados E Insones.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%2025%20-%20Molhados%20E%20Insones.mp4?a=0&id=1s9PpbC8-7j6vw4GXJ6xeAGshU0rj0k4M
 
+#PLAYLIST: Duplas
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 1_ Marie e Olivier (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%201_%20Marie%20e%20Olivier%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1oWTk7-1IG3aifjxA9ONeZpHqCwe7AqoU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 2_ Julien e Jennifer (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%202_%20Julien%20e%20Jennifer%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1GwamuIEysdb_XLj2UD8L-Bs21XOMB5EL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 3_ Gabrielle e Patrick (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%203_%20Gabrielle%20e%20Patrick%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1FsBrc6Dt0DSEgAfWPTzj4yOtY3MtyELT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 4_ Pascale e Eddy (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%204_%20Pascale%20e%20Eddy%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1TDwyJmcX-UmhhkjZm2YBPLnntqbowSCo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 5_ Sara e Robin (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%205_%20Sara%20e%20Robin%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1Sseqsfj2uMQcHnuZct-yYt6zXqWEwR7q
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 6_ Emmanuelle e Kevin (Sem Resgate 2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%206_%20Emmanuelle%20e%20Kevin%20(Sem%20Resgate%202020%20HD)%20%5B720p%5D.mp4?a=0&id=1ixZ14pu9ouE9Ap5PcNwLwzz_lSBqYE4w
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 7_ Géraldine e Louri (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%207_%20G%C3%A9raldine%20e%20Louri%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1Q1Lt1OFkt2h9grL2APnuZCh1f2z3Taan
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 8_ Maxence e Julie (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%208_%20Maxence%20e%20Julie%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1w3k9APpUs3cOOi6UaOVkBHYMvmc5ma1l
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 9_ Stéphanie e Steven (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%209_%20St%C3%A9phanie%20e%20Steven%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1WJ8g4Z-BMgzo4lK_l03RqnTnTDxgSttm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 10_Mickael e Bénédicte (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2010_Mickael%20e%20B%C3%A9n%C3%A9dicte%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1dtethbA2SzoJC1NjZBZfZqnJX8ogODl7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 11_ Pascal e Léa (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2011_%20Pascal%20e%20L%C3%A9a%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1H-3CR-MD0JFQ7WY4CVjxljZszVgrK4yq
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Episódio 12_ Laurent e Valérie (2020 HD) [720p].mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2012_%20Laurent%20e%20Val%C3%A9rie%20(2020%20HD)%20%5B720p%5D.mp4?a=0&id=1qMh7dWk3GsMYWS8gmcnJRw40u_ouAXDY
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Ep 19 - Lua De Mel Infernal.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ep%2019%20-%20Lua%20De%20Mel%20Infernal.mp4?a=0&id=1gOYUOf_5duRBTClk5a6wteJcFp_JUqlc
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv?a=0&id=19Q5Nm1YlZ16YWk5juALw2WUz43qc55P7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv
