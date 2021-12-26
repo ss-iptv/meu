@@ -1,10 +1,9 @@
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História",
-
-
-
- #EXTM3U size="medium"
- #EXTENC: UTF-8
+#EXTM3U size="medium"
+#EXTENC: UTF-8
 #PLAYLIST: !HISTORY
+
+###[#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Modelo de Categorias",]####
+
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS (1980)
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/Cosmos_Carl_Sagan.m3u8
@@ -53,6 +52,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3r
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%208%20-%20Montanhas.mkv?a=0&id=1y5c9ESfABQLAcpPL6EavBSKZkf45Sbgz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 9 - Estímulo Cerebral.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%209%20-%20Est%C3%ADmulo%20Cerebral.mkv?a=0&id=1ea4DE8L1p3LWXXmayU7xvn3U6fybttXw
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A.Bíblia.Proibida", A.Bíblia.Proibida.S01E01.INTERNAL.720p.HDTV.x264-MJ.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.B%C3%ADblia.Proibida.S01E01.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1pWiVbPhjZHcvaf8Vq06g3U9hjMF4t1xH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A.Bíblia.Proibida", A.Bíblia.Proibida.S01E02.INTERNAL.720p.HDTV.x264-MJ.mkv
@@ -69,6 +69,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.B%C3%ADblia.Proibida.S
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.B%C3%ADblia.Proibida.S01E07.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=19oR1v9UioERJOyuro_Dt6auQfMb3fRWq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A.Bíblia.Proibida", A.Bíblia.Proibida.S01E08.INTERNAL.720p.HDTV.x264-MJ.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.B%C3%ADblia.Proibida.S01E08.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1jdsvXEXGAn2n3lDhyFqv5ARuzIskqVKB
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Alienígenas do Passado", Alienígenas do Passado - A Missão - Episódio 03 - Dublado HD 
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Alien%C3%ADgenas%20do%20Passado%20-%20A%20Miss%C3%A3o%20-%20Epis%C3%B3dio%2003%20-%20Dublado%20HD%20?a=0&id=1pKEYMosqKltrnSTc5lyJAKqTC0UnKKFa
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Alienígenas do Passado", Alienígenas do Passado - As Evidências - Episódio 01 - Dublado HD
@@ -87,6 +88,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ancient%20Aliens%20-%20S
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ancient.Aliens.S06E13.Aliens.in.America.mkv?a=0&id=1tT1ITis5AWPFJQadfUm6jGPFsU0LgsUt
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Alienígenas do Passado", Civilização Perdida - History Channel - Documentario - FULLHD 1080p - YouTube_2.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Civiliza%C3%A7%C3%A3o%20Perdida%20-%20History%20Channel%20-%20Documentario%20-%20FULLHD%201080p%20-%20YouTube_2.mp4?a=0&id=1LO8a3zujgR2BCkah0-oY8BU2Xdsqz7V9
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E01.Os Limites.do.Oceano.Cosmico.avi
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E01.Os%20Limites.do.Oceano.Cosmico.avi?a=0&id=1J1MVI3opIciL8FR39WypxG8FZKw62KPr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E02.Uma Voz.na.Sinfonia.Cosmica.avi
@@ -113,6 +115,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E11.A.Persistenci
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E12.Enciclopedia.Galactica.avi?a=0&id=1B5g35VasbM1aqhVdaoW9oI3914Zo_juM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E13.Quem.Responde.pela.Terra.avi
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E13.Quem.Responde.pela.Terra.avi?a=0&id=1-wucFN6l_CVN7HHDzEs08BXwKlwSxq4X
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Gigantes da Industtria", Gigantes Da Indústria - 01 Começa outra Guerra 720p.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Gigantes%20Da%20Ind%C3%BAstria%20-%2001%20Come%C3%A7a%20outra%20Guerra%20720p.mp4?a=0&id=1G-R21MALWNJm4NOa0gfGgQ3r_YwKAb3P
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Gigantes da Industtria", Gigantes Da Indústria - 02 Encontrando Petróleo 720p.mp4
@@ -129,6 +132,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Gigantes%20Da%20Ind%C3%B
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Gigantes%20Da%20Ind%C3%BAstria%20-%2007%20Tomando%20a%20Casa%20Branca%20720p.mp4?a=0&id=1ow7ZXjHmjGHlK7oseX-QYQLZLUWYJ6Tt
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Gigantes da Industtria", Gigantes Da Indústria - 08 A Nova Máquina 720p.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Gigantes%20Da%20Ind%C3%BAstria%20-%2008%20A%20Nova%20M%C3%A1quina%20720p.mp4?a=0&id=193jIxdvwDPer9J6udxs8HRe753Mj2_YR
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Guerras Mundiais", Guerras.Mundiais.S01E01.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Guerras.Mundiais.S01E01.mp4?a=0&id=1Qip89yFmWyVXDPdv2GrvZis8Ot_5nwSi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Guerras Mundiais", Guerras.Mundiais.S01E02.Gandalflino.mp4
@@ -139,6 +143,7 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Guerras.Mundiais.S01E04.
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Guerras.Mundiais.S01E05.Gandalflino.mp4?a=0&id=1oQ4DQGGA9MYqEsIAHsoaz3baC74erptY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Guerras Mundiais", Guerras.Mundiais.S01E06.Gandalflino.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Guerras.Mundiais.S01E06.Gandalflino.mkv?a=0&id=1syvnHsbqrKcsFN4zP2pnP_Wdarj9nnaL
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="História das Religiões", História das Religiões do Mundo - As Antigas Religiões do Mediterrâneo..mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hist%C3%B3ria%20das%20Religi%C3%B5es%20do%20Mundo%20-%20As%20Antigas%20Religi%C3%B5es%20do%20Mediterr%C3%A2neo..mp4?a=0&id=1sckgJ-OcGDzh-geU0rJEKkfB3WIhqRxo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="História das Religiões", História das Religiões do Mundo - As Religiões Africanas e as Afro-Americanas..mp4
@@ -161,8 +166,10 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hist%C3%B3ria%20das%20Re
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hist%C3%B3ria%20das%20Religi%C3%B5es%20do%20Mundo%20-%20O%20Protestantismo%20ou%20Cristianismo%20Protestante..mp4?a=0&id=1mJy1CWz3pBtkz3YoPOPS2EXepTFY5bY8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="História das Religiões", História das Religiões do Mundo - O Xintoismo..mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hist%C3%B3ria%20das%20Religi%C3%B5es%20do%20Mundo%20-%20O%20Xintoismo..mp4?a=0&id=1Dc3lz40Cd_nIKgVtx_-t-3rz6eIguiau
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Submundo do Trafico", O Submundo do Tráfico Ep. 2 1080p HDTV-Master.MP4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Submundo%20do%20Tr%C3%A1fico%20Ep.%202%201080p%20HDTV-Master.MP4?a=0&id=1MbBXQWgcuzK66YuijBxFp_5OG4csQpZY
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Os Enigmas da Biblia", Os Enigmas da Biblia.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Enigmas%20da%20Biblia.mkv?a=0&id=1XQPKVPKhiGvpuYWfjg9TQ7lptR9WcFek
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Os Enigmas da Biblia", S05E02.mp4
@@ -171,10 +178,15 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/S05E02.mp4?a=0&id=17G5io
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/S06E05.FLV?a=0&id=1DH0j9j66q1bO3WqMCwa7ggKLr37uEaxn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Os Enigmas da Biblia", S06E07.FLV
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/S06E07.FLV?a=0&id=1SX4ABNiJsrzqUI5ggPPUUlkhbP9jk9iR
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Star Trek_ Segredos do Universo", Star Trek_ Segredos do Universo (Dublado HD Completo) The History Channel_(1080p).mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Star%20Trek_%20Segredos%20do%20Universo%20(Dublado%20HD%20Completo)%20The%20History%20Channel_(1080p).mp4?a=0&id=17U5JNRs9TSAkn1Xj36xRqBkatCYtP8TD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Os Enigmas da Biblia", Unidos pela História - 06 - O Lado Obscuro
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%2006%20-%20O%20Lado%20Obscuro?a=0&id=18yZmOg41MXE2zDXEPTbyjo4E09cx3g6W
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Star Trek_ Segredos do Universo", Star Trek_ Segredos do Universo (Dublado HD Completo) The History Channel_(1080p).mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Star%20Trek_%20Segredos%20do%20Universo%20(Dublado%20HD%20Completo)%20The%20History%20Channel_(1080p).mp4?a=0&id=17U5JNRs9TSAkn1Xj36xRqBkatCYtP8TD
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Viagem no Tempo", Viagem no Tempo  - A Verdadeira História da Ficção Científica Dublado HD.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Viagem%20no%20Tempo%20%20-%20A%20Verdadeira%20Hist%C3%B3ria%20da%20Fic%C3%A7%C3%A3o%20Cient%C3%ADfica%20Dublado%20HD.mp4?a=0&id=10c5Dz1x38HWoSxatj-1qXYAHzJYXpcjj
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Unidos pela História", Unidos pela História - EP03 - Protagonistas.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%20EP03%20-%20Protagonistas.mp4?a=0&id=15wqeX4a4VOkFXPTr2KDeDShcHbvPyMNr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Unidos pela História", Unidos pela História - EP04 - Cores.mp4
@@ -193,5 +205,3 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%20Epis%C3%B3dio%2001%20-%20As%20Paralelas%20se%20Cruzam.mp4?a=0&id=1wpxoo84-qtKM6a_Pas5qSfUhlbnBurMe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Unidos pela História", Unidos pela História - Episódio 02 - Resistências.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%20Epis%C3%B3dio%2002%20-%20Resist%C3%AAncias.mp4?a=0&id=1rI_I_7yeyhktPCPJRDDa2fAcO3PaVP80
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Viagem no Tempo", Viagem no Tempo  - A Verdadeira História da Ficção Científica Dublado HD.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Viagem%20no%20Tempo%20%20-%20A%20Verdadeira%20Hist%C3%B3ria%20da%20Fic%C3%A7%C3%A3o%20Cient%C3%ADfica%20Dublado%20HD.mp4?a=0&id=10c5Dz1x38HWoSxatj-1qXYAHzJYXpcjj
