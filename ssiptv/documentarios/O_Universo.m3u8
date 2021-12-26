@@ -1,149 +1,175 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: O Universo 1 a 7 Temporadas
-#EXTINF:0, O Universo S01E01 Alem do Big Bang.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E01%20Alem%20do%20Big%20Bang.avi?a=0&id=1lQ_6WPiYz9P1rC1YDc6FA7gkZpwxvtx1
-#EXTINF:0, O Universo S01E02 Segredos do Sol.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E02%20Segredos%20do%20Sol.avi?a=0&id=1ymgIUieBS9xM4M9GkQpd1a3VIAkRajRu
-#EXTINF:0, O Universo S01E03 Marte, O Planeta Vermelho.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E03%20Marte,%20O%20Planeta%20Vermelho.avi?a=0&id=1RQvmakd92yIgqsvCzmeS2T0wQJX4uwr-
-#EXTINF:0, O Universo S01E05 Jupiter, O Planeta Gigante.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E05%20Jupiter,%20O%20Planeta%20Gigante.avi?a=0&id=1EoR_bPxaCSUOB_dNH4cJRRCyVziltTmD
-#EXTINF:0, O Universo S01E06 A Lua.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E06%20A%20Lua.avi?a=0&id=1xTm60yi8-E1KyNg08Uu9eUv4NtaJZCAf
-#EXTINF:0, O Universo S01E07 Espaconave Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E07%20Espaconave%20Terra.avi?a=0&id=1XP0AWWHgyjhJWJAmWn3UkUFfX2NNAshV
-#EXTINF:0, O Universo S01E08 Mercurio e Venus, Os Planetas Interiores.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E08%20Mercurio%20e%20Venus,%20Os%20Planetas%20Interiores.avi?a=0&id=1bv-rf8lU0nQ-bAeBHtcTN5ToYVguZxcV
-#EXTINF:0, O Universo S01E09 Saturno, O Senhor dos Aneis.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E09%20Saturno,%20O%20Senhor%20dos%20Aneis.avi?a=0&id=1jt91DfVTLgtnW9ryo_vjktlGUAVaNspZ
-#EXTINF:0, O Universo S01E10 Galaxias Distantes.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E10%20Galaxias%20Distantes.avi?a=0&id=1wWFz6U0hlbNhL3SFF05KLyXus9Ag8hdL
-#EXTINF:0, O Universo S01E11 Vida e Morte de uma Estrela.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E11%20Vida%20e%20Morte%20de%20uma%20Estrela.avi?a=0&id=1_aK9F6RoZaRENAxxgpIVcf6_jR1UUjM-
-#EXTINF:0, O Universo S01E12 Os Planetas Exteriores.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E12%20Os%20Planetas%20Exteriores.avi?a=0&id=1jOc8Gvqn7FhIF87SaOCFuzTwNlg9-nQk
-#EXTINF:0, O Universo S01E13 Os Lugares mais Perigosos do Universo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E13%20Os%20Lugares%20mais%20Perigosos%20do%20Universo.avi?a=0&id=1JqDcYBYvaYz4cSat323W-LNGCk1t3kZj
-#EXTINF:0, O Universo S01E14 A Procura pelo ET.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01E14%20A%20Procura%20pelo%20ET.avi?a=0&id=1lKTiLQWncCSVFJ4utrUQlOQYVovF_Aly
-#EXTINF:0, O Universo S02E01 Planetas Alienigenas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E01%20Planetas%20Alienigenas.avi?a=0&id=1VMSwP_6i3bJSFwoYQt51A8yIUBA8isNY
-#EXTINF:0, O Universo S02E02 Buracos Cosmicos.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E02%20Buracos%20Cosmicos.avi?a=0&id=1TEgVCTtRzGAL6QNqsvmIGASd2UzBYAfV
-#EXTINF:0, O Universo S02E03 Misterios da Lua.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E03%20Misterios%20da%20Lua.avi?a=0&id=1VIkKIplNGEGaL9AiZg1bYOlfoOGndA_4
-#EXTINF:0, O Universo S02E04 A Via Lactea.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E04%20A%20Via%20Lactea.avi?a=0&id=1oSb15r0vdM1zq4I9o17hCmjIX_XLlNZp
-#EXTINF:0, O Universo S02E06 Materia Escura.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E06%20Materia%20Escura.avi?a=0&id=1IVy9z193nyLixT_4TSCERIDIhtaKlf8l
-#EXTINF:0, O Universo S02E07 Astrobiologia.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E07%20Astrobiologia.avi?a=0&id=1hndog-BiUxr2ztsS-IUaRoyrqBm7I17a
-#EXTINF:0, O Universo S02E08 Viagem Espacial.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E08%20Viagem%20Espacial.avi?a=0&id=1xw3GT4G74M0RmV_aIIWRrXJ90mjoSH1s
-#EXTINF:0, O Universo S02E09 Supernovas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E09%20Supernovas.avi?a=0&id=1rvFICTy44-3fTMRFq-CZIDwpqBRr8uGF
-#EXTINF:0, O Universo S02E10 Constelacoes.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E10%20Constelacoes.avi?a=0&id=1rhAZVhPys2cL0YTrBhw4c0WHlmWoZydE
-#EXTINF:0, O Universo S02E11 Misterios Inexplicados.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E11%20Misterios%20Inexplicados.avi?a=0&id=12vuF-TG9epvA1Xl3k1eRlp0UauJO2LTj
-#EXTINF:0, O Universo S02E12 Colisões Cósmicas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E12%20Colis%C3%B5es%20C%C3%B3smicas.avi?a=0&id=1cf46BY_ou128jhQ8cM88kYcBxxKjEVoG
-#EXTINF:0, O Universo S02E13 Colonizando Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E13%20Colonizando%20Espa%C3%A7o.avi?a=0&id=1qdY9NnOA4Qg0q11ZRoeTp9BzuBKEtxIC
-#EXTINF:0, O Universo S02E14 Nébulas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E14%20N%C3%A9bulas.avi?a=0&id=1kYbS4WCUPluydefW02aN7KQMDyQiX9Cm
-#EXTINF:0, O Universo S02E15 Climas Selvagens do Cosmo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E15%20Climas%20Selvagens%20do%20Cosmo.avi?a=0&id=1k3kBTapGMhZ1MnP3ca3hbVvk0GLLNpAe
-#EXTINF:0, O Universo S02E16 Gigantes do Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E16%20Gigantes%20do%20Espa%C3%A7o.avi?a=0&id=1P7IfNvCvoCYcn8T8103I3F4u92lrl3b3
-#EXTINF:0, O Universo S02E17 Gravidade.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E17%20Gravidade.avi?a=0&id=12s28H1AE0pMgFHLlVEerjJ860Pi6GuzS
-#EXTINF:0, O Universo S02E18 Apocalipse Cósmico.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02E18%20Apocalipse%20C%C3%B3smico.avi?a=0&id=1kwlCSww0xt0FpsciGW03vab7cPCM69W1
-#EXTINF:0, O Universo S03E01 Desastres Espaciais.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E01%20Desastres%20Espaciais.avi?a=0&id=1VjVagPcscJMFvJk11EmnK9XjqWebA13V
-#EXTINF:0, O Universo S03E02 Universos Paralelos.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E02%20Universos%20Paralelos.avi?a=0&id=1T87KjWoTcSIcmwKtEnEbf5xNjCJ6T6UE
-#EXTINF:0, O Universo S03E03 Velocidade da Luz.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E03%20Velocidade%20da%20Luz.avi?a=0&id=1khNF3VQvCyL5GBdS_kHT6df0M-h8fWdK
-#EXTINF:0, O Universo S03E04 Sexo no Espaco.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E04%20Sexo%20no%20Espaco.avi?a=0&id=1Eec6930LQTxB4NKknZnhluot4cT3YpLW
-#EXTINF:0, O Universo S03E05 Rostos Alienigenas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E05%20Rostos%20Alienigenas.avi?a=0&id=1rW6F-exywb1JtUUNSKlSZlEAcjtwPvFr
-#EXTINF:0, O Universo S03E06 Cometas e Meteroros Mortais.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E06%20Cometas%20e%20Meteroros%20Mortais.avi?a=0&id=1lFt2fNJ7rXaPRCbuyNZfkWQZMkmwuR-o
-#EXTINF:0, O Universo S03E07 Vivendo no Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E07%20Vivendo%20no%20Espa%C3%A7o.avi?a=0&id=1X-oHXqAp7mDzMX8foNZm1VR4yL2A4Krj
-#EXTINF:0, O Universo S03E08 Detendo o Armagedon.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E08%20Detendo%20o%20Armagedon.avi?a=0&id=1v_U3dBdB0y1gxwOphOoXd-8xoh7i3AHd
-#EXTINF:0, O Universo S03E09 Outro Planeta Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E09%20Outro%20Planeta%20Terra.avi?a=0&id=1cK_U2AgcyDttK6bxKCemLFVmN5IxEuC-
-#EXTINF:0, O Universo S03E10 Os Fenomenos Mais Estranhos do Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E10%20Os%20Fenomenos%20Mais%20Estranhos%20do%20Espa%C3%A7o.avi?a=0&id=1UeCPWQNSURoXPWcRpgob6JueJSJ9tr-H
-#EXTINF:0, O Universo S03E11 O Limite do Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E11%20O%20Limite%20do%20Espa%C3%A7o.avi?a=0&id=17i0qcvxTFcfKzu8r1fuCxfLTT4gT36Ro
-#EXTINF:0, O Universo S03E12 Fenômenos Cósmicos.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03E12%20Fen%C3%B4menos%20C%C3%B3smicos.avi?a=0&id=1ZoIm1FurPOcGZx4vo2cXDT9Chchvo9aY
-#EXTINF:0, O Universo S04E01 As Estrelas da Morte.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E01%20As%20Estrelas%20da%20Morte.avi?a=0&id=1UcRQe1bRakII8GrFexro2HQV5ZLt3j1F
-#EXTINF:0, O Universo S04E02 Quando a Lua Desapareceu.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E02%20Quando%20a%20Lua%20Desapareceu.avi?a=0&id=1NuavMn99zIVkP_ZGONSN-huLaaR6kOsN
-#EXTINF:0, O Universo S04E03 Caiu do Espaco.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E03%20Caiu%20do%20Espaco.avi?a=0&id=1PhF_5yYAFAuh-E8PdwyJQ7kfYyPhbp3a
-#EXTINF:0, O Universo S04E04 As Maiores Explosões do Universo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E04%20As%20Maiores%20Explos%C3%B5es%20do%20Universo.avi?a=0&id=1qQMmYqeqmTPo2MQS1VIfrT2OqvOJJWEr
-#EXTINF:0, O Universo S04E05 A Caçada por Planetas com Aneis.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E05%20A%20Ca%C3%A7ada%20por%20Planetas%20com%20Aneis.avi?a=0&id=1MXGXDFsKEIbbwinwlLRwPkNE--BFTKci
-#EXTINF:0, O Universo S04E06 10 Maneiras de Destruir a Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E06%2010%20Maneiras%20de%20Destruir%20a%20Terra.avi?a=0&id=1l2DHYt16QTYRY7_IQ9htSckp-38rMOpp
-#EXTINF:0, O Universo S04E07 Em Busca de Aglomerados Cósmicos.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E07%20Em%20Busca%20de%20Aglomerados%20C%C3%B3smicos.avi?a=0&id=1WuP4lRPozbjtfB-Fv7NcP0gLH45fmSkS
-#EXTINF:0, O Universo S04E08 Guerras no Espaço.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E08%20Guerras%20no%20Espa%C3%A7o.avi?a=0&id=1FcquUaZ3fYXa43yhhM6m6-4Jy5Pr4kgr
-#EXTINF:0, O Universo S04E09 Universo Liquido.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E09%20Universo%20Liquido.avi?a=0&id=1J7uSkzjqhIzYZ_bducSAOJD3tuwAdebf
-#EXTINF:0, O Universo S04E10 Pulsares e Quasares.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E10%20Pulsares%20e%20Quasares.avi?a=0&id=16r9LrFMnV8U2Z2wWJcJpWfzUDY9RLe_k
-#EXTINF:0, O Universo S04E11 Ciencia Ficção e Realidade.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E11%20Ciencia%20Fic%C3%A7%C3%A3o%20e%20Realidade.avi?a=0&id=1rIoNZ71SLtz0sRKhVwBii6fn_RzOM9_X
-#EXTINF:0, O Universo S04E12 Energia Extrema.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04E12%20Energia%20Extrema.avi?a=0&id=1jFdK4Cu9eq8liKivBSivX2YaHZg9DDIh
-#EXTINF:0, O Universo S05E01 7 Maravilhas Do Sistema Solar.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E01%207%20Maravilhas%20Do%20Sistema%20Solar.avi?a=0&id=1bY6pnk6UhM0Qi5Hf2WiB3vYwZZJTqMDT
-#EXTINF:0, O Universo S05E02 Marte a Nova Evidência.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E02%20Marte%20a%20Nova%20Evid%C3%AAncia.avi?a=0&id=1izovI85jCtbJjaO5_UZtIF6jQJlZCqkr
-#EXTINF:0, O Universo S05E03 Tempestade Magnetica.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E03%20Tempestade%20Magnetica.avi?a=0&id=1sU_aIR4t0ZPYnmq8IJ0tAp0Rjzh6KYyB
-#EXTINF:0, O Universo S05E04 Viagem no Tempo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E04%20Viagem%20no%20Tempo.avi?a=0&id=1ZCSBPe4F_4Ak7ZC4AoZmpAs7mU6zkU8N
-#EXTINF:0, O Universo S05E05 Segredos das Sondas Espaciais.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E05%20Segredos%20das%20Sondas%20Espaciais.avi?a=0&id=1ZtnazeUdlfsFULwouVUSiDlqv2u1tI5v
-#EXTINF:0, O Universo S05E06 Ataque de Asteroides.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E06%20Ataque%20de%20Asteroides.avi?a=0&id=1SWuf-hNo1EItP1Egvpvku485yaWOR_Wq
-#EXTINF:0, O Universo S05E07 Eclipse Total.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E07%20Eclipse%20Total.avi?a=0&id=1fnpsf8-RSILjLP378ghH500Ok1Ax5mQi
-#EXTINF:0, O Universo S05E08 O Futuro Sombrio Do Sol.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05E08%20O%20Futuro%20Sombrio%20Do%20Sol.avi?a=0&id=1r1bVoN5IJ1JFGYNLBDQr504BJzeZjHRP
-#EXTINF:0, O Universo S06E01 Catástrofes Planetárias.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E01%20Cat%C3%A1strofes%20Planet%C3%A1rias.avi?a=0&id=1VkZaw_np7MTB58vJxDTBsBtwUCrylQur
-#EXTINF:0, O Universo S06E02 Nemesis A Gêmea Maligna da Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E02%20Nemesis%20A%20G%C3%AAmea%20Maligna%20da%20Terra.avi?a=0&id=1P6w2dRNL9e4jdTHF5-Pg01VNOFh-g4YT
-#EXTINF:0, O Universo S06E03 A Formacao do Sistema Solar.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E03%20A%20Formacao%20do%20Sistema%20Solar.avi?a=0&id=1k905KqcixgXnbLXX1O1q9tOepD8o0VMY
-#EXTINF:0, O Universo S06E05 Os Piores Dias na Terra.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E05%20Os%20Piores%20Dias%20na%20Terra.avi?a=0&id=1STyDBCIPmq1lp5mp9PwKL1mEteDo5Xq5
-#EXTINF:0, O Universo S06E06  A Verdade por Trás dos Ovnis.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E06%20%20A%20Verdade%20por%20Tr%C3%A1s%20dos%20Ovnis.avi?a=0&id=1ShqbKf1Pd-RPeIRRlRj2IKklsyDCD6eE
-#EXTINF:0, O Universo S06E07 Deus e o Universo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06E07%20Deus%20e%20o%20Universo.avi?a=0&id=1uYOTg2mMC-2-oaunR4Vohlr1FKX9SSL2
-#EXTINF:0, O Universo S07E01 Grandes Distantes e Velozes.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07E01%20Grandes%20Distantes%20e%20Velozes.avi?a=0&id=1T72DUmTVKY86ovRw1Y3U01cU8pVWZdKC
-#EXTINF:0, O Universo S07E02 Sons Alienigenas.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07E02%20Sons%20Alienigenas.avi?a=0&id=1GxourE2N9blZN9oqPvBPXp-iYp1QZ5rp
-#EXTINF:0, O Universo S07E03 Nosso Lugar na Via Lactea.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07E03%20Nosso%20Lugar%20na%20Via%20Lactea.avi?a=0&id=1Lx6XnhjEYvDnv2RQwl5tU662SslPhdiP
-#EXTINF:0, O Universo S07E04 Congelamento Profundo.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07E04%20Congelamento%20Profundo.avi?a=0&id=10tu_Mrwuqzsvbuy3u-imC7nGmqZr6kAN
-#EXTINF:0, O Universo S07E05 Universo Microscopico.avi
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07E05%20Universo%20Microscopico.avi?a=0&id=1IxEtmfz8xyZscePfvSvneD18wpmEMlOM
+#PLAYLIST: O Universo
+#EXTINF:0, O Universo S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E01.mp4?a=0&id=130nSMy9f8y9dRSFnhgrf-6eP_IK8cNxw
+#EXTINF:0, O Universo S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E02.mp4?a=0&id=131LV5fRawVfw7aJtCb4nw4Uv91Ni_PMn
+#EXTINF:0, O Universo S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E03.mp4?a=0&id=131az7S2h-bqknWKzC1b50m-8xbq4FJUO
+#EXTINF:0, O Universo S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E04.mp4?a=0&id=1328-9zcZ3vQ8f67akplDm6lmnljXYj8G
+#EXTINF:0, O Universo S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E05.mp4?a=0&id=132JUo4WDnzQZHQrhI-KaTcVu5eC4-FNB
+#EXTINF:0, O Universo S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E06.mp4?a=0&id=132TREClXHEGFMVqM8OVDQmR_Kh8wMIca
+#EXTINF:0, O Universo S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E07.mp4?a=0&id=132nxxAb6bNA5iWKbHnVXgEg0f8DsHBHg
+#EXTINF:0, O Universo S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E08.mp4?a=0&id=132quddsTLaCP4vyRheqpqdjZEaEO4eif
+#EXTINF:0, O Universo S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E09.mp4?a=0&id=133NFhbf9DSzZjPY-sj5OrE5oBfKrOK7w
+#EXTINF:0, O Universo S01 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E10.mp4?a=0&id=133e4kT_7ypbnE0tACIR63BRxZfF6No_D
+#EXTINF:0, O Universo S01 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E11.mp4?a=0&id=134U-rF12ctAiiwlH0epdyO30vjZzK9bf
+#EXTINF:0, O Universo S01 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E12.mp4?a=0&id=135IyLPRZLmPQsdCFqNPepcY5FL8DDxMp
+#EXTINF:0, O Universo S01 E13.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E13.mp4?a=0&id=135PmExyAeEJWi1c8B10K7tHRPd93rH-i
+#EXTINF:0, O Universo S01 E14.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E14.mp4?a=0&id=135dNv1500Ixh_g43xClvarwzT-RqXGJ5
+#EXTINF:0, O Universo S02 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E01.mp4?a=0&id=1362AWvLsnDIh2Rmu9US-lfcrM76y07dm
+#EXTINF:0, O Universo S02 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E02.mp4?a=0&id=137M265nTbFljnofg5xuwMWmyxLa0KVWB
+#EXTINF:0, O Universo S02 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E03.mp4?a=0&id=137og9B4p_ZX71fsePafT7qA3qVz76iUh
+#EXTINF:0, O Universo S02 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E04.mp4?a=0&id=1380SgwpHO75aVOl11xNjqnoPB5u9Nlu5
+#EXTINF:0, O Universo S02 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E05.mp4?a=0&id=1388vt3TTk4nL473wWHpL81bPcmfcZu50
+#EXTINF:0, O Universo S02 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E06.mp4?a=0&id=138mj7lZu7ntks8YsbwEX-ohpeeNRM6L6
+#EXTINF:0, O Universo S02 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E07.mp4?a=0&id=1390mTGcwdtNGaOgS_fMxl-twL5_62zOZ
+#EXTINF:0, O Universo S02 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E08.mp4?a=0&id=139DZLItQ8zgsFjoVhgs5DBn8C8735WAi
+#EXTINF:0, O Universo S02 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E09.mp4?a=0&id=139GDN3By134dWe96-daiEgVqZ6o6yvLY
+#EXTINF:0, O Universo S02 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E10.mp4?a=0&id=139S_KEQekXxE5oPOEYdeM5ohCSvZWXyQ
+#EXTINF:0, O Universo S02 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E11.mp4?a=0&id=139ttm78bP-br_OhXrNY4pXivG9JlKbhD
+#EXTINF:0, O Universo S02 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E12.mp4?a=0&id=139z4E5AUqDttkt1y4GaKF04igvpBxH6j
+#EXTINF:0, O Universo S02 E13.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E13.mp4?a=0&id=13AvQrcJFYCeJWHiTW1x7PP6Txn229GjO
+#EXTINF:0, O Universo S02 E14.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E14.mp4?a=0&id=13BG0j45AP6bgk5gzxQ6FV1TD8GluhVis
+#EXTINF:0, O Universo S02 E15.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E15.mp4?a=0&id=13BRrIhR11SGWXP3yPUeUqtnKTyF8eMlk
+#EXTINF:0, O Universo S02 E16.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E16.mp4?a=0&id=13C0toey6RNho2g7XKmL2nUCRGgdtAWVA
+#EXTINF:0, O Universo S02 E17.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E17.mp4?a=0&id=13CT7mVqlBLD9b6T9vua3pt3hcXfw7E6V
+#EXTINF:0, O Universo S02 E18.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E18.mp4?a=0&id=13CkCpilER03N6RygWWp7jkOR46EH8aiC
+#EXTINF:0, O Universo S03 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E01.mp4?a=0&id=13CkV3G3pA3EQqVR9AGx6dALxMt_t_-a8
+#EXTINF:0, O Universo S03 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E02.mp4?a=0&id=13DrgaWJJwgIXat2dESEhgdF8VgM1rtNU
+#EXTINF:0, O Universo S03 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E03.mp4?a=0&id=13DzH6bVlbOThmaqIRQBncd5Xb-O-uAnk
+#EXTINF:0, O Universo S03 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E04.mp4?a=0&id=13EK8wrHVtEqj3GlhKC07jRkv6HLnutfn
+#EXTINF:0, O Universo S03 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E05.mp4?a=0&id=13EPSnb6ljqH8ugTKAFgQ0UwAHTXToob2
+#EXTINF:0, O Universo S03 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E06.mp4?a=0&id=13EoHjZ4adhUnhWLupFWbI1UR_dP1twqJ
+#EXTINF:0, O Universo S03 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E07.mp4?a=0&id=13FBgW5KkINwvh83WQIFZEAXdlkl9fvtQ
+#EXTINF:0, O Universo S03 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E08.mp4?a=0&id=13FhEXGbnzb4kQmPlSNsE8B6W8Ycx-SnA
+#EXTINF:0, O Universo S03 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E09.mp4?a=0&id=13FqpGxvztIdpQDj-Crk_EhD91ugfxvrM
+#EXTINF:0, O Universo S03 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E10.mp4?a=0&id=13GQ35XaQwNEoi0et_QR-rAMr2u0BgQl5
+#EXTINF:0, O Universo S03 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E11.mp4?a=0&id=13GRNpx4cWXAAbqkwK7xqNvn3ZUsV0TBt
+#EXTINF:0, O Universo S03 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E12.mp4?a=0&id=13HPFpi9ViICT_uz3qaJib0IlrxHg7VHc
+#EXTINF:0, O Universo S04 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E01.mp4?a=0&id=13HSZ3vs28G1M7CEsU1wvcpJ--6qcDT4V
+#EXTINF:0, O Universo S04 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E02.mp4?a=0&id=13HlG5474IMBLJJylVMR1IJ0RLLk2Oops
+#EXTINF:0, O Universo S04 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E03.mp4?a=0&id=13IApzDx6IMnAB8-Jik7AbGKEL0LXTL31
+#EXTINF:0, O Universo S04 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E04.mp4?a=0&id=13Iw-r0ulg-eHq2JJOY53MVN62ZzPgYyG
+#EXTINF:0, O Universo S04 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E05.mp4?a=0&id=13J5IoubngjdSUrtR6EtEtMJKMjHzxZWn
+#EXTINF:0, O Universo S04 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E06.mp4?a=0&id=13J80B_wf9H1vcStz3IgwOeZaG1YTqep4
+#EXTINF:0, O Universo S04 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E07.mp4?a=0&id=13K95Q7OvXp87tJFqI_XHWfGDT9AiZKDC
+#EXTINF:0, O Universo S04 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E08.mp4?a=0&id=13LQ771HX8CoXyNqc5q3XJ8YK-JvCObxv
+#EXTINF:0, O Universo S04 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E09.mp4?a=0&id=13MFB6PIa-AwA5Gvv7beprwL2V6JYnqRg
+#EXTINF:0, O Universo S04 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E10.mp4?a=0&id=13MMk8gR4c-jeU6C4_O5l0_5RydSoYQVC
+#EXTINF:0, O Universo S04 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E11.mp4?a=0&id=13MP5PbLJHY59nQrmHTWP8VA6DI1EzIHu
+#EXTINF:0, O Universo S04 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E12.mp4?a=0&id=13Nr4EblMx1tz70Hwci-oGgJL_Ju12Ac4
+#EXTINF:0, O Universo S05 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E01.mp4?a=0&id=13O5dh2NOz4kpLjWpZhpKvVV39Ggdaf0d
+#EXTINF:0, O Universo S05 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E02.mp4?a=0&id=1ygRqvMWBxCDu0YzeKlXkLo_Pnp8wqXVE
+#EXTINF:0, O Universo S05 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E03.mp4?a=0&id=1yvtNn4tB4OsyJxdqzUibZDCGKo9dSNxj
+#EXTINF:0, O Universo S05 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E04.mp4?a=0&id=1z63yBrwUIhrrkgUWZEH0B0jofl5FVk4w
+#EXTINF:0, O Universo S05 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E05.mp4?a=0&id=1z6d3KNCh-YMoD-zILgsi4-KTEGdq2XXA
+#EXTINF:0, O Universo S05 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E06.mp4?a=0&id=1zHZbuq8pTqGyu6Sm0OdW7q7znkMwPh4H
+#EXTINF:0, O Universo S05 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E07.mp4?a=0&id=1zKLZ_TLxaIrBKpP4hopiPawmEoM1xTvJ
+#EXTINF:0, O Universo S05 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E08.mp4?a=0&id=1zPlR5SaoyS8uFqyI0NNSqOsfkFxZ45mz
+#EXTINF:0, O Universo S06 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E01.mp4?a=0&id=1xzPEkaXAEcOxpwy-NKh_07EPRkEm5dFx
+#EXTINF:0, O Universo S06 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E02.mp4?a=0&id=1y4o-7vAdEGZmMB_T_lzuS4SCNlIWUiHA
+#EXTINF:0, O Universo S06 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E03.mp4?a=0&id=1yCx8Z0knFq-H1vdn0RJeMYzzbffOezgl
+#EXTINF:0, O Universo S06 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E04.mp4?a=0&id=1ySpC1sI5culFXDl1hyHFk6ofS5hzDQOA
+#EXTINF:0, O Universo S06 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E05.mp4?a=0&id=1yW-osQ4REGB-NGG6wjlL11OMgP9j_t1f
+#EXTINF:0, O Universo S06 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E06.mp4?a=0&id=1ydY5hdH6v_gkG7br_CBmFyg15k4_Vwks
+#EXTINF:0, O Universo S06 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E07.mp4?a=0&id=1yee4svgkOBrecmcMg-QLx3F-jTajSPuC
+#EXTINF:0, O Universo S07 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E01.mp4?a=0&id=1xKJrPTEApUbh0J0gPRLGV5eDlWCHjmTC
+#EXTINF:0, O Universo S07 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E02.mp4?a=0&id=1xL_XJvBeV35kZ46RGBMmYTuUsXbTEOa3
+#EXTINF:0, O Universo S07 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E03.mp4?a=0&id=1xS-HEO9Vqjs_9rbD-IlZry8dqVJG3g2E
+#EXTINF:0, O Universo S07 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E04.mp4?a=0&id=1xSXgn0fnrdOo0xOdzTfZpOgQzv9NOFPj
+#EXTINF:0, O Universo S07 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E05.mp4?a=0&id=1xXCMmskh0Asmp-aj00lL7w3qT2EIUpSX
+#EXTINF:0, O Universo S07 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E06.mp4?a=0&id=1xbfK5HsThkH09i0St0zN5fWUKNmFa3FR
+#EXTINF:0, O Universo S07 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E07.mp4?a=0&id=1xlpdlnq0Z9FW-9pU-9D9qCqGxsxcDUWO
+#EXTINF:0, O Universo S08 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E01.mp4?a=0&id=1x16NpbwcMiX5YQRj8AdAzxfW8ZC1eV-Z
+#EXTINF:0, O Universo S08 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E02.mp4?a=0&id=1x1j329nwNR5N0hNwm-SyUtNdmK5c4OcQ
+#EXTINF:0, O Universo S08 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E03.mp4?a=0&id=1x8x_G2OL3-gpJQ8v7c_bFO16q7aorqEC
+#EXTINF:0, O Universo S08 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E04.mp4?a=0&id=1xG2szYTObp9wDsgFtACQuYmGPZ196Sau
+#EXTINF:0, O Universo S09 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E01.mp4?a=0&id=1wdWukfnNCRq-PBqq_14yFKSqarhjaUUr
+#EXTINF:0, O Universo S09 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E02.mp4?a=0&id=1wfC5SxgsHsE5DMnZVqyxORS3HtaGsjz2
+#EXTINF:0, O Universo S09 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E03.mp4?a=0&id=1wlVBzHQxlxNIMbMgtLWSrqeI5wxpuSOe
+#EXTINF:0, O Universo S09 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E04.mp4?a=0&id=1ws4r0LwHokxL9HLgpSQVGz4JZO0FL_MV
