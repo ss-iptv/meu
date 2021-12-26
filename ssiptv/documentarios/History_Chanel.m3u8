@@ -2,8 +2,6 @@
 #EXTENC: UTF-8
 #PLAYLIST: !HISTORY
 
-###[#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="- Reservado",]####
-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%201%20-%20Sal.mkv?a=0&id=17gqnjgsV-3jpxH1uiQ1I2S1JW3g_JkQS
 #EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", A Grande História - 10 - Desafiando A Gravidade.mkv
@@ -488,3 +486,14 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3r
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%208%20-%20Montanhas.mkv?a=0&id=1y5c9ESfABQLAcpPL6EavBSKZkf45Sbgz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 9 - Estímulo Cerebral.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%209%20-%20Est%C3%ADmulo%20Cerebral.mkv?a=0&id=1ea4DE8L1p3LWXXmayU7xvn3U6fybttXw
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="- Reservado", Reservado
+
+
+
+
+
