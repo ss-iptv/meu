@@ -2,327 +2,327 @@
 #EXTENC: UTF-8
 #PLAYLIST: Discovery - Atalhos
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Charles Chaplin", CHARLES CHAPLIN - EP. 01.avi
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/01%20-%20CHARLES%20CHAPLIN%20-%20EP.%2001.avi?a=0&id=1oZcQiNZPWRSklbUV0zF44i0flLRWKzZS
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/01%20-%20CHARLES%20CHAPLIN%20-%20EP.%2001.avi?a=0&id=1oZcQiNZPWRSklbUV0zF44i0flLRWKzZS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Charles Chaplin", CHARLES CHAPLIN - EP. 02.avi
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/02%20-%20CHARLES%20CHAPLIN%20-%20EP.%2002.avi?a=0&id=1S82u2gH9XmTdQfMW4GGTCgsNhLYcYuEn
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20CHARLES%20CHAPLIN%20-%20EP.%2002.avi?a=0&id=1S82u2gH9XmTdQfMW4GGTCgsNhLYcYuEn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Charles Chaplin", CHARLES CHAPLIN - EP. 03.avi
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/03%20-%20CHARLES%20CHAPLIN%20-%20EP.%2003.avi?a=0&id=1DfoPCCIjOKHiL83X0vVmaYKqhho-T1Lt
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20CHARLES%20CHAPLIN%20-%20EP.%2003.avi?a=0&id=1DfoPCCIjOKHiL83X0vVmaYKqhho-T1Lt
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - 20 Anos Depois.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%2020%20Anos%20Depois.mp4?a=0&id=1Ed7q2KZLDG4Dri4B1WOqynl8xmUQ-Gpq
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%2020%20Anos%20Depois.mp4?a=0&id=1Ed7q2KZLDG4Dri4B1WOqynl8xmUQ-Gpq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Aconteceu em Boston.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Aconteceu%20em%20Boston.mp4?a=0&id=1tmUEErgCUhHYzS63juJbB5BSC-cd3XfD
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Aconteceu%20em%20Boston.mp4?a=0&id=1tmUEErgCUhHYzS63juJbB5BSC-cd3XfD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Morte Suspeita.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Morte%20Suspeita.mp4?a=0&id=1q-HclHdbL2r90RR_JpxoXTMu9DqFPeFO
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Morte%20Suspeita.mp4?a=0&id=1q-HclHdbL2r90RR_JpxoXTMu9DqFPeFO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - O Assassino da Lanchonete.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Assassino%20da%20Lanchonete.mp4?a=0&id=1vLgP9FuLJ1SGPgHK3JguTsqwVnu1f9nh
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Assassino%20da%20Lanchonete.mp4?a=0&id=1vLgP9FuLJ1SGPgHK3JguTsqwVnu1f9nh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - O Estripador de Gainesville Danny Rolling.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Estripador%20de%20Gainesville%20Danny%20Rolling.mp4?a=0&id=1t7SqtkqCjJ5vosO5YfvSLVtftMamZgT3
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Estripador%20de%20Gainesville%20Danny%20Rolling.mp4?a=0&id=1t7SqtkqCjJ5vosO5YfvSLVtftMamZgT3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - O Julgamento de Amanda Knox.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Julgamento%20de%20Amanda%20Knox.mp4?a=0&id=1AsaUnnVbizcLHvcNE0ngwCWa-Qxe3YRS
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20O%20Julgamento%20de%20Amanda%20Knox.mp4?a=0&id=1AsaUnnVbizcLHvcNE0ngwCWa-Qxe3YRS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Podridão.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Podrid%C3%A3o.mp4?a=0&id=13qc1YB9ztgLccmunR0jEErqhL11ushlA
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Podrid%C3%A3o.mp4?a=0&id=13qc1YB9ztgLccmunR0jEErqhL11ushlA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Quem Matou Debbie.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Debbie.mp4?a=0&id=1QtItiNRAK4_pa4CTmlUd8Pr4y5_0KkKO
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Debbie.mp4?a=0&id=1QtItiNRAK4_pa4CTmlUd8Pr4y5_0KkKO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Quem Matou Deborah Sykes.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Deborah%20Sykes.mp4?a=0&id=1uxO3txtmUUkMeQmmuC2ajDH0WO9LK0F5
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Deborah%20Sykes.mp4?a=0&id=1uxO3txtmUUkMeQmmuC2ajDH0WO9LK0F5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Quem Matou Trent.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Trent.mp4?a=0&id=1kDRcAULfKaEmm9flaZsuroTw-a2EXN7j
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Quem%20Matou%20Trent.mp4?a=0&id=1kDRcAULfKaEmm9flaZsuroTw-a2EXN7j
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Sete no Freezer.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Sete%20no%20Freezer.mp4?a=0&id=1KtOA52Higok__EGpFfFwDbwtIgp35vzy
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Sete%20no%20Freezer.mp4?a=0&id=1KtOA52Higok__EGpFfFwDbwtIgp35vzy
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Sangue Frio", A Sangue Frio - Traição.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Trai%C3%A7%C3%A3o.mp4?a=0&id=1g9D-2hYFn1y_aRZLofMrknFMe_XXNJoE
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Sangue%20Frio%20-%20Trai%C3%A7%C3%A3o.mp4?a=0&id=1g9D-2hYFn1y_aRZLofMrknFMe_XXNJoE
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E01.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E01.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1c1s_kBhioy8usTrKHT8XZ7beR2-BMFKc
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E01.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1c1s_kBhioy8usTrKHT8XZ7beR2-BMFKc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E02.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E02.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1iMzOHjlmTJflPXGVeanCc4rFDB3SnWAY
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E02.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1iMzOHjlmTJflPXGVeanCc4rFDB3SnWAY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E03.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E03.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1yUHA7LlhwXljJxlT2bPd8iMIIhIiIUYN
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E03.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1yUHA7LlhwXljJxlT2bPd8iMIIhIiIUYN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E04.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E04.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1KEHqQl1jhtC2aHidMwievYVJzOAtQ3Fs
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E04.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1KEHqQl1jhtC2aHidMwievYVJzOAtQ3Fs
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E05.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E05.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1U8C6W-swcWVPmijIW8mZM8a_e1ANTQFW
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E05.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1U8C6W-swcWVPmijIW8mZM8a_e1ANTQFW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E06.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E06.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=12mCGyHlBPL7YfNWiOrpcwZP15MDJPOFP
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E06.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=12mCGyHlBPL7YfNWiOrpcwZP15MDJPOFP
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Análise de um Crime", Análise de um Crime  - Chat Room Mortal.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/An%C3%A1lise%20de%20um%20Crime%20%20-%20Chat%20Room%20Mortal.mp4?a=0&id=15fbNr-sK05WYhw_MF7l1UqtLxJIEFmU5
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/An%C3%A1lise%20de%20um%20Crime%20%20-%20Chat%20Room%20Mortal.mp4?a=0&id=15fbNr-sK05WYhw_MF7l1UqtLxJIEFmU5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Análise de um Crime", Análise de um Crime  - Corey and Monique Kitts.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/An%C3%A1lise%20de%20um%20Crime%20%20-%20Corey%20and%20Monique%20Kitts.mp4?a=0&id=1DY-ma76BQO8iaAIZW1-vi3fnkoLxf8pj
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/An%C3%A1lise%20de%20um%20Crime%20%20-%20Corey%20and%20Monique%20Kitts.mp4?a=0&id=1DY-ma76BQO8iaAIZW1-vi3fnkoLxf8pj
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A C   Davi.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A%20C%20%20%20Davi.mp4?a=0&id=1cMJgKGOKb9UY_WNyFfFtuRVHeENcUwli
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A%20C%20%20%20Davi.mp4?a=0&id=1cMJgKGOKb9UY_WNyFfFtuRVHeENcUwli
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - Alexandre_ O Senhor da Guerra..mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Alexandre_%20O%20Senhor%20da%20Guerra..mp4?a=0&id=1-XD_xakDWZllpoeK1vkEZUOi6zVcLGp7
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Alexandre_%20O%20Senhor%20da%20Guerra..mp4?a=0&id=1-XD_xakDWZllpoeK1vkEZUOi6zVcLGp7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - AnÃ­bal_ O Aniquilador..mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20An%C3%83%C2%ADbal_%20O%20Aniquilador..mp4?a=0&id=17XHBaGNYhtXvo6IotzTup3Hx4mWvkAPd
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20An%C3%83%C2%ADbal_%20O%20Aniquilador..mp4?a=0&id=17XHBaGNYhtXvo6IotzTup3Hx4mWvkAPd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - César- O Grande Cerco.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20C%C3%A9sar-%20O%20Grande%20Cerco.mp4?a=0&id=1Osx1IlF0u7PTLHTmO-jCFTFHSTV-ZB5J
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20C%C3%A9sar-%20O%20Grande%20Cerco.mp4?a=0&id=1Osx1IlF0u7PTLHTmO-jCFTFHSTV-ZB5J
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - JosuÃ©_ A MatanÃ§a Ã‰pica..mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Josu%C3%83%C2%A9_%20A%20Matan%C3%83%C2%A7a%20%C3%83%E2%80%B0pica..mp4?a=0&id=1yL9IU927okcmbdpgzClVg4YKgwfRX11S
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Josu%C3%83%C2%A9_%20A%20Matan%C3%83%C2%A7a%20%C3%83%E2%80%B0pica..mp4?a=0&id=1yL9IU927okcmbdpgzClVg4YKgwfRX11S
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - O Dia do Julgamento em Maratona..mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20O%20Dia%20do%20Julgamento%20em%20Maratona..mp4?a=0&id=101TOMo_km73d3Xlhs1B62dSilrgdPDIU
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20O%20Dia%20do%20Julgamento%20em%20Maratona..mp4?a=0&id=101TOMo_km73d3Xlhs1B62dSilrgdPDIU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas A.C - Ramsés - Carruagens de Guerra..mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Rams%C3%A9s%20-%20Carruagens%20de%20Guerra..mp4?a=0&id=14nffPwas_AaSHB_7veacODrguxx6_M8-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20A.C%20-%20Rams%C3%A9s%20-%20Carruagens%20de%20Guerra..mp4?a=0&id=14nffPwas_AaSHB_7veacODrguxx6_M8-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalhas A C", Batalhas AC - Moisés Fugindo da Morte.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Batalhas%20AC%20-%20Mois%C3%A9s%20Fugindo%20da%20Morte.mp4?a=0&id=16SHC86xWbe73kzkFyXWZlPFVUDdcdDFZ
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Batalhas%20AC%20-%20Mois%C3%A9s%20Fugindo%20da%20Morte.mp4?a=0&id=16SHC86xWbe73kzkFyXWZlPFVUDdcdDFZ
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Boy to Man", Boy to Man 1ª Temp. Ep. 1 - O Povo das Renas 1080p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%201%20-%20O%20Povo%20das%20Renas%201080p%20HDTV-Master.mkv?a=0&id=1X7qNaTSE-3cY1AAF31USD5lR19DApTex
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%201%20-%20O%20Povo%20das%20Renas%201080p%20HDTV-Master.mkv?a=0&id=1X7qNaTSE-3cY1AAF31USD5lR19DApTex
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Boy to Man", Boy to Man 1ª Temp. Ep. 2 - O Povo da Ilha 1080i HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%202%20-%20O%20Povo%20da%20Ilha%201080i%20HDTV-Master.mp4?a=0&id=122vDr_JnC7HBmdspDBKzCmNKC9_TjHk-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%202%20-%20O%20Povo%20da%20Ilha%201080i%20HDTV-Master.mp4?a=0&id=122vDr_JnC7HBmdspDBKzCmNKC9_TjHk-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Boy to Man", Boy to Man 1ª Temp. Ep. 3 - Caça com Águias 1080p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%203%20-%20Ca%C3%A7a%20com%20%C3%81guias%201080p%20HDTV-Master.mp4?a=0&id=1X3-lmjmLz5TA9_daQ-RHTsK9Omywx8Wd
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%201%C2%AA%20Temp.%20Ep.%203%20-%20Ca%C3%A7a%20com%20%C3%81guias%201080p%20HDTV-Master.mp4?a=0&id=1X3-lmjmLz5TA9_daQ-RHTsK9Omywx8Wd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Boy to Man", Boy to Man 2ª Temp. Ep. 1 - Os Escaladores de Cavernas 1080p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%202%C2%AA%20Temp.%20Ep.%201%20-%20Os%20Escaladores%20de%20Cavernas%201080p%20HDTV-Master.mp4?a=0&id=1g1OSRUgh7o17KaKBWcMpn-Thbfxu2O_C
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Boy%20to%20Man%202%C2%AA%20Temp.%20Ep.%201%20-%20Os%20Escaladores%20de%20Cavernas%201080p%20HDTV-Master.mp4?a=0&id=1g1OSRUgh7o17KaKBWcMpn-Thbfxu2O_C
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Boy to Man", Boy To Man 2ª Temp. Ep. 3 - Os Caubóis da Venezuela 1080p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Boy%20To%20Man%202%C2%AA%20Temp.%20Ep.%203%20-%20Os%20Caub%C3%B3is%20da%20Venezuela%201080p%20HDTV-Master.mp4?a=0&id=1QuakO5rfrHmxLUdNx0r8LliN394alBFc
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Boy%20To%20Man%202%C2%AA%20Temp.%20Ep.%203%20-%20Os%20Caub%C3%B3is%20da%20Venezuela%201080p%20HDTV-Master.mp4?a=0&id=1QuakO5rfrHmxLUdNx0r8LliN394alBFc
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-A.Reconstrução.de.Nova.Orleans.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-A.Reconstru%C3%A7%C3%A3o.de.Nova.Orleans.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1dHpXMinZIvbJJZ6bK5BLcmeQP30-CuJ_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-A.Reconstru%C3%A7%C3%A3o.de.Nova.Orleans.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1dHpXMinZIvbJJZ6bK5BLcmeQP30-CuJ_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Arizona.Cardinals.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Arizona.Cardinals.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1dg2QLkMUU86ldXqiPqGC9rpUEGO0U94d
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Arizona.Cardinals.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1dg2QLkMUU86ldXqiPqGC9rpUEGO0U94d
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Barcos.de.Corrida.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Barcos.de.Corrida.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1XQ7r0zOLIdwnrlukMdTGa-8ac23pGQqU
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Barcos.de.Corrida.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1XQ7r0zOLIdwnrlukMdTGa-8ac23pGQqU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Campo.de.Treinamento.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Campo.de.Treinamento.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1syZDbLeFpS0P_dSoCUEn1_uNiWOmHe3i
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Campo.de.Treinamento.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1syZDbLeFpS0P_dSoCUEn1_uNiWOmHe3i
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Estádio.de.Washington.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Est%C3%A1dio.de.Washington.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=16QIqUmSpHYJsMHf5nI-UoLiNVjzyCHSR
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Est%C3%A1dio.de.Washington.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=16QIqUmSpHYJsMHf5nI-UoLiNVjzyCHSR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Montanha.de.Aço.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Montanha.de.A%C3%A7o.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1jVpfAh_mXzQ008tH0BUR_7VNjEYfI2LY
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Montanha.de.A%C3%A7o.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1jVpfAh_mXzQ008tH0BUR_7VNjEYfI2LY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Montanhas-Russas.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Montanhas-Russas.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1yALkIlSoApOxhrfC_CDahiXLOAYN9lS2
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Montanhas-Russas.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1yALkIlSoApOxhrfC_CDahiXLOAYN9lS2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Navio.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Navio.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1H4zsMBLaJPW0rI6lcyn0kLNYWUnJ2sFw
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Navio.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1H4zsMBLaJPW0rI6lcyn0kLNYWUnJ2sFw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-O.Arranha-Céus.de.Tóquio.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.Arranha-C%C3%A9us.de.T%C3%B3quio.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1VFMYnT5loAufchm3XvX37O-41hafeq9i
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.Arranha-C%C3%A9us.de.T%C3%B3quio.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1VFMYnT5loAufchm3XvX37O-41hafeq9i
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-O.Metrô.de.Nova.York.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.Metr%C3%B4.de.Nova.York.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1NAT_QybY2VS1YUmwV5jcdEB05aChlzZe
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.Metr%C3%B4.de.Nova.York.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1NAT_QybY2VS1YUmwV5jcdEB05aChlzZe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-O.Túnel.da.Malásia.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.T%C3%BAnel.da.Mal%C3%A1sia.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1q5czOSsZxqLlWkfVvi9FSwWJc2bpgQ_s
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-O.T%C3%BAnel.da.Mal%C3%A1sia.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1q5czOSsZxqLlWkfVvi9FSwWJc2bpgQ_s
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Pirâmide.Urbana.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Pir%C3%A2mide.Urbana.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1xNDSckn4l_fwcICURCCKgiYpGfhel5Em
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Pir%C3%A2mide.Urbana.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1xNDSckn4l_fwcICURCCKgiYpGfhel5Em
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Ponte.sobre.o.Estreito.de.Bering.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Ponte.sobre.o.Estreito.de.Bering.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1FzCH_OlhAE2_M0b0MYANFYM60ez-2IMx
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Ponte.sobre.o.Estreito.de.Bering.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1FzCH_OlhAE2_M0b0MYANFYM60ez-2IMx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Sakhalin_Gelo.e.Petróleo.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Sakhalin_Gelo.e.Petr%C3%B3leo.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1AwQW9ESEt4szHF3WBVuWqdzzsoMsiyZX
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Sakhalin_Gelo.e.Petr%C3%B3leo.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1AwQW9ESEt4szHF3WBVuWqdzzsoMsiyZX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Tanques.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Tanques.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=14beCn08bur9O6e3KAbuGF7L0M0suzine
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Tanques.de.Guerra.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=14beCn08bur9O6e3KAbuGF7L0M0suzine
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Torre.de.Alto.Risco.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Torre.de.Alto.Risco.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1ajRwDT0oeMc8AP0vxCYEEFXwkU6x2tYh
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-Torre.de.Alto.Risco.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1ajRwDT0oeMc8AP0vxCYEEFXwkU6x2tYh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-Túnel.sob.San.Andreas.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-T%C3%BAnel.sob.San.Andreas.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=12UkANdH-qvRbn9xUeGlIIy00NMMIw1n7
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-T%C3%BAnel.sob.San.Andreas.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=12UkANdH-qvRbn9xUeGlIIy00NMMIw1n7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Mega Construções", Discovery.Channel-Megaconstruções-USS.George.Bush.INTERNAL.720p.HDTV.x264-MJ.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-USS.George.Bush.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1QRH18tK3oo-Hy3QnG8dJJoX-7AMKiU2T
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Discovery.Channel-Megaconstru%C3%A7%C3%B5es-USS.George.Bush.INTERNAL.720p.HDTV.x264-MJ.mkv?a=0&id=1QRH18tK3oo-Hy3QnG8dJJoX-7AMKiU2T
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.01.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.01.mp4?a=0&id=1MCTJeNoOsgk6MyovRW8mrLnHp99QSTBM
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.01.mp4?a=0&id=1MCTJeNoOsgk6MyovRW8mrLnHp99QSTBM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.02.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.02.mp4?a=0&id=1-4TrBYpLKyMjaDdfDkkmWAgD56PLgStx
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.02.mp4?a=0&id=1-4TrBYpLKyMjaDdfDkkmWAgD56PLgStx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.03.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.03.mp4?a=0&id=1DlcdO_Wla53P5_nDEObc1BqeKTfTwFfr
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.03.mp4?a=0&id=1DlcdO_Wla53P5_nDEObc1BqeKTfTwFfr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - 4Âº Temporada Ep.04.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.04.mp4?a=0&id=1Q_VRUJVN72eIN-9HzsW7jXVMO7M1mdUA
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.04.mp4?a=0&id=1Q_VRUJVN72eIN-9HzsW7jXVMO7M1mdUA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.05.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.05.mp4?a=0&id=1lHD6LJYFL0Uu7vp7zDC19TiHP9Q2tS2m
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.05.mp4?a=0&id=1lHD6LJYFL0Uu7vp7zDC19TiHP9Q2tS2m
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.06.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.06.mp4?a=0&id=1k1ciANlP2ZKQjPuLyhkDqPVGDyztS3aL
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.06.mp4?a=0&id=1k1ciANlP2ZKQjPuLyhkDqPVGDyztS3aL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.07.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.07.mp4?a=0&id=1Hpe6w5mOHfXaUVXfM4VzgOrMhjuGeb1z
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.07.mp4?a=0&id=1Hpe6w5mOHfXaUVXfM4VzgOrMhjuGeb1z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.08.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.08.mp4?a=0&id=18ykKKQqYjCX3TJCjn6xI8x5KSBl0zhxL
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.08.mp4?a=0&id=18ykKKQqYjCX3TJCjn6xI8x5KSBl0zhxL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.09.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.09.mp4?a=0&id=1PwJtaKxBFe8IjjcoEwY6IJg-mgRgF5o_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.09.mp4?a=0&id=1PwJtaKxBFe8IjjcoEwY6IJg-mgRgF5o_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.10.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.10.mp4?a=0&id=1mgmruB8eDuMY5fuBbuiP0btjdQFKkRhx
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.10.mp4?a=0&id=1mgmruB8eDuMY5fuBbuiP0btjdQFKkRhx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.11.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.11.mp4?a=0&id=1tfZzdnTVqwC_cFY20QCLUftIcDDAn1iu
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.11.mp4?a=0&id=1tfZzdnTVqwC_cFY20QCLUftIcDDAn1iu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.12.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.12.mp4?a=0&id=1VBrEtkCy4sM06e1ud62tiQjCyr5WVVz9
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.12.mp4?a=0&id=1VBrEtkCy4sM06e1ud62tiQjCyr5WVVz9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.13.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.13.mp4?a=0&id=1WFFc69aqAvuHS-KKxi5H1u3YVRj1TOFg
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.13.mp4?a=0&id=1WFFc69aqAvuHS-KKxi5H1u3YVRj1TOFg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.14.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.14.mp4?a=0&id=1BnLKEbfO6A4RTyG3SPNvzGm9DcQTKfE5
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.14.mp4?a=0&id=1BnLKEbfO6A4RTyG3SPNvzGm9DcQTKfE5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.15.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.15.mp4?a=0&id=1UVdIcO_yzHHt9xbfTDFwJD26yd64JsJC
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.15.mp4?a=0&id=1UVdIcO_yzHHt9xbfTDFwJD26yd64JsJC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.16.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.16.mp4?a=0&id=1YOSj5-j7uQ40DwSWXMc5A20OG_II2inW
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.16.mp4?a=0&id=1YOSj5-j7uQ40DwSWXMc5A20OG_II2inW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.17.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.17.mp4?a=0&id=1R9_8E41a4aR28Fp00sBBaCCaOPIGxmjf
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.17.mp4?a=0&id=1R9_8E41a4aR28Fp00sBBaCCaOPIGxmjf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre Do Ouro - 4Âº Temporada Ep.18.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.18.mp4?a=0&id=10uxB4giGoHyWVoyuQSLVCgblJww3VsTB
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20Do%20Ouro%20-%204%C3%82%C2%BA%20Temporada%20Ep.18.mp4?a=0&id=10uxB4giGoHyWVoyuQSLVCgblJww3VsTB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - AmÃ©rica do Sul EpisÃ³dio 1.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%201.mp4?a=0&id=1cDFQXR6sEnGIucQW5gKDgWJ5y_RdEbVm
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%201.mp4?a=0&id=1cDFQXR6sEnGIucQW5gKDgWJ5y_RdEbVm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - AmÃ©rica do Sul EpisÃ³dio 2.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%202.mp4?a=0&id=1NDBGwn7QzxswY7cbrS9cAFRjylAa3vBi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%202.mp4?a=0&id=1NDBGwn7QzxswY7cbrS9cAFRjylAa3vBi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - AmÃ©rica do Sul EpisÃ³dio 3.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%203.mp4?a=0&id=1BrxHt6UvEMVXw7k0ueVV0lvLRNLA16-r
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%203.mp4?a=0&id=1BrxHt6UvEMVXw7k0ueVV0lvLRNLA16-r
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - AmÃ©rica do Sul EpisÃ³dio 4.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%204.mp4?a=0&id=1pWykIHx-umnzcSfQikqfnO0wgg5x4DJ_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%204.mp4?a=0&id=1pWykIHx-umnzcSfQikqfnO0wgg5x4DJ_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Febre do Ouro", Febre do Ouro - AmÃ©rica do Sul EpisÃ³dio 5.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%205.mp4?a=0&id=1Vu7ndiEkIVgCq736vDlqfrH4951UNITV
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Febre%20do%20Ouro%20-%20Am%C3%83%C2%A9rica%20do%20Sul%20Epis%C3%83%C2%B3dio%205.mp4?a=0&id=1Vu7ndiEkIVgCq736vDlqfrH4951UNITV
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Fora do Mapa", Fora do Mapa - Caça ao Cervo - Discovery World.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Ca%C3%A7a%20ao%20Cervo%20-%20Discovery%20World.mkv?a=0&id=1FgOtp1eT6Ck1Ves4Z7FRMAFALpid0F4q
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Ca%C3%A7a%20ao%20Cervo%20-%20Discovery%20World.mkv?a=0&id=1FgOtp1eT6Ck1Ves4Z7FRMAFALpid0F4q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Fora do Mapa", Fora do Mapa - Na Pior das Hipóteses 1080p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Na%20Pior%20das%20Hip%C3%B3teses%201080p%20HDTV-Master.mkv?a=0&id=1aN0de8VyXQZpZeWYWimxm64ce0-PFFyM
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Na%20Pior%20das%20Hip%C3%B3teses%201080p%20HDTV-Master.mkv?a=0&id=1aN0de8VyXQZpZeWYWimxm64ce0-PFFyM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Fora do Mapa", Fora do Mapa - Sem Descanso - Discovery World.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Sem%20Descanso%20-%20Discovery%20World.mkv?a=0&id=1HFjve-jQCpxMpzw76zIoTOEHANvXIKO6
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fora%20do%20Mapa%20-%20Sem%20Descanso%20-%20Discovery%20World.mkv?a=0&id=1HFjve-jQCpxMpzw76zIoTOEHANvXIKO6
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E01.Isabella.Nardoni.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E01.Isabella.Nardoni.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1FEPKCfilL84djf9XSmWFNmUKde1AmTmt
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E01.Isabella.Nardoni.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1FEPKCfilL84djf9XSmWFNmUKde1AmTmt
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E02.Suzane.Von.Richthofen.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E02.Suzane.Von.Richthofen.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pS_yzufewDsQqFYfnkR-XUcXZnHk9n8Y
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E02.Suzane.Von.Richthofen.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pS_yzufewDsQqFYfnkR-XUcXZnHk9n8Y
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E03.Mércia.Nakashima.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E03.M%C3%A9rcia.Nakashima.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1zsK9BQAaPGT44P9v3Ndajx4pAcq3CPUb
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E03.M%C3%A9rcia.Nakashima.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1zsK9BQAaPGT44P9v3Ndajx4pAcq3CPUb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E04.Glauco.Villa.Boas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E04.Glauco.Villa.Boas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1-9Qb6lGKY5xbgVvsiFXoaovIdZUZP6w-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E04.Glauco.Villa.Boas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1-9Qb6lGKY5xbgVvsiFXoaovIdZUZP6w-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E05.Farah.Jorge.Farah.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E05.Farah.Jorge.Farah.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=16niy0xtzmF1sF5PTPqhsxOxbk2bw28fJ
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E05.Farah.Jorge.Farah.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=16niy0xtzmF1sF5PTPqhsxOxbk2bw28fJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E06.Crime.da.Oscar.Freire.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E06.Crime.da.Oscar.Freire.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kOWo_utckkGfQIxxN7fe9sWpgaOjcsT3
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E06.Crime.da.Oscar.Freire.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kOWo_utckkGfQIxxN7fe9sWpgaOjcsT3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E07.Ives.Ota.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E07.Ives.Ota.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fa-uJS5f1_5BvnrLB1zHouQZZj5bulP2
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E07.Ives.Ota.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fa-uJS5f1_5BvnrLB1zHouQZZj5bulP2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S01E08.Maníaco.do.Parque.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E08.Man%C3%ADaco.do.Parque.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1C9P9JSg7p7hjfNc8Ki6NvO3RtXL1lFAf
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S01E08.Man%C3%ADaco.do.Parque.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1C9P9JSg7p7hjfNc8Ki6NvO3RtXL1lFAf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E01.Bianca.Consoli.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E01.Bianca.Consoli.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fCjMqw6JDqgVtLuoN-uoR5yE5EBUVSxN
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E01.Bianca.Consoli.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fCjMqw6JDqgVtLuoN-uoR5yE5EBUVSxN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E02.Humberto.Magalhães.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E02.Humberto.Magalh%C3%A3es.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1HO-mZ7-IFHAguAzAdhe2oEgeRK_v8gP1
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E02.Humberto.Magalh%C3%A3es.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1HO-mZ7-IFHAguAzAdhe2oEgeRK_v8gP1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E03.Eugênio.Chipkevitch.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E03.Eug%C3%AAnio.Chipkevitch.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1oIBUsip5e5sLjMmKTJYAAm0wgCRlCUp2
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E03.Eug%C3%AAnio.Chipkevitch.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1oIBUsip5e5sLjMmKTJYAAm0wgCRlCUp2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E04.Champinha.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E04.Champinha.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1YGrEa5V0Hf5UxN7DHexGa82zVCeTpGb7
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E04.Champinha.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1YGrEa5V0Hf5UxN7DHexGa82zVCeTpGb7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E05.Caso.de.Bragança.Paulista.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E05.Caso.de.Bragan%C3%A7a.Paulista.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1gOO71c5Pz6f5e7JJu3ZBIyLGWp1CZPMU
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E05.Caso.de.Bragan%C3%A7a.Paulista.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1gOO71c5Pz6f5e7JJu3ZBIyLGWp1CZPMU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E06.Irmãos.Asfixiados.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E06.Irm%C3%A3os.Asfixiados.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1T7_RIBfU7OVYEgeQQYT4HP4MUlOTx8gS
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E06.Irm%C3%A3os.Asfixiados.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1T7_RIBfU7OVYEgeQQYT4HP4MUlOTx8gS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E07.Gil.Rugai.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E07.Gil.Rugai.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1c8nIJy5BWI18wf-WoaVTwO_oGshyDrJ6
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E07.Gil.Rugai.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1c8nIJy5BWI18wf-WoaVTwO_oGshyDrJ6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S02E08.Monstro.de.Rio.Claro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E08.Monstro.de.Rio.Claro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1UpmqJ-I60Q03Hc3w6XUysVgprsPalnzz
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S02E08.Monstro.de.Rio.Claro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1UpmqJ-I60Q03Hc3w6XUysVgprsPalnzz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E01.Mônica.El.Khouri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E01.M%C3%B4nica.El.Khouri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=17d7_pEpdjsyFKcrKvbhLXptAyR6zutVv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E01.M%C3%B4nica.El.Khouri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=17d7_pEpdjsyFKcrKvbhLXptAyR6zutVv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E02.Avó.e.Neto.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E02.Av%C3%B3.e.Neto.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kf45ShWjwYCFkhyzbsE-r0BEP8H_es3b
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E02.Av%C3%B3.e.Neto.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kf45ShWjwYCFkhyzbsE-r0BEP8H_es3b
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E03.Irmãs.Yoshifusa.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E03.Irm%C3%A3s.Yoshifusa.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1dfQP9WdFf5PW-a3AqMq7nuzYOeCGyt9U
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E03.Irm%C3%A3s.Yoshifusa.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1dfQP9WdFf5PW-a3AqMq7nuzYOeCGyt9U
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E04.Aparício.Basílio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E04.Apar%C3%ADcio.Bas%C3%ADlio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1U-J80MnxmdTg77a2su8BYJS_Hj4C-XBH
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E04.Apar%C3%ADcio.Bas%C3%ADlio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1U-J80MnxmdTg77a2su8BYJS_Hj4C-XBH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E05.Victor.Deppman.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E05.Victor.Deppman.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1bp_EyoSk1RSOHrHaSta099kVxIeTxKf7
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E05.Victor.Deppman.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1bp_EyoSk1RSOHrHaSta099kVxIeTxKf7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E06.Atirador.do.Shopping.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E06.Atirador.do.Shopping.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pBgfOWZGGZV_sWcjESy6a9RgCznKd1pg
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E06.Atirador.do.Shopping.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pBgfOWZGGZV_sWcjESy6a9RgCznKd1pg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E07.Serial.Killer.de.Itaquaquecetuba.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E07.Serial.Killer.de.Itaquaquecetuba.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1I20mzGDbyo-eJOixC1Jy4_o2pqHpTOJw
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E07.Serial.Killer.de.Itaquaquecetuba.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1I20mzGDbyo-eJOixC1Jy4_o2pqHpTOJw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S03E08.Magda.Roncati.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E08.Magda.Roncati.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=17jxI3_gIgJgJ_Tof2TL8qKY42H45HXDV
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S03E08.Magda.Roncati.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=17jxI3_gIgJgJ_Tof2TL8qKY42H45HXDV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E01.João.Hélio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E01.Jo%C3%A3o.H%C3%A9lio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Qz6mvNQvxA6EQLDF00XNq_Su1305ZLM4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E01.Jo%C3%A3o.H%C3%A9lio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Qz6mvNQvxA6EQLDF00XNq_Su1305ZLM4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E02.Casal.de.Idosos.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E02.Casal.de.Idosos.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1keDjc3keoesLLt9u4bu_Mp9WRgnIZEfc
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E02.Casal.de.Idosos.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1keDjc3keoesLLt9u4bu_Mp9WRgnIZEfc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E03.Janken.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E03.Janken.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1uRNij4h7RI2abORZOztV3NFnZOTzP2C3
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E03.Janken.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1uRNij4h7RI2abORZOztV3NFnZOTzP2C3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E04.Médico.Dárcio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E04.M%C3%A9dico.D%C3%A1rcio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1HtApcceBdQFS82Z7ur59H9-OFZYwQPvy
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E04.M%C3%A9dico.D%C3%A1rcio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1HtApcceBdQFS82Z7ur59H9-OFZYwQPvy
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E05.Maestro.Mário.Luiz.Borin.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E05.Maestro.M%C3%A1rio.Luiz.Borin.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Po4GYLF2V14rRdULeQUwrqT6CXx3S0rm
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E05.Maestro.M%C3%A1rio.Luiz.Borin.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Po4GYLF2V14rRdULeQUwrqT6CXx3S0rm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E06.Governador.do.Acre.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E06.Governador.do.Acre.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1_53pVPqkM_gJLvSnP9thDD-D9p_9bwtE
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E06.Governador.do.Acre.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1_53pVPqkM_gJLvSnP9thDD-D9p_9bwtE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E07.Maria.Tatiana.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E07.Maria.Tatiana.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1L1j9dt7U9lCjVsh8T2tmgGclZHDbUvFl
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E07.Maria.Tatiana.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1L1j9dt7U9lCjVsh8T2tmgGclZHDbUvFl
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S04E08.Maníaco.de.Ribeirão.Pires.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E08.Man%C3%ADaco.de.Ribeir%C3%A3o.Pires.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1WXEOLe4GzDt-47CbK0MuIGvhdsytLe9p
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S04E08.Man%C3%ADaco.de.Ribeir%C3%A3o.Pires.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1WXEOLe4GzDt-47CbK0MuIGvhdsytLe9p
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E01.Eloá.Cristina.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E01.Elo%C3%A1.Cristina.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1mYfcOjcZGNoaX3xsU6TX5y-ntpsvR3pL
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E01.Elo%C3%A1.Cristina.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1mYfcOjcZGNoaX3xsU6TX5y-ntpsvR3pL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E02.Débora.Regina.(Universitária.Campinas).720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E02.D%C3%A9bora.Regina.(Universit%C3%A1ria.Campinas).720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Y_NJQ_zZucYtFS-RZqeXXfotZbUtlY8c
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E02.D%C3%A9bora.Regina.(Universit%C3%A1ria.Campinas).720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Y_NJQ_zZucYtFS-RZqeXXfotZbUtlY8c
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E03.Maiara.e.Nicole.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E03.Maiara.e.Nicole.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1OcTRMrkCX8ewL6PCu8clxksZsjOGu7zq
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E03.Maiara.e.Nicole.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1OcTRMrkCX8ewL6PCu8clxksZsjOGu7zq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E04.Serial.Killer.de.Prostitutas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E04.Serial.Killer.de.Prostitutas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1rN65vyBBU3L5bbXa5RqhkKUuLv902OhT
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E04.Serial.Killer.de.Prostitutas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1rN65vyBBU3L5bbXa5RqhkKUuLv902OhT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E05.Francês.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E05.Franc%C3%AAs.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1AgogbYo8GIWS_s36MW73CZpSf79ii-g1
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E05.Franc%C3%AAs.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1AgogbYo8GIWS_s36MW73CZpSf79ii-g1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E06.Família.Tempesta.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E06.Fam%C3%ADlia.Tempesta.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1xzSkiK3xlXGn-4MmwwSmB_O6L9TIyBkO
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E06.Fam%C3%ADlia.Tempesta.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1xzSkiK3xlXGn-4MmwwSmB_O6L9TIyBkO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E07.Maníaco.da.Cantareira.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E07.Man%C3%ADaco.da.Cantareira.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fi-zmYZiXl4-1K3JBJXJ6mPlMdZdTp8A
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E07.Man%C3%ADaco.da.Cantareira.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1fi-zmYZiXl4-1K3JBJXJ6mPlMdZdTp8A
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S05E08.Estagiária.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E08.Estagi%C3%A1ria.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=11j_SOkBZoilQmMBVZFFS_48Xgryvygcn
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S05E08.Estagi%C3%A1ria.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=11j_SOkBZoilQmMBVZFFS_48Xgryvygcn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E01.Celso.Mazzieri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E01.Celso.Mazzieri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1dPbbUZuoS-UD-iU-HsaEqyeBwYPn4DOB
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E01.Celso.Mazzieri.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1dPbbUZuoS-UD-iU-HsaEqyeBwYPn4DOB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E02.Cynthia.Mountinho.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E02.Cynthia.Mountinho.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1VkeVpZSECznK71ib9xs_ZnIFVlIxbEKr
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E02.Cynthia.Mountinho.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1VkeVpZSECznK71ib9xs_ZnIFVlIxbEKr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E03.Skinheads.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E03.Skinheads.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1SyOrqDDELse7bMvvNwklb4mLtI2267VX
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E03.Skinheads.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1SyOrqDDELse7bMvvNwklb4mLtI2267VX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E04.Lore.Vaz.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E04.Lore.Vaz.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1eO-RaOwdLsvojFNoDVsMGCD7tq4JLMpo
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E04.Lore.Vaz.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1eO-RaOwdLsvojFNoDVsMGCD7tq4JLMpo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E05.Fernanda.Simão.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E05.Fernanda.Sim%C3%A3o.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1hLQVykXqusPW2h-Prulw8Yw3RToQ73yA
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E05.Fernanda.Sim%C3%A3o.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1hLQVykXqusPW2h-Prulw8Yw3RToQ73yA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E06.Irmãos.Gilio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E06.Irm%C3%A3os.Gilio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pv38l9iw7STOEv88lWdOABjyYJcGC67i
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E06.Irm%C3%A3os.Gilio.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1pv38l9iw7STOEv88lWdOABjyYJcGC67i
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E07.Yuri.Barizon.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E07.Yuri.Barizon.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Z5xSOSJuvWOF0Z6vkBDmxa0PKfsFXrzm
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E07.Yuri.Barizon.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Z5xSOSJuvWOF0Z6vkBDmxa0PKfsFXrzm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S06E08.Humberto.Monteiro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E08.Humberto.Monteiro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1UBigpYRTDMj218qnnRu1w6JjJA24dpXA
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S06E08.Humberto.Monteiro.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1UBigpYRTDMj218qnnRu1w6JjJA24dpXA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E01.Elize.Matsunaga.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E01.Elize.Matsunaga.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1op5ysD_AzKXNyaQDX_Yc6cEZWETvB8a_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E01.Elize.Matsunaga.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1op5ysD_AzKXNyaQDX_Yc6cEZWETvB8a_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E02.Esquartejado.de.Higienópolis.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E02.Esquartejado.de.Higien%C3%B3polis.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1XUu11SBcLmvFajd3nxdUODT8pJ-fCOiE
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E02.Esquartejado.de.Higien%C3%B3polis.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1XUu11SBcLmvFajd3nxdUODT8pJ-fCOiE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E03.Serial.Killer.de.Animais.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E03.Serial.Killer.de.Animais.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=158OkyuCcqwjifydaHs6daCm3BhHuC6UL
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E03.Serial.Killer.de.Animais.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=158OkyuCcqwjifydaHs6daCm3BhHuC6UL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E04.Sandra.Gomide.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E04.Sandra.Gomide.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Mk_prR6lZO-00wAzs5KeVj9QadUQRzo1
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E04.Sandra.Gomide.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1Mk_prR6lZO-00wAzs5KeVj9QadUQRzo1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E05.Ana.Cláudia.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E05.Ana.Cl%C3%A1udia.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1_AlosgbgMRVVcpjUcQKbr_nMrra1W_aA
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E05.Ana.Cl%C3%A1udia.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1_AlosgbgMRVVcpjUcQKbr_nMrra1W_aA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E06.Alemão.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E06.Alem%C3%A3o.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1KJgoGjPXSIWpHA0RwyE-CZqqdytBWecs
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E06.Alem%C3%A3o.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1KJgoGjPXSIWpHA0RwyE-CZqqdytBWecs
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E07.Diego.Cassas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E07.Diego.Cassas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1twkTohSseUrnK0RJn9WOy9DB4xJf9FOI
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E07.Diego.Cassas.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1twkTohSseUrnK0RJn9WOy9DB4xJf9FOI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Investigação Criminal", Investigação.Criminal.S07E08.Roger.Abdelmassih.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E08.Roger.Abdelmassih.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kczpOtgamEG0QrvkGy-Ip4GBSPcBBGBo
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Investiga%C3%A7%C3%A3o.Criminal.S07E08.Roger.Abdelmassih.720p.NF.WEB-DL.Nacional.EAC3.2.0-PEISR.mkv?a=0&id=1kczpOtgamEG0QrvkGy-Ip4GBSPcBBGBo
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados e Pelados Brasil S01 E01.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E01.mp4?a=0&id=1zTHQk7a8PACT6IqVw9hdbKWxAhVHaCbo
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E01.mp4?a=0&id=1zTHQk7a8PACT6IqVw9hdbKWxAhVHaCbo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados e Pelados Brasil S01 E02.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E02.mp4?a=0&id=1zWo-fgr253cwO0-OZesDteTq-HKosBJ9
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E02.mp4?a=0&id=1zWo-fgr253cwO0-OZesDteTq-HKosBJ9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados e Pelados Brasil S01 E03.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E03.mp4?a=0&id=1zfUuBO4IUR4-paNRhj9VdbJdLx5usOom
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E03.mp4?a=0&id=1zfUuBO4IUR4-paNRhj9VdbJdLx5usOom
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv?a=0&id=19Q5Nm1YlZ16YWk5juALw2WUz43qc55P7
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv?a=0&id=19Q5Nm1YlZ16YWk5juALw2WUz43qc55P7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv?a=0&id=1Ux4TmHLKrjycJw5VbxIvtJiF245eVAOk
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv?a=0&id=1Ux4TmHLKrjycJw5VbxIvtJiF245eVAOk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E01.MP4.DUB.BaixarSeriesMP4.Org.mp4
 
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E01.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1BZ5OMXZewme9b1dX_919BR4F_gyZYndX
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E01.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1BZ5OMXZewme9b1dX_919BR4F_gyZYndX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E02.MP4.DUB.BaixarSeriesMP4.Org.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E02.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1IdHZhqMK0vguVmn4j97ZKxQG1akmXvaQ
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E02.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1IdHZhqMK0vguVmn4j97ZKxQG1akmXvaQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E03.MP4.DUB.BaixarSeriesMP4.Org.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E03.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1tm3OiMpzHFoBStufgXCsisVphj_lPwI4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E03.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1tm3OiMpzHFoBStufgXCsisVphj_lPwI4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E04.MP4.DUB.BaixarSeriesMP4.Org.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E04.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1lSm7oqGrh6ZMNZlujimkyYdMGNmgf0_j
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E04.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1lSm7oqGrh6ZMNZlujimkyYdMGNmgf0_j
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E05.MP4.DUB.BaixarSeriesMP4.Org.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E05.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1a1YKG3vc8yMAUMLageaf3QzsGZzhc7ar
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E05.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1a1YKG3vc8yMAUMLageaf3QzsGZzhc7ar
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E06.MP4.DUB.BaixarSeriesMP4.Org.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E06.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1PRHQlPqdsIRoJLuKSeOXH8Ya9DLefMuI
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E06.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1PRHQlPqdsIRoJLuKSeOXH8Ya9DLefMuI
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 1 480p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%201%20480p%20HDTV-Master.mkv?a=0&id=1xl0AD9zx1Nm0IyJRuZxwFCwHhaDP48Ak
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%201%20480p%20HDTV-Master.mkv?a=0&id=1xl0AD9zx1Nm0IyJRuZxwFCwHhaDP48Ak
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 2 480p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%202%20480p%20HDTV-Master.mp4?a=0&id=1wltaWFWR5xgrkbAvoZ3QXTMdzBEgU_n8
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%202%20480p%20HDTV-Master.mp4?a=0&id=1wltaWFWR5xgrkbAvoZ3QXTMdzBEgU_n8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 3 480p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%203%20480p%20HDTV-Master.mkv?a=0&id=1wJ2IaIYzt4gBozNWCUFG8Nh8V9JmXLvM
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%203%20480p%20HDTV-Master.mkv?a=0&id=1wJ2IaIYzt4gBozNWCUFG8Nh8V9JmXLvM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 4 480p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%204%20480p%20HDTV-Master.mp4?a=0&id=1CzaGTyxv-MqGcDOvz_lBWQYDB7JLVULE
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%204%20480p%20HDTV-Master.mp4?a=0&id=1CzaGTyxv-MqGcDOvz_lBWQYDB7JLVULE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 5 480p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%205%20480p%20HDTV-Master.mkv?a=0&id=1Az4WeSmqIjsbLSTiDTSEXznMCW4UTzn-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%205%20480p%20HDTV-Master.mkv?a=0&id=1Az4WeSmqIjsbLSTiDTSEXznMCW4UTzn-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 6 480p HDTV-Master.mp4
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%206%20480p%20HDTV-Master.mp4?a=0&id=1miLDnoqvt6d8drY4WNCEFTkags4tnKVk
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%206%20480p%20HDTV-Master.mp4?a=0&id=1miLDnoqvt6d8drY4WNCEFTkags4tnKVk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 7 480p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%207%20480p%20HDTV-Master.mkv?a=0&id=1C5rEWAeXhZ9hdKGiLquZJiDi80vrjSIT
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%207%20480p%20HDTV-Master.mkv?a=0&id=1C5rEWAeXhZ9hdKGiLquZJiDi80vrjSIT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Zona de Conflito", Zona de Conflito Ep. 8 480p HDTV-Master.mkv
-https://amazonplay.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%208%20480p%20HDTV-Master.mkv?a=0&id=1p3V-4jhTQMVedZrLKACrgJZGksybbU7K
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20de%20Conflito%20Ep.%208%20480p%20HDTV-Master.mkv?a=0&id=1p3V-4jhTQMVedZrLKACrgJZGksybbU7K
 
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="- Reservado", Reservado
