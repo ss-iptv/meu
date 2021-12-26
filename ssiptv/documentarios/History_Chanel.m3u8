@@ -2,7 +2,7 @@
 #EXTENC: UTF-8
 #PLAYLIST: !HISTORY
 
-###[#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Modelo de Categorias",]####
+###[#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="- Reservado",]####
 
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS (1980)
@@ -205,3 +205,300 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%20Epis%C3%B3dio%2001%20-%20As%20Paralelas%20se%20Cruzam.mp4?a=0&id=1wpxoo84-qtKM6a_Pas5qSfUhlbnBurMe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Unidos pela História", Unidos pela História - Episódio 02 - Resistências.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Unidos%20pela%20Hist%C3%B3ria%20-%20Epis%C3%B3dio%2002%20-%20Resist%C3%AAncias.mp4?a=0&id=1rI_I_7yeyhktPCPJRDDa2fAcO3PaVP80
+
+
+#PLAYLIST: O Universo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E01.mp4?a=0&id=130nSMy9f8y9dRSFnhgrf-6eP_IK8cNxw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E02.mp4?a=0&id=131LV5fRawVfw7aJtCb4nw4Uv91Ni_PMn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E03.mp4?a=0&id=131az7S2h-bqknWKzC1b50m-8xbq4FJUO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E04.mp4?a=0&id=1328-9zcZ3vQ8f67akplDm6lmnljXYj8G
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E05.mp4?a=0&id=132JUo4WDnzQZHQrhI-KaTcVu5eC4-FNB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E06.mp4?a=0&id=132TREClXHEGFMVqM8OVDQmR_Kh8wMIca
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E07.mp4?a=0&id=132nxxAb6bNA5iWKbHnVXgEg0f8DsHBHg
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E08.mp4?a=0&id=132quddsTLaCP4vyRheqpqdjZEaEO4eif
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E09.mp4?a=0&id=133NFhbf9DSzZjPY-sj5OrE5oBfKrOK7w
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E10.mp4?a=0&id=133e4kT_7ypbnE0tACIR63BRxZfF6No_D
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E11.mp4?a=0&id=134U-rF12ctAiiwlH0epdyO30vjZzK9bf
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E12.mp4?a=0&id=135IyLPRZLmPQsdCFqNPepcY5FL8DDxMp
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E13.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E13.mp4?a=0&id=135PmExyAeEJWi1c8B10K7tHRPd93rH-i
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S01 E14.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S01%20E14.mp4?a=0&id=135dNv1500Ixh_g43xClvarwzT-RqXGJ5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E01.mp4?a=0&id=1362AWvLsnDIh2Rmu9US-lfcrM76y07dm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E02.mp4?a=0&id=137M265nTbFljnofg5xuwMWmyxLa0KVWB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E03.mp4?a=0&id=137og9B4p_ZX71fsePafT7qA3qVz76iUh
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E04.mp4?a=0&id=1380SgwpHO75aVOl11xNjqnoPB5u9Nlu5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E05.mp4?a=0&id=1388vt3TTk4nL473wWHpL81bPcmfcZu50
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E06.mp4?a=0&id=138mj7lZu7ntks8YsbwEX-ohpeeNRM6L6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E07.mp4?a=0&id=1390mTGcwdtNGaOgS_fMxl-twL5_62zOZ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E08.mp4?a=0&id=139DZLItQ8zgsFjoVhgs5DBn8C8735WAi
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E09.mp4?a=0&id=139GDN3By134dWe96-daiEgVqZ6o6yvLY
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E10.mp4?a=0&id=139S_KEQekXxE5oPOEYdeM5ohCSvZWXyQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E11.mp4?a=0&id=139ttm78bP-br_OhXrNY4pXivG9JlKbhD
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E12.mp4?a=0&id=139z4E5AUqDttkt1y4GaKF04igvpBxH6j
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E13.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E13.mp4?a=0&id=13AvQrcJFYCeJWHiTW1x7PP6Txn229GjO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E14.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E14.mp4?a=0&id=13BG0j45AP6bgk5gzxQ6FV1TD8GluhVis
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E15.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E15.mp4?a=0&id=13BRrIhR11SGWXP3yPUeUqtnKTyF8eMlk
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E16.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E16.mp4?a=0&id=13C0toey6RNho2g7XKmL2nUCRGgdtAWVA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E17.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E17.mp4?a=0&id=13CT7mVqlBLD9b6T9vua3pt3hcXfw7E6V
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S02 E18.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S02%20E18.mp4?a=0&id=13CkCpilER03N6RygWWp7jkOR46EH8aiC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E01.mp4?a=0&id=13CkV3G3pA3EQqVR9AGx6dALxMt_t_-a8
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E02.mp4?a=0&id=13DrgaWJJwgIXat2dESEhgdF8VgM1rtNU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E03.mp4?a=0&id=13DzH6bVlbOThmaqIRQBncd5Xb-O-uAnk
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E04.mp4?a=0&id=13EK8wrHVtEqj3GlhKC07jRkv6HLnutfn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E05.mp4?a=0&id=13EPSnb6ljqH8ugTKAFgQ0UwAHTXToob2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E06.mp4?a=0&id=13EoHjZ4adhUnhWLupFWbI1UR_dP1twqJ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E07.mp4?a=0&id=13FBgW5KkINwvh83WQIFZEAXdlkl9fvtQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E08.mp4?a=0&id=13FhEXGbnzb4kQmPlSNsE8B6W8Ycx-SnA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E09.mp4?a=0&id=13FqpGxvztIdpQDj-Crk_EhD91ugfxvrM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E10.mp4?a=0&id=13GQ35XaQwNEoi0et_QR-rAMr2u0BgQl5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E11.mp4?a=0&id=13GRNpx4cWXAAbqkwK7xqNvn3ZUsV0TBt
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S03 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S03%20E12.mp4?a=0&id=13HPFpi9ViICT_uz3qaJib0IlrxHg7VHc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E01.mp4?a=0&id=13HSZ3vs28G1M7CEsU1wvcpJ--6qcDT4V
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E02.mp4?a=0&id=13HlG5474IMBLJJylVMR1IJ0RLLk2Oops
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E03.mp4?a=0&id=13IApzDx6IMnAB8-Jik7AbGKEL0LXTL31
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E04.mp4?a=0&id=13Iw-r0ulg-eHq2JJOY53MVN62ZzPgYyG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E05.mp4?a=0&id=13J5IoubngjdSUrtR6EtEtMJKMjHzxZWn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E06.mp4?a=0&id=13J80B_wf9H1vcStz3IgwOeZaG1YTqep4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E07.mp4?a=0&id=13K95Q7OvXp87tJFqI_XHWfGDT9AiZKDC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E08.mp4?a=0&id=13LQ771HX8CoXyNqc5q3XJ8YK-JvCObxv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E09.mp4?a=0&id=13MFB6PIa-AwA5Gvv7beprwL2V6JYnqRg
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E10.mp4?a=0&id=13MMk8gR4c-jeU6C4_O5l0_5RydSoYQVC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E11.mp4?a=0&id=13MP5PbLJHY59nQrmHTWP8VA6DI1EzIHu
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S04 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S04%20E12.mp4?a=0&id=13Nr4EblMx1tz70Hwci-oGgJL_Ju12Ac4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E01.mp4?a=0&id=13O5dh2NOz4kpLjWpZhpKvVV39Ggdaf0d
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E02.mp4?a=0&id=1ygRqvMWBxCDu0YzeKlXkLo_Pnp8wqXVE
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E03.mp4?a=0&id=1yvtNn4tB4OsyJxdqzUibZDCGKo9dSNxj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E04.mp4?a=0&id=1z63yBrwUIhrrkgUWZEH0B0jofl5FVk4w
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E05.mp4?a=0&id=1z6d3KNCh-YMoD-zILgsi4-KTEGdq2XXA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E06.mp4?a=0&id=1zHZbuq8pTqGyu6Sm0OdW7q7znkMwPh4H
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E07.mp4?a=0&id=1zKLZ_TLxaIrBKpP4hopiPawmEoM1xTvJ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S05 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S05%20E08.mp4?a=0&id=1zPlR5SaoyS8uFqyI0NNSqOsfkFxZ45mz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E01.mp4?a=0&id=1xzPEkaXAEcOxpwy-NKh_07EPRkEm5dFx
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E02.mp4?a=0&id=1y4o-7vAdEGZmMB_T_lzuS4SCNlIWUiHA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E03.mp4?a=0&id=1yCx8Z0knFq-H1vdn0RJeMYzzbffOezgl
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E04.mp4?a=0&id=1ySpC1sI5culFXDl1hyHFk6ofS5hzDQOA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E05.mp4?a=0&id=1yW-osQ4REGB-NGG6wjlL11OMgP9j_t1f
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E06.mp4?a=0&id=1ydY5hdH6v_gkG7br_CBmFyg15k4_Vwks
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S06 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S06%20E07.mp4?a=0&id=1yee4svgkOBrecmcMg-QLx3F-jTajSPuC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E01.mp4?a=0&id=1xKJrPTEApUbh0J0gPRLGV5eDlWCHjmTC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E02.mp4?a=0&id=1xL_XJvBeV35kZ46RGBMmYTuUsXbTEOa3
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E03.mp4?a=0&id=1xS-HEO9Vqjs_9rbD-IlZry8dqVJG3g2E
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E04.mp4?a=0&id=1xSXgn0fnrdOo0xOdzTfZpOgQzv9NOFPj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E05.mp4?a=0&id=1xXCMmskh0Asmp-aj00lL7w3qT2EIUpSX
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E06.mp4?a=0&id=1xbfK5HsThkH09i0St0zN5fWUKNmFa3FR
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S07 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S07%20E07.mp4?a=0&id=1xlpdlnq0Z9FW-9pU-9D9qCqGxsxcDUWO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S08 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E01.mp4?a=0&id=1x16NpbwcMiX5YQRj8AdAzxfW8ZC1eV-Z
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S08 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E02.mp4?a=0&id=1x1j329nwNR5N0hNwm-SyUtNdmK5c4OcQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S08 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E03.mp4?a=0&id=1x8x_G2OL3-gpJQ8v7c_bFO16q7aorqEC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S08 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S08%20E04.mp4?a=0&id=1xG2szYTObp9wDsgFtACQuYmGPZ196Sau
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S09 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E01.mp4?a=0&id=1wdWukfnNCRq-PBqq_14yFKSqarhjaUUr
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S09 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E02.mp4?a=0&id=1wfC5SxgsHsE5DMnZVqyxORS3HtaGsjz2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S09 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E03.mp4?a=0&id=1wlVBzHQxlxNIMbMgtLWSrqeI5wxpuSOe
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="O Universo", O Universo S09 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Universo%20S09%20E04.mp4?a=0&id=1ws4r0LwHokxL9HLgpSQVGz4JZO0FL_MV
+
+
+#PLAYLIST: Cosmos Carl Sagan [1980]
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E01.Os Limites.do.Oceano.Cosmico.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E01.Os%20Limites.do.Oceano.Cosmico.avi?a=0&id=1J1MVI3opIciL8FR39WypxG8FZKw62KPr
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E02.Uma Voz.na.Sinfonia.Cosmica.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E02.Uma%20Voz.na.Sinfonia.Cosmica.avi?a=0&id=1CMGoAAAS2c3eVSSR8Rd4ka6almIeRPMn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E03.A.Harmonia.dos.Mundos.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E03.A.Harmonia.dos.Mundos.avi?a=0&id=1eoYyX-L5Tp9pDq9xVDfZEcmdhta7j3z6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E04.Ceu.e.Inferno.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E04.Ceu.e.Inferno.avi?a=0&id=17_WA2qycKYEZRUzoI9NCDA2uyPFQif2L
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E05.Os.Segredos.de.Marte.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E05.Os.Segredos.de.Marte.avi?a=0&id=1NCyskJjMH-llez40IkKpiOyRTv9QWbb9
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E06.Historias.de.Viajantes.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E06.Historias.de.Viajantes.avi?a=0&id=189X5z6HhQkdQesTK7Nv7OJ7xiEHLuT22
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E07.A.Espinha.Dorsal.da.Noite.avi?a=0&id=1ZAqrfxqM-Uv95-x202zDXaE87JUy0UHb
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E08.Viagens.no.Espaco.e.no.Tempo.avi?a=0&id=1WqxFLNlVscKZqeXrm5OXLv-2olhfPi4E
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E09.As.Vidas.das.Estrelas.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E09.As.Vidas.das.Estrelas.avi?a=0&id=1jFLmZpcsa-AagSURunFU0S0jRpzhzVT9
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E10.O.Limiar.da.Eternidade.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E10.O.Limiar.da.Eternidade.avi?a=0&id=1rwLO_JEMfvD5LaD3w4-M5VPCMJl7zH4e
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E11.A.Persistencia.da.Memoria.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E11.A.Persistencia.da.Memoria.avi?a=0&id=1jCS4NIoaWUxTT3qYSj16OJnzf2kcN072
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E12.Enciclopedia.Galactica.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E12.Enciclopedia.Galactica.avi?a=0&id=1B5g35VasbM1aqhVdaoW9oI3914Zo_juM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Cosmos.E13.Quem.Responde.pela.Terra.avi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos.E13.Quem.Responde.pela.Terra.avi?a=0&id=1-wucFN6l_CVN7HHDzEs08BXwKlwSxq4X
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos", Imagens
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Imagens?a=0&id=1vM1BanfA_De3unPTZmSSE5noyi1wyqYy
+
+#PLAYLIST: A Grande História
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%201%20-%20Sal.mkv?a=0&id=17gqnjgsV-3jpxH1uiQ1I2S1JW3g_JkQS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 10 - Desafiando A Gravidade.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mkv?a=0&id=16onSkHjYCKYcLS9fZ7MQnOJBgQEfUE_r
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 11 - Máquina do Tempo Portátil.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2011%20-%20M%C3%A1quina%20do%20Tempo%20Port%C3%A1til.mkv?a=0&id=1lSLUkiDATqnc3YU__nPrKIFWFNEjdxhj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 12 - Meteoros Mortais.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2012%20-%20Meteoros%20Mortais.mkv?a=0&id=1wW1LkXpSv8CGProuVPDPROTgZtf12LZ2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 13 - Decodificado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2013%20-%20Decodificado.mkv?a=0&id=1HLDlmgyPXBzA6MUO58lKV5UJ6wiOhXmF
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 14 - Supernova de Prata.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2014%20-%20Supernova%20de%20Prata.mkv?a=0&id=1kuHIYhgRCJlHetoNnwgAuL7dHmdj_bIC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 15 - O Sol.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2015%20-%20O%20Sol.mkv?a=0&id=1LrOznzCCAUGN02hQHAFwd3Pr4o2jyFvN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 16 - H2O.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2016%20-%20H2O.mkv?a=0&id=1C8W3_4cRFRsVSww7NXnmnya-DwOHA9Eq
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 17 - Final.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%2017%20-%20Final.mkv?a=0&id=1FTtOJeF19qYKB2csGofxxx-jyNUxqeGM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 2 - Ouro.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%202%20-%20Ouro.mkv?a=0&id=1buS5WLZVht4oY_eUdUA-asFDxzBIaThY
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 3 - Cavalo.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%203%20-%20Cavalo.mkv?a=0&id=1qTiR9fNC-JkG0K1Q8jI8z7DONWEBmyWw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 4 - Abaixo De Zero.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%204%20-%20Abaixo%20De%20Zero.mkv?a=0&id=1zKiMa-vlUmybTq49RpzHHHVgvjiK8PpG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 5 - Megaestruturas.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%205%20-%20Megaestruturas.mkv?a=0&id=1WQORtA2uCjol5IRCBTKykkkTqtmLsFNK
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 6 - O Mundo Das Armas.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mkv?a=0&id=1vXXBE29tqzqw_qR8MCnKPGkppgK_aKkt
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 7 - A Ascensão dos Carnívoros.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%207%20-%20A%20Ascens%C3%A3o%20dos%20Carn%C3%ADvoros.mkv?a=0&id=1JFF8Wra-OAtDgWas9RCkQLBxcGmjG3Qc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 8 - Montanhas.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%208%20-%20Montanhas.mkv?a=0&id=1y5c9ESfABQLAcpPL6EavBSKZkf45Sbgz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 9 - Estímulo Cerebral.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%209%20-%20Est%C3%ADmulo%20Cerebral.mkv?a=0&id=1ea4DE8L1p3LWXXmayU7xvn3U6fybttXw
+
+
+#PLAYLIST: Cosmos
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E01.mp4?a=0&id=1p8dLvsOprJHrc7V5L_cqDdEJ2qS0621l
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E02.mp4?a=0&id=1pFcp7UiQ5ONesXcod-PkQLK6FaXv2Q8e
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E03.mp4?a=0&id=1pJt3lcYRerj9SwraWK3bAop3zjfFg3n7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E04.mp4?a=0&id=1pKRP_rejJDLBbPD5QGCrwGB6CiHh-8oA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E05.mp4?a=0&id=1pQqbXfFm6tcpVnvWdN5oGWd9m_r_UhDQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E06.mp4?a=0&id=1pXL1BaDai5XKXnkovBXi9HXyFpR1yYOS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E07.mp4?a=0&id=1pXpEFrw2ebZpfYTZ6PH5LiqJsl0BEF3i
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E08.mp4?a=0&id=1pcD4aBnK2rnV8zKIEywTAe_zwpoAQaIQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E09.mp4?a=0&id=1pprfp_na_JXXLDvQay4LYfwuXXdla3Ab
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E10.mp4?a=0&id=1pqz6dr8njWzRr81tB4y4dBeD47cxeMNm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E11.mp4?a=0&id=1prVB_FaKgxNd-ONWw1CH7XpfTJGeapto
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos Possible Worlds [L]  S01 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20Possible%20Worlds%20%5BL%5D%20%20S01%20E12.mp4?a=0&id=1pxMDov_xeztDWPnmjNllGQa9Oj7AlfHS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E01.mp4?a=0&id=1pzQs9YLudeXzoGufRjzd2iyzS0X-Owyw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E02.mp4?a=0&id=1q-NsTvErh28_xaJPLRZ-o1QM9zKlH4Lb
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E03.mp4?a=0&id=1q03KJfUtxVRNWDa6Jb3qpJCvN2kVby20
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E04.mp4?a=0&id=1q5TL4480Mmj1a8xj58--GrSWzund0FTR
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E05.mp4?a=0&id=1q689vgdCMtTBi77aL9-xiC0tYqvIFze2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E06.mp4?a=0&id=1q9HSL8WJvVALITTzFQns0JqRr2pxmn92
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E06.mp4?a=0&id=1Y6qEYnp_Im_AUc86jHs4uCJbflMr7hjJ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E07.mp4?a=0&id=1YBImKI2IXjPwWL7ziCQFGIx7DCSnZVzN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E08.mp4?a=0&id=1YD_6X8e8eDNsWx3LXD7SnYfQg-jSVKBG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E09.mp4?a=0&id=1YPUyoRmemZT-xgoFcr3M482TRkkRmRXt
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E10.mp4?a=0&id=1YZJdhNSnt31csjHej7Dy9GujPab3KMsc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E11.mp4?a=0&id=1YcKKn1q7OhQCqrPD_urlQMhNPnLQogsl
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E12.mp4?a=0&id=1YdyQQZIZUr9RUxYbZdLX11froIv6MM5b
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Cosmos - NatGeo",, Cosmos S01 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Cosmos%20S01%20E13.mp4?a=0&id=1YluEJSg2vN_poxcj8j5CTgkR6Wnso3CT
