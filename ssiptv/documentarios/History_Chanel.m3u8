@@ -4,20 +4,6 @@
 
 ###[#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="- Reservado",]####
 
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS (1980)
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/Cosmos_Carl_Sagan.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",COSMOS
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cosmos.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",UNIVERSO
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/O_Universo.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png",RESERVADO
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/documentarios/O_Universo.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A Grande História", A Grande História - 1 - Sal.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Grande%20Hist%C3%B3ria%20-%201%20-%20Sal.mkv?a=0&id=17gqnjgsV-3jpxH1uiQ1I2S1JW3g_JkQS
 #EXTINF:0 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png", A Grande História - 10 - Desafiando A Gravidade.mkv
