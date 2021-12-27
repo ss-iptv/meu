@@ -2239,3 +2239,71 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E06.mp4?a=0&id=1QBr7fOBubbc-HmdueyU-kjtHBKZpun7E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E07.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E07.mp4?a=0&id=1QEZuYeapeBqCHrplMMvAnBaFqJg7xRhs
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Krypton
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E01.mp4?a=0&id=1WdzPhDIvNy0brxACYj13-sunXDHTxQGL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E02.mp4?a=0&id=1WkG2iovy3J-G9QZssGvGP7nlnKR7BS1P
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E03.mp4?a=0&id=1WmuEkcn9v2XGkLbMCf-SVZICSzmLfWnM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E04.mp4?a=0&id=1WnESxo0UZyxdSXu0jH5LDfp6F67LvhXy
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E05.mp4?a=0&id=1WnIXXuozxSJH344LofOnp74hOOuVILIq
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E06.mp4?a=0&id=1WtJdgPv8vlj10O6nACuPGr3t5Gy1FMCL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E07.mp4?a=0&id=1Wx5lBYGBz565LkU0o6Au6PI6lMy0ZeZ2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E08.mp4?a=0&id=1X3j2qSfxjlGwZcIWoPaQCx1iEoOf8dNU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E09.mp4?a=0&id=1XGrseJzcLl4jw2T87GMwTrFmyIOAt1N4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S01 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E10.mp4?a=0&id=1XRH1bHfenCXZ4PN-pOZ_fOddr5ZgRCFl
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E01.mp4?a=0&id=1XWZ9sGZWrsVvsw6jCaw7ri0KsGYWSAqh
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E02.mp4?a=0&id=1XX0-QmgQWHiwo1m2qnpB0-PqmlPsYAVn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E03.mp4?a=0&id=1X_YrLCiYSCrsx4BeEKR7BqCnCIPYJB7A
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E04.mp4?a=0&id=1XjewC4XmRFSBoSKOGPf2mHm-T2b5L0VW
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E05.mp4?a=0&id=1XkASHwZ3FIrWNVDItOHDz6Kk64mnhEpQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E06.mp4?a=0&id=1XklnD3WD_4GTLBvzdU5aWSKXPS8V06QO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E07.mp4?a=0&id=1XnstzxzDSy7jGRJAPJKJ4vaSuNCZjAo7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E08.mp4?a=0&id=1Xqd8vmrbQZzVxF9MIEtdCbwoH6MrJPFz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E09.mp4?a=0&id=1Y5zXQavD01fiU-DXqbcBzfrbLe7GYET7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="Krypton",S02 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E10.mp4?a=0&id=1Y6hsDVg76_8smapORGjAMwz31VK7xul6
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Lovecraft Country
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E01.mp4?a=0&id=1AlcPiN53qzp04H7IUgapKlIuXkjEJnZG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E02.mp4?a=0&id=1BQeKM9jCT2d-yoLCXJq59fFPlRlqV9fz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E03.mp4?a=0&id=1BQkS-5HjtJ3j6Kkuo3s43EsVfSpYAZeC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E04.mp4?a=0&id=1CcigCextecxwENVYsAw79Uu5FkK7CM3z
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E05.mp4?a=0&id=1D2pMTzoSah2xFmNn_gK6ne_qgdpZvVmv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E06.mp4?a=0&id=1D2uFEN4kB_BoCsK1CBeU5tuHtazGHFNH
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E07.mp4?a=0&id=1DRD5eIQuGgJ3VbQEmxlwMQHfDH48xQxp
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E08.mp4?a=0&id=1DRzVV21BvYRfheYjm-efKF4a1bhT3kQo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E09.mp4?a=0&id=1DS6YPqsVKxfNy3tvsxk9WzOLirBeSKnT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E10.mp4?a=0&id=1DT6-F6fezWGl7y0Iw-PjgvDyqbB3vEZi
