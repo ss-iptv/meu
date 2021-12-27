@@ -1,4 +1,5 @@
-#EXTM3U
+ #EXTM3U size="medium"
+ 
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="A Garota da Limpeza" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Garota da Limpeza
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Garota%20da%20Limpeza.m3u8
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="A Sete Palmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Sete Palmos
