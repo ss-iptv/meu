@@ -1678,3 +1678,354 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/CSI%20Nova%20York%20S09%
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/CSI%20Nova%20York%20S09%20E16.mp4?a=0&id=1YzwLoFn50YS1Am-Er__HlEJraYXiVSk-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/spy-male.png" group-title="CSI Nova York",S09 E17.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/CSI%20Nova%20York%20S09%20E17.mp4?a=0&id=1YwXwmQ-tg-JWb27ha66gg7iVDD0h0RCz
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Das Boot
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E01.mp4?a=0&id=1-11EZ7Fn9RF0FajQbRvPCyD_0q5UxqOS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E02.mp4?a=0&id=1-1ClayvxkE_2Ri-3JVP909TJ5IZtrnMP
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E03.mp4?a=0&id=1-1G9aQ48lN8l-asAaycvUbmuJTnTVTlB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E04.mp4?a=0&id=1-2WE_1Fin3rs3waoWppQDw7xGkGalFhL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E05.mp4?a=0&id=1-3KG2pjQRZsbz3orxEBQirwBNmUzcfoG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E06.mp4?a=0&id=1-4fWJpLM2FKMv0J8Y1zBftVlowqfIW2t
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E07.mp4?a=0&id=1-4oC2dcdhl-TZCZF1oWJBOSfIKWWRWKT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S01%20E08.mp4?a=0&id=1-4pNbK0fGIfb90fr0pHyJRlqqlj1pOrT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E01.mp4?a=0&id=1-5W2JQGHM4B02tWHe8hmMuUpLItelQmL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E02.mp4?a=0&id=1-5XOqxS4ib2dAqdl9mL8Y6V4QqiolEv1
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E03.mp4?a=0&id=1-5lFtUlRHla16GyOqlAqeduOaXs5EZ6X
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E04.mp4?a=0&id=1-6VW9raQ-6nnkviBmLMsfO6eb2vM3SaV
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E05.mp4?a=0&id=1-6ZVQAb0gd6NOzwDrim_nmiLLjhU1Fr_
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E06.mp4?a=0&id=1-6hJPSsb4KqWwVKjxiT3ZQuOXRIewTi_
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E07.mp4?a=0&id=1-76F7zID1Y641EFjtVk5fJEWt0EK_URS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/submarine.png" group-title=" Das Boot",S02 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Das%20Boot%20S02%20E08.mp4?a=0&id=1-8YoYz4v_x8zqJUnxofkBsF8WlRhSoPn
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Euphoria
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E01.mp4?a=0&id=1XQjpfRQdo4odVIl8NREG9TBDchdKjank
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E02.mp4?a=0&id=1hEMAVv_ItzR8EVPIXlcP5yRG4kL_BoH-
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E03.mp4?a=0&id=1kNF3lBxEoiqCAccbarwoK42AkfV7pt4t
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E04.mp4?a=0&id=1vfcBq0t7ddz2OAbktAxy_SudawG8f0n3
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E05.mp4?a=0&id=1-VXEq22C2qgGIA_MIBVd7mwpLR9o5VUD
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E06.mp4?a=0&id=1c_b1f70LimzRPGPOyD_Vljg-ugA6IwW3
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E07.mp4?a=0&id=1H7wLllwrIgH7z93Jlr11llT3KcDZPyCr
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Euphoria",S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E08.mp4?a=0&id=1Dmrf7Q_Iv1GIr-0Sagao3MAgt6aurLkW
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Família Soprano
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E01.mp4?a=0&id=1ov5U7TViLF_ftRX-z-qZ3XRLKySWWZK7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E02.mp4?a=0&id=1oz0NFXJS2zAdjge7pyHXnKai7X-98JWt
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E03.mp4?a=0&id=1p0IyYWiIosvTUWnM_wv1D3uCBZW5MOE6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E04.mp4?a=0&id=1p0Lxhuk_H0DwcRBRHOPfjTaci8EeeCsc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E05.mp4?a=0&id=1p4rU0UGRKphWeOoA1xDJ-xT6P9O4xkWm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E06.mp4?a=0&id=1p56ht2sbigzUxmMlNKAccSQnQ1u2lXKn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E07.mp4?a=0&id=1p5hrCtLH-EGTvFbX08NhhBSmhFuhPfiw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E08.mp4?a=0&id=1p642iodsqqGN8HoyQS2hwkfjumkghcEc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E09.mp4?a=0&id=1pAG3qd6sGEhLiPRlYfUyvbbdjl0eagji
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E10.mp4?a=0&id=1pB-lOn8157CmfQ0IiweiR0rtvZjynXX9
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E11.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E11.mp4?a=0&id=1pB2I2xg9st1yDQjxBnqfSb1G5O8HICka
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E12.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E12.mp4?a=0&id=1pCY4BzgVF4lWqVcc3DyNSk0x8aYq4l4i
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S01 E13.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S01%20E13.mp4?a=0&id=1pGvw7f4rrQWHrI-0u4ch-ytXlRpH1hQf
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S02 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S02%20E01.mp4?a=0&id=1pF-QrBGY1PIwITt6AEG8Fe1uMvC690vu
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Família Soprano",S02 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Fam%C3%ADlia%20Soprano%20S02%20E02.mp4?a=0&id=1pJbxZbA6rgab2Wvj8JU5zU7GL4mdVZd6
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Friends
+https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E01.mp4?a=0&id=1ug5tOopGcHCze-Mkkfe48fMBB53cHmEC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E02.mp4?a=0&id=1atmks8EbgBaeb-syUwQqfCiL8caf0cU1
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E03.mp4?a=0&id=19ax2b0D437GALuLgaLXghrUdlUnJHn4F
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E04.mp4?a=0&id=1OxJor9dtoCvXCTBEFTLA3Ey7TKhuOuYw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E05.mp4?a=0&id=1iMNfW6Zn258RjxiNeMYE_AELy5dZf_DW
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E06.mp4?a=0&id=1TmQXuBTIQGslvias3eQZHj__si0MZc-d
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E07.mp4?a=0&id=11xYFVfY5R7uqCs2WUZYG5K24exRTUilA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E08.mp4?a=0&id=1OzIlwl4s4FN77gG9GrPbytsz5tx1wQH_
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E09.mp4?a=0&id=1AD9_1rt4Riz8uuWiJcCEm6zOGHfXLoSQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E10.mp4?a=0&id=1XRrhwJblF9EO-ZFPGUvI9gMO5U-XCQdw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E11.mp4?a=0&id=1ONoqwQVBY45X3HMsgzBRAMAlrAoo8l1Z
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E12.mp4?a=0&id=1PTxC7ZijI6Ecv1InSc7IcZsz1Cs-UNDs
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E13.mp4?a=0&id=1Ej3mXrST1xIBmv1BL-Bf9hgem9N56JRn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E14.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E14.mp4?a=0&id=1AlEvE805dZyjq6KqNBKv1eDaOdb8S84E
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E15.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E15.mp4?a=0&id=1KHksR7neQwaUr5U6jP2HqSBuwdUdjCYx
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E16.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E16.mp4?a=0&id=1BIN97Whpg2Br0gEk9bOB51xrSfCnEzYw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E17.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E17.mp4?a=0&id=1TfSw_5o-wRNpQJ4zimPRDMoOqouZFDpw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E18.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E18.mp4?a=0&id=12ctwvbH7BEHm4mXZsn8iTUeTLaxzOmP7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E19.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E19.mp4?a=0&id=1BDpxRYgrAW_E0xjPIvrt7rNxXrBlFY-E
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E20.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E20.mp4?a=0&id=1ad1oWHflBwUMrgs3ll2jUTViFgIsgVee
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E21.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E21.mp4?a=0&id=1DvLtwRT0KBWrJBumNtIjGjhGIK_NZD1p
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E22.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E22.mp4?a=0&id=1jW5gnYe3LvlwAem4g6TbGywishUXsAle
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E23.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E23.mp4?a=0&id=1h1ZGt7o3pGKFqRXfXRpBRNL1_lttCXKJ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S01 E24.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E24.mp4?a=0&id=1kGGMMLGMWqSjm1D1gO1r93AxmTMC9ddP
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E01.mp4?a=0&id=149cF3Uim9407m1jmMOB-HVLaB5g-sVKH
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E02.mp4?a=0&id=15OEe2dJOKCXppZFSB7W2dfzVwZiE33VM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E03.mp4?a=0&id=1CNYdZitDMH6J7zofSldWrhBF5uIHlpQF
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E04.mp4?a=0&id=13WtkcIfKNUYZaR26kA8DnPDxsz-SPVH0
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E05.mp4?a=0&id=1K-yMYm-K9JGJDps2GkLQDwy_ZpXWVmxv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E06.mp4?a=0&id=1LR1aZPCHJXYHggl2jjRe6WRrqdOhuolF
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E07.mp4?a=0&id=1b7oFncoUTE5F2Rx8G_PWwgi4rTOHEd0T
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E08.mp4?a=0&id=1rpb-inzvYkCGiNYFBZkc5wQ5VSzTXKwc
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E09.mp4?a=0&id=1q1vxMFiqEhoZ25UijwoyDimoVcBFCslC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E10.mp4?a=0&id=1RVVtVHuLHHKlZwYtFqBb14DiZ83yT17b
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E11.mp4?a=0&id=18yQeYstXAocOj8n5Df8ke_1R-1TRYQOy
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E12.mp4?a=0&id=14LIL_FNgqprLyW3iENvYXkJEhgOdfbf5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E13.mp4?a=0&id=1dmjALvKhBbuYmwFq0ZrpBfow5URdGoxJ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E14.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E14.mp4?a=0&id=1xtXalNlslwATtCfmlrgyzd0uoEXWmMUe
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E15.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E15.mp4?a=0&id=1fUBU0n_OKsWy63ZpPraOfZOA4slu_G_G
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E16.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E16.mp4?a=0&id=1nn9e8SeTd_gEI9vJv3adTOuPajBCwKct
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E17.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E17.mp4?a=0&id=1n6cEl_myE8WYw4Sy9WafeN6kRS_h87vi
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E18.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E18.mp4?a=0&id=1M9PH6zV3_yMKMg7E_8stvbvf2bcFYwvN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E19.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E19.mp4?a=0&id=1z7KWHCHsg-lH_mC3P_FFiQe8Bge5rH0K
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E20.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E20.mp4?a=0&id=1rTLN1FIotfk2aKrUQ7bnM7CSosCVNe2B
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E21.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E21.mp4?a=0&id=1B0ui7m6fAgGG9cOHZ5fpuYKNu8Vcni2B
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E22.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E22.mp4?a=0&id=1_6XmuNkB2rTHzaKq-t0swtGLq_MLG7lO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E23.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E23.mp4?a=0&id=1yM5DlBX2bhumfQSbmLJ3k3s73WNtpw1P
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S02 E24.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E24.mp4?a=0&id=1EzlqLmb4VbZrIRw-IimrXb_xJ8hppifo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E01.mp4?a=0&id=13AbsCIU8crENTxt_19PcoAkyAfLgtOwf
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E02.mp4?a=0&id=1s4IrBz1vxE6NefWJwecI-JpOQFLggoRT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E03.mp4?a=0&id=1TBxDokORSF3Vr3RKNcMrg7p3awkpaUFe
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E04.mp4?a=0&id=1PaCs4pFkzLYJh53ib9I54MP1Ej6b-0Oo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E05.mp4?a=0&id=1XrSxJvIrmVW782SSnRSoDsDAXtl9OG3R
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E06.mp4?a=0&id=1c4BrweaBZsZYP1ARkrDnqQYNMNvo55WI
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E07.mp4?a=0&id=14Zefhui0Ryp8adgMMfmHRi2LwMnsdOxW
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E08.mp4?a=0&id=1hkSvBOKC-0wGP3m1v-FiRu6N-wPaZjlI
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E09.mp4?a=0&id=1oSwtIk9yHMAxIglLOJsxGk5X-FPEHu4f
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E10.mp4?a=0&id=10xDW9oU_1RvYPUsorGL0wXHvOwlonyyF
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E11.mp4?a=0&id=1KEhfwVM3wgwZLnraF_uNc_XjoIy-jhRh
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E12.mp4?a=0&id=1ueGMbZv6F_sggTMZ8tx2tVuDDcSaR6ce
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E13.mp4?a=0&id=1ISFPUppQLHVK7ODF8nz04nKBv37j8qew
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E14.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E14.mp4?a=0&id=1K-U1kkt-ySLsopFXjSBtJFdyCau-bBPQ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E15.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E15.mp4?a=0&id=1qX-UNtxV5UD05VxofxNNqllDJnfO4tNv
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E16.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E16.mp4?a=0&id=1ceGAeBrHb2IAn-2KDDW9nWbt98sj3khM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E17.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E17.mp4?a=0&id=1ax6TTRs6I6qpbPchUXGbpK9MdePKy1le
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E18.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E18.mp4?a=0&id=1w5BmD7Nj5KQfoemArl-lr9aJR-BQpGO7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E19.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E19.mp4?a=0&id=1XQCs1-P2dRiiTD0G2d2236x5sthYyBPS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E20.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E20.mp4?a=0&id=1eVMXytd1j03-o3qwsG8jTwJcRTvXxL0c
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E21.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E21.mp4?a=0&id=1Z_wvmRa44N6XwKXoaD1KnAIvEq6DHhEw
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E22.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E22.mp4?a=0&id=1-gCt6IkjkpgxG_syaf_pndiVvCJ-YlJA
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E23.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E23.mp4?a=0&id=1xccwq3Q3KJeJmLYwtR287OugUMrqdyar
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E24.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E24.mp4?a=0&id=1Xw8fn8XaW-wZJpENr2QP-GHbIh-4fyy1
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S03 E25.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E25.mp4?a=0&id=1gmh8P8WuDE4pXC-N5Ph-d8yCalTDVEpu
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E01.mp4?a=0&id=1fhSYb7XjxrzMVdx4JrRHZxDuxmXTEdfS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E02.mp4?a=0&id=1PcYcLzdwdI6pIY8m8He0J83eZciY8uBm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E03.mp4?a=0&id=1t0df1glrf806H-9VTIbYh5TXjs0ojU2q
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E04.mp4?a=0&id=1bJ3HwkU8zoinOBQzGXYkwlEubbJSHae3
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E05.mp4?a=0&id=1hgF7dyBOZqKOZ6OvtZASODr7qatIoF3D
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E06.mp4?a=0&id=1YXZwfWv2osSe8aJXNfuWR1dU9HfHeYGZ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E07.mp4?a=0&id=1vjUnwTMnikr0FlXpMKlK-Aj-iyjj5YEN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E08.mp4?a=0&id=1vFkv11KZFtSvqDcR0jsYuNo1odcgin86
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E09.mp4?a=0&id=1RXrpxksHVtxD_AHDJ-NqSmBLppnQyYaf
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E10.mp4?a=0&id=12_xBDuBlPWE31UZEoVZ_Al-lrTMr1uwU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E11.mp4?a=0&id=1WzRaGrUr7iehrBiu1vU1PXxliyZEec2q
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E12.mp4?a=0&id=1brmlKOpNfEUvXtGSopvJBUDZQTecWnhR
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E13.mp4?a=0&id=1FQhjlY9bTOfDFhKmNdBMyqEiKHBH9UrX
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E14.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E14.mp4?a=0&id=1uynBwY-osTaAcSFOefOkvMyI26134nb4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E15.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E15.mp4?a=0&id=1hWz2dwvGSu6H1mheGJ61KhPTg48q-1uf
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E16.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E16.mp4?a=0&id=1NvxHnd52wANMmoozo1cXXER0k4U6Mh0r
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E17.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E17.mp4?a=0&id=1-l4r-TTsB-myLQz2m6pnEY1QcU_-WKI6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E18.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E18.mp4?a=0&id=1nG8A-EjAPmSyEuSjQvY8vIIvW9-vSJRN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E19.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E19.mp4?a=0&id=12yNQPC1we1ixFyuHsy2SUNE6liMiggD4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E20.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E20.mp4?a=0&id=1n9yQyyig8HHIo6318RMiv0axrpN6evD5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E21.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E21.mp4?a=0&id=1UlYAXGCIewzbpa_F5tCCQs14h2L_j85G
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E22.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E22.mp4?a=0&id=1-1QrEHSoNdYICJfmRvDNOrSmuDPb-A_N
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E23.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E23.mp4?a=0&id=1QJEPQ-oWBQ_wL5Map6PISuQ_Z-NsEBuW
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S04 E24.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E24.mp4?a=0&id=1QoFsA1YTzQxA8-dw34P912hoKRmjB9Jx
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E01.mp4?a=0&id=1H2G3DBbQN4iRjOATewc7gxJRP_MecreO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E02.mp4?a=0&id=1YJ3tGmf5diOilyFtf9xkWvqAd4WHIXs8
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E03.mp4?a=0&id=1NXyUKL84bqhdwEHHdiQ_6cUHBhRV86n1
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E04.mp4?a=0&id=1cNsuyttfAmoGCuXLYalx4OucZ9alm46I
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E05.mp4?a=0&id=1uCheioEm8-ZUTuv0TCF1CPuMAbbL7fZa
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E06.mp4?a=0&id=162a3KyqlqCC3WNhhq4CbQnGiZAK8Yx8e
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E07.mp4?a=0&id=17MHuJScCNAv4m4AC2kIpx1f9qfE7PdgG
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E08.mp4?a=0&id=1vITJbAZQuiFTouZ4oLKkgItQrww78Abn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E09.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E09.mp4?a=0&id=1jykvUjty6astakeSK4Er7ElKTLJLLX15
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E10.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E10.mp4?a=0&id=1NGrH0jwP0Sb_xSLXbXUiSySXFAMaFxX8
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E11.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E11.mp4?a=0&id=12X411wGZTgTDoNSgVxEuqZh1BfxEtTTZ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E12.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E12.mp4?a=0&id=10DkU-kw4AAjgRMHdHEjTbyoJPS-GITfU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E13.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E13.mp4?a=0&id=1gfXVW3lZRkkZUwH2BlNF8Bp1ruA59xpZ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E14.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E14.mp4?a=0&id=1nnrDR4qH40YwLFL48jCsrPK2-BwfwS6w
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E15.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E15.mp4?a=0&id=1KK7_MWb10hBIMPZ78EVIT3u-htJGWEf7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E16.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E16.mp4?a=0&id=1Mm8_5YqfZB7QwguZeQXhWKmehiI8gVw7
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E17.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E17.mp4?a=0&id=1pMnKGvErwe6kVWn1dk9XHRZQwERXU2uT
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E18.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E18.mp4?a=0&id=1Cp4JpnWLDtL-0GhXxWabZxa_II6IaZwB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E19.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E19.mp4?a=0&id=1H4WQaIOBN4BsXZOO0IpjvLBYfns2MKlR
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E20.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E20.mp4?a=0&id=1CQRDOllA600BAxW8C3vmyaTsE8DfnR21
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E21.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E21.mp4?a=0&id=1n0_3wj-XBpzgQ8pYM0NKdeC_NfjKNVtI
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E22.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E22.mp4?a=0&id=1ih9JFalisSVN313gpVBJA1Qa36xcaxlO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S05 E23.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E23.mp4?a=0&id=1bb6V2YBSeJqwT70GPeKR9TvSPrU5-WnZ
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E01.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E01.mp4?a=0&id=1jmBdii9mq5sjw40HzUorbbeybgsFX8U8
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E02.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E02.mp4?a=0&id=150L0pBjCjvACapS6CSxaMEjTCWyBCVS6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E03.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E03.mp4?a=0&id=1Au9ztplmHV7wzSPCY-I2K23euUHcQAHV
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E04.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E04.mp4?a=0&id=15N1oiDZwRfWgBDEL2d0ip4hlQ-o2GnTB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E05.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E05.mp4?a=0&id=1WHFdcxTiD4EP2YLjE_ovJBSS3AvlBMSr
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E06.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E06.mp4?a=0&id=1Jqhc-K7jtPsS8yIEFSIv4j_daYj-Dfik
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E07.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E07.mp4?a=0&id=1RkKO2MMaWzDgbQlc4CI674bITbg-oT5x
+#EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Família Soprano",S06 E08.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E08.mp4?a=0&id=1L8fU0btX32E2bG9egqLQ0GgileROCZ0O
