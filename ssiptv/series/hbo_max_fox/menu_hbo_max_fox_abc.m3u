@@ -1,80 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Limpeza" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Garota da Limpeza
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="A Garota da Limpeza" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Garota da Limpeza
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Garota%20da%20Limpeza.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Sete Palmos
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="A Sete Palmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Sete Palmos
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Sete%20Palmos.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Zona" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Zona
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="A Zona" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",A Zona
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Zona.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Admirável Mundo Novo" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Admirável Mundo Novo
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Admirável Mundo Novo" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Admirável Mundo Novo
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Admir%C3%A1vel%20Mundo%20Novo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Aeroporto Área Restrita
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Aeroporto Área Restrita
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/aeroporto_area_restrita.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="American Horror History" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",American Horror History
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="American Horror History" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",American Horror History
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/american_horror/menu_ahh.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Arquivo X
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Arquivo X" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Arquivo X
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/arquivo_x/menu_x_files.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X (ALT)" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Arquivo X (ALT)
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Arquivo X (ALT)" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Arquivo X (ALT)
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Arquivo_X.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ballers" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Ballers
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Ballers" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Ballers
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Ballers.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banshee" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Banshee
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Banshee" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Banshee
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Banshee.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BatWoman" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",BatWoman
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="BatWoman" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",BatWoman
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Batwoman.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Black Sails" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Black Sails
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Black Sails" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Black Sails
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/black_sails.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Cosmos
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Cosmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Cosmos
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cosmos.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",CSI Miami
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="CSI Miami" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",CSI Miami
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/CSI_Miami.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CSI Nova York" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",CSI Nova York
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="CSI Nova York" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",CSI Nova York
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/CSI_Nova_York.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Das Boot" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Das Boot
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Das Boot" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Das Boot
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/das_boot.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euphoria" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Euphoria
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Euphoria" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Euphoria
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Euphoria.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Familia Soprano" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Familia Soprano
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Familia Soprano" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Familia Soprano
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Familia_Soprano.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Friends
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Friends" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Friends
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Friends.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Future Man" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Future Man
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Future Man" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Future Man
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Future_Man.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Game of Thrones
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Game of Thrones" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Game of Thrones
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Game_of_Thrones.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="His Dark Materials" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",His Dark Materials
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="His Dark Materials" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",His Dark Materials
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox//His%20Dark%20Materials.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Krypton" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Krypton
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Krypton" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Krypton
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Krypton.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lost" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lost
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Lost" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lost
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/lost/menu_lost.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Lovecraft Country" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lovecraft Country
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Lovecraft Country" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lovecraft Country
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Lovecraft%20Country.m3u8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="O Negócio" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",O Negócio
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="O Negócio" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",O Negócio
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/O%20Neg%C3%B3cio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OZ" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",OZ
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="OZ" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",OZ
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/OZ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha do Destino" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Patrulha do Destino
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Patrulha do Destino" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Patrulha do Destino
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Patrulha%20do%20Destino.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pretty Little Liars" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Pretty Little Liars
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Pretty Little Liars" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Pretty Little Liars
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Pretty%20Little%20Liars.m3u8.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Prison Break" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Prison Break
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Prison Break" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Prison Break
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/prison_break/menu_prison_break.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Raised by Wolves" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Raised by Wolves
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Raised by Wolves" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Raised by Wolves
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/hbo_max_fox/Raized%20by%20Wolves.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RossWell" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",RossWell
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="RossWell" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",RossWell
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/rosswell/rosswell.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Scream Queens" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Scream Queens
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Scream Queens" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Scream Queens
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/scream_queens.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Smallville
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Smallville" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Smallville
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Smallville.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Stargirl
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Stargirl" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Stargirl
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Stargirl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="This is Us" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",This is Us
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="This is Us" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",This is Us
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/This%20is%20Us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="True Blood" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",True Blood
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="True Blood" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",True Blood
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/True_Blood.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vida Secreta dos Casais" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Vida Secreta dos Casais
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Vida Secreta dos Casais" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Vida Secreta dos Casais
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Lista Completa" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lista Completa
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Lista Completa" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="Channels",Lista Completa
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/categorias_hbo_full.m3u
