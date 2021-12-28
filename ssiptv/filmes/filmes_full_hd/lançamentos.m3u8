@@ -2,14 +2,27 @@
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
 
-
-#EXTINF:0 group-title="Filmes | Lancamentos", The Matrix 4 Resurrections (LEG)
-subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
-https://cdn.libdrive.cf/api/v1/download/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E&session=eyJhY2Nlc3NfdG9rZW4iOiAieWEyOS5hMEFScmRhTTl6cF9mY3hCcmJjOGJjakNSdWNtQUFTTk8xMTBqMVk3YjlRYlBrSHNGTkdRY1U5Zm1zNjU5WGEtVkVBdHl0cE5WcmxhWFVzOGFSSTI4M1oyZ1VlNXV1bUtrRE9NV3JtSkNRYkdWZUhpeHBsTG00eTRGTnZScVhhcmNRVDhXYmtfRzVQYlRkZHFCSVptV21kb0dhaDIzZTc4ZyIsICJjbGllbnRfaWQiOiAiMTA5NzkwMTA0NjU4NC1icHEzamJjdWxoNGEycWVxaWcyc2VuaDViMDM1OTNkaC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsICJjbGllbnRfc2VjcmV0IjogIkdPQ1NQWC11Tm0xODMwWm9DcFQyNkhqcFp2S05nblIxMm0zIiwgInJlZnJlc2hfdG9rZW4iOiAiMS8vMGhtMDZ1Mzljall2U0NnWUlBUkFBR0JFU053Ri1MOUlyYlVxZnhwMFJKY3hGNHczWWhZTzFQRF9ubDR0YUJrUGVsemlKNGhncHJ1NS1CWGxaV1BZVVEyZTdING45YkNhbGRHVSIsICJ0b2tlbl9leHBpcnkiOiAiMjAyMS0xMi0yNSAyMjoyNTozNS4xMDM1ODEiLCAidXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2RyaXZlL3YzL2ZpbGVzLzE5UTRNZ0VmQ0RIUVFhdnAtS01hUld4Rkk4ZG1JZ3YwRT9hbHQ9bWVkaWEifQ==&
-#EXTINF:0 group-title="Filmes | Lancamentos", The Matrix 4 Resurrections - Legendado.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Matrix%204%20Resurrections%20-%20Legendado.mkv?a=0&id=1-ok1w0Mh4RqInZPriXfU90bNu1LKm7Zs
+#EXTINF:0 group-title="Filmes | Lancamentos", A Glitch in the Matrix [L].mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
+#EXTINF:0 group-title="Filmes | Lancamentos", Animatrix.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Animatrix.mp4?a=0&id=1El0J6A56Nnn0nrWcGXnwugJYR9HNfvbT
+#EXTINF:0 group-title="Filmes | Lancamentos", Apex.Dublado.1080p.2021.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Apex.Dublado.1080p.2021.mkv?a=0&id=1JrK483XT-ILyhr_wfb8qfHIjFKqFKWe0
+#EXTINF:0 group-title="Filmes | Lancamentos", Efeito.Flashback.Dublado.1080p.2021.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Efeito.Flashback.Dublado.1080p.2021.mkv?a=0&id=1dPC5-RpjSUqJBQaexzVgkSFNdreubI5Q
+#EXTINF:0 group-title="Filmes | Lancamentos", Encanto.2021
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pWxKXCWHvmXJzl5h4O7bxTQuWQHd9
+#EXTINF:0 group-title="Filmes | Lancamentos", Every.Breath.You.Take.Dublado.1080p.2021.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
+#EXTINF:0 group-title="Filmes | Lancamentos", Finch
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Finch?a=0&id=13SFZ8pBx8RLr9bptyJtdjwOAkU7Jq_rB
+#EXTINF:0 group-title="Filmes | Lancamentos", Finch [L]
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Finch%20%5BL%5D?a=0&id=13Qx7RiyJh6fgvu-9b4ECQpU46AkXKalN
+#EXTINF:0 group-title="Filmes | Lancamentos", South park Pós COvid.2021
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/South%20park%20P%C3%B3s%20COvid.2021?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
 #EXTINF:0 group-title="Filmes | Lancamentos", The.Matrix.Resurrections.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
+
 #EXTINF:0 group-title="Filmes | Drama",Olhar de Anjo
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
 #EXTINF:0 group-title="Filmes | Drama", Encontrando Forestier Completo Dublado.mp4
