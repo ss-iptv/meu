@@ -21,21 +21,6 @@ https://raw.githubusercontent.com/jhonatadev/algumacoisa/main/algumlugar
 
 ###https://raw.githubusercontent.com/willianpachecosantos/algumacoisa/main/algumlugar###
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github DOCs
-https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Documentarios/Documentarios
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github Series
-https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Filmes.Series/Filmes.Series
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github KIDS
-https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Kids/KIDS
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github KIDS
-https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Kids/KIDS
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github LOCAIS
-https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Canais.Locais/Canais.Locais
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github TV
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
