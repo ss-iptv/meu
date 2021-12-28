@@ -1,8 +1,8 @@
 #EXTM3U Albdroid TV
 #EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="General Streams",PORTAL
 http://168.205.87.198:8555/live/leila/123456/82.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Band News" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="General Streams",Band News YT
-https://www.youtube.com/watch?v=GHeXr3rxe4E
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO BRASIL" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png" group-title="General Streams",AGRO BRASIL
 http://168.205.87.198:8555/live/leila/123456/7.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="General Streams",AGRO CANAL
