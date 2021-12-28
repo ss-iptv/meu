@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
-
+#EXTINF:0 group-title="Filmes | Lancamentos", Finch [L].mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Finch%20%5BL%5D.mp4?a=0&id=13SYiVauH6BKz_YQM6z8phBTqVtL4HWSH
+#EXTINF:0 group-title="Filmes | Lancamentos", Finch.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Finch.mp4?a=0&id=13TG2NBIAXqi3jiVp-WH-x6WD4wipXhx5
 #EXTINF:0 group-title="Filmes | Lancamentos", A Glitch in the Matrix [L].mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
 #EXTINF:0 group-title="Filmes | Lancamentos", Animatrix.mp4
