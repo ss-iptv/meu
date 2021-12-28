@@ -36,6 +36,12 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Bat
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Black Sails" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Black Sails
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/black_sails.m3u8
 
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Boardwalk Empire" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Boardwalk Empire - O Império do Contrabando
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando.m3u8
+
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Catherine the Great" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Catherine the Great
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Catherine%20the%20Great.m3u8
+
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Cosmos" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Cosmos
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Cosmos.m3u8
 
