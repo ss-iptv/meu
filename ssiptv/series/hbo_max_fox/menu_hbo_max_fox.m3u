@@ -141,8 +141,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Pre
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/categorias_hbo_full.m3u
 
-#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Boardwalk Empire" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Boardwalk Empire - O Império do Contrabando
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Boardwalk Empire - O Império do Contrabando
+#EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Boardwalk%20Empire%20-%20O%20Imp%C3%A9rio%20do%20Contrabando.m3u8
 
-#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Catherine the Great" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Catherine the Great
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Catherine the Great
+#EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Catherine%20the%20Great.m3u8
