@@ -8,21 +8,29 @@ http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&
 
 http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plus&output=ts
 
-http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts
+http://168.205.87.198:8555/get.php?username=leila&password=123456&type=m3u_plus&output=ts 
 
-http://168.205.87.198:8555/get.php?username=1458&password=123456&type=m3u_plus
+http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&type=m3u_plus - off
 
 http://168.205.87.198:8555/get.php?username=1458&password=123456&type=m3u_plus
 
 http://168.205.87.198:8555/get.php?username=Andrew&password=123456&type=m3u_plus
 
-http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u_plus
+http://168.205.87.198:8555/get.php?username=antony&password=1234&type=m3u_plus
 
-http://168.205.87.198:8555/get.php?username=1112&password=123456&type=m3u_plus
+http://168.205.87.198:8555/get.php?username=0117&password=123456&type=m3u
 
-http://168.205.87.198:8555/get.php?username=1113&password=123456&type=m3u_plus
+http://168.205.87.198:8555/get.php?username=1234&password=123456&type=m3u
 
-http://168.205.87.198:8555/get.php?username=1010&password=123456&type=m3u_plus
+http://168.205.87.198:8555/get.php?username=josee&password=123456&type=m3u
+
+http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u
+
+http://168.205.87.198:8555/get.php?username=1112&password=123456&type=m3u
+
+http://168.205.87.198:8555/get.php?username=1113&password=123456&type=m3u
+
+http://168.205.87.198:8555/get.php?username=1010&password=123456&type=m3u
 
 
 
