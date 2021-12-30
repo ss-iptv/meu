@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
-#EXTINF:0, S.P.P.C.2020
+#EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2020
 https://www.googleapis.com/drive/v3/files/1abMZCubB8JaCu7Fx_mmGnBSXvVMd11u8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:0, S.P.P.C.2021
+#EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2021
 https://www.googleapis.com/drive/v3/files/1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lancamentos", Venom - Tempo de Carnificina (2021).mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
