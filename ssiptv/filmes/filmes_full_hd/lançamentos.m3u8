@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
-
+#EXTINF:0, S.P.P.C.2021
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/S.P.P.C?a=0&id=1ig_0OPgGxwjWm4xX0JuddTwKbnGO_bDB
 #EXTINF:0 group-title="Filmes | Lancamentos", Venom - Tempo de Carnificina (2021).mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
 #EXTINF:0 group-title="Filmes | Lancamentos", Finch [L].mp4
