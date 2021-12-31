@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Chucky A Série
+#EXTINF:0, Chucky A Série S01 E01.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Chucky%20A%20S%C3%A9rie%20S01%20E01.mp4?a=0&id=1aDijbPFP8utyYOXqYJBL_E56tSNEqcLZ
+#EXTINF:0, Chucky A Série S01 E02.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Chucky%20A%20S%C3%A9rie%20S01%20E02.mp4?a=0&id=1aEDVc0gslZPsvBzNu3ueYzy6Qv4fRqJf
+#EXTINF:0, Chucky A Série S01 E03.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Chucky%20A%20S%C3%A9rie%20S01%20E03.mp4?a=0&id=1aEZagtyVk0Xbv70kUJT-gdidKNrvHdR0
+#EXTINF:0, Chucky A Série S01 E04.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Chucky%20A%20S%C3%A9rie%20S01%20E04.mp4?a=0&id=1aEg9qb9Y2Dbs0yP9wLJ46J_hko_LC7s0
