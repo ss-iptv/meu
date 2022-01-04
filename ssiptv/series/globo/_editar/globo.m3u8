@@ -1,4 +1,4 @@
-#EXTM3U
+ï»¿#EXTM3U
 alt=media&key=AIzaSyA799IZVeyHS9OlAZFY4ktIKUA-bcWZNlo
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="220 Volts",S01 E01.mp4 
@@ -3805,7 +3805,7 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E01%20-%20Piloto.mkv?a
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E02%20-%20Distintivo!%20Gun!.mkv?a=0&id=1PHoM2ggSVCV0lxKhkPGFL-rMJ99mjCgE
 #EXTINF:-1 tvg-id="" tvg-name="T01E03 - A Lenda de Marcos Ramos.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E03 - A Lenda de Marcos Ramos.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E03%20-%20A%20Lenda%20de%20Marcos%20Ramos.mkv?a=0&id=1N0ZTjp1j19kJ9jwGycn_iYk2bXxOyTJR
-#EXTINF:-1 tvg-id="" tvg-name="T01E04 - Página 44.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E04 - Página 44.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E04 - PÃ¡gina 44.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E04 - PÃ¡gina 44.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E04%20-%20P%C3%A1gina%2044.mkv?a=0&id=1Kls8qs7bCnXMcXXpNBBWtX7i1_hqDJLm
 #EXTINF:-1 tvg-id="" tvg-name="T01E05 - Em Crise.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E05 - Em Crise.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E05%20-%20Em%20Crise.mkv?a=0&id=1hTrkr2nXBqOtoMDePgbhSbACGmBfs2_O
@@ -3815,91 +3815,91 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E06%20-%20Efeito%20col
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E07%20-%20Primeira%20Miss%C3%A3o.mkv?a=0&id=1rVIaV3WJ4y4RozFljX252yXBDnFNrweW
 #EXTINF:-1 tvg-id="" tvg-name="T01E08 - Livrando a Naz.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E08 - Livrando a Naz.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E08%20-%20Livrando%20a%20Naz.mkv?a=0&id=1oqFoxuy87-CbiGLv_a0I5S3wFBP1_Oi1
-#EXTINF:-1 tvg-id="" tvg-name="T01E09 - Operações Secretas.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E09 - Operações Secretas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E09 - OperaÃ§Ãµes Secretas.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E09 - OperaÃ§Ãµes Secretas.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E09%20-%20Opera%C3%A7%C3%B5es%20Secretas.mkv?a=0&id=1kBfcHnpvbsQHw87b-wp7D-HGOUOEA1mC
 #EXTINF:-1 tvg-id="" tvg-name="T01E10 - Protocalipse.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E10 - Protocalipse.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E10%20-%20Protocalipse.mkv?a=0&id=1KVOme3Z2DukqV3Z3gF1zzMRq6DnQluqy
-#EXTINF:-1 tvg-id="" tvg-name="T01E11 - Situação de Perigo.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E11 - Situação de Perigo.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E11 - SituaÃ§Ã£o de Perigo.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E11 - SituaÃ§Ã£o de Perigo.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E11%20-%20Situa%C3%A7%C3%A3o%20de%20Perigo.mkv?a=0&id=1tQLqMF8iZHtqRNwsSoPj75hvQT81ejxT
 #EXTINF:-1 tvg-id="" tvg-name="T01E12 - O Assassinato de Eddie Morra.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E12 - O Assassinato de Eddie Morra.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E12%20-%20O%20Assassinato%20de%20Eddie%20Morra.mkv?a=0&id=1MN1wO15QNvwOpdfU3zMNU5M2fpXDagZB
-#EXTINF:-1 tvg-id="" tvg-name="T01E13 - Me Parem Antes que Eu Abraçe Outra Vez.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E13 - Me Parem Antes que Eu Abraçe Outra Vez.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E13 - Me Parem Antes que Eu AbraÃ§e Outra Vez.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E13 - Me Parem Antes que Eu AbraÃ§e Outra Vez.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E13%20-%20Me%20Parem%20Antes%20que%20Eu%20Abra%C3%A7e%20Outra%20Vez.mkv?a=0&id=1fMP_RFSaODbvaJozVMUHU-2L6zCQvl2c
 #EXTINF:-1 tvg-id="" tvg-name="T01E14 - Fundamentos da Retratista Pelado.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E14 - Fundamentos da Retratista Pelado.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E14%20-%20Fundamentos%20da%20Retratista%20Pelado.mkv?a=0&id=1Ib7xJBTPlUKE5sJiZFa7jqNV1I7iG9AQ
-#EXTINF:-1 tvg-id="" tvg-name="T01E15 - Disfarçado!.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E15 - Disfarçado!.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E15 - DisfarÃ§ado!.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E15 - DisfarÃ§ado!.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E15%20-%20Disfar%C3%A7ado!.mkv?a=0&id=1yROX7V3hrj2CyM00_zAO8iW4ffWUARif
 #EXTINF:-1 tvg-id="" tvg-name="T01E16 - Sands, agente de Morra.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E16 - Sands, agente de Morra.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E16%20-%20Sands,%20agente%20de%20Morra.mkv?a=0&id=1tewjahrrNCDguzQwE8MY_WafFlkLONrj
-#EXTINF:-1 tvg-id="" tvg-name="T01E17 - Encontros íntimos.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E17 - Encontros íntimos.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E17 - Encontros Ã­ntimos.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E17 - Encontros Ã­ntimos.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E17%20-%20Encontros%20%C3%ADntimos.mkv?a=0&id=1LGpssanKrF3VhPPANBAh1TH3cFhc5Mkg
 #EXTINF:-1 tvg-id="" tvg-name="T01E18 - Bezgranichnyy.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E18 - Bezgranichnyy.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E18%20-%20Bezgranichnyy.mkv?a=0&id=12NG-SlT1lVkNjAv_QNrIo5EgqUma35ef
-#EXTINF:-1 tvg-id="" tvg-name="T01E19 - Almoço de um cão.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E19 - Almoço de um cão.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E19 - AlmoÃ§o de um cÃ£o.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E19 - AlmoÃ§o de um cÃ£o.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E19%20-%20Almo%C3%A7o%20de%20um%20c%C3%A3o.mkv?a=0&id=1-FKO_Xd_ZQZb9TU6_AO2JkX_0K_GTSFi
-#EXTINF:-1 tvg-id="" tvg-name="T01E20 - Oi, meu nome é Rebecca Harris.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E20 - Oi, meu nome é Rebecca Harris.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T01E20 - Oi, meu nome Ã© Rebecca Harris.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E20 - Oi, meu nome Ã© Rebecca Harris.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E20%20-%20Oi,%20meu%20nome%20%C3%A9%20Rebecca%20Harris.mkv?a=0&id=1_KreTTfhCcjgKuIvBETocH6W6JYiwVEF
 #EXTINF:-1 tvg-id="" tvg-name="T01E21 - Final, Parte Um!.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E21 - Final, Parte Um!.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E21%20-%20Final,%20Parte%20Um!.mkv?a=0&id=1UsQVqCqQUdebwRIDgV4om4CabRvHmY0d
 #EXTINF:-1 tvg-id="" tvg-name="T01E22 - Final, Parte Dois!!.mkv" tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E22 - Final, Parte Dois!!.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E22%20-%20Final,%20Parte%20Dois!!.mkv?a=0&id=1u7BqKAzB4yljccVLk4x_hwedYpXJim-F
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E01/Manifest O Mistério do Voo 828 S01 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E01/Manifest O Mistério do Voo 828 S01 E01.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E01/Manifest O MistÃ©rio do Voo 828 S01 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E01/Manifest O MistÃ©rio do Voo 828 S01 E01.mp4 
 https://www.googleapis.com/drive/v3/files/1OeZi24qQszYrrecV9l9ZJ8OwLZ8LV7zP&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E02/Manifest O Mistério do Voo 828 S01 E02.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E02/Manifest O Mistério do Voo 828 S01 E02.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E02/Manifest O MistÃ©rio do Voo 828 S01 E02.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E02/Manifest O MistÃ©rio do Voo 828 S01 E02.mp4 
 https://www.googleapis.com/drive/v3/files/1OgPpEq-RHcsZsoIrJdrkgGHBE9w1-V5d&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E03/Manifest O Mistério do Voo 828 S01 E03.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E03/Manifest O Mistério do Voo 828 S01 E03.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E03/Manifest O MistÃ©rio do Voo 828 S01 E03.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E03/Manifest O MistÃ©rio do Voo 828 S01 E03.mp4 
 https://www.googleapis.com/drive/v3/files/1Ooj34rFqjMURIOapaessaDXAIYrvRn1N&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E04/Manifest O Mistério do Voo 828 S01 E04.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E04/Manifest O Mistério do Voo 828 S01 E04.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E04/Manifest O MistÃ©rio do Voo 828 S01 E04.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E04/Manifest O MistÃ©rio do Voo 828 S01 E04.mp4 
 https://www.googleapis.com/drive/v3/files/1OwqUM3pS2N4j0H1aYRgeph4FDuaqil6H&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E05/Manifest O Mistério do Voo 828 S01 E05.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E05/Manifest O Mistério do Voo 828 S01 E05.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E05/Manifest O MistÃ©rio do Voo 828 S01 E05.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E05/Manifest O MistÃ©rio do Voo 828 S01 E05.mp4 
 https://www.googleapis.com/drive/v3/files/1bn3snqWBdUQOdFs-psFBNjeLlRLKD6zP&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E06/Manifest O Mistério do Voo 828 S01 E06.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E06/Manifest O Mistério do Voo 828 S01 E06.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E06/Manifest O MistÃ©rio do Voo 828 S01 E06.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E06/Manifest O MistÃ©rio do Voo 828 S01 E06.mp4 
 https://www.googleapis.com/drive/v3/files/1bonImf1AzE8If9k22_NfgmqFDn-iIRXQ&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E07/Manifest O Mistério do Voo 828 S01 E07.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E07/Manifest O Mistério do Voo 828 S01 E07.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E07/Manifest O MistÃ©rio do Voo 828 S01 E07.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E07/Manifest O MistÃ©rio do Voo 828 S01 E07.mp4 
 https://www.googleapis.com/drive/v3/files/1bqsggDj_LeMUHQ66XizysJ6DRZj3eCHf&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E08/Manifest O Mistério do Voo 828 S01 E08.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E08/Manifest O Mistério do Voo 828 S01 E08.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E08/Manifest O MistÃ©rio do Voo 828 S01 E08.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E08/Manifest O MistÃ©rio do Voo 828 S01 E08.mp4 
 https://www.googleapis.com/drive/v3/files/1bsD2RkfE2b8aOSap3qYNVcCToKselciR&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E09/Manifest O Mistério do Voo 828 S01 E09.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E09/Manifest O Mistério do Voo 828 S01 E09.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E09/Manifest O MistÃ©rio do Voo 828 S01 E09.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E09/Manifest O MistÃ©rio do Voo 828 S01 E09.mp4 
 https://www.googleapis.com/drive/v3/files/1brPYRHMkufP785TKdiz9IHzWY_tOVKeC&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E10/Manifest O Mistério do Voo 828 S01 E10.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E10/Manifest O Mistério do Voo 828 S01 E10.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E10/Manifest O MistÃ©rio do Voo 828 S01 E10.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E10/Manifest O MistÃ©rio do Voo 828 S01 E10.mp4 
 https://www.googleapis.com/drive/v3/files/1c2gcJsf0RPkiqFB3fr3e64LlWQ3Mj8c8&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E11/Manifest O Mistério do Voo 828 S01 E11.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E11/Manifest O Mistério do Voo 828 S01 E11.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E11/Manifest O MistÃ©rio do Voo 828 S01 E11.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E11/Manifest O MistÃ©rio do Voo 828 S01 E11.mp4 
 https://www.googleapis.com/drive/v3/files/1c1HEENnhW3CENXahAdifYMsethLEloFo&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E12/Manifest O Mistério do Voo 828 S01 E12.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E12/Manifest O Mistério do Voo 828 S01 E12.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E12/Manifest O MistÃ©rio do Voo 828 S01 E12.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E12/Manifest O MistÃ©rio do Voo 828 S01 E12.mp4 
 https://www.googleapis.com/drive/v3/files/1c4-OoeVYKl1M3_sSGd3AIxVfRnwAR-6K&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E13/Manifest O Mistério do Voo 828 S01 E13.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E13/Manifest O Mistério do Voo 828 S01 E13.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E13/Manifest O MistÃ©rio do Voo 828 S01 E13.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E13/Manifest O MistÃ©rio do Voo 828 S01 E13.mp4 
 https://www.googleapis.com/drive/v3/files/1c5fmjFUJRvPqgqOQoiNibHAE-OWFwv_8&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E14/Manifest O Mistério do Voo 828 S01 E14.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E14/Manifest O Mistério do Voo 828 S01 E14.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E14/Manifest O MistÃ©rio do Voo 828 S01 E14.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E14/Manifest O MistÃ©rio do Voo 828 S01 E14.mp4 
 https://www.googleapis.com/drive/v3/files/1c5ldCggFsVLU3ZXsm6Q4GVfccsM1eEQy&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E15/Manifest O Mistério do Voo 828 S01 E15.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E15/Manifest O Mistério do Voo 828 S01 E15.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E15/Manifest O MistÃ©rio do Voo 828 S01 E15.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E15/Manifest O MistÃ©rio do Voo 828 S01 E15.mp4 
 https://www.googleapis.com/drive/v3/files/1cAc9Q47WU8O7uM22iY1dEjwmx8Eeyy0u&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S01 E16/Manifest O Mistério do Voo 828 S01 E16.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S01 E16/Manifest O Mistério do Voo 828 S01 E16.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S01 E16/Manifest O MistÃ©rio do Voo 828 S01 E16.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S01 E16/Manifest O MistÃ©rio do Voo 828 S01 E16.mp4 
 https://www.googleapis.com/drive/v3/files/1cC-O7kI9iW7gDwRvlxtdI_ZpskZGeUTT&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E01/Manifest O Mistério do Voo 828 S02 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E01/Manifest O Mistério do Voo 828 S02 E01.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E01/Manifest O MistÃ©rio do Voo 828 S02 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E01/Manifest O MistÃ©rio do Voo 828 S02 E01.mp4 
 https://www.googleapis.com/drive/v3/files/1cHgQ82agb9pjN-vd3iXsX15WNWvquJsM&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E02/Manifest O Mistério do Voo 828 S02 E02.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E02/Manifest O Mistério do Voo 828 S02 E02.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E02/Manifest O MistÃ©rio do Voo 828 S02 E02.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E02/Manifest O MistÃ©rio do Voo 828 S02 E02.mp4 
 https://www.googleapis.com/drive/v3/files/1cLIpzRTOBVbW9RMaYQs3K0oKD8gUVXCF&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E03/Manifest O Mistério do Voo 828 S02 E03.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E03/Manifest O Mistério do Voo 828 S02 E03.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E03/Manifest O MistÃ©rio do Voo 828 S02 E03.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E03/Manifest O MistÃ©rio do Voo 828 S02 E03.mp4 
 https://www.googleapis.com/drive/v3/files/1cPy9Kac3eZa8yRmdJy7WZN2bID57EjXw&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E04/Manifest O Mistério do Voo 828 S02 E04.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E04/Manifest O Mistério do Voo 828 S02 E04.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E04/Manifest O MistÃ©rio do Voo 828 S02 E04.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E04/Manifest O MistÃ©rio do Voo 828 S02 E04.mp4 
 https://www.googleapis.com/drive/v3/files/1cPzGdN8x6f1T-FSK87G6BTdke3N-y68o&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E05/Manifest O Mistério do Voo 828 S02 E05.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E05/Manifest O Mistério do Voo 828 S02 E05.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E05/Manifest O MistÃ©rio do Voo 828 S02 E05.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E05/Manifest O MistÃ©rio do Voo 828 S02 E05.mp4 
 https://www.googleapis.com/drive/v3/files/1cV8ksKdgFR7D64b13ISA2zUfNYg5HggU&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E06/Manifest O Mistério do Voo 828 S02 E06.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E06/Manifest O Mistério do Voo 828 S02 E06.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E06/Manifest O MistÃ©rio do Voo 828 S02 E06.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E06/Manifest O MistÃ©rio do Voo 828 S02 E06.mp4 
 https://www.googleapis.com/drive/v3/files/1ca2kt_-U49-WzEaDHY6BcHOFZctLWO67&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E07/Manifest O Mistério do Voo 828 S02 E07.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E07/Manifest O Mistério do Voo 828 S02 E07.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E07/Manifest O MistÃ©rio do Voo 828 S02 E07.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E07/Manifest O MistÃ©rio do Voo 828 S02 E07.mp4 
 https://www.googleapis.com/drive/v3/files/1cZJhPSjNJCyjQgMqb9QsZCBWtbBVDwgt&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E08/Manifest O Mistério do Voo 828 S02 E08.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E08/Manifest O Mistério do Voo 828 S02 E08.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E08/Manifest O MistÃ©rio do Voo 828 S02 E08.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E08/Manifest O MistÃ©rio do Voo 828 S02 E08.mp4 
 https://www.googleapis.com/drive/v3/files/1ci0ER0N3wS0RCkZgMAJQOTZ1eEuKPLaq&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E09/Manifest O Mistério do Voo 828 S02 E09.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E09/Manifest O Mistério do Voo 828 S02 E09.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E09/Manifest O MistÃ©rio do Voo 828 S02 E09.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E09/Manifest O MistÃ©rio do Voo 828 S02 E09.mp4 
 https://www.googleapis.com/drive/v3/files/1ciGNNiWFjZZy_cJXaUBn-6peMstyiANu&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E10/Manifest O Mistério do Voo 828 S02 E10.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E10/Manifest O Mistério do Voo 828 S02 E10.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E10/Manifest O MistÃ©rio do Voo 828 S02 E10.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E10/Manifest O MistÃ©rio do Voo 828 S02 E10.mp4 
 https://www.googleapis.com/drive/v3/files/1cj5rhFF69Tt3fbnmLzSc3L2dSt273QDJ&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E11/Manifest O Mistério do Voo 828 S02 E11.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E11/Manifest O Mistério do Voo 828 S02 E11.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E11/Manifest O MistÃ©rio do Voo 828 S02 E11.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E11/Manifest O MistÃ©rio do Voo 828 S02 E11.mp4 
 https://www.googleapis.com/drive/v3/files/1cpHsLsYeYFDRgOamcK3ohfDPwOpnRJ22&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E12/Manifest O Mistério do Voo 828 S02 E12.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E12/Manifest O Mistério do Voo 828 S02 E12.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E12/Manifest O MistÃ©rio do Voo 828 S02 E12.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E12/Manifest O MistÃ©rio do Voo 828 S02 E12.mp4 
 https://www.googleapis.com/drive/v3/files/1cqFt5JSMHylzDu41_1B6SPAQA-zWVzOc&export=download
-#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Voo 828 S02 E13/Manifest O Mistério do Voo 828 S02 E13.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O Mistério do Voo 828 S02 E13/Manifest O Mistério do Voo 828 S02 E13.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="O MistÃ©rio do Voo 828 S02 E13/Manifest O MistÃ©rio do Voo 828 S02 E13.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",O MistÃ©rio do Voo 828 S02 E13/Manifest O MistÃ©rio do Voo 828 S02 E13.mp4 
 https://www.googleapis.com/drive/v3/files/1cq3DzkGvHoXQ42p7cSIMRxNkHfBJ-CZu&export=download
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01/Manifest S01 E01.mp4 " tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Manifest",S01 E01/Manifest S01 E01.mp4 
 https://www.googleapis.com/drive/v3/files/1cwCNu8A7ifTM2fFiUmByIKDYuhwRqToR&export=download
