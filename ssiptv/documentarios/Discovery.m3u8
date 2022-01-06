@@ -849,8 +849,8 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20CHARLES%20CHAPL
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20CHARLES%20CHAPLIN%20-%20EP.%2003.avi?a=0&id=1DfoPCCIjOKHiL83X0vVmaYKqhho-T1Lt
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Reservado", Reservado
+#EXTBG: #000000
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E01.mp4 
 https://www.googleapis.com/drive/v3/files/1pJ5sGY20i__tCTsN2_aBvXgaFFenL0Xo?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E02.mp4 
