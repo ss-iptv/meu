@@ -340,10 +340,25 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%2012_%20La
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Ep 19 - Lua De Mel Infernal.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%2019%20-%20Lua%20De%20Mel%20Infernal.mp4?a=0&id=1gOYUOf_5duRBTClk5a6wteJcFp_JUqlc
 
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep03.HDTV.720P.DUBLADO.mkv?a=0&id=19Q5Nm1YlZ16YWk5juALw2WUz43qc55P7
-#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados", Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.E.Pelados.A.Tribo.S2Ep06.HDTV.720P.DUBLADO.mkv?a=0&id=1Ux4TmHLKrjycJw5VbxIvtJiF245eVAOk
+#PLAYLIST: Largados e Pelados - A Tribo
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E01.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E01.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1z9GdnUu-AwQieyW3oH3mu4hFJsTh_m8N
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E02.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E02.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1ExNSOSZaDV9M9k8kjQP5b3i5qKK5-8R2
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E03.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E03.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1wWBrDPk41fgZOk1lh_dwcoXOxnPWERO-
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E04.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E04.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1KgyMvB8fhOZpsSs0I_ezmSfo34hS7X1k
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E05.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E05.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1NySpkSTBTtVAs4BwkuFgpEYeZf7myAPm
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E06.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E06.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1YVw41b-HVwQolCnc4VzGJjU7CNBxf8YM
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E07.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E07.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1z40J6XdVclwow6RQQeFS4w85Zx7zaV7v
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E08.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E08.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1SvKMJMYJEKc1Kd2PjqABLagAXX0IqVou
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S01E09.720p.WEBRip.H264-LAPUMiA.mkv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S01E09.720p.WEBRip.H264-LAPUMiA.mkv?a=0&id=1Imu6gMjzTxuuhTP1bXf5nIWQQodE4EUl
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ovnis Investigação Secreta", Ovnis.Investigação.Secreta.S01E01.MP4.DUB.BaixarSeriesMP4.Org.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ovnis.Investiga%C3%A7%C3%A3o.Secreta.S01E01.MP4.DUB.BaixarSeriesMP4.Org.mp4?a=0&id=1BZ5OMXZewme9b1dX_919BR4F_gyZYndX
