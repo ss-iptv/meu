@@ -86,4 +86,8 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/Arrow.m
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Grey's Anatomy
 #EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/Grey's%20Anatomy.m3u8.m3u8
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/Grey's%20Anatomy.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Cobra Kai
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/cobra_kai.m3u8
