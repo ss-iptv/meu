@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png"group-title="1 Contra Todos",1 Contra Todos
-#EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/1_contra_todos.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas/24 Horas S01 E01.mp4" tvg-logo="" group-title="24 Horas",24 Horas S01 E01.mp4
