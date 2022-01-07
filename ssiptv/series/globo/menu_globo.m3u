@@ -1,6 +1,6 @@
  #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Novidades
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GLOBOPLAY
 #EXTBG: #8d493c
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/_editar/globo.m3u8
 
