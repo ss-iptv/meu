@@ -2,7 +2,7 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",STARZ PLAY
 #EXTBG: #8d493c
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/api_starz.m3u
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/api_starz.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",1 Contra Todos
 #EXTBG: #11609E
