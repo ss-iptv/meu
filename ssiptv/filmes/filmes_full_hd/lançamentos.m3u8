@@ -13,6 +13,10 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%2
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
 
+#EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
+#EXTINF:0 group-title="Filmes | Lancamentos", Harry Potter 20th.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2020
 https://www.googleapis.com/drive/v3/files/1abMZCubB8JaCu7Fx_mmGnBSXvVMd11u8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2021
