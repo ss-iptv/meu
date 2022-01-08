@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTENC: UTF-8
+#PLAYLIST: ! Lançamentos Fabiana
+#EXTINF:0 group-title="Filmes | Fabiana", O Vendedor de Sonhos
+https://www.googleapis.com/drive/v3/files/1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+#EXTINF:0 group-title="Filmes | Fabiana",Olhar de Anjo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
+#EXTINF:0 group-title="Filmes | Fabiana", Encontrando Forestier Completo Dublado.mp4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
+
+#EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
+
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2020
 https://www.googleapis.com/drive/v3/files/1abMZCubB8JaCu7Fx_mmGnBSXvVMd11u8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2021
@@ -27,11 +37,6 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Every.Breath.You.Take.Du
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
 #EXTINF:0 group-title="Filmes | Lancamentos", The.Matrix.Resurrections.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
-
-#EXTINF:0 group-title="Filmes | Drama",Olhar de Anjo
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
-#EXTINF:0 group-title="Filmes | Drama", Encontrando Forestier Completo Dublado.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #EXTINF:0 group-title="Filmes | Lancamentos", Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
