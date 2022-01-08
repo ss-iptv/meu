@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos Fabiana
+
 #EXTINF:0  type="video" group-title="Filmes | Fabiana", [G]O Vendedor de Sonhos
 https://www.googleapis.com/drive/v3/files/1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Fabiana", O Vendedor de Sonhos
@@ -10,7 +11,6 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLA
 #EXTINF:0 group-title="Filmes | Fabiana", Encontrando Forestier Completo Dublado.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
-#EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
 
 #EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv
