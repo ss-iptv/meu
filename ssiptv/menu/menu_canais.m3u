@@ -15,13 +15,9 @@ http://168.205.87.198:8555/get.php?username=123456&password=123456&type=m3u_plus
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais Abertos
 https://raw.githubusercontent.com/jhonatadev/Canais-BR/main/Lista%20de%20canais
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github TV
-#EXTBG: #11609E
-https://raw.githubusercontent.com/jhonatadev/algumacoisa/main/algumlugar
-
 ###https://raw.githubusercontent.com/willianpachecosantos/algumacoisa/main/algumlugar###
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github (ALT)
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github (TV)
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
 

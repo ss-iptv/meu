@@ -5671,9 +5671,7 @@ https://www.googleapis.com/drive/v3/files/1A89oTPHvdlUqyV1juCQOPNyN_LR4gLOg?alt=
 https://www.googleapis.com/drive/v3/files/1A7qyvYRnsbGNxSrPRV6HuPea493NJuNT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="220 Volts",S01 E01.mp4 
 https://www.googleapis.com/drive/v3/files/1A7YxV1DSGBjK7kMYQunGrP-tWdCMFp_Q?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: LIMITLESS
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E01 - Piloto.mkv
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/T01E01%20-%20Piloto.mkv?a=0&id=1TKe40AoDvz20eBwUbYOP3QJXpKUjvZYx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="LIMITLESS",T01E02 - Distintivo! Gun!.mkv
