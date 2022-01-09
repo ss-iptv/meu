@@ -15,6 +15,12 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%2
 
 #EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
+#EXTINF:0 group-title="Filmes | Lancamentos", Dois + Dois 2021
+https://m3u.herokuapp.com/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
+#EXTINF:0 group-title="Filmes | Lancamentos", Getúlio (2014) 720p.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/D%E1%B5%A3%E1%B5%A2%E1%B5%A5%E2%82%91%E2%82%9BF%E1%B5%A2%E2%82%97%E2%82%98%E2%82%91%E2%82%9B.c%E2%82%92%E2%82%98%20-%20Get%C3%BAlio%20(2014)%20720p.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
+#EXTINF:0 group-title="Filmes | Lancamentos", Pokemon.Detetive.Pikachu
+https://m3u.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
 #EXTINF:0 group-title="Filmes | Lancamentos", Harry Potter 20th.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2020
