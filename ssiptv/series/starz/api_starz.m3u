@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png"group-title="1 Contra Todos",1 Contra Todos
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/1_contra_todos.m3u8
 
@@ -410,35 +410,35 @@ https://www.googleapis.com/drive/v3/files/1x5-Czx9arXTfvioCxkXilxeavwWkGrQj?alt=
 https://www.googleapis.com/drive/v3/files/1x5lGHnVuIW_yln6FNuB4nVH-_AlgG23M?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas/24 Horas S09 E12.mp4" tvg-logo="" group-title="24 Horas",24 Horas S09 E12.mp4
 https://www.googleapis.com/drive/v3/files/1x7j2FMR4UA5_YeXxFTfxjbhrFDOaQBJQ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E01.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E01.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/11lCEmU2FfhsW49co1dWJuO4KoVqdXliF?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E02.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E02.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E02.mp4
 https://www.googleapis.com/drive/v3/files/11pcOIknkp55XIsR9Cdar-3JbT7zvtw9z?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E03.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E03.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E03.mp4
 https://www.googleapis.com/drive/v3/files/11vHjYlSiYQWNEa7Ai7_AFwG109cmuGZC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E04.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E04.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E04.mp4
 https://www.googleapis.com/drive/v3/files/11xchhQTx-89X_HNmSPs2nMhE7msCF4iM?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E05.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E05.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E05.mp4
 https://www.googleapis.com/drive/v3/files/12-LQJ2bs6-G2pAwTIT69H78mWZEOKhwK?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S01 E06.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S01 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S01 E06.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S01 E06.mp4
 https://www.googleapis.com/drive/v3/files/120JDpvs7gdsG6wopuRPuLvIL9ZAaBohV?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S02 E01.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S02 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S02 E01.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S02 E01.mp4
 https://www.googleapis.com/drive/v3/files/120JKz0esehx84yrnFErcvDHyIqofFIba?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S02 E02.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S02 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S02 E02.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S02 E02.mp4
 https://www.googleapis.com/drive/v3/files/123Ogmj6myrSd18EIRlPc4FWfCSt7rM6i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S02 E03.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S02 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S02 E03.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S02 E03.mp4
 https://www.googleapis.com/drive/v3/files/123iuTKvrhqnp2kVjRZKKmmpLjhuW9EKZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E01.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E01.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E01.mp4
 https://www.googleapis.com/drive/v3/files/125Tm3NFm8OadokawvxPPVUeu1izHU44Z?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E02.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E02.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E02.mp4
 https://www.googleapis.com/drive/v3/files/1267VG7i4Si_LqlnDUB2eYnK6xflnSK4D?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E03.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E03.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E03.mp4
 https://www.googleapis.com/drive/v3/files/1278K9uXyL7DmXJFVn5MEG5mbywzgzohG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E04.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E04.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E04.mp4
 https://www.googleapis.com/drive/v3/files/128n1skTklhiT81unRkXhK6UYzcrC4W0M?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E05.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E05.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E05.mp4
 https://www.googleapis.com/drive/v3/files/12B2SIw1rn6nAWW98P4SaTlMVl8szy-wk?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="A História de Deus/A História de Deus com Morgan Freeman S03 E06.mp4" tvg-logo="" group-title="A História de Deus",A História de Deus com Morgan Freeman S03 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A HistÃ³ria de Deus/A HistÃ³ria de Deus com Morgan Freeman S03 E06.mp4" tvg-logo="" group-title="A HistÃ³ria de Deus",A HistÃ³ria de Deus com Morgan Freeman S03 E06.mp4
 https://www.googleapis.com/drive/v3/files/12BXXPDdt7Xn-C7KacQS4zRamS73bZ3Ys?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Castle Rock/Castle Rock S01 E01.mp4" tvg-logo="" group-title="Castle Rock",Castle Rock S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/130L1n3cNgmqF5Grbv8ZjBk7lqNaHpVTs?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
@@ -724,255 +724,255 @@ https://www.googleapis.com/drive/v3/files/1av2HZHQvkKrfsAeAqvrHJNLaV3KoEhjO?alt=
 https://www.googleapis.com/drive/v3/files/1b5esnrZxqt_qhnBXUqU649w1RVa2arbh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Castle/Castle S08 E21.mp4" tvg-logo="" group-title="Castle",Castle S08 E21.mp4
 https://www.googleapis.com/drive/v3/files/1bCjyY_RHftIejptHXIWFlkdNO78jcB7_?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1bD8Lnb6WiRVJ2hDy3-q5PFlfQVNCvt5z?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E04.mp4
 https://www.googleapis.com/drive/v3/files/1bJZvuiIzMZWO-4JK79g3XHwmuagBRN_p?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E05.mp4
 https://www.googleapis.com/drive/v3/files/1bRT1rSExTbtVny5ddrKBByYYhf_V4koC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E07.mp4
 https://www.googleapis.com/drive/v3/files/1bd6_7TO25kl43UcyZpuslXYR1c5odzyP?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E09.mp4
 https://www.googleapis.com/drive/v3/files/1bx4MSVDFSo3mkPg4MA7EoxjmZZDMFazE?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E10.mp4
 https://www.googleapis.com/drive/v3/files/1c1-B7lPpgubYh-XtnGRkSCdNQpFUJd0J?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E14.mp4
 https://www.googleapis.com/drive/v3/files/1cSFgs8LHMAs9bpNcnGiTa3q54iear4RT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E15.mp4
 https://www.googleapis.com/drive/v3/files/1cTqT5M65oxtoo8T_STT_zKTCcv0JcFJf?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E17.mp4
 https://www.googleapis.com/drive/v3/files/1cW5qlob-9qjpztRu8oHVUssH9nflRjX4?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E18.mp4
 https://www.googleapis.com/drive/v3/files/1ceGKSLfGth89WH59W9dKF-_czHxrDWmA?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E19.mp4
 https://www.googleapis.com/drive/v3/files/1chnO8kbKBfNuwuAZRjtoIFjToLHMfAIC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E21.mp4
 https://www.googleapis.com/drive/v3/files/1conFfxgtEnK3Bn_xA16ayOPuRn-lWOfH?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E22.mp4
 https://www.googleapis.com/drive/v3/files/1cqEvGG3cNyrB535rP6bcVQzs2n1sdlqw?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E23.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E23.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E23.mp4
 https://www.googleapis.com/drive/v3/files/1ct5QDSYasIpfAlgY_LasReOD3N8m0dcG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S01 E24.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S01 E24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S01 E24.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S01 E24.mp4
 https://www.googleapis.com/drive/v3/files/1ctnpzwnuDt8AhHIHx-UFaKS1aujINlUF?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E01.mp4
 https://www.googleapis.com/drive/v3/files/1d7_y8ZVuX7CzywNBBxcSMsAklRI0jZNG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E03.mp4
 https://www.googleapis.com/drive/v3/files/1dE7A1DaOOe0Q3cTqJAlwIXfjXK_2oz-x?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E04.mp4
 https://www.googleapis.com/drive/v3/files/1dI-HBw9Gj6QghoK7_Gslg8ZzWMwXczow?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E05.mp4
 https://www.googleapis.com/drive/v3/files/1dLQCNkerLbGokLo-1YaRpkJySY6SQl59?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E06.mp4
 https://www.googleapis.com/drive/v3/files/1dNTj077cChYvdrzvLZ8Xo3MFlafVXROh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E07.mp4
 https://www.googleapis.com/drive/v3/files/1dTmUGoEicpiuxoblcaQZeMi2PUtWmPEG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E10.mp4
 https://www.googleapis.com/drive/v3/files/1de7_80LKtCDnGw-xzTVw4NLpQX2VgXVZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E12.mp4
 https://www.googleapis.com/drive/v3/files/1e6USbRxBUOV-shMshvn3WYdMuupq3ax6?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E13.mp4
 https://www.googleapis.com/drive/v3/files/1e8YvnRYNA_0Fn3M9PQkTYW8WBmWD7mWD?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E14.mp4
 https://www.googleapis.com/drive/v3/files/1e8nhGrx4BBhgOWemCASuDEom5s3DBs4l?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E15.mp4
 https://www.googleapis.com/drive/v3/files/1eBY1hJQNySMYaFpFpYPceC4MW0h88iBF?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E16.mp4
 https://www.googleapis.com/drive/v3/files/1eM_HwAE9j463a221l4zATMdLcxjRioNX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E17.mp4
 https://www.googleapis.com/drive/v3/files/1en08HxkyGWhPb9PW7gkAZAsMGt64J7cb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E18.mp4
 https://www.googleapis.com/drive/v3/files/1eofEbdf2kpDY7zgabHbU_21WWrvDA16I?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E20.mp4
 https://www.googleapis.com/drive/v3/files/1eu791yTQPDXukg1aRnrvQEctVF6yPi8F?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E21.mp4
 https://www.googleapis.com/drive/v3/files/1f4nfeA2weMAIFKn2LgUXFpnBMUQtIqTl?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S02 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S02 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S02 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S02 E22.mp4
 https://www.googleapis.com/drive/v3/files/1fBiJx6n6WAdUs7XT3XZ8di9G0-g6TFax?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E01.mp4
 https://www.googleapis.com/drive/v3/files/1fG0ctsaAnoVK3se4cFxdJ6bvM02GC7es?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E03.mp4
 https://www.googleapis.com/drive/v3/files/1fJ3pLooZz6uE7wofyuO6CrPSKkSoctdy?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E05.mp4
 https://www.googleapis.com/drive/v3/files/1fN_5FEhaDenTi97lRYsF8pVX7n9ntXaW?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E06.mp4
 https://www.googleapis.com/drive/v3/files/1fQesL3Md4d3-jutg49KUKZgEhyFQAgzd?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E07.mp4
 https://www.googleapis.com/drive/v3/files/1fSZD_cVukqSivPBRHJKlDB7r0Og_CFZu?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E08.mp4
 https://www.googleapis.com/drive/v3/files/1fV9Uk6E8pls5i_dx6TSVHENIR0Kew2Iq?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E10.mp4
 https://www.googleapis.com/drive/v3/files/1feML4pd4NsCY-aVwaCSc0JpGcfbyQMNN?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E11.mp4
 https://www.googleapis.com/drive/v3/files/1ffJntGaSruZrbJMqvqdrytbmlmyL9IaU?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E14.mp4
 https://www.googleapis.com/drive/v3/files/1fomp1X2dBbXcq9mhUX-NjtuSr1u2KbEH?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E15.mp4
 https://www.googleapis.com/drive/v3/files/1fuF23O7ZHyEn8KI9e3VKIwT9SMMZReW2?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E17.mp4
 https://www.googleapis.com/drive/v3/files/1fvRWOgo57PcOMtkeX_3LXZWuq8fXm4D5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E18.mp4
 https://www.googleapis.com/drive/v3/files/1fweFIF3Fzc0obl6pjcnUT2KVTkG6tSSr?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E19.mp4
 https://www.googleapis.com/drive/v3/files/1gDPOR4p1h1WPL-Sh0A-4EuIoB-h-BUN8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E20.mp4
 https://www.googleapis.com/drive/v3/files/1g_Jq3BfN7ixthMEd5DVa_B5EjSrjshmu?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S03 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S03 E21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S03 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S03 E21.mp4
 https://www.googleapis.com/drive/v3/files/1gdjSDp3516IomSn0BVJqPqbDjWjhPmW4?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E01.mp4
 https://www.googleapis.com/drive/v3/files/1guFoLJ4UqwOcq4misuzYRWo0onWDRZry?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E03.mp4
 https://www.googleapis.com/drive/v3/files/1gvppFOLNqPFWLV1dMTBKUGSndXnKckrD?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E04.mp4
 https://www.googleapis.com/drive/v3/files/1gvrO6IwVtf1EwAaI26cgoQUgjdtMNcUd?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E06.mp4
 https://www.googleapis.com/drive/v3/files/1gz0ZAIHD6p3gJ0Jsih66niR2Gb-TEIGS?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E07.mp4
 https://www.googleapis.com/drive/v3/files/1h1_15MvllwZqpDytZhOVGOklqRlMC8QT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E08.mp4
 https://www.googleapis.com/drive/v3/files/1h31lMqtnX1wP_F6GgVRRBVjfFu3QQeUh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E09.mp4
 https://www.googleapis.com/drive/v3/files/1h7cabg8Cgi_ZnInjsHVZoctEh_hTKu88?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E10.mp4
 https://www.googleapis.com/drive/v3/files/1hMex54ewpaE2D4_4i8J5Nriwg1VT-shQ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E11.mp4
 https://www.googleapis.com/drive/v3/files/1hMlFzWPVpWkKZAc82lEfXm45SM8wUP-r?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E12.mp4
 https://www.googleapis.com/drive/v3/files/1hO80Ga521q9s_yaxUFcsSuqMNFG38VeS?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E13.mp4
 https://www.googleapis.com/drive/v3/files/1hT4NzuDKwIMv3TehZa-bPYDi9wsoksV0?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E14.mp4
 https://www.googleapis.com/drive/v3/files/1hZuZjXeLkGoGUaTXOwtNFMqUzWeQ6_Gp?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E15.mp4
 https://www.googleapis.com/drive/v3/files/1hedoLIsXmPzjzbcLVd1Zz_fCNn9IV4wT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E16.mp4
 https://www.googleapis.com/drive/v3/files/1hn-2eaoGlC0mCMu6bpUiGyzgykAqeb8A?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E17.mp4
 https://www.googleapis.com/drive/v3/files/1hv9DSBCXvQFv05lBiQvu_byfNjyJvQ8v?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E21.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E21.mp4
 https://www.googleapis.com/drive/v3/files/1i9EgZOO7EcNf1OyWzUzvj2roZSIKrOj3?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E22.mp4
 https://www.googleapis.com/drive/v3/files/1iDX4y5sKhvgzV-2ci_cvExFqnNTSdCg7?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S04 E23.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S04 E23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S04 E23.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S04 E23.mp4
 https://www.googleapis.com/drive/v3/files/1iED8_B783xbLUIwTN1DO_kPTH-u2E1E6?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E01.mp4
 https://www.googleapis.com/drive/v3/files/1iGGatzxZQeD07m999-WNJSWGBH9SZi4b?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E02.mp4
 https://www.googleapis.com/drive/v3/files/1iNxUbdhqE1q3NipK5bDOyvOiR7HOBA3P?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E03.mp4
 https://www.googleapis.com/drive/v3/files/1iQIB2jrGaZ6LGhD6UAn-MLkKZaCZDHRZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E06.mp4
 https://www.googleapis.com/drive/v3/files/1ihpR1D9rG8s3jKaoFNiY39ouTqi9ThIz?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E08.mp4
 https://www.googleapis.com/drive/v3/files/1impINdnqieshoNpHkaJY2ryLWv5QJTVb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E11.mp4
 https://www.googleapis.com/drive/v3/files/1iy1AqnyB5wspmYMPqKVtup25qnL-p-Ny?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E13.mp4
 https://www.googleapis.com/drive/v3/files/1iyg3DEEtsVChy5td6ZoL5VKhGXBaNfaX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E14.mp4
 https://www.googleapis.com/drive/v3/files/1jGY2E23GT5OtCHiav44pHtCzwfnnN1C1?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E16.mp4
 https://www.googleapis.com/drive/v3/files/1jJ6Oj1PXNNlstbFwvLUx8ZHoV691UMTI?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E18.mp4
 https://www.googleapis.com/drive/v3/files/1jT6m13TMAsWgT-EMWEyr1YSHpAVUWbqV?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E19.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E19.mp4
 https://www.googleapis.com/drive/v3/files/1jVXeKTne0J3DDA4Q9deWR3deynfF2ngs?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E20.mp4
 https://www.googleapis.com/drive/v3/files/1jY6s3LTL4W_8EUFAl7okOI55NzwtOH4H?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S05 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S05 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S05 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S05 E22.mp4
 https://www.googleapis.com/drive/v3/files/1j_V73jaVAWCdtnVBKM6PZYSMroeDMkky?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E02.mp4
 https://www.googleapis.com/drive/v3/files/1joApTpXdvGFShO2_SCanpy_QY_jjr-EZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E03.mp4
 https://www.googleapis.com/drive/v3/files/1jpdtM1GEsMV4soNtRChiH_Ut-5mKIiBf?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E04.mp4
 https://www.googleapis.com/drive/v3/files/1ju0W4KbkRkcYLwhP4T628TnRRC1s9g8l?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E07.mp4
 https://www.googleapis.com/drive/v3/files/1kAw-JhT4EffTlUI2XOH6ocoT0C3Aopcp?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E09.mp4
 https://www.googleapis.com/drive/v3/files/1kBa78w1rEouVo7tH0bCPeNBIcNfPlgkm?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E13.mp4
 https://www.googleapis.com/drive/v3/files/1kPPE7tiCtkQcYu5ixxZs7a6hDeLaOoqD?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E14.mp4
 https://www.googleapis.com/drive/v3/files/1kQikDjGxjlssEHHzAG3eBl0ufIHgacuP?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E15.mp4
 https://www.googleapis.com/drive/v3/files/1kWQ9YaAmcUpjhvWA8M2EtC62apLcDF-t?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E16.mp4
 https://www.googleapis.com/drive/v3/files/1kdVNFRTXTuqOevGZ2SYhiqQki9lwVNIF?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E17.mp4
 https://www.googleapis.com/drive/v3/files/1kgQ4s4CG-liG5Z-M2396-ueIYeHX21H3?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S06 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S06 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S06 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S06 E22.mp4
 https://www.googleapis.com/drive/v3/files/1kuLYlaRgMmusUmX_NW8CRbtCu6rFTqfz?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E01.mp4
 https://www.googleapis.com/drive/v3/files/1lCHd5DhXBMfXNpxY8TQdSbmQJSnIAP2P?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E04.mp4
 https://www.googleapis.com/drive/v3/files/1lVa9zEgAKZ-RWsWx1Ul1SreNtSxgHTAZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E05.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E05.mp4
 https://www.googleapis.com/drive/v3/files/1lWL9Aoc_UtkYhe08yybXthOSjdR1I7wR?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E06.mp4
 https://www.googleapis.com/drive/v3/files/1lYgqT43VEs7wGMRe1joDls3JdsfiW17s?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E08.mp4
 https://www.googleapis.com/drive/v3/files/1leXi4ndbDp-YIgh79QAIqxtILljF3auU?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E09.mp4
 https://www.googleapis.com/drive/v3/files/1lfjZTlbWAaTc7JHfgwCjyrRUWP68cvfv?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E11.mp4
 https://www.googleapis.com/drive/v3/files/1llrRxRf-9RuoP5aDHUbY4S_rXUoOFWqn?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E12.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E12.mp4
 https://www.googleapis.com/drive/v3/files/1mDFd3EKAjHpV8m8NFIxqnSQL0IWR7WWG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E14.mp4
 https://www.googleapis.com/drive/v3/files/1mOWGHTk8gsOs013QuLWgmURCHZ2MhjeG?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E15.mp4
 https://www.googleapis.com/drive/v3/files/1mOppNYHAjK4fRYbKfS69m-fSCeK8CDq5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E17.mp4
 https://www.googleapis.com/drive/v3/files/1mfe0QLobEH7dJOrp9EFjKTocVgva9AK8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E18.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E18.mp4
 https://www.googleapis.com/drive/v3/files/1mj_WDcPqncpx5xwcVtzv6t0J-NYumXs5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E20.mp4
 https://www.googleapis.com/drive/v3/files/1mslPE8ccaU9wEsqNVmI7Nazf9AYOr1bi?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S07 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S07 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S07 E22.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S07 E22.mp4
 https://www.googleapis.com/drive/v3/files/1mz3H-vBxbrauEHw5dWjQIMIRvvRKyDr1?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E01.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E01.mp4
 https://www.googleapis.com/drive/v3/files/1mz59KBhEmhuA-N43fqkqhimw5eLsYp32?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E02.mp4
 https://www.googleapis.com/drive/v3/files/1n3ADgil1JjOyA4mr4AQdkfbrG-p5uLtw?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E03.mp4
 https://www.googleapis.com/drive/v3/files/1n8K5_5y5ugLfq_7uA1YEJW0OUd5WGCJ5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E04.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E04.mp4
 https://www.googleapis.com/drive/v3/files/1nHJCDTIIQ6huEAfEMSbeE5Elf5AXRUi8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E09.mp4
 https://www.googleapis.com/drive/v3/files/1nliiX2kgCkl8Vc_zj-wIgiR5arlU9B8p?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E10.mp4
 https://www.googleapis.com/drive/v3/files/1nnlUesneXpYOFGmhDKcMefglBwKnbQ2Y?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E11.mp4
 https://www.googleapis.com/drive/v3/files/1nq_PP-amzAIhTSzbssMdRUR8JXCFFojk?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E13.mp4
 https://www.googleapis.com/drive/v3/files/1nz4gvGUTBki2DMB5cvYJXcEcZJOorIT6?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E15.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E15.mp4
 https://www.googleapis.com/drive/v3/files/1o-oKC4ZZOa-SKdDBfl1rVrVwd1_6kbyH?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E16.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E16.mp4
 https://www.googleapis.com/drive/v3/files/1o-wJMKZ6-oT_KJ50px0qiLOlDx7jiJQ_?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E17.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E17.mp4
 https://www.googleapis.com/drive/v3/files/1oB6vTt4159UKIGx8gQFf15W3bz6Iwxwd?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S08 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S08 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S08 E20.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S08 E20.mp4
 https://www.googleapis.com/drive/v3/files/1oPwHHfUD1aAfH6GzO4wEOFKY5nMr6Amv?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E02.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E02.mp4
 https://www.googleapis.com/drive/v3/files/1oXhg1Pt61ilxIAIwiv_3d4YVspCLAUOh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E03.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E03.mp4
 https://www.googleapis.com/drive/v3/files/1obZx_V2eYkoeIa9OQtSjyEGILW_OkDqe?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E06.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E06.mp4
 https://www.googleapis.com/drive/v3/files/1oe0BFR8-31EdojlJG8Nz9nImMHv8OJqY?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E07.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E07.mp4
 https://www.googleapis.com/drive/v3/files/1of_VMBPj4x6iGJfRRWADlOuJ9blmXrS7?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E08.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E08.mp4
 https://www.googleapis.com/drive/v3/files/1ogJPx2tpG65KBw1UDLJPOseuhOsTodiX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E09.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E09.mp4
 https://www.googleapis.com/drive/v3/files/1oucM5QPjS2Gg8TwgI4RGEzR4UA5zErQt?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E10.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E10.mp4
 https://www.googleapis.com/drive/v3/files/1p1Ohkyt9inavFO2eX6TjPdWN0p63oQuB?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E11.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E11.mp4
 https://www.googleapis.com/drive/v3/files/1p7VNEyD2HK70nAQ_BrMWedAw9YHq85GJ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E13.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E13.mp4
 https://www.googleapis.com/drive/v3/files/1pBcZcUu69_wyfzOL6Fyc-u2lYc-KpCh5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Heróis Contra o Fogo/Chicago Fire Heróis Contra o Fogo S09 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire Heróis Contra o Fogo S09 E14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HerÃ³is Contra o Fogo/Chicago Fire HerÃ³is Contra o Fogo S09 E14.mp4" tvg-logo="" group-title="Chicago Fire",Chicago Fire HerÃ³is Contra o Fogo S09 E14.mp4
 https://www.googleapis.com/drive/v3/files/1pF0E23Ob1fyr6BCK6h7Uj4HqRRXdHqrf?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Med/Chicago Med S01 E01.mp4" tvg-logo="" group-title="Chicago Med",Chicago Med S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1pQZtSNLGlBc2HmhgrrAKPG9n6C_Olx61?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
@@ -1390,13 +1390,13 @@ https://www.googleapis.com/drive/v3/files/14iB3r9vcSocy2Itd7HD5gnXDkHAFrn7A?alt=
 https://www.googleapis.com/drive/v3/files/14jVEF2Xk1JnLsV2g84GfTX5QL35KVf8a?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. Distrito 21/Chicago P.D. Distrito 21 S08 E15.mp4" tvg-logo="" group-title="Chicago P.D",Chicago P.D. Distrito 21 S08 E15.mp4
 https://www.googleapis.com/drive/v3/files/1516hZcDvZA1vSnoHyI75RXT39pfCMB-a?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chucky A S�rie/Chucky A S�rie S01 E01.mp4" tvg-logo="" group-title="Chucky", A S�rie/Chucky A S�rie S01 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chucky A SÃrie/Chucky A SÃrie S01 E01.mp4" tvg-logo="" group-title="Chucky", A SÃrie/Chucky A SÃrie S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1aDijbPFP8utyYOXqYJBL_E56tSNEqcLZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chucky A S�rie/Chucky A S�rie S01 E02.mp4" tvg-logo="" group-title="Chucky", A S�rie/Chucky A S�rie S01 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chucky A SÃrie/Chucky A SÃrie S01 E02.mp4" tvg-logo="" group-title="Chucky", A SÃrie/Chucky A SÃrie S01 E02.mp4
 https://www.googleapis.com/drive/v3/files/1aEDVc0gslZPsvBzNu3ueYzy6Qv4fRqJf?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chucky A S�rie/Chucky A S�rie S01 E03.mp4" tvg-logo="" group-title="Chucky", A S�rie/Chucky A S�rie S01 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chucky A SÃrie/Chucky A SÃrie S01 E03.mp4" tvg-logo="" group-title="Chucky", A SÃrie/Chucky A SÃrie S01 E03.mp4
 https://www.googleapis.com/drive/v3/files/1aEZagtyVk0Xbv70kUJT-gdidKNrvHdR0?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Chucky A S�rie/Chucky A S�rie S01 E04.mp4" tvg-logo="" group-title="Chucky", A S�rie/Chucky A S�rie S01 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chucky A SÃrie/Chucky A SÃrie S01 E04.mp4" tvg-logo="" group-title="Chucky", A SÃrie/Chucky A SÃrie S01 E04.mp4
 https://www.googleapis.com/drive/v3/files/1aEg9qb9Y2Dbs0yP9wLJ46J_hko_LC7s0?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Criminal - Reino Unido/Criminal - Reino Unido S01 E01.mp4" tvg-logo="" group-title="Criminal",Reino Unido S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1oZLx-ijupfUHo5jSJKYi5y35298cGcpX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
@@ -2986,21 +2986,21 @@ https://www.googleapis.com/drive/v3/files/1EfzaVbGzl-q3vm_d8Dr2byIyZT7tIBnt?alt=
 https://www.googleapis.com/drive/v3/files/1Ei40UR-a_21aMrDW6KT7FybsPRLjjk4J?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:-1 tvg-id="" tvg-name="Futurama/Futurama S10 E13.mp4" tvg-logo="" group-title="Futurama",Futurama S10 E13.mp4
 https://www.googleapis.com/drive/v3/files/1Ej7lwbLSv5ddSZNxkGHuHN56ZHogtWgg?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E01.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E01.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1VuKaFS8E2JvgnxiFEKODkbiMsDUx18sA?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E02.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E02.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E02.mp4
 https://www.googleapis.com/drive/v3/files/1VvMytd3EgYqlYPhSUfwK9Dw8ngUSPrVL?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E03.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E03.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E03.mp4
 https://www.googleapis.com/drive/v3/files/1WClo1bTeTwJFiGTEholZV_veRdxjK3lX?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E04.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E04.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E04.mp4
 https://www.googleapis.com/drive/v3/files/1WCpcYrei6Y5qtRGteCn4tN0xtXGVliT4?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E05.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E05.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E05.mp4
 https://www.googleapis.com/drive/v3/files/1WIaNFOGbVESZS2adRMHcjBDqfZcxlrUn?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E06.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E06.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E06.mp4
 https://www.googleapis.com/drive/v3/files/1WJ87A0nC-Q4jaSkPj1Ei1x_MHKrNzztZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E07.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E07.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E07.mp4
 https://www.googleapis.com/drive/v3/files/1WJWHmeTGiMIIJDK-p3wumQxDdjN6ZYvD?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Insânia/Insânia S01 E08.mp4" tvg-logo="" group-title="Insânia",Insânia S01 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InsÃ¢nia/InsÃ¢nia S01 E08.mp4" tvg-logo="" group-title="InsÃ¢nia",InsÃ¢nia S01 E08.mp4
 https://www.googleapis.com/drive/v3/files/1WMiqu1QzbPDv1Te6vfjrWUE3Nv2a0BJs?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 
 #EXTINF:-1 tvg-id="" tvg-name="Love in the Time of Corona/Love in the Time of Corona S01 E01.mp4" tvg-logo="" group-title="Love in the Time of Corona",Corona S01 E01.mp4
@@ -3794,43 +3794,43 @@ https://www.googleapis.com/drive/v3/files/1tsSSbPYU8BxbrTvEpHiOoQ5Jep3Ka27V?alt=
 #EXTINF:-1 tvg-id="" tvg-name="Stargate Atlantis/Stargate Atlantis S05 E20.mp4" tvg-logo="" group-title="Stargate Atlantis",S05 E20.mp4
 https://www.googleapis.com/drive/v3/files/1tt1EGUdVuG8BAb3HFkLcT91c3cVveb8b?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E01.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E01.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E01.mp4
 https://www.googleapis.com/drive/v3/files/1UCQGklqdlz9Z_DCpZLvz4NhvtRmhoT2J?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E03.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E03.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E03.mp4
 https://www.googleapis.com/drive/v3/files/1UGvGhNpgziP8uHYRCjnlIlDWq14k56AC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E04.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E04.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E04.mp4
 https://www.googleapis.com/drive/v3/files/1UPqPwoayZx0RsXcxnTL8uEql6FUJ_Gh6?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E05.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E05.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E05.mp4
 https://www.googleapis.com/drive/v3/files/1UT4aPRS0w5hEWmXa8-_VG6TcO_LAgzTW?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E07.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E07.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E07.mp4
 https://www.googleapis.com/drive/v3/files/1UUQn3DQKaV3z0W-vG8WtYbGncLxOLVGr?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E08.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E08.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E08.mp4
 https://www.googleapis.com/drive/v3/files/1UavQWPiDJCDCx0lKtD5-E7qbC5uA1yeu?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E09.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E09.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E09.mp4
 https://www.googleapis.com/drive/v3/files/1Ud8y3Kj6hoLt1ywUoPoGDahGWU3uUNuC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E10.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E10.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E10.mp4
 https://www.googleapis.com/drive/v3/files/1UhOqm-vDBu511li2madA-39n3kE2aamQ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E11.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E11.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E11.mp4
 https://www.googleapis.com/drive/v3/files/1UhhaEKTr1v0Dhyubi98T_Q8bOe7cBcJ9?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E12.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E12.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E12.mp4
 https://www.googleapis.com/drive/v3/files/1UiZZCAQxtSQOi4JCdzGyE2wN1M14_9rJ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E13.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E13.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E13.mp4
 https://www.googleapis.com/drive/v3/files/1UmAmxQq4eUfYdaKxthBQqZfvStv0bmbS?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E18.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E18.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E18.mp4
 https://www.googleapis.com/drive/v3/files/1UysZajIWm8ogk3pEK7XedXNvr6cKz-Zb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E19.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E19.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E19.mp4
 https://www.googleapis.com/drive/v3/files/1V4S6zUfJn4VKTBvp5JAZv2_kDx_87Ov-?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E20.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E20.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E20.mp4
 https://www.googleapis.com/drive/v3/files/1VZ-1T09NqwxdU62KIMfSyrLknwXJIsPM?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E21.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E21.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E21.mp4
 https://www.googleapis.com/drive/v3/files/1VaURoKYmDJ3RBHkBtWou8t9Xrhei2Qzb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E22.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E22.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E22.mp4
 https://www.googleapis.com/drive/v3/files/1Vcr2T6A5yc314Znv5lv-eWQ5pt0jDe82?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E24.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E24.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E24.mp4
 https://www.googleapis.com/drive/v3/files/1Vl-UK97x9e65bO6qdtLW5J5UOkvd9CQI?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E25.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E25.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E25.mp4
 https://www.googleapis.com/drive/v3/files/1VpePX9AXJU6GYlsRZ7fCKBkoKo_OH9xv?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
-#EXTINF:-1 tvg-id="" tvg-name="Tá Puxado/Tá Puxado! S01 E26.mp4" tvg-logo="" group-title="Tá Puxado",Tá Puxado! S01 E26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ Puxado/TÃ¡ Puxado! S01 E26.mp4" tvg-logo="" group-title="TÃ¡ Puxado",TÃ¡ Puxado! S01 E26.mp4
 https://www.googleapis.com/drive/v3/files/1VsHvXo2utVuVFEkQjR2O0GKEhG7HyzIo?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 
 #EXTINF:-1 tvg-id="" tvg-name="The Girlfriend Experience/The Girlfriend Experience S01 E01.mp4" tvg-logo="" group-title="Girlfriend Experience",S01 E01.mp4
