@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Adm
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Aeroporto Área Restrita
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/aeroporto_area_restrita.m3u8
 
-#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="American Horror History" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",American Horror History
+#EXTINF:-1  type="playlist"  tvg-id="" tvg-name="American Horror History" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",American Horror Story
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/american_horror/menu_ahh.m3u
 
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Arquivo X" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Arquivo X
