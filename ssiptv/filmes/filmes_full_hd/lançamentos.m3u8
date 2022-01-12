@@ -12,8 +12,9 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLA
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021
-
-#EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv
+#EXTINF:0 group-title="Filmes | Lancamentos", Mãe x Androides 2021
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/ss-iptv?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
+#EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
 #EXTINF:0 group-title="Filmes | Lancamentos", Dois + Dois 2021
 https://m3u.herokuapp.com/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
