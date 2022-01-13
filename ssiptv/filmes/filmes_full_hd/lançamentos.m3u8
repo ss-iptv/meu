@@ -12,6 +12,10 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLA
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021
+#EXTINF:0 group-title="Filmes | Lancamentos", Eternos [2021] - Dublado
+https://m3u.herokuapp.com/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
+#EXTINF:0 group-title="Filmes | Lancamentos", O Apanhador de Sonhos 2021
+https://m3u.herokuapp.com/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
 #EXTINF:0 group-title="Filmes | Lancamentos", Mãe x Androides 2021
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
 #EXTINF:0 group-title="Filmes | Lancamentos", Ghostbusters.Afterlife.2021
