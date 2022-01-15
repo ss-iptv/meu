@@ -12,6 +12,11 @@ http://lib-drive.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLA
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021
+
+#EXTINF:0 group-title="Filmes | Lancamentos", Chernobyl - O Filme 2021 1080p BluRay DUAL.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
+#EXTINF:0 group-title="Filmes | Lancamentos", Hotel.Transilvânia.4.2022.720p.DUB.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
 #EXTINF:0 group-title="Filmes | Lancamentos", Eternos [2021] - Dublado
 https://m3u.herokuapp.com/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
 #EXTINF:0 group-title="Filmes | Lancamentos", O Apanhador de Sonhos 2021
@@ -25,7 +30,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-D
 #EXTINF:0 group-title="Filmes | Lancamentos", Getúlio (2014) 720p.mp4
 https://m3u.herokuapp.com/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
 #EXTINF:0 group-title="Filmes | Lancamentos", Pokemon.Detetive.Pikachu
-https://m3u.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
 #EXTINF:0 group-title="Filmes | Lancamentos", Harry Potter 20th.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
 #EXTINF:0 group-title="Filmes | Lancamentos", S.P.P.C.2020
