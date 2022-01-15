@@ -118,4 +118,24 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Manifest
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sai de Baixo
 #EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Sai%20de%20Baixo.m3u8
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Sai%20de%20Baixo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",220 Volts
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/220%20Volts.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Grande Família
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Grande%20Fam%C3%ADlia.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Very English Scandal
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Very%20English%20Scandal.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Bates Motel
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Bates%20Motel.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Big Shot Treinador de Elite
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Big%20Shot%20Treinador%20de%20Elite.m3u8
