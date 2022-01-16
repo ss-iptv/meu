@@ -1,166 +1,192 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Dexter - 1° Temporada 720p mkv
+#EXTINF:0, S01x01.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
+#EXTINF:0, S01x02.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
+#EXTINF:0, S01x03.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
+#EXTINF:0, S01x04.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
+#EXTINF:0, S01x05.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
+#EXTINF:0, S01x06.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
+#EXTINF:0, S01x07.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
+#EXTINF:0, S01x08.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
+#EXTINF:0, S01x09.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
+#EXTINF:0, S01x10.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
+#EXTINF:0, S01x11.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
+#EXTINF:0, S01x12.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
 
-#EXTINF:0, 1° Temporada/12 - Nascer Livre.mp4
-https://drive.google.com/uc?id=1XgyeYaPB5oIR0ieAZFmqQtUmXEH0_Tgd&export=download
-#EXTINF:0, 1° Temporada/10 - Enxergando Vermelho.mp4
-https://drive.google.com/uc?id=1EcTIyGPfQZ-O1Z_CyMtSFECta1ZG7K8N&export=download
-#EXTINF:0, 1° Temporada/8 - Terapia.mp4
-https://drive.google.com/uc?id=1EBArpAzk_6sr2b077DEmJL9SoRi_JpUn&export=download
-#EXTINF:0, 1° Temporada/7 - Círculo de Amigos.mp4
-https://drive.google.com/uc?id=1HW1YdNF0-xgznliuG9v-BYtWOVHOz4QI&export=download
-#EXTINF:0, 1° Temporada/11 - Verdade Seja Dita.mp4
-https://drive.google.com/uc?id=1peCpro7bAYjP7TThGm0yKjiA7zW8bjx3&export=download
-#EXTINF:0, 1° Temporada/4 - Vamos Dar uma Mão para o Rapaz.mp4
-https://drive.google.com/uc?id=1SiG79s7JcLzyHA2BE5MckST91f_L4M7l&export=download
-#EXTINF:0, 1° Temporada/9 - Papai Sabe que é Melhor.mp4
-https://drive.google.com/uc?id=1hAPVWVIUN_XbjcEVDTzzOAXoZzSCWcPs&export=download
-#EXTINF:0, 1° Temporada/6 - Retorno ao Remetente.mp4
-https://drive.google.com/uc?id=15h4Hg6omjMYgVKcE8ZKmIxhiOiKXxBJR&export=download
-#EXTINF:0, 1° Temporada/5 - Amor Estilo Americano.mp4
-https://drive.google.com/uc?id=17FJDwLhpwVBJW3NHi5WUGn3kMDag-KM4&export=download
-#EXTINF:0, 1° Temporada/3 - Abuso.mp4
-https://drive.google.com/uc?id=1OYwurC93PrMtV4nrNlbo--JLmQ2hhIwh&export=download
-#EXTINF:0, 1° Temporada/2 - Crocodilo.mp4
-https://drive.google.com/uc?id=1mgtbCfD5a6pdrvGD0l5U-066ThZwgfSc&export=download
-#EXTINF:0, 1° Temporada/1 - Piloto.mp4
-https://drive.google.com/uc?id=1LZI4RCiqJ_9fKcTW5nndS9whUcxjN3oI&export=download
-#EXTINF:0, 2° Temporada/10 - Alguma Coisa Sobre Harry.mp4
-https://drive.google.com/uc?id=1KiEelQIMRsLpc8OYO1bK5M1W6pQhBe12&export=download
-#EXTINF:0, 2° Temporada/12 - A Invasão Britânica.mp4
-https://drive.google.com/uc?id=1sk4aEMa28fQkuNXIm3eE5D9lF1AY7F5u&export=download
-#EXTINF:0, 2° Temporada/7 - Naquela Noite, Uma Floresta Cresceu.mp4
-https://drive.google.com/uc?id=1p5sb_Vcxh26mgYHq6b0tlq6RIx7XAxEW&export=download
-#EXTINF:0, 2° Temporada/11 - Vire em Frente à Esquerda.mp4
-https://drive.google.com/uc?id=1zKrgTSf9cMJajunIrUFyBUzUPCyhQqRv&export=download
-#EXTINF:0, 2° Temporada/8 - Amanheceu.mp4
-https://drive.google.com/uc?id=1tEZPHo8I3TxlE5rvk536b_O8rVuVxKQR&export=download
-#EXTINF:0, 2° Temporada/6 - Dex, Mentiras e Trapaças.mp4
-https://drive.google.com/uc?id=1IR1WD4_xFcN29MQ3exOcZaZURgU0OpFO&export=download
-#EXTINF:0, 2° Temporada/9 - Resistir é Inútil.mp4
-https://drive.google.com/uc?id=1DbigsApgrfl-7PwjuSuo4SADWRhU-nAI&export=download
-#EXTINF:0, 2° Temporada/3 - Uma Mentira Inconveniente.mp4
-https://drive.google.com/uc?id=1nIPFYTkxk0zHPcwuzSQFX1IDFjspzyYc&export=download
-#EXTINF:0, 2° Temporada/5 - O Defensor Negro.mp4
-https://drive.google.com/uc?id=1NI3LJerfO0sJoD-KcNNq2FHBuewSELc6&export=download
-#EXTINF:0, 2° Temporada/2 - Esperando Exalar.mp4
-https://drive.google.com/uc?id=1G3bRXllEPwGRHObnrQdLBjifKwJq5Biq&export=download
-#EXTINF:0, 2° Temporada/4 - Invisível.mp4
-https://drive.google.com/uc?id=19g7oQTFjnLThQDD1wP70X719tW0ZeEMK&export=download
-#EXTINF:0, 2° Temporada/1 - Está Vivo!.mp4
-https://drive.google.com/uc?id=1aQ5j6bC7_HjoVi_VgkUZz3sJp0zSZqEd&export=download
-#EXTINF:0, 3° Temporada/7 - Fácil Demais.mp4
-https://drive.google.com/uc?id=1TBXg8rCS5oxNgb4Ej8dfy6oRJHSrNIQa&export=download
-#EXTINF:0, 3° Temporada/12 - Você Aceita Dexter Morgan.mp4
-https://drive.google.com/uc?id=1hrJ-MYy7hQgFW4W3zfugFKbKXaKHatml&export=download
-#EXTINF:0, 3° Temporada/8 - O Estrago que um Homem Pode Fazer.mp4
-https://drive.google.com/uc?id=19dcICaMfPQhMJmhXA6q2vuw2sxDrTuNL&export=download
-#EXTINF:0, 3° Temporada/11 - Eu Tive um Sonho.mp4
-https://drive.google.com/uc?id=1Sk6vuTQZKO3zWcpYtP3WCzzxh4Vo5R1A&export=download
-#EXTINF:0, 3° Temporada/10 - Siga Seu Próprio Caminho.mp4
-https://drive.google.com/uc?id=1b49u6KX6y4Ff0iMEfwLJ_0k60EaF8BD7&export=download
-#EXTINF:0, 3° Temporada/5 - Viagem a Bimini.mp4
-https://drive.google.com/uc?id=1NOWZPSCVTQyNJN2aB7s73SYBsT5WcwI4&export=download
-#EXTINF:0, 3° Temporada/6 - É Possível.mp4
-https://drive.google.com/uc?id=1iy7Y6DgEFsbhgihVIcGl5vU7FE2HpVFH&export=download
-#EXTINF:0, 3° Temporada/4 - Tudo em Família.mp4
-https://drive.google.com/uc?id=14WGaufceWcYXjl63sIcHH8HHGfoN-6Qt&export=download
-#EXTINF:0, 3° Temporada/9 - Sobre a Última Noite.mp4
-https://drive.google.com/uc?id=1myXVTHsdvx4x1vUK17ejpgpQgk6zV15D&export=download
-#EXTINF:0, 3° Temporada/3 - O Leão Dorme Novamente.mp4
-https://drive.google.com/uc?id=12MtqLUexT19TvkljZ-X7e-kFcH6jsW_F&export=download
-#EXTINF:0, 3° Temporada/1 - Nosso Pai.mp4
-https://drive.google.com/uc?id=1JGor3SnvqJQrlle51K6yLA7oaTqVY3LI&export=download
-#EXTINF:0, 3° Temporada/2 - Procurando Freebo.mp4
-https://drive.google.com/uc?id=1Ph-bBzHZAyS5VR7SZwK0jvpGe2YPlGjV&export=download
-#EXTINF:0, 4° Temporada/4x12 - A Escapada.mp4
-https://drive.google.com/uc?id=1uhdhFJ-DRmn78VJlbS-NvVragVIQ6oqT&export=download
-#EXTINF:0, 4° Temporada/4x10 - Garotos Perdidos.mp4
-https://drive.google.com/uc?id=1LaOX6Gzr30o2uBO9AqxWyb83eloeSoHb&export=download
-#EXTINF:0, 4° Temporada/4x11 - Olá, Dexter Morgan.mp4
-https://drive.google.com/uc?id=1CTU_GcGohOwgqKlOJiO78IjYMsHVUWCw&export=download
-#EXTINF:0, 4° Temporada/4x08 - Problemas na Estrada.mp4
-https://drive.google.com/uc?id=16axaKyVooxc8DAfrt29p4t8sZ0PFOPQo&export=download
-#EXTINF:0, 4° Temporada/4x09 - Homem Faminto.mp4
-https://drive.google.com/uc?id=1OYhX7dCdiZQPjbEb0XQHQJomd_DhFMLX&export=download
-#EXTINF:0, 4° Temporada/4x06 - Se Eu Tivesse um Martelo.mp4
-https://drive.google.com/uc?id=1k76DfrQ7fTen18VlOcMWE-mA9eundEin&export=download
-#EXTINF:0, 4° Temporada/4x07 - Maré Mansa.mp4
-https://drive.google.com/uc?id=12tZuIkulDMjQefPccWdzqcXgfUKEbyON&export=download
-#EXTINF:0, 4° Temporada/4x04 - Dex Sai de Férias.mp4
-https://drive.google.com/uc?id=1Eoy8863si0iI_KB6E3Hme_rPIMagxGGw&export=download
-#EXTINF:0, 4° Temporada/4x03 - Cegado Pela Luz.mp4
-https://drive.google.com/uc?id=1xLY7cRcuSmDMmpiex9UCezM4H2xDthoU&export=download
-#EXTINF:0, 4° Temporada/4x05 - Perseguidor Implacável.mp4
-https://drive.google.com/uc?id=1GrLsMuv9f5eKjN8iSUER8JrqM1Zv8lma&export=download
-#EXTINF:0, 4° Temporada/4x01 - Vivendo o Sonho.mp4
-https://drive.google.com/uc?id=1sv58PvBiPFzKxUljxB2MPXQ-eKJS55co&export=download
-#EXTINF:0, 4° Temporada/4x02 - O Que Será dos Restos.mp4
-https://drive.google.com/uc?id=1c4qrr5V5lH6Q3Bs2fwtAyQIODDc-1Z6j&export=download
-#EXTINF:0, 5° Temporada/5x12 - O Grande.mp4
-https://drive.google.com/uc?id=17xPl9-7ffh-MvivY0pwpRolow4hlFUnB&export=download
-#EXTINF:0, 5° Temporada/5x11 - Pulando De Um Cargueiro.mp4
-https://drive.google.com/uc?id=1Sdc4IsXrrQPgtNqhVZ9mM_-CvCMjH832&export=download
-#EXTINF:0, 5° Temporada/5x10 - No Inicio....mp4
-https://drive.google.com/uc?id=1a2Xr4JToCi8G3Hrci98Ix97IfgvqNrBc&export=download
-#EXTINF:0, 5° Temporada/5x09 - Adolescência Deserta.mp4
-https://drive.google.com/uc?id=1Maea43IqnEiCrqebmHwfitDV32hAWY9o&export=download
-#EXTINF:0, 5° Temporada/5x05 - Primeiro Sangramento.mp4
-https://drive.google.com/uc?id=1P36R_OOMivLsK6hxF-Sjl8NAwcsurGkk&export=download
-#EXTINF:0, 5° Temporada/5x08 - Pegue Isso.mp4
-https://drive.google.com/uc?id=1MdtA3x2zcQc1vakbeU7ZGvt4nFoOV8mZ&export=download
-#EXTINF:0, 5° Temporada/5x06 - Está Tudo Claro.mp4
-https://drive.google.com/uc?id=1eP5OzCZBr0XefhDwTqRXPs3ZUB__oeQL&export=download
-#EXTINF:0, 5° Temporada/5x07 - Nosso Circulo.mp4
-https://drive.google.com/uc?id=1ZYCF0ti__nQwwKaXtYiJBOo3s7WCVNAH&export=download
-#EXTINF:0, 5° Temporada/5x03 - Praticamente Perfeito.mp4
-https://drive.google.com/uc?id=1vlfvkGsLBA7ZR802DxLxF3DybpZuZkXB&export=download
-#EXTINF:0, 5° Temporada/5x04 - A Bela e a Fera.mp4
-https://drive.google.com/uc?id=15ryV1-Q0HABBij-K-6E1yL2Bul77SmhR&export=download
-#EXTINF:0, 5° Temporada/5x01 - Meu Erro.mp4
-https://drive.google.com/uc?id=1S43BxCEWcDK-mFs92vwzHZCGPVDKJCdb&export=download
-#EXTINF:0, 5° Temporada/5x02 - Olá,Bandido.mp4
-https://drive.google.com/uc?id=1qo5oRfoSFZC7sLKU_4a8bX6mMq3JWFvd&export=download
-#EXTINF:0, 6° Temporada/7 - Nebrasca 
-https://drive.google.com/uc?id=1viugCvvdU7LMI0i_s38BLfGqJqQUym0P&export=download
-#EXTINF:0, 6° Temporada/6 - Apenas Deixa Ir 
-https://drive.google.com/uc?id=1Joh_wTFzd47hleOAO31dbXwEYIuyFkL8&export=download
-#EXTINF:0, 6° Temporada/5 - O Anjo da Morte 
-https://drive.google.com/uc?id=1nxT31VVfveDcvklChk3_c02cTH7juld3&export=download
-#EXTINF:0, 6° Temporada/4_Um_Cavalo_de_Cor_Diferente
-https://drive.google.com/uc?id=1dhycEIVcvyc5NZOtpE0S6fUmKPCk98je&export=download
-#EXTINF:0, 6° Temporada/3 - Smokey and the Bandit 
-https://drive.google.com/uc?id=1cBU6TbWK6nmtIPpIL36oa2DByp92gZa-&export=download
-#EXTINF:0, 6° Temporada/1 - Esses Tipos de Coisa 
-https://drive.google.com/uc?id=1d8S_OFoWU_0zM3EcpVsourXxZUXd62w9&export=download
-#EXTINF:0, 6° Temporada/9 - Pegue o Gellar 
-https://drive.google.com/uc?id=18oHCSJXAWxvIPtJv7MZUNhr50Gl63Op-&export=download
-#EXTINF:0, 6° Temporada/8 - Pecado de Omissão 
-https://drive.google.com/uc?id=1_XFEHrr_sL4lSeA4TY0pjpEBaVBJhluW&export=download
-#EXTINF:0, 6° Temporada/2 - Era Uma Vez...
-https://drive.google.com/uc?id=1WYjuTi6jg8LwW57IqrZgECE4shU7E5VU&export=download
-#EXTINF:0, 7° Temporada/8 - Argentina.mp4
-https://drive.google.com/uc?id=1frkXfVk_SX0pvMf-zY7LNXJulvk16gLE&export=download
-#EXTINF:0, 7° Temporada/12 - Surpresa Motherfucker.mp4
-https://drive.google.com/uc?id=1V1JDmamnpOIrYOWcrC5urWTyUZEHAWO0&export=download
-#EXTINF:0, 7° Temporada/9 - Não anunciado.mp4
-https://drive.google.com/uc?id=1CwJYnvOV2oZ51dZALCGeZ4DSMG7u9eNG&export=download
-#EXTINF:0, 7° Temporada/7 - Química.mp4
-https://drive.google.com/uc?id=1tngJHsxI8WVG-gtYSEya-lOktynMJjrv&export=download
-#EXTINF:0, 7° Temporada/11 - Você Vê O Que Eu Vejo.mp4
-https://drive.google.com/uc?id=1YJ_C1WwQcwiVOzkcFXus5R4PW2XbSR2p&export=download
-#EXTINF:0, 7° Temporada/6 - Não anunciado.mp4
-https://drive.google.com/uc?id=1_VE-apumdPXyvkL2-PvJKxwLk77ucaJj&export=download
-#EXTINF:0, 7° Temporada/10 - O Passageiro Qualquer Coisa.mp4
-https://drive.google.com/uc?id=1wJyQKYKZ93Mj4_K5kS8LNDBI_uECBOJ1&export=download
-#EXTINF:0, 7° Temporada/5 - Nade Fundo.mp4
-https://drive.google.com/uc?id=1z4MT8-MDcPzu-Cenogo_jKlhQdcTGFeJ&export=download
-#EXTINF:0, 7° Temporada/2 - A Luz do Sol e o Redemoinho Gelado.mp4
-https://drive.google.com/uc?id=14WSE0RRM4nSrQThFFWaFJZNMwSQXAm1V&export=download
-#EXTINF:0, 7° Temporada/4 - Corra.mp4
-https://drive.google.com/uc?id=1TAOEerO1c6LQUNkhSrmPBL3ivr4Ff_lY&export=download
-#EXTINF:0, 7° Temporada/3 - Não anunciado.mp4
-https://drive.google.com/uc?id=12u_Q7YXRI7ar6nBXTR61602YNcSlv8Az&export=download
-#EXTINF:0, 7° Temporada/1 - Você é....mp4
-https://drive.google.com/uc?id=1zyGR4vbG2hqvvemDNh_Lhr61TNTBuAUp&export=download
-#EXTINF:0, 8° Temporada/11 - Macaco Na Caixa.mp4
-https://drive.google.com/uc?id=1IIGmNjZ_jVfHfrxtgwe74CoNWtpClLob&export=download
-#EXTINF:0, 
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2° Temporada
+#EXTINF:0, 1 - Está Vivo!.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Est%C3%A1%20Vivo!.mp4?a=0&id=1aQ5j6bC7_HjoVi_VgkUZz3sJp0zSZqEd
+#EXTINF:0, 10 - Alguma Coisa Sobre Harry.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Alguma%20Coisa%20Sobre%20Harry.mp4?a=0&id=1KiEelQIMRsLpc8OYO1bK5M1W6pQhBe12
+#EXTINF:0, 11 - Vire em Frente à Esquerda.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Vire%20em%20Frente%20%C3%A0%20Esquerda.mp4?a=0&id=1zKrgTSf9cMJajunIrUFyBUzUPCyhQqRv
+#EXTINF:0, 12 - A Invasão Britânica.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20A%20Invas%C3%A3o%20Brit%C3%A2nica.mp4?a=0&id=1sk4aEMa28fQkuNXIm3eE5D9lF1AY7F5u
+#EXTINF:0, 2 - Esperando Exalar.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Esperando%20Exalar.mp4?a=0&id=1G3bRXllEPwGRHObnrQdLBjifKwJq5Biq
+#EXTINF:0, 3 - Uma Mentira Inconveniente.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Uma%20Mentira%20Inconveniente.mp4?a=0&id=1nIPFYTkxk0zHPcwuzSQFX1IDFjspzyYc
+#EXTINF:0, 4 - Invisível.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Invis%C3%ADvel.mp4?a=0&id=19g7oQTFjnLThQDD1wP70X719tW0ZeEMK
+#EXTINF:0, 5 - O Defensor Negro.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20O%20Defensor%20Negro.mp4?a=0&id=1NI3LJerfO0sJoD-KcNNq2FHBuewSELc6
+#EXTINF:0, 6 - Dex, Mentiras e Trapaças.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Dex,%20Mentiras%20e%20Trapa%C3%A7as.mp4?a=0&id=1IR1WD4_xFcN29MQ3exOcZaZURgU0OpFO
+#EXTINF:0, 7 - Naquela Noite, Uma Floresta Cresceu.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Naquela%20Noite,%20Uma%20Floresta%20Cresceu.mp4?a=0&id=1p5sb_Vcxh26mgYHq6b0tlq6RIx7XAxEW
+#EXTINF:0, 8 - Amanheceu.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Amanheceu.mp4?a=0&id=1tEZPHo8I3TxlE5rvk536b_O8rVuVxKQR
+#EXTINF:0, 9 - Resistir é Inútil.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Resistir%20%C3%A9%20In%C3%BAtil.mp4?a=0&id=1DbigsApgrfl-7PwjuSuo4SADWRhU-nAI
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 03 - Dexter - 3° Temporada 720p mp4
+#EXTINF:0, S03x01.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
+#EXTINF:0, S03x02.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
+#EXTINF:0, S03x03.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
+#EXTINF:0, S03x04.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
+#EXTINF:0, S03x05.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
+#EXTINF:0, S03x06.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
+#EXTINF:0, S03x07.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
+#EXTINF:0, S03x08.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
+#EXTINF:0, S03x09.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
+#EXTINF:0, S03x10.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
+#EXTINF:0, S03x11.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
+#EXTINF:0, S03x12.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 04 - Dexter - 4° Temporada 720p mp4
+#EXTINF:0, S04x01.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
+#EXTINF:0, S04x02.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
+#EXTINF:0, S04x03.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
+#EXTINF:0, S04x04.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
+#EXTINF:0, S04x05.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
+#EXTINF:0, S04x06.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
+#EXTINF:0, S04x07.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
+#EXTINF:0, S04x08.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
+#EXTINF:0, S04x09.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
+#EXTINF:0, S04x10.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
+#EXTINF:0, S04x11.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
+#EXTINF:0, S04x12.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - Dexter - 5° Temporada 720p mp4
+#EXTINF:0, S05x01.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
+#EXTINF:0, S05x02.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
+#EXTINF:0, S05x03.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
+#EXTINF:0, S05x04.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
+#EXTINF:0, S05x05.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
+#EXTINF:0, S05x06.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
+#EXTINF:0, S05x07.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
+#EXTINF:0, S05x08.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
+#EXTINF:0, S05x09.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
+#EXTINF:0, S05x10.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
+#EXTINF:0, S05x11.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
+#EXTINF:0, S05x12.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 06 - Dexter - 6° Temporada 720p mp4
+#EXTINF:0, S06x01.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
+#EXTINF:0, S06x012.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
+#EXTINF:0, S06x02.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
+#EXTINF:0, S06x03.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
+#EXTINF:0, S06x04.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
+#EXTINF:0, S06x05.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
+#EXTINF:0, S06x06.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
+#EXTINF:0, S06x07.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
+#EXTINF:0, S06x08.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
+#EXTINF:0, S06x09.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
+#EXTINF:0, S06x10.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
+#EXTINF:0, S06x11.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 07 - Dexter - 7° Temporada 720p mp4
+#EXTINF:0, S07x01.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
+#EXTINF:0, S07x02.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
+#EXTINF:0, S07x03.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
+#EXTINF:0, S07x04.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
+#EXTINF:0, S07x05.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
+#EXTINF:0, S07x06.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
+#EXTINF:0, S07x07.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
+#EXTINF:0, S07x08.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
+#EXTINF:0, S07x09.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
+#EXTINF:0, S07x10.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
+#EXTINF:0, S07x11.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
+#EXTINF:0, S07x12.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
