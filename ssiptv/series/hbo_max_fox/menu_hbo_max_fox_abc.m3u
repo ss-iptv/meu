@@ -111,6 +111,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Sma
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="Stargirl" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",Stargirl
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Stargirl.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Superman and Lois
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/Superman_and_Lois.m3u8
+
 #EXTINF:-1  type="playlist"  tvg-id="" tvg-name="This is Us" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png" group-title="HBO | MAX | FOX",This is Us
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/This%20is%20Us.m3u8
 
