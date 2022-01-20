@@ -2,191 +2,191 @@
 #EXTENC: UTF-8
 #PLAYLIST: 01 - Dexter - 1° Temporada 720p mkv
 #EXTINF:0, S01x01.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
+https://puretorrent.me/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
 #EXTINF:0, S01x02.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
+https://puretorrent.me/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
 #EXTINF:0, S01x03.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
+https://puretorrent.me/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
 #EXTINF:0, S01x04.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
+https://puretorrent.me/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
 #EXTINF:0, S01x05.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
+https://puretorrent.me/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
 #EXTINF:0, S01x06.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
+https://puretorrent.me/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
 #EXTINF:0, S01x07.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
+https://puretorrent.me/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
 #EXTINF:0, S01x08.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
+https://puretorrent.me/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
 #EXTINF:0, S01x09.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
+https://puretorrent.me/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
 #EXTINF:0, S01x10.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
+https://puretorrent.me/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
 #EXTINF:0, S01x11.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
+https://puretorrent.me/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
 #EXTINF:0, S01x12.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
+https://puretorrent.me/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 2° Temporada
 #EXTINF:0, 1 - Está Vivo!.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Est%C3%A1%20Vivo!.mp4?a=0&id=1aQ5j6bC7_HjoVi_VgkUZz3sJp0zSZqEd
+https://puretorrent.me/api/v1/redirectdownload/1%20-%20Est%C3%A1%20Vivo!.mp4?a=0&id=1aQ5j6bC7_HjoVi_VgkUZz3sJp0zSZqEd
 #EXTINF:0, 10 - Alguma Coisa Sobre Harry.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Alguma%20Coisa%20Sobre%20Harry.mp4?a=0&id=1KiEelQIMRsLpc8OYO1bK5M1W6pQhBe12
+https://puretorrent.me/api/v1/redirectdownload/10%20-%20Alguma%20Coisa%20Sobre%20Harry.mp4?a=0&id=1KiEelQIMRsLpc8OYO1bK5M1W6pQhBe12
 #EXTINF:0, 11 - Vire em Frente à Esquerda.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Vire%20em%20Frente%20%C3%A0%20Esquerda.mp4?a=0&id=1zKrgTSf9cMJajunIrUFyBUzUPCyhQqRv
+https://puretorrent.me/api/v1/redirectdownload/11%20-%20Vire%20em%20Frente%20%C3%A0%20Esquerda.mp4?a=0&id=1zKrgTSf9cMJajunIrUFyBUzUPCyhQqRv
 #EXTINF:0, 12 - A Invasão Britânica.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20A%20Invas%C3%A3o%20Brit%C3%A2nica.mp4?a=0&id=1sk4aEMa28fQkuNXIm3eE5D9lF1AY7F5u
+https://puretorrent.me/api/v1/redirectdownload/12%20-%20A%20Invas%C3%A3o%20Brit%C3%A2nica.mp4?a=0&id=1sk4aEMa28fQkuNXIm3eE5D9lF1AY7F5u
 #EXTINF:0, 2 - Esperando Exalar.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Esperando%20Exalar.mp4?a=0&id=1G3bRXllEPwGRHObnrQdLBjifKwJq5Biq
+https://puretorrent.me/api/v1/redirectdownload/2%20-%20Esperando%20Exalar.mp4?a=0&id=1G3bRXllEPwGRHObnrQdLBjifKwJq5Biq
 #EXTINF:0, 3 - Uma Mentira Inconveniente.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Uma%20Mentira%20Inconveniente.mp4?a=0&id=1nIPFYTkxk0zHPcwuzSQFX1IDFjspzyYc
+https://puretorrent.me/api/v1/redirectdownload/3%20-%20Uma%20Mentira%20Inconveniente.mp4?a=0&id=1nIPFYTkxk0zHPcwuzSQFX1IDFjspzyYc
 #EXTINF:0, 4 - Invisível.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Invis%C3%ADvel.mp4?a=0&id=19g7oQTFjnLThQDD1wP70X719tW0ZeEMK
+https://puretorrent.me/api/v1/redirectdownload/4%20-%20Invis%C3%ADvel.mp4?a=0&id=19g7oQTFjnLThQDD1wP70X719tW0ZeEMK
 #EXTINF:0, 5 - O Defensor Negro.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20O%20Defensor%20Negro.mp4?a=0&id=1NI3LJerfO0sJoD-KcNNq2FHBuewSELc6
+https://puretorrent.me/api/v1/redirectdownload/5%20-%20O%20Defensor%20Negro.mp4?a=0&id=1NI3LJerfO0sJoD-KcNNq2FHBuewSELc6
 #EXTINF:0, 6 - Dex, Mentiras e Trapaças.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Dex,%20Mentiras%20e%20Trapa%C3%A7as.mp4?a=0&id=1IR1WD4_xFcN29MQ3exOcZaZURgU0OpFO
+https://puretorrent.me/api/v1/redirectdownload/6%20-%20Dex,%20Mentiras%20e%20Trapa%C3%A7as.mp4?a=0&id=1IR1WD4_xFcN29MQ3exOcZaZURgU0OpFO
 #EXTINF:0, 7 - Naquela Noite, Uma Floresta Cresceu.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Naquela%20Noite,%20Uma%20Floresta%20Cresceu.mp4?a=0&id=1p5sb_Vcxh26mgYHq6b0tlq6RIx7XAxEW
+https://puretorrent.me/api/v1/redirectdownload/7%20-%20Naquela%20Noite,%20Uma%20Floresta%20Cresceu.mp4?a=0&id=1p5sb_Vcxh26mgYHq6b0tlq6RIx7XAxEW
 #EXTINF:0, 8 - Amanheceu.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Amanheceu.mp4?a=0&id=1tEZPHo8I3TxlE5rvk536b_O8rVuVxKQR
+https://puretorrent.me/api/v1/redirectdownload/8%20-%20Amanheceu.mp4?a=0&id=1tEZPHo8I3TxlE5rvk536b_O8rVuVxKQR
 #EXTINF:0, 9 - Resistir é Inútil.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Resistir%20%C3%A9%20In%C3%BAtil.mp4?a=0&id=1DbigsApgrfl-7PwjuSuo4SADWRhU-nAI
+https://puretorrent.me/api/v1/redirectdownload/9%20-%20Resistir%20%C3%A9%20In%C3%BAtil.mp4?a=0&id=1DbigsApgrfl-7PwjuSuo4SADWRhU-nAI
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 03 - Dexter - 3° Temporada 720p mp4
 #EXTINF:0, S03x01.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
+https://puretorrent.me/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
 #EXTINF:0, S03x02.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
+https://puretorrent.me/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
 #EXTINF:0, S03x03.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
+https://puretorrent.me/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
 #EXTINF:0, S03x04.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
+https://puretorrent.me/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
 #EXTINF:0, S03x05.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
+https://puretorrent.me/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
 #EXTINF:0, S03x06.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
+https://puretorrent.me/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
 #EXTINF:0, S03x07.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
+https://puretorrent.me/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
 #EXTINF:0, S03x08.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
+https://puretorrent.me/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
 #EXTINF:0, S03x09.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
+https://puretorrent.me/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
 #EXTINF:0, S03x10.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
+https://puretorrent.me/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
 #EXTINF:0, S03x11.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
+https://puretorrent.me/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
 #EXTINF:0, S03x12.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
+https://puretorrent.me/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 04 - Dexter - 4° Temporada 720p mp4
 #EXTINF:0, S04x01.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
+https://puretorrent.me/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
 #EXTINF:0, S04x02.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
+https://puretorrent.me/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
 #EXTINF:0, S04x03.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
+https://puretorrent.me/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
 #EXTINF:0, S04x04.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
+https://puretorrent.me/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
 #EXTINF:0, S04x05.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
+https://puretorrent.me/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
 #EXTINF:0, S04x06.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
+https://puretorrent.me/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
 #EXTINF:0, S04x07.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
+https://puretorrent.me/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
 #EXTINF:0, S04x08.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
+https://puretorrent.me/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
 #EXTINF:0, S04x09.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
+https://puretorrent.me/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
 #EXTINF:0, S04x10.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
+https://puretorrent.me/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
 #EXTINF:0, S04x11.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
+https://puretorrent.me/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
 #EXTINF:0, S04x12.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
+https://puretorrent.me/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 05 - Dexter - 5° Temporada 720p mp4
 #EXTINF:0, S05x01.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
+https://puretorrent.me/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
 #EXTINF:0, S05x02.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
+https://puretorrent.me/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
 #EXTINF:0, S05x03.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
+https://puretorrent.me/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
 #EXTINF:0, S05x04.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
+https://puretorrent.me/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
 #EXTINF:0, S05x05.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
+https://puretorrent.me/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
 #EXTINF:0, S05x06.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
+https://puretorrent.me/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
 #EXTINF:0, S05x07.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
+https://puretorrent.me/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
 #EXTINF:0, S05x08.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
+https://puretorrent.me/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
 #EXTINF:0, S05x09.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
+https://puretorrent.me/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
 #EXTINF:0, S05x10.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
+https://puretorrent.me/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
 #EXTINF:0, S05x11.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
+https://puretorrent.me/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
 #EXTINF:0, S05x12.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
+https://puretorrent.me/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 06 - Dexter - 6° Temporada 720p mp4
 #EXTINF:0, S06x01.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
+https://puretorrent.me/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
 #EXTINF:0, S06x012.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
+https://puretorrent.me/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
 #EXTINF:0, S06x02.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
+https://puretorrent.me/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
 #EXTINF:0, S06x03.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
+https://puretorrent.me/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
 #EXTINF:0, S06x04.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
+https://puretorrent.me/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
 #EXTINF:0, S06x05.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
+https://puretorrent.me/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
 #EXTINF:0, S06x06.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
+https://puretorrent.me/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
 #EXTINF:0, S06x07.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
+https://puretorrent.me/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
 #EXTINF:0, S06x08.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
+https://puretorrent.me/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
 #EXTINF:0, S06x09.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
+https://puretorrent.me/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
 #EXTINF:0, S06x10.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
+https://puretorrent.me/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
 #EXTINF:0, S06x11.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
+https://puretorrent.me/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 07 - Dexter - 7° Temporada 720p mp4
 #EXTINF:0, S07x01.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
+https://puretorrent.me/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
 #EXTINF:0, S07x02.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
+https://puretorrent.me/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
 #EXTINF:0, S07x03.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
+https://puretorrent.me/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
 #EXTINF:0, S07x04.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
+https://puretorrent.me/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
 #EXTINF:0, S07x05.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
+https://puretorrent.me/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
 #EXTINF:0, S07x06.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
+https://puretorrent.me/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
 #EXTINF:0, S07x07.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
+https://puretorrent.me/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
 #EXTINF:0, S07x08.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
+https://puretorrent.me/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
 #EXTINF:0, S07x09.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
+https://puretorrent.me/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
 #EXTINF:0, S07x10.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
+https://puretorrent.me/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
 #EXTINF:0, S07x11.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
+https://puretorrent.me/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
 #EXTINF:0, S07x12.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
+https://puretorrent.me/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
