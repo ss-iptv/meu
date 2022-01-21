@@ -1,7 +1,31 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Discovery
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 1.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/1.mp4?a=0&id=1rCToawCHXlJAWNKszU0ibbkE9bTyOn6A
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 2.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/2.mp4?a=0&id=1MRkW1Dq2SI5op4MvbUkCMr_vbzaPOmto
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 3.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/3.mp4?a=0&id=1LlgE4kSV6UVjpha6wyxDeQR3KqGW_WBa
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 4.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/4.mp4?a=0&id=1Dpyk8NVzq4uEr-4VBYhfJ1tYNj02KKgg
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 5.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/5.mp4?a=0&id=1l_JNGxN5PZDE5I2-Om1ehU3zswpXVjAO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 6.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/6.mp4?a=0&id=1azoHyGguCpYyvG79rwWQRF8DCuXWlQS9
 
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio1.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/1.mp4?a=0&id=1i_PiQz1y2Kb8qczZ_vA_h6PEqKxJT_zI
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio2.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/2.mp4?a=0&id=1d57GhhCAgVvHkVO7j_IcJDWs3O0B6WTp
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio3.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/3.mp4?a=0&id=1vYJrUctjpJlD60ffbXy9ZLNosoq6qz3u
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio4.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/4.mp4?a=0&id=1-Jn_zI1nGn6qz-1Hr4nLksTHSLzPXiwU
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio5.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/5.mp4?a=0&id=1cbsmg1nX7P-mZ0b1BGFkf-AbmoR_vvay
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio6.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/6.mp4?a=0&id=1imj5QYu6nFYS7J2X7RxPn0ECJ400vLlu
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="A História de Deus", A.História.de.Deus.com.Morgan.Freeman.S01E01.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
 https://n-movies.tk/api/v1/redirectdownload/A.Hist%C3%B3ria.de.Deus.com.Morgan.Freeman.S01E01.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1c1s_kBhioy8usTrKHT8XZ7beR2-BMFKc
@@ -262,7 +286,7 @@ https://n-movies.tk/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados Brasil", Largados e Pelados Brasil S01 E04
 https://n-movies.tk/api/v1/redirectdownload/Largados%20e%20Pelados%20Brasil%20S01%20E04?a=0&id=1hem3cfxHQ_Pwd7pQjNqJVmQPDuSafpTR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados Brasil", Largados e Pelados Brasil S01 E05
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=13jFGeltUDHjHH5rCrCAhrsQdek20jsZ4?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=13jFGeltUDHjHH5rCrCAhrsQdek20jsZ4
 
 #PLAYLIST: Single
 
@@ -953,160 +977,174 @@ https://n-movies.tk/api/v1/redirectdownload/ss-iptv?a=0&id=1pjXThxWBeqyVhfwck_my
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJ5sGY20i__tCTsN2_aBvXgaFFenL0Xo?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJ5sGY20i__tCTsN2_aBvXgaFFenL0Xo
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJ81BrdGuPT0NAvFrzXvAX4wHnXOT4kP?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJ81BrdGuPT0NAvFrzXvAX4wHnXOT4kP
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oN-W6DTAQdTHKq33HrT84wt4BSN10M9F?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oN-W6DTAQdTHKq33HrT84wt4BSN10M9F
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oN49Ryht7lOzdAp1MPt_94qfyG8RKbAZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oN49Ryht7lOzdAp1MPt_94qfyG8RKbAZ
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oNAsGSgvaU5xHteZJw_A_w5MaghEY1Ys?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oNAsGSgvaU5xHteZJw_A_w5MaghEY1Ys
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJITJC54A3WOm_EU4XnjNxY8Ra1hrkj5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJITJC54A3WOm_EU4XnjNxY8Ra1hrkj5
 #EXTINF:-1 tvg-id="" tvg-name="S02 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJUYLdGcwtZXdOnPyLJZ6viXkH7dwO4e?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJUYLdGcwtZXdOnPyLJZ6viXkH7dwO4e
 #EXTINF:-1 tvg-id="" tvg-name="S02 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oNdCIt8L1OGTepOFDyUm05f3IILZdLSg?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oNdCIt8L1OGTepOFDyUm05f3IILZdLSg
 #EXTINF:-1 tvg-id="" tvg-name="S02 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oO9-bVLj7RU2IxaZn281qjZNPER5jX1M?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oO9-bVLj7RU2IxaZn281qjZNPER5jX1M
 #EXTINF:-1 tvg-id="" tvg-name="S02 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJepnaIyoMoIpfODQnp_X-9uj3X9DZYH?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJepnaIyoMoIpfODQnp_X-9uj3X9DZYH
 #EXTINF:-1 tvg-id="" tvg-name="S02 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJkbE9bcI9YxQqQh0PFYu0YRUuS3x8je?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pJkbE9bcI9YxQqQh0PFYu0YRUuS3x8je
 #EXTINF:-1 tvg-id="" tvg-name="S02 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pOSI5Og6XBS3S8BdPuGTbKnC4ZF_WjFm?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pOSI5Og6XBS3S8BdPuGTbKnC4ZF_WjFm
 #EXTINF:-1 tvg-id="" tvg-name="S02 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pPN9ipc7JtegSpSVgYuBysD4zFlFb6P6?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pPN9ipc7JtegSpSVgYuBysD4zFlFb6P6
 #EXTINF:-1 tvg-id="" tvg-name="S02 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S02 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQEk3dWoIv0_dS5ahXC9mziexK2qvdCj?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQEk3dWoIv0_dS5ahXC9mziexK2qvdCj
 #EXTINF:-1 tvg-id="" tvg-name="S03 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQiGN4iNsYW2cPrQkqXqYGpQe3rz94wb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQiGN4iNsYW2cPrQkqXqYGpQe3rz94wb
 #EXTINF:-1 tvg-id="" tvg-name="S03 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQruyVI54H4RfkYjbe_uLHU4O06X6pfh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pQruyVI54H4RfkYjbe_uLHU4O06X6pfh
 #EXTINF:-1 tvg-id="" tvg-name="S03 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pR3i_5ocaTRUGOn5wgtRPALqrOp1keMw?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pR3i_5ocaTRUGOn5wgtRPALqrOp1keMw
 #EXTINF:-1 tvg-id="" tvg-name="S03 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oTyU8sF1kmjq5c4QGfM8hw6GHnXUZeO2?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oTyU8sF1kmjq5c4QGfM8hw6GHnXUZeO2
 #EXTINF:-1 tvg-id="" tvg-name="S03 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oU6iyxRlM4AT6pM-qJZCqwirVvaqOXDT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oU6iyxRlM4AT6pM-qJZCqwirVvaqOXDT
 #EXTINF:-1 tvg-id="" tvg-name="S03 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oU8CFyh18w6PYNanBJZToHUJkRqotmGl?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oU8CFyh18w6PYNanBJZToHUJkRqotmGl
 #EXTINF:-1 tvg-id="" tvg-name="S03 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oUER_DhGG4L6t36JcYXE9XZW4_ibD1Mn?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oUER_DhGG4L6t36JcYXE9XZW4_ibD1Mn
 #EXTINF:-1 tvg-id="" tvg-name="S03 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oUFFfvbE-4nULMf2Z_Z8AB-foxXmIWSA?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oUFFfvbE-4nULMf2Z_Z8AB-foxXmIWSA
 #EXTINF:-1 tvg-id="" tvg-name="S03 E09.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E09.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oWZcbcXv38Dm71sFBeBlgpEDP-_ZaFRR?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oWZcbcXv38Dm71sFBeBlgpEDP-_ZaFRR
 #EXTINF:-1 tvg-id="" tvg-name="S03 E10.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Muquiranas",S03 E10.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oWzao8TzGUOTEewX1D_pJj-ZY0fHRslv?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oWzao8TzGUOTEewX1D_pJj-ZY0fHRslv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f74G-XSNNZf0U1nC9xvn-5SDSTzJBjGg?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f74G-XSNNZf0U1nC9xvn-5SDSTzJBjGg
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f75-jDujkFqnn4D4_LByqNPYpqcSkJ3r?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f75-jDujkFqnn4D4_LByqNPYpqcSkJ3r
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f7ZSxYejP7n-4aQsW_qSuPYNC_UCLxb1?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f7ZSxYejP7n-4aQsW_qSuPYNC_UCLxb1
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f9E206MvfwZmQWUIWLKY_k93dhwjsVwy?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f9E206MvfwZmQWUIWLKY_k93dhwjsVwy
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f9K_dVN45qYiKpDOnHl9MfwcrZhHfyOc?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1f9K_dVN45qYiKpDOnHl9MfwcrZhHfyOc
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1fAwYQFjSrWJbkmVNlf2GpNlNl9uDaw5t?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1fAwYQFjSrWJbkmVNlf2GpNlNl9uDaw5t
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1fOOasTsI6fo_zvVEowkLvxH2PDGAXnTl?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1fOOasTsI6fo_zvVEowkLvxH2PDGAXnTl
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Dra. Cathy - Devolvendo a Autoestima",S01 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1hU59FrZuC5DDk9K9mnw73q2ljm6yPU5T?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1hU59FrZuC5DDk9K9mnw73q2ljm6yPU5T
 #EXTINF:-1 tvg-id="" tvg-name="S07 E17.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S07 E17.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o1weeyukO1tZ1AeO8JKOSGMQmNwIZhsC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o1weeyukO1tZ1AeO8JKOSGMQmNwIZhsC
 #EXTINF:-1 tvg-id="" tvg-name="S07 E18.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S07 E18.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o2ebyC0IfvSedQ08tuSQRyl_J7FIW1Bo?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o2ebyC0IfvSedQ08tuSQRyl_J7FIW1Bo
 #EXTINF:-1 tvg-id="" tvg-name="S07 E19.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S07 E19.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o33Ks-8TBqek-BBbjZ6OwkpIEEwsW_yC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o33Ks-8TBqek-BBbjZ6OwkpIEEwsW_yC
 #EXTINF:-1 tvg-id="" tvg-name="S07 E20.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S07 E20.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o3AdtLnYKluh_4WVxbW38wtJGjDyqsrL?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o3AdtLnYKluh_4WVxbW38wtJGjDyqsrL
 #EXTINF:-1 tvg-id="" tvg-name="S08 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o4-aByfsPQ7SkSGQiiDQCMAPANiaoah7?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o4-aByfsPQ7SkSGQiiDQCMAPANiaoah7
 #EXTINF:-1 tvg-id="" tvg-name="S08 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o49cgvPG0q1C0GSnQC8PJVC3QjVzCfNi?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o49cgvPG0q1C0GSnQC8PJVC3QjVzCfNi
 #EXTINF:-1 tvg-id="" tvg-name="S08 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o4FDo-v5zcZRY7jRKBFZj60LZ45t2NpV?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o4FDo-v5zcZRY7jRKBFZj60LZ45t2NpV
 #EXTINF:-1 tvg-id="" tvg-name="S08 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o65dtPG71umDTZmueH_lfEC-7X9RnRrd?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o65dtPG71umDTZmueH_lfEC-7X9RnRrd
 #EXTINF:-1 tvg-id="" tvg-name="S08 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o6L61yROKVw6sawRs3w529xAoLF1wUF0?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o6L61yROKVw6sawRs3w529xAoLF1wUF0
 #EXTINF:-1 tvg-id="" tvg-name="S08 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o6hWGhNTMuvOEam4dm2QrlJA8xD2ms1L?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o6hWGhNTMuvOEam4dm2QrlJA8xD2ms1L
 #EXTINF:-1 tvg-id="" tvg-name="S08 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Cw6p3HgekJfI8CIHkp81mwrjCj2nBb?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Cw6p3HgekJfI8CIHkp81mwrjCj2nBb
 #EXTINF:-1 tvg-id="" tvg-name="S08 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Nl51mFvUgEuL_VssfD7UI9RTsxGl-h?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Nl51mFvUgEuL_VssfD7UI9RTsxGl-h
 #EXTINF:-1 tvg-id="" tvg-name="S08 E09.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Quilos Mortais",S08 E09.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Npgh0wJv9mt5DuEYYc4FpP6K7M1l16?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1o7Npgh0wJv9mt5DuEYYc4FpP6K7M1l16
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eqKafTu7WOs_vmbosyJVgcEOEBQslM0A?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eqKafTu7WOs_vmbosyJVgcEOEBQslM0A
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pHzik7h26Z6JwalNXDJjtc_2_lDTfJM7?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pHzik7h26Z6JwalNXDJjtc_2_lDTfJM7
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eruqwhZlO2fQaGLOmSUneISyfcSidWU1?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eruqwhZlO2fQaGLOmSUneISyfcSidWU1
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1ervjyZUPHTie1mp5LsQIC9Ej_PpfEV-P?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1ervjyZUPHTie1mp5LsQIC9Ej_PpfEV-P
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1es00L3JwaUDT-BWANROAlbYgDugTX-VY?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1es00L3JwaUDT-BWANROAlbYgDugTX-VY
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Lendas da Natureza",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pINFNGcK140xPShdutJxDfK1GfGYU-L1?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1pINFNGcK140xPShdutJxDfK1GfGYU-L1
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oXFi9wNHTPMZ_OXkvDJmFlNkKdHCB1-C?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oXFi9wNHTPMZ_OXkvDJmFlNkKdHCB1-C
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oXeCAK8NqiVCkquEuWjCuTQzzTtOb18O?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oXeCAK8NqiVCkquEuWjCuTQzzTtOb18O
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oYcSOynDsaPjhaIjB0fbE6ancREEOOna?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oYcSOynDsaPjhaIjB0fbE6ancREEOOna
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oYjFG-3WVfv5yrv2biiX3NcN5whKsM6p?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oYjFG-3WVfv5yrv2biiX3NcN5whKsM6p
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oZuSH7RzdNe2j0Q2ibeyZbhrcdmdo-EQ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oZuSH7RzdNe2j0Q2ibeyZbhrcdmdo-EQ
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oaGyYuoAmpRxWZNZZSVHcJWaddulpPz7?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1oaGyYuoAmpRxWZNZZSVHcJWaddulpPz7
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="IneXplicável AmĲica Latina",S01 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1odzmt-G9gGqvnOoLwXyAN4_QBNOfpUK3?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1odzmt-G9gGqvnOoLwXyAN4_QBNOfpUK3
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Caçadores de Dinossauros",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nN872xNMIAAa_UhDvtbEL34AE8dAN6mB?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nN872xNMIAAa_UhDvtbEL34AE8dAN6mB
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Caçadores de Dinossauros",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p7n0g1Yte1mK74jh0xd3wyLFu7qUa2U_?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p7n0g1Yte1mK74jh0xd3wyLFu7qUa2U_
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Caçadores de Dinossauros",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nOacnYsYK1Y94-dDnIk1GuRvGW1keYnr?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nOacnYsYK1Y94-dDnIk1GuRvGW1keYnr
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Caçadores de Dinossauros",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p7vhtZ-pGp8vuXoj_4g-glfVWuHheX_J?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p7vhtZ-pGp8vuXoj_4g-glfVWuHheX_J
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Caçadores de Dinossauros",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nPCaFKaMJM1OAyv3xWGUWp_qJmM0fRKL?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nPCaFKaMJM1OAyv3xWGUWp_qJmM0fRKL
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalha Makers Brasil",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1n0rAzR6F8eBVQURmFjfiNPFibLKVeVo8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1n0rAzR6F8eBVQURmFjfiNPFibLKVeVo8
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalha Makers Brasil",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1n6G-A0B6Bz3hjUk2BC5P2ezzulRPBJ13?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1n6G-A0B6Bz3hjUk2BC5P2ezzulRPBJ13
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Batalha Makers Brasil",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nJOSIzymjYJqnYw3vX-4Op5cX1k3n1bB?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1nJOSIzymjYJqnYw3vX-4Op5cX1k3n1bB
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1en1nrpo2faJ7_ukr3_k0SZFnhPWhosMh?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1en1nrpo2faJ7_ukr3_k0SZFnhPWhosMh
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1enB423MjFnDrANo8NGAsgNPhwegNwI5P?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1enB423MjFnDrANo8NGAsgNPhwegNwI5P
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1enWuMyBmsxghK6gZ9IvlFtCF9Fxa-QmZ?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1enWuMyBmsxghK6gZ9IvlFtCF9Fxa-QmZ
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E04.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p3Xk8JE9vIGhKp6THuhOYSnFbGXMaCU5?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p3Xk8JE9vIGhKp6THuhOYSnFbGXMaCU5
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E05.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eo7L62T0fpOGlDlekk7nRsgG7g7sWCtr?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1eo7L62T0fpOGlDlekk7nRsgG7g7sWCtr
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p3kqjW8nfqAnu7xdORkcGKITS5wyXGck?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p3kqjW8nfqAnu7xdORkcGKITS5wyXGck
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p4Szqn7HUdML0G0r8GyBUehGSP2TbypP?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1p4Szqn7HUdML0G0r8GyBUehGSP2TbypP
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="100 Days Wild",S01 E08.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1epKtBLPNZb16xhoA21w1r3fsijipmwMH?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1epKtBLPNZb16xhoA21w1r3fsijipmwMH
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Te Devo Essa Brasil",S01 E01.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1euUq07E_1WZDXOo3YpgCd0ZuC7rLBumC?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1euUq07E_1WZDXOo3YpgCd0ZuC7rLBumC
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Te Devo Essa Brasil",S01 E02.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1euZ_6VG5qmtmniovcm6EZLvb8xLahCF2?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1euZ_6VG5qmtmniovcm6EZLvb8xLahCF2
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Te Devo Essa Brasil",S01 E03.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exVD5upUmSEkLaIeV-eMbaecSfWCzc4J?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exVD5upUmSEkLaIeV-eMbaecSfWCzc4J
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Te Devo Essa Brasil",S01 E06.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exawmtltXz9YfubLfcE0o8PQmAbnJE37?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exawmtltXz9YfubLfcE0o8PQmAbnJE37
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07.mp4 " tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Te Devo Essa Brasil",S01 E07.mp4 
-https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exiXxajqH6qNyQxtxbYUkfBB2VC3LG8X?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
+https://n-movies.tk/api/v1/redirectdownload/discovery.mp4?a=0&id=1exiXxajqH6qNyQxtxbYUkfBB2VC3LG8X
+
+#PLAYLIST: 1° Temporada
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio1 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/1%20-%20Legendado.mp4?a=0&id=1jgXUSLYSBgYEMJxmHnSPDQSNKuh2Rfj_
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio2 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/2%20-%20Legendado.mp4?a=0&id=1a4WwFkuqJeXM4CsLbxzdsshR0HpaFuQV
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio3 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/3%20-%20Legendado.mp4?a=0&id=1UawY90mCO3xojT3Kwwnk0tMm9j27irJ6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio4 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/4%20-%20Legendado.mp4?a=0&id=1i2XPyi_EVWa3c5mGuSzYQ4Em_kvqx4-p
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio5 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/5%20-%20Legendado.mp4?a=0&id=1EgpCrgPBAXUS44RTvGWjjtmSTn1nY6XR
+#EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Voir", Episódio6 - Legendado.mp4
+https://teuku.herokuapp.com/api/v1/redirectdownload/6%20-%20Legendado.mp4?a=0&id=1kH1VTJ13xvRSm1xkUHXVXTzBA9lT1SAc
