@@ -1,40 +1,33 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Superman and Lois [L] S01 E01
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E01.mp4
+#EXTINF:0, Superman and Lois [L] S01 E01.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E01.mp4?a=0&id=1C4Xe6tca18344uZWAGl5Jahcwj50WwPZ
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E02.mp4
+#EXTINF:0, Superman and Lois [L] S01 E02.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E02.mp4?a=0&id=1CEtU2YTslp-H3MKFDZhteeeJhk09Dphu
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E03.mp4
+#EXTINF:0, Superman and Lois [L] S01 E03.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E03.mp4?a=0&id=1CEzGhbpdeD4qzJYw_84ljnaCmj_emCMg
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E04.mp4
+#EXTINF:0, Superman and Lois [L] S01 E04.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E04.mp4?a=0&id=1CG-DW9rA3gpowqEM6t1sNWoKaX5bOFv1
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E05.mp4
+#EXTINF:0, Superman and Lois [L] S01 E05.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E05.mp4?a=0&id=1CGUvJU7wiTqGVlnXLmaUkkP_S9QSje57
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E06.mp4
+#EXTINF:0, Superman and Lois [L] S01 E06.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E06.mp4?a=0&id=1CHp8z-3CaTh3sp0632RvmxhCe2qT4Pv3
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E07.mp4
+#EXTINF:0, Superman and Lois [L] S01 E07.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E07.mp4?a=0&id=1CKYodrEMeOwXIWy_RzH-Tvjo3LnVDYW5
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E08.mp4
+#EXTINF:0, Superman and Lois [L] S01 E08.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E08.mp4?a=0&id=1COIMiwW9NmFmknBHblMlTPhGjW9Le83M
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E09.mp4
+#EXTINF:0, Superman and Lois [L] S01 E09.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E09.mp4?a=0&id=1CXQyDSUGFh7BMYOjFUQKcDN4s2CSDBT-
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E10.mp4
+#EXTINF:0, Superman and Lois [L] S01 E10.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E10.mp4?a=0&id=1CYiUyxMkB_WxTP-H8N-R0mz8vlfyYBOQ
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E11.mp4
+#EXTINF:0, Superman and Lois [L] S01 E11.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E11.mp4?a=0&id=1CZY0gsEy5f8jjt22OhZzwiUnzGTO0TqZ
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E12.mp4
+#EXTINF:0, Superman and Lois [L] S01 E12.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E12.mp4?a=0&id=1CdTJwmOWHDDWsVXyQXt7pOvJ-01oTV2P
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E13.mp4
+#EXTINF:0, Superman and Lois [L] S01 E13.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E13.mp4?a=0&id=1Ce7VD3EoVqEELSZJ7gyz2S-xNgSQEmJr
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E14.mp4
+#EXTINF:0, Superman and Lois [L] S01 E14.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E14.mp4?a=0&id=1CfWDW7AQeXRcrW7bHGvRhmawEph6SPQT
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="1° Temporada",S01 E15.mp4
+#EXTINF:0, Superman and Lois [L] S01 E15.mp4
 https://n-movies.tk/api/v1/redirectdownload/Superman%20and%20Lois%20%5BL%5D%20S01%20E15.mp4?a=0&id=1ChWRitNc6o1er64CDLYp176MYGaVtoSr
-
-#PLAYLIST: 2° Temporada
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="2° Temporada",1 - Legendado.mp4
-https://n-movies.tk/api/v1/redirectdownload/1%20-%20Legendado.mp4?a=0&id=1S7sVFUhPwKK4zsa2g7M7PLOc7dG9WCMi
-#EXTINF:-1 tvg-logo="https://img.icons8.com/fluency-systems-filled/50/4a90e2/superman.png" group-title="2° Temporada",2 - Legendado.mp4
-https://n-movies.tk/api/v1/redirectdownload/2%20-%20Legendado.mp4?a=0&id=17YkRsFKni7fajZYGiXNtXj_X_7aWmPTX
-

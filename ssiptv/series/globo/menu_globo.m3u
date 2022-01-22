@@ -19,10 +19,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dexter_ne
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dr. House
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dr_house/menu_dr_house.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Meu Amigo Bussunda
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/bussunda.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Desalma
 #EXTBG: #11609E

@@ -8,10 +8,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/men
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Patrulha%20do%20Destino.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Superman and Lois
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/Superman_and_Lois.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png", Stargirl
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/Stargirl.m3u8
  

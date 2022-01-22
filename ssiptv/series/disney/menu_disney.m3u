@@ -30,9 +30,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/falcao.m
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/mandaloriano/mandaloriano_1.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Livro de Boba Fett
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/booba_feet.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Casa da Raven
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Casa%20da%20Raven.m3u8
 
