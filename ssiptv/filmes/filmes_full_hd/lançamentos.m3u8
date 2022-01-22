@@ -2,6 +2,8 @@
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos Fabiana
 
+#EXTINF:0 group-title="Filmes | Fabiana", Diario de 1 Louca
+http://n-movies.tk/api/v1/redirectdownload/teu_cu.mp4?a=0&id=1jnoZR8hHdejvDqvc5xhG6wYX9_jRUjOL
 #EXTINF:0  type="video" group-title="Filmes | Fabiana", [G]O Vendedor de Sonhos
 https://www.googleapis.com/drive/v3/files/1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Fabiana", O Vendedor de Sonhos
