@@ -13,26 +13,37 @@ http://n-movies.tk/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0
 #EXTINF:0 group-title="Filmes | Fabiana", Encontrando Forestier Completo Dublado.mp4
 http://n-movies.tk/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
-#PLAYLIST: ! Lançamentos 2021
-
+#PLAYLIST: ! Lançamentos 2021/2022
+#EXTINF:0 group-title="Filmes | Lançamentos", 007 - Sem Tempo Para Morrer [2021]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
+#EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
+#EXTINF:0 group-title="Filmes | Lançamentos", Pânico 5 [2022]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1vnvVPfG2Un8-kW-Av1iYRSXZ7WQU9yqy
+#EXTINF:0 group-title="Filmes | Lançamentos", Ray Donovan - O Filme [2022]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1gK_fOqy0LCoEEPF0xptlVLG1GUnP9db0
+#EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
 #EXTINF:0 group-title="Filmes | Lançamentos", Chernobyl - O Filme 2021 1080p BluRay DUAL.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
+https://n-movies.tk/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
+#EXTINF:0 group-title="Filmes | Lançamentos", Clifford - O Gigante Cão Vermelho [2021]
+https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1DgWAXqtwmy-mh1hQUM7W0egJAuQYohh8
 #EXTINF:0 group-title="Filmes | Lançamentos", Matrix 4 - Resurrections [2021] - Dublado
-https://m3u.herokuapp.com/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
+https://n-movies.tk/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
 #EXTINF:0 group-title="Filmes | Lançamentos", Hotel.Transilvânia.4.2022.720p.DUB.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
+https://n-movies.tk/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
 #EXTINF:0 group-title="Filmes | Lançamentos", Eternos [2021] - Dublado
-https://m3u.herokuapp.com/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
+https://n-movies.tk/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
 #EXTINF:0 group-title="Filmes | Lançamentos", O Apanhador de Sonhos 2021
-https://m3u.herokuapp.com/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
+https://n-movies.tk/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
 #EXTINF:0 group-title="Filmes | Lançamentos", Mãe x Androides 2021
 https://n-movies.tk/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
 #EXTINF:0 group-title="Filmes | Lançamentos", Ghostbusters.Afterlife.2021
 https://n-movies.tk/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
 #EXTINF:0 group-title="Filmes | Lançamentos", Dois + Dois 2021
-https://m3u.herokuapp.com/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
+https://n-movies.tk/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
 #EXTINF:0 group-title="Filmes | Lançamentos", Getúlio (2014) 720p.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
+https://n-movies.tk/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
 #EXTINF:0 group-title="Filmes | Lançamentos", Pokemon.Detetive.Pikachu
 https://n-movies.tk/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
 #EXTINF:0 group-title="Filmes | Lançamentos", Harry Potter 20th.mp4
