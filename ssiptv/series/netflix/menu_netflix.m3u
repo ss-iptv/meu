@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breakin
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Jessica Jones
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Jessica_Jones.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Startrek Discovery
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/star_trek_discovery.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Demolidor
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Demolidor.m3u8
 
