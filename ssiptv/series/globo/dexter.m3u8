@@ -4,27 +4,27 @@
 #EXTINF:-1  group-title="1° Temporada",S01x01.mkv
 https://teuku.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
 #EXTINF:-1  group-title="1° Temporada",S01x02.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
 #EXTINF:-1  group-title="1° Temporada",S01x03.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
 #EXTINF:-1  group-title="1° Temporada",S01x04.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
 #EXTINF:-1  group-title="1° Temporada",S01x05.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
 #EXTINF:-1  group-title="1° Temporada",S01x06.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
 #EXTINF:-1  group-title="1° Temporada",S01x07.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
 #EXTINF:-1  group-title="1° Temporada",S01x08.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
 #EXTINF:-1  group-title="1° Temporada",S01x09.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
 #EXTINF:-1  group-title="1° Temporada",S01x10.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
 #EXTINF:-1  group-title="1° Temporada",S01x11.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
 #EXTINF:-1  group-title="1° Temporada",S01x12.mkv
-https://n-movies.tk/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -59,135 +59,135 @@ https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7ZUi
 #EXTENC: UTF-8
 #PLAYLIST: 03 - Dexter - 3° Temporada 720p mp4
 #EXTINF:-1  group-title="3° Temporada",S03x01.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
 #EXTINF:-1  group-title="3° Temporada",S03x02.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
 #EXTINF:-1  group-title="3° Temporada",S03x03.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
 #EXTINF:-1  group-title="3° Temporada",S03x04.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
 #EXTINF:-1  group-title="3° Temporada",S03x05.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
 #EXTINF:-1  group-title="3° Temporada",S03x06.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
 #EXTINF:-1  group-title="3° Temporada",S03x07.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
 #EXTINF:-1  group-title="3° Temporada",S03x08.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
 #EXTINF:-1  group-title="3° Temporada",S03x09.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
 #EXTINF:-1  group-title="3° Temporada",S03x10.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
 #EXTINF:-1  group-title="3° Temporada",S03x11.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
 #EXTINF:-1  group-title="3° Temporada",S03x12.mp4
-https://n-movies.tk/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 04 - Dexter - 4° Temporada 720p mp4
 #EXTINF:-1  group-title="4° Temporada",S04x01.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
 #EXTINF:-1  group-title="4° Temporada",S04x02.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
 #EXTINF:-1  group-title="4° Temporada",S04x03.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
 #EXTINF:-1  group-title="4° Temporada",S04x04.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
 #EXTINF:-1  group-title="4° Temporada",S04x05.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
 #EXTINF:-1  group-title="4° Temporada",S04x06.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
 #EXTINF:-1  group-title="4° Temporada",S04x07.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
 #EXTINF:-1  group-title="4° Temporada",S04x08.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
 #EXTINF:-1  group-title="4° Temporada",S04x09.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
 #EXTINF:-1  group-title="4° Temporada",S04x10.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
 #EXTINF:-1  group-title="4° Temporada",S04x11.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
 #EXTINF:-1  group-title="4° Temporada",S04x12.mp4
-https://n-movies.tk/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 05 - Dexter - 5° Temporada 720p mp4
 #EXTINF:-1  group-title="5° Temporada",S05x01.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
 #EXTINF:-1  group-title="5° Temporada",S05x02.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
 #EXTINF:-1  group-title="5° Temporada",S05x03.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
 #EXTINF:-1  group-title="5° Temporada",S05x04.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
 #EXTINF:-1  group-title="5° Temporada",S05x05.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
 #EXTINF:-1  group-title="5° Temporada",S05x06.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
 #EXTINF:-1  group-title="5° Temporada",S05x07.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
 #EXTINF:-1  group-title="5° Temporada",S05x08.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
 #EXTINF:-1  group-title="5° Temporada",S05x09.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
 #EXTINF:-1  group-title="5° Temporada",S05x10.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
 #EXTINF:-1  group-title="5° Temporada",S05x11.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
 #EXTINF:-1  group-title="5° Temporada",S05x12.mp4
-https://n-movies.tk/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 06 - Dexter - 6° Temporada 720p mp4
 #EXTINF:-1  group-title="6° Temporada",S06x01.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
 #EXTINF:-1  group-title="6° Temporada",S06x012.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
 #EXTINF:-1  group-title="6° Temporada",S06x02.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
 #EXTINF:-1  group-title="6° Temporada",S06x03.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
 #EXTINF:-1  group-title="6° Temporada",S06x04.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
 #EXTINF:-1  group-title="6° Temporada",S06x05.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
 #EXTINF:-1  group-title="6° Temporada",S06x06.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
 #EXTINF:-1  group-title="6° Temporada",S06x07.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
 #EXTINF:-1  group-title="6° Temporada",S06x08.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
 #EXTINF:-1  group-title="6° Temporada",S06x09.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
 #EXTINF:-1  group-title="6° Temporada",S06x10.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
 #EXTINF:-1  group-title="6° Temporada",S06x11.mp4
-https://n-movies.tk/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 07 - Dexter - 7° Temporada 720p mp4
 #EXTINF:-1  group-title="7° Temporada",S07x01.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
 #EXTINF:-1  group-title="7° Temporada",S07x02.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
 #EXTINF:-1  group-title="7° Temporada",S07x03.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
 #EXTINF:-1  group-title="7° Temporada",S07x04.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
 #EXTINF:-1  group-title="7° Temporada",S07x05.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
 #EXTINF:-1  group-title="7° Temporada",S07x06.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
 #EXTINF:-1  group-title="7° Temporada",S07x07.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
 #EXTINF:-1  group-title="7° Temporada",S07x08.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
 #EXTINF:-1  group-title="7° Temporada",S07x09.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
 #EXTINF:-1  group-title="7° Temporada",S07x10.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
 #EXTINF:-1  group-title="7° Temporada",S07x11.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
 #EXTINF:-1  group-title="7° Temporada",S07x12.mp4
-https://n-movies.tk/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
