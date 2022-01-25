@@ -2,7 +2,7 @@
 #EXTENC: UTF-8
 #PLAYLIST: 01 - Dexter - 1° Temporada 720p mkv
 #EXTINF:-1  group-title="1° Temporada",S01x01.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
 #EXTINF:-1  group-title="1° Temporada",S01x02.mkv
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
 #EXTINF:-1  group-title="1° Temporada",S01x03.mkv
@@ -31,29 +31,29 @@ https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q
 #PLAYLIST: 2° Temporada
 
 #EXTINF:-1  group-title="2° Temporada",S02x01.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1miPnACJ45gm6o107FNF8z3Qh6aOrYUnt
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1miPnACJ45gm6o107FNF8z3Qh6aOrYUnt
 #EXTINF:-1  group-title="2° Temporada",S02x02.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1BzSXV5pDTqMV6WIZdHPOid5BZPzUpqqc
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1BzSXV5pDTqMV6WIZdHPOid5BZPzUpqqc
 #EXTINF:-1  group-title="2° Temporada",S02x03.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1TeqjL3HyPTbz22su-xw2F9PSX1spDTbK
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1TeqjL3HyPTbz22su-xw2F9PSX1spDTbK
 #EXTINF:-1  group-title="2° Temporada",S02x04.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Z6y0_VV7JMhemlb1fOnU7Q4qidhd2tP6
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Z6y0_VV7JMhemlb1fOnU7Q4qidhd2tP6
 #EXTINF:-1  group-title="2° Temporada",S02x05.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Y1NS_Yf9tKsLD-WmgiqlQ2zwCX4-jnT0
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Y1NS_Yf9tKsLD-WmgiqlQ2zwCX4-jnT0
 #EXTINF:-1  group-title="2° Temporada",S02x06.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1VWTFMlNOAU-R-hVlOEzjYEqL0nqSjUXu
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1VWTFMlNOAU-R-hVlOEzjYEqL0nqSjUXu
 #EXTINF:-1  group-title="2° Temporada",S02x07.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1U8M71ZPgokUNwO1lAsZkj78M6n-Go--d
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1U8M71ZPgokUNwO1lAsZkj78M6n-Go--d
 #EXTINF:-1  group-title="2° Temporada",S02x08.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1ST5CoT-uz5vpkYgGTVAaCbc-niuYsg6L
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1ST5CoT-uz5vpkYgGTVAaCbc-niuYsg6L
 #EXTINF:-1  group-title="2° Temporada",S02x09.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1lSD_5kgOw8RW0cszKzxi8Cja1FR4h1Fa
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1lSD_5kgOw8RW0cszKzxi8Cja1FR4h1Fa
 #EXTINF:-1  group-title="2° Temporada",S02x10.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1DrVO6yhZOv0ZH1DsG64sKElRvxUjiEv0
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1DrVO6yhZOv0ZH1DsG64sKElRvxUjiEv0
 #EXTINF:-1  group-title="2° Temporada",S02x11.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1FWSMSEJFXHGd6NL7lmKUi-PNn5F57tsB
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1FWSMSEJFXHGd6NL7lmKUi-PNn5F57tsB
 #EXTINF:-1  group-title="2° Temporada",S02x12.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7ZUiXjSUugXYwQTKQOP_rEUG5Hq
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7ZUiXjSUugXYwQTKQOP_rEUG5Hq
 
 #EXTM3U
 #EXTENC: UTF-8
