@@ -14,6 +14,14 @@ http://ss-iptv.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021/2022
+#EXTINF:0 group-title="Filmes | Lançamentos", Cruella.2021
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
+#EXTINF:0 group-title="Filmes | Lançamentos", Os Simpsons Em Plusniversário (Curta) [2021]
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-n83lAIjiTK4w9ZHGOWPrnTuU
+#EXTINF:0 group-title="Filmes | Lançamentos", Um Lugar Silencioso II
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
+#EXTINF:0 group-title="Filmes | Lançamentos", Trainspotting
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
 #EXTINF:0 group-title="Filmes | Lançamentos", 007 - Sem Tempo Para Morrer [2021]
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
@@ -72,6 +80,8 @@ https://ss-iptv.herokuapp.com/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pW
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
 #EXTINF:0 group-title="Filmes | Lançamentos", South Park Pós Covid.2021
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
+#EXTINF:0 group-title="Filmes | Lançamentos", #Nudes
+https://drive.aprovado.workers.dev/1:/Filmes/Filmes/%2523NUDES.mp4
 
 #EXTINF:0 group-title="Filmes | Lançamentos", Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
@@ -234,12 +244,12 @@ http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Amor%20de%20Aluguel.mp4?a=0
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Amor%20e%20a%20M%C3%A1fia.mp4?a=0&id=1PtGatcVnq-Ut_BCgIsnRKQJCdbvMfjYH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amor em Little Italy.mp4
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Amor%20em%20Little%20Italy.mp4?a=0&id=1Q4rQRiSfzO1-Neo7GQFYPS3Sy2oMSuZy
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/oKJh6X4kadnfPBKj9DvKwz68Cn_big.jpg" group-title="Filmes | Acao",Esquadrao Suicida
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/oKJh6X4kadnfPBKj9DvKwz68Cn_big.jpg" group-title="Filmes | Ação",Esquadrao Suicida
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/100000.mp4
 
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/8KkyXE7Hd9MPOOkORxkMM6SUXAB_big.jpg" group-title="Filmes | Acao",1917
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/8KkyXE7Hd9MPOOkORxkMM6SUXAB_big.jpg" group-title="Filmes | Ação",1917
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/44179.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/pnLRNJXy0URPR5khEshbytlirDN_big.jpg" group-title="Filmes | Acao",O Estrangeiro
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/pnLRNJXy0URPR5khEshbytlirDN_big.jpg" group-title="Filmes | Ação",O Estrangeiro
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/20143.mp4
 #EXTINF:-1 tvg-logo="http://cdn99.one:80/images/2eb0ac54f004b552407690c3e87ddea2.jpg" group-title="Filmes | Lançamentos",Apostando Alto
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/117075.mp4
@@ -259,7 +269,7 @@ http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/48201.mp4
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/108693.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/76z8q24vMul7IPguc0QUODF3THk_big.jpg" group-title="Filmes | Drama",O Plano Perfeito
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/108293.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jhil4YZedFIT151N6BRkgKZebcI_big.jpg" group-title="Filmes | Acao",O Plano Perfeito 2
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jhil4YZedFIT151N6BRkgKZebcI_big.jpg" group-title="Filmes | Ação",O Plano Perfeito 2
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/108309.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/mAa2MmmJsdZsEN3Upgqykn9GUfz_big.jpg" group-title="Filmes | Drama",Nova York Sitiada
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/96025.mp4
@@ -269,19 +279,19 @@ http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/98403.mp4
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/141474.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/iFVv22WNrXCAFkTZFHYR6u77mfr_big.jpg" group-title="Filmes | Drama",Um Limite Entre Nos
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/21187.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2T3GkzO6Ar5dlp6Bet43UnxZfQr_big.jpg" group-title="Filmes | Acao",Homem-Aranha
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2T3GkzO6Ar5dlp6Bet43UnxZfQr_big.jpg" group-title="Filmes | Ação",Homem-Aranha
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93643.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/y06FivvCfqapHB3iETOtbAqWdkD_big.jpg" group-title="Filmes | Acao",Homem-Aranha 2
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/y06FivvCfqapHB3iETOtbAqWdkD_big.jpg" group-title="Filmes | Ação",Homem-Aranha 2
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93644.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/63O5iixxXSmyOaBas7ek1tkeVra_big.jpg" group-title="Filmes | Acao",Homem-Aranha 3
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/63O5iixxXSmyOaBas7ek1tkeVra_big.jpg" group-title="Filmes | Ação",Homem-Aranha 3
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93645.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/dODKvv9o9BOemWavnulutJBHM80_big.jpg" group-title="Filmes | Acao",O Espetacular Homem-Aranha
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/dODKvv9o9BOemWavnulutJBHM80_big.jpg" group-title="Filmes | Ação",O Espetacular Homem-Aranha
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93646.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/lDbcaBs1IdBZccCM1R417XmPxKF_big.jpg" group-title="Filmes | Acao",O Espetacular Homem-Aranha 2: A Ameaça de Electro
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/lDbcaBs1IdBZccCM1R417XmPxKF_big.jpg" group-title="Filmes | Ação",O Espetacular Homem-Aranha 2: A Ameaça de Electro
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93647.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/9Fgs1ewIZiBBTto1XDHeBN0D8ug_big.jpg" group-title="Filmes | Acao",Homem-Aranha: De Volta ao Lar
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/9Fgs1ewIZiBBTto1XDHeBN0D8ug_big.jpg" group-title="Filmes | Ação",Homem-Aranha: De Volta ao Lar
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93648.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/tX0o4AdHpidgniTWwfzK0dNTKrc_big.jpg" group-title="Filmes | Acao",Homem-Aranha: Longe de Casa
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/tX0o4AdHpidgniTWwfzK0dNTKrc_big.jpg" group-title="Filmes | Ação",Homem-Aranha: Longe de Casa
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/93649.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/ybQSBSrINtjWsJQ6Ih8sva8HlEZ_big.jpg" group-title="Filmes | Animacao",Homem-Aranha no Aranhaverso
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/21439.mp4
