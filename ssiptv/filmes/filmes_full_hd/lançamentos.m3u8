@@ -14,8 +14,6 @@ http://ss-iptv.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021/2022
-#EXTINF:0 group-title="Filmes | Lançamentos", Matrix [2021]
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
 #EXTINF:0 group-title="Filmes | Lançamentos", 007 - Sem Tempo Para Morrer [2021]
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
