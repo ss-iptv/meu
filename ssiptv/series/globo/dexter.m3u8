@@ -57,137 +57,165 @@ https://ss-iptv.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7Z
 
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: 03 - Dexter - 3° Temporada 720p mp4
-#EXTINF:-1  group-title="3° Temporada",S03x01.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x01.mp4?a=0&id=1ku-ndgLnZ8j_T0synKUV9BBxV_ij2_wS
-#EXTINF:-1  group-title="3° Temporada",S03x02.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x02.mp4?a=0&id=1yxFMcAaNevTZx0Kc_hRkzQ_9IJWz2feP
-#EXTINF:-1  group-title="3° Temporada",S03x03.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x03.mp4?a=0&id=1ygipzdGXaeM3sMA1SJCO-5LIeaxRKKqi
-#EXTINF:-1  group-title="3° Temporada",S03x04.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x04.mp4?a=0&id=1Fh3ATXUm83xNO-yVxWA87hO28aDjK8Kq
-#EXTINF:-1  group-title="3° Temporada",S03x05.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x05.mp4?a=0&id=1OcyPh6DjFewdsK3ctOgqIdKAwYRhz81n
-#EXTINF:-1  group-title="3° Temporada",S03x06.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x06.mp4?a=0&id=1Ynv8mSoCqJfKvXKbuGk4hZbdC9FvNF_4
-#EXTINF:-1  group-title="3° Temporada",S03x07.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x07.mp4?a=0&id=1NgDGbt0YXHeLAund2rm_Vd98wQOWYZ4Q
-#EXTINF:-1  group-title="3° Temporada",S03x08.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x08.mp4?a=0&id=1s_EkhcNKwWdLldyqTf356ZhCMMXpuIt5
-#EXTINF:-1  group-title="3° Temporada",S03x09.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x09.mp4?a=0&id=1nFjyfPoEN01Jp5SisC-LA0qOIASWN1ie
-#EXTINF:-1  group-title="3° Temporada",S03x10.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x10.mp4?a=0&id=17vT84jmJneA_BMpQwLVrRSmSDdBpBuYH
-#EXTINF:-1  group-title="3° Temporada",S03x11.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x11.mp4?a=0&id=1pymQigg7qcqtjwskQMT4vAzMTDZJmIJq
-#EXTINF:-1  group-title="3° Temporada",S03x12.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S03x12.mp4?a=0&id=1HjPq14gfPy66aHqDmotg1EB3UxeZJL7M
+#EXTINF:-1  group-title="3° Temporada",S03E01_Nosso.Pai.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E01_Nosso.Pai.mkv?a=0&id=0B3DfYHxscpQfUlFOWkVHNGpmTzA
+#EXTINF:-1  group-title="3° Temporada",S03E02_Procurando.Freebo.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E02_Procurando.Freebo.mkv?a=0&id=0B3DfYHxscpQfU2FnUGFDVUNNZlE
+#EXTINF:-1  group-title="3° Temporada",S03E03_O.Leão.Dorme.Novamente.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E03_O.Le%C3%A3o.Dorme.Novamente.mkv?a=0&id=0B3DfYHxscpQfaklGZGJIazVTeFU
+#EXTINF:-1  group-title="3° Temporada",S03E04_Tudo.em.Família.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E04_Tudo.em.Fam%C3%ADlia.mkv?a=0&id=0B3DfYHxscpQfWjk0Q0syWVVYc0k
+#EXTINF:-1  group-title="3° Temporada",S03E05_Viagem.a.Bimini.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E05_Viagem.a.Bimini.mkv?a=0&id=0B3DfYHxscpQfT19RZDdVbm5udzQ
+#EXTINF:-1  group-title="3° Temporada",S03E06_É.Possível.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E06_%C3%89.Poss%C3%ADvel.mkv?a=0&id=0B3DfYHxscpQfanlKWFEyZG5ucE0
+#EXTINF:-1  group-title="3° Temporada",S03E07_Fácil.Demais.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E07_F%C3%A1cil.Demais.mkv?a=0&id=0B3DfYHxscpQfY1U2T3FJQWxKYzQ
+#EXTINF:-1  group-title="3° Temporada",S03E08_O.Estrago.que.um.Homem.Pode.Fazer.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E08_O.Estrago.que.um.Homem.Pode.Fazer.mkv?a=0&id=0B3DfYHxscpQfc3d0VGFFMXRTZXM
+#EXTINF:-1  group-title="3° Temporada",S03E09_Sobre.a.Última.Noite.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E09_Sobre.a.%C3%9Altima.Noite.mkv?a=0&id=0B3DfYHxscpQfSmFRNW5BWHVMN1E
+#EXTINF:-1  group-title="3° Temporada",S03E10_Siga.Seu.Próprio.Caminho.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E10_Siga.Seu.Pr%C3%B3prio.Caminho.mkv?a=0&id=0B3DfYHxscpQfRWVMTkZOMHN0SlE
+#EXTINF:-1  group-title="3° Temporada",S03E11_Eu.Tive.um.Sonho.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E11_Eu.Tive.um.Sonho.mkv?a=0&id=0B3DfYHxscpQfQnRYRG5jOFpHZVE
+#EXTINF:-1  group-title="3° Temporada",S03E12_Você.Aceita.Dexter.Morgan.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S03E12_Voc%C3%AA.Aceita.Dexter.Morgan.mkv?a=0&id=0B3DfYHxscpQfZnVhN0FqX20yZjg
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 04 - Dexter - 4° Temporada 720p mp4
-#EXTINF:-1  group-title="4° Temporada",S04x01.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x01.mp4?a=0&id=1I8ZkVAHTH3HQFs9zcKf5US5iiy3GQdtb
-#EXTINF:-1  group-title="4° Temporada",S04x02.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x02.mp4?a=0&id=1Wt2IT2-DZR-sxFjWSWz2Hppn5hynRET3
-#EXTINF:-1  group-title="4° Temporada",S04x03.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x03.mp4?a=0&id=1HRVuSiInBGrFh_JQnlqwlauBC7CPI5is
-#EXTINF:-1  group-title="4° Temporada",S04x04.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x04.mp4?a=0&id=1jXhIj1U9nXTXD3qs106FjcbUQZWYQQa2
-#EXTINF:-1  group-title="4° Temporada",S04x05.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x05.mp4?a=0&id=1VUXyLoEp2I1ZYnJOvekzDGIjpw6LBylA
-#EXTINF:-1  group-title="4° Temporada",S04x06.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x06.mp4?a=0&id=1_sNeugf68b_hhKAKEVyuYdkpLCxe9ShQ
-#EXTINF:-1  group-title="4° Temporada",S04x07.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x07.mp4?a=0&id=1rx4fUPpqnR_Zq3CZ_n7GTcQ8tCaC8x-Q
-#EXTINF:-1  group-title="4° Temporada",S04x08.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x08.mp4?a=0&id=1xJX24Ez5vPJ4ZPOQImCyT8cGh0ny6HNB
-#EXTINF:-1  group-title="4° Temporada",S04x09.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x09.mp4?a=0&id=1inN7BykEwnpCSr_9NndtWHbtaZTXGC8O
-#EXTINF:-1  group-title="4° Temporada",S04x10.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x10.mp4?a=0&id=1bsk8IV_0mzvdbOJd_adMchMNcmqFOHHh
-#EXTINF:-1  group-title="4° Temporada",S04x11.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x11.mp4?a=0&id=1ZO_LoajVeWU8RD5OJ5KHNHtRci1Q-2Vp
-#EXTINF:-1  group-title="4° Temporada",S04x12.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S04x12.mp4?a=0&id=1RVpoPCCBdez0GfDkZKmUnHVl7vnhDFiC
+#EXTINF:-1  group-title="4° Temporada",S04E01_Vivendo.o.Sonho.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E01_Vivendo.o.Sonho.mkv?a=0&id=0B3DfYHxscpQfUjlLRFNmLW9vUUk
+#EXTINF:-1  group-title="4° Temporada",S04E02_O.Que.Será.dos.Restos.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E02_O.Que.Ser%C3%A1.dos.Restos.mkv?a=0&id=0B3DfYHxscpQfd3BlNDUtVTZoVjQ
+#EXTINF:-1  group-title="4° Temporada",S04E03_Cegado.Pela.Luz.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E03_Cegado.Pela.Luz.mkv?a=0&id=0B3DfYHxscpQfVlVPN21ZbEJ2VE0
+#EXTINF:-1  group-title="4° Temporada",S04E04_Dex.Sai.de.Férias.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E04_Dex.Sai.de.F%C3%A9rias.mkv?a=0&id=0B3DfYHxscpQfay1oTE9qNjFlNjg
+#EXTINF:-1  group-title="4° Temporada",S04E05_Perseguidor.Implacável.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E05_Perseguidor.Implac%C3%A1vel.mkv?a=0&id=0B3DfYHxscpQfQVd4aWcyVUFIbEE
+#EXTINF:-1  group-title="4° Temporada",S04E06_Se.Eu.Tivesse.um.Martelo.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E06_Se.Eu.Tivesse.um.Martelo.mkv?a=0&id=0B3DfYHxscpQfVDZLanB1UVd2ejQ
+#EXTINF:-1  group-title="4° Temporada",S04E07_Maré.Mansa.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E07_Mar%C3%A9.Mansa.mkv?a=0&id=0B3DfYHxscpQfd1NLMjU4RWZVMGc
+#EXTINF:-1  group-title="4° Temporada",S04E08_Problemas.na.Estrada.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E08_Problemas.na.Estrada.mkv?a=0&id=0B3DfYHxscpQfbmFfTzhZc1hPLWs
+#EXTINF:-1  group-title="4° Temporada",S04E09_Homem.Faminto.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E09_Homem.Faminto.mkv?a=0&id=0B3DfYHxscpQfb2xuTUtoQjVhejg
+#EXTINF:-1  group-title="4° Temporada",S04E10_Garotos.Perdidos.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E10_Garotos.Perdidos.mkv?a=0&id=0B3DfYHxscpQfcVFYSDRBa2FFcE0
+#EXTINF:-1  group-title="4° Temporada",S04E11_Olá.Dexter.Morgan.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E11_Ol%C3%A1.Dexter.Morgan.mkv?a=0&id=0B3DfYHxscpQfMmlrUGN5c20wYjQ
+#EXTINF:-1  group-title="4° Temporada",S04E12_A.Escapada.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S04E12_A.Escapada.mkv?a=0&id=0B3DfYHxscpQfbUk2cXV1UV9IZ0U
+
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 05 - Dexter - 5° Temporada 720p mp4
-#EXTINF:-1  group-title="5° Temporada",S05x01.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x01.mp4?a=0&id=11GPjEjaYtazLinNGlYBZ1QLFLq2rqBge
-#EXTINF:-1  group-title="5° Temporada",S05x02.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x02.mp4?a=0&id=1f8PBXZrflLbXItN2xQJsNDzg29GdRzuH
-#EXTINF:-1  group-title="5° Temporada",S05x03.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x03.mp4?a=0&id=1l8Oe4dhKl26YMtB3cax1-S5nAJZ4M3ld
-#EXTINF:-1  group-title="5° Temporada",S05x04.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x04.mp4?a=0&id=1Ffx7OTGlWb4Tk0UveIVdVMqdqeLarSLR
-#EXTINF:-1  group-title="5° Temporada",S05x05.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x05.mp4?a=0&id=1F8eZf378zLAxLia6gy4527DqAc-jCBwM
-#EXTINF:-1  group-title="5° Temporada",S05x06.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x06.mp4?a=0&id=1ZxRbnS5XwSRmWt7Yltxz2quMFtqxA-fP
-#EXTINF:-1  group-title="5° Temporada",S05x07.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x07.mp4?a=0&id=1ZOKkTtX6A6wsAdRWVZtFiiapXn-F5bAg
-#EXTINF:-1  group-title="5° Temporada",S05x08.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x08.mp4?a=0&id=1BYvjkhVUmZGk5lRh8JOiABeY9QED1teC
-#EXTINF:-1  group-title="5° Temporada",S05x09.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x09.mp4?a=0&id=1LDAgEaqZ1CLgdVs3WnwLNqdLm-DUOAZX
-#EXTINF:-1  group-title="5° Temporada",S05x10.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x10.mp4?a=0&id=1U8UE49XBMsvOjiGR-80D0YgBnrPm6f-Q
-#EXTINF:-1  group-title="5° Temporada",S05x11.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x11.mp4?a=0&id=1r6wxc6ehcGJFHNx9i3q6k84pSbzzXxHJ
-#EXTINF:-1  group-title="5° Temporada",S05x12.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S05x12.mp4?a=0&id=1__jR_cHGZbzTJdzEyZ_2RQJok3iOO7Ao
+#EXTINF:-1  group-title="5° Temporada",S05E01_Meu.Erro.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E01_Meu.Erro.mkv?a=0&id=0B3DfYHxscpQfQ3JiQVRVR2dSSTA
+#EXTINF:-1  group-title="5° Temporada",S05E02_Olá.Bandido.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E02_Ol%C3%A1.Bandido.mkv?a=0&id=0B3DfYHxscpQfa2pUUkVkSjJTbDA
+#EXTINF:-1  group-title="5° Temporada",S05E03_Praticamente.Perfeito.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E03_Praticamente.Perfeito.mkv?a=0&id=0B3DfYHxscpQfdHJVb2pHZ1l4SEk
+#EXTINF:-1  group-title="5° Temporada",S05E04_A.Bela.e.a.Fera.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E04_A.Bela.e.a.Fera.mkv?a=0&id=0B3DfYHxscpQfMGtudDA2VjE2ZzQ
+#EXTINF:-1  group-title="5° Temporada",S05E05_Primeiro.Sangramento.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E05_Primeiro.Sangramento.mkv?a=0&id=0B3DfYHxscpQfQVJyeDZLUWtHQzQ
+#EXTINF:-1  group-title="5° Temporada",S05E06_Está.Tudo.Claro.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E06_Est%C3%A1.Tudo.Claro.mkv?a=0&id=0B3DfYHxscpQfRGxlVlNXeDVJd00
+#EXTINF:-1  group-title="5° Temporada",S05E07_Nosso.Circulo.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E07_Nosso.Circulo.mkv?a=0&id=0B3DfYHxscpQfeEQtOGZPNlVKLWM
+#EXTINF:-1  group-title="5° Temporada",S05E08_Pegue.Isso.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E08_Pegue.Isso.mkv?a=0&id=0B3DfYHxscpQfTkUzRmJkVGV2Q1k
+#EXTINF:-1  group-title="5° Temporada",S05E09_Adolescência.Deserta.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E09_Adolesc%C3%AAncia.Deserta.mkv?a=0&id=0B3DfYHxscpQfVDVTYXNJdVVLbWs
+#EXTINF:-1  group-title="5° Temporada",S05E10_No.Inicio....mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E10_No.Inicio....mkv?a=0&id=0B3DfYHxscpQfRFRfclMyYmx2aHM
+#EXTINF:-1  group-title="5° Temporada",S05E11_Pulando.De.Um.Cargueiro.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E11_Pulando.De.Um.Cargueiro.mkv?a=0&id=0B3DfYHxscpQfMENOZWxHSkxuaUU
+#EXTINF:-1  group-title="5° Temporada",S05E12_O.Grande.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S05E12_O.Grande.mkv?a=0&id=0B3DfYHxscpQfdnd5T0RSNmU1dXc
+
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 06 - Dexter - 6° Temporada 720p mp4
-#EXTINF:-1  group-title="6° Temporada",S06x01.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x01.mp4?a=0&id=1InW3974ZNS7Px-5YSixAe9ca7VDhs2J9
-#EXTINF:-1  group-title="6° Temporada",S06x012.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=0&id=1HcA2ZZJjqF-GjLoFkwyUAZqtx7vpUcnl
-#EXTINF:-1  group-title="6° Temporada",S06x02.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x02.mp4?a=0&id=1jIDewWZXQhDrKUVLzaIYAZ0_ySw69k1H
-#EXTINF:-1  group-title="6° Temporada",S06x03.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x03.mp4?a=0&id=1fnKvX3aiyU0jbA_KjDjXXT_M90kfYdDv
-#EXTINF:-1  group-title="6° Temporada",S06x04.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x04.mp4?a=0&id=1F-Wsd2ls7yuXld9wh8HeHUu65e11dQsG
-#EXTINF:-1  group-title="6° Temporada",S06x05.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x05.mp4?a=0&id=1iO4mxg-j2QsgN4ZpG85q24YqqzJejftS
-#EXTINF:-1  group-title="6° Temporada",S06x06.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x06.mp4?a=0&id=1B9_rp15HupO4dYn31A4pyKBEW06nSR0z
-#EXTINF:-1  group-title="6° Temporada",S06x07.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x07.mp4?a=0&id=1FY5dt8trtuDYYN3WzSdYVQOJ2CFvqo4C
-#EXTINF:-1  group-title="6° Temporada",S06x08.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x08.mp4?a=0&id=1zqFhB-BXXZLtNJRcGmEc1H4bRLDpbIsK
-#EXTINF:-1  group-title="6° Temporada",S06x09.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x09.mp4?a=0&id=158FP6ITLssXb4svpewuWOlqA48DcQrvi
-#EXTINF:-1  group-title="6° Temporada",S06x10.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x10.mp4?a=0&id=1HQKxSM49g-5OKGXwgFSbCSGn_Auh0ujl
-#EXTINF:-1  group-title="6° Temporada",S06x11.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S06x11.mp4?a=0&id=1wybvERbr5i1khVIzPq5hoa3wYiMmKJqk
+#EXTINF:-1  group-title="6° Temporada",S06E01_Esses.Tipos.de.Coisa.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E01_Esses.Tipos.de.Coisa.mkv?a=0&id=0B3DfYHxscpQfMmNLeFYzMzdYbkU
+#EXTINF:-1  group-title="6° Temporada",S06E02_Era.Uma.Vez....mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E02_Era.Uma.Vez....mkv?a=0&id=0B3DfYHxscpQfRnBDS0ZFSjY5MEk
+#EXTINF:-1  group-title="6° Temporada",S06E03_Smokey.and.the.Bandit.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E03_Smokey.and.the.Bandit.mkv?a=0&id=0B3DfYHxscpQfbzdKOHQ4aWJIbUk
+#EXTINF:-1  group-title="6° Temporada",S06E04_Um.Cavalo.de.Cor.Diferente.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E04_Um.Cavalo.de.Cor.Diferente.mkv?a=0&id=0B3DfYHxscpQfaW1KVHMzV2k4ZEk
+#EXTINF:-1  group-title="6° Temporada",S06E05_O.Anjo.da.Morte.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E05_O.Anjo.da.Morte.mkv?a=0&id=0B3DfYHxscpQfOXJ6cEgyVDZZSXM
+#EXTINF:-1  group-title="6° Temporada",S06E06_Apenas.Deixa.Ir.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E06_Apenas.Deixa.Ir.mkv?a=0&id=0B3DfYHxscpQfODlDWTdoQjhXYkk
+#EXTINF:-1  group-title="6° Temporada",S06E07_Nebrasca.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E07_Nebrasca.mkv?a=0&id=0B3DfYHxscpQfRzZVVW5pQl83VWs
+#EXTINF:-1  group-title="6° Temporada",S06E08_Pecado.de.Omissão.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E08_Pecado.de.Omiss%C3%A3o.mkv?a=0&id=0B3DfYHxscpQfUU9Cc3k5aV9YT0E
+#EXTINF:-1  group-title="6° Temporada",S06E09_Pegue.o.Gellar.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E09_Pegue.o.Gellar.mkv?a=0&id=0B3DfYHxscpQfbFZlZWtjWDlteTg
+#EXTINF:-1  group-title="6° Temporada",S06E10_Coelho.Ricochet.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E10_Coelho.Ricochet.mkv?a=0&id=0B3DfYHxscpQfZUdLNy1JbldiM3M
+#EXTINF:-1  group-title="6° Temporada",S06E11_Fale.Com.a.Minha.Mão.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E11_Fale.Com.a.Minha.M%C3%A3o.mkv?a=0&id=0B3DfYHxscpQfdk95VWk5Z0Vod3M
+#EXTINF:-1  group-title="6° Temporada",S06E12_É.Assim.Que.o.Mundo.Acaba.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S06E12_%C3%89.Assim.Que.o.Mundo.Acaba.mkv?a=0&id=0B3DfYHxscpQfQi11UjdpT3RuQXc
+
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 07 - Dexter - 7° Temporada 720p mp4
-#EXTINF:-1  group-title="7° Temporada",S07x01.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x01.mp4?a=0&id=1SfbjVD8aUFjXfITwXOiMsKo81qUWQNJh
-#EXTINF:-1  group-title="7° Temporada",S07x02.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x02.mp4?a=0&id=1PDZdVrPewm5UerSGp8P66oLmQoqFgi29
-#EXTINF:-1  group-title="7° Temporada",S07x03.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x03.mp4?a=0&id=1pl604XT7bCP0NU2eVbSVdTUuFcC5EHSs
-#EXTINF:-1  group-title="7° Temporada",S07x04.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x04.mp4?a=0&id=1gy61FFLgNIGJkR3zcNuirKAcmNyIClOg
-#EXTINF:-1  group-title="7° Temporada",S07x05.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x05.mp4?a=0&id=1oVPNrPZ_pVmBktx-GsRUgKkXMf_hcZBE
-#EXTINF:-1  group-title="7° Temporada",S07x06.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x06.mp4?a=0&id=1vVymP7AJq_Ibc5n6vi-NujAKVvcpEYEQ
-#EXTINF:-1  group-title="7° Temporada",S07x07.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x07.mp4?a=0&id=1boaxeitszXjKPXW3n5bk5l4yX8YL6QT-
-#EXTINF:-1  group-title="7° Temporada",S07x08.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x08.mp4?a=0&id=1WBxbEmFfOtz5wp6NtJQYy3iykyLiuOAC
-#EXTINF:-1  group-title="7° Temporada",S07x09.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x09.mp4?a=0&id=105rJSu-GqG1nNzETXRZ92k9cxOjLiEj0
-#EXTINF:-1  group-title="7° Temporada",S07x10.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x10.mp4?a=0&id=1UXwiIdTp33QBiPtzwz-dy-ihi1JuiAHr
-#EXTINF:-1  group-title="7° Temporada",S07x11.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x11.mp4?a=0&id=1lBqnrHxKdaO05QkOeBuDSwM7xkc6PXBR
-#EXTINF:-1  group-title="7° Temporada",S07x12.mp4
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/S07x12.mp4?a=0&id=1jTIhsAojp3xoq2DZTi9aWBLnddwhRYyV
+#EXTINF:-1  group-title="7° Temporada",S07E01_Você.é....mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E01_Voc%C3%AA.%C3%A9....mkv?a=0&id=0B3DfYHxscpQfbVUzd3Q0WFRFQTA
+#EXTINF:-1  group-title="7° Temporada",S07E02_A.Luz.do.Sol.e.o.Redemoinho.Gelado.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E02_A.Luz.do.Sol.e.o.Redemoinho.Gelado.mkv?a=0&id=0B3DfYHxscpQfaGhVMlp2NG5xdmM
+#EXTINF:-1  group-title="7° Temporada",S07E03_Não.anunciado.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E03_N%C3%A3o.anunciado.mkv?a=0&id=0B3DfYHxscpQfSWlhX3pLVTVQV2M
+#EXTINF:-1  group-title="7° Temporada",S07E04_Corra.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E04_Corra.mkv?a=0&id=0B3DfYHxscpQfemc3cnY4bDRpNlk
+#EXTINF:-1  group-title="7° Temporada",S07E05_Nade.Fundo.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E05_Nade.Fundo.mkv?a=0&id=0B3DfYHxscpQfN2EzcWR2ZE0xdVE
+#EXTINF:-1  group-title="7° Temporada",S07E06_Não.anunciado.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E06_N%C3%A3o.anunciado.mkv?a=0&id=0B3DfYHxscpQfTVBlZHZxekFUQm8
+#EXTINF:-1  group-title="7° Temporada",S07E07_Química.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E07_Qu%C3%ADmica.mkv?a=0&id=0B3DfYHxscpQfM1dxRjlLTkdySUk
+#EXTINF:-1  group-title="7° Temporada",S07E08_Argentina.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E08_Argentina.mkv?a=0&id=0B3DfYHxscpQfNllQX09KaW5XRms
+#EXTINF:-1  group-title="7° Temporada",S07E09_Não.anunciado.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E09_N%C3%A3o.anunciado.mkv?a=0&id=0B3DfYHxscpQfbHJrNFNDVXJhMXM
+#EXTINF:-1  group-title="7° Temporada",S07E10_O.Passageiro....Qualquer.Coisa.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E10_O.Passageiro....Qualquer.Coisa.mkv?a=0&id=0B3DfYHxscpQfeGxBVm1ja2ZzWEE
+#EXTINF:-1  group-title="7° Temporada",S07E11_Você.Vê.O.Que.Eu.Vejo.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E11_Voc%C3%AA.V%C3%AA.O.Que.Eu.Vejo.mkv?a=0&id=0B3DfYHxscpQfaHdkYi04c3VocUk
+#EXTINF:-1  group-title="7° Temporada",S07E12_Surpresa.Motherfucker.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S07E12_Surpresa.Motherfucker.mkv?a=0&id=0B3DfYHxscpQfWGlXMlhsZGJvVzA
+
+#EXTINF:-1  group-title="8° Temporada",S08E01_A.Beautiful.Day.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E01_A.Beautiful.Day.mkv?a=0&id=0B3DfYHxscpQfWWkyRk9CdEN2UFk
+#EXTINF:-1  group-title="8° Temporada",S08E02_Every.Silver.Lining....mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E02_Every.Silver.Lining....mkv?a=0&id=0B3DfYHxscpQfTS12V1FfRGQtc2M
+#EXTINF:-1  group-title="8° Temporada",S08E03_Whats.Eating.Dexter.Morgan.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E03_Whats.Eating.Dexter.Morgan.mkv?a=0&id=0B3DfYHxscpQfNHRsX1VuYVBkSHc
+#EXTINF:-1  group-title="8° Temporada",S08E04_Scar.Tissue.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E04_Scar.Tissue.mkv?a=0&id=0B3DfYHxscpQfTHBQdHJVOHNEemc
+#EXTINF:-1  group-title="8° Temporada",S08E05_This.Little.Piggy.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E05_This.Little.Piggy.mkv?a=0&id=0B3DfYHxscpQfWktxNkNwVkN4OGM
+#EXTINF:-1  group-title="8° Temporada",S08E06_A.Little.Reflection.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E06_A.Little.Reflection.mkv?a=0&id=0B3DfYHxscpQfV2tRWWtrQzlvOVE
+#EXTINF:-1  group-title="8° Temporada",S08E07_Dress.Code.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E07_Dress.Code.mkv?a=0&id=0B3DfYHxscpQfVVdrM0Y3NXB6cGM
+#EXTINF:-1  group-title="8° Temporada",S08E08_Are.We.There.Yet.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E08_Are.We.There.Yet.mkv?a=0&id=0B3DfYHxscpQfMGQ5TUlmY0s3bXM
+#EXTINF:-1  group-title="8° Temporada",S08E09_Make.Your.Own.Kind.of.Music.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E09_Make.Your.Own.Kind.of.Music.mkv?a=0&id=0B3DfYHxscpQfN0xMN3BkMUR2LXc
+#EXTINF:-1  group-title="8° Temporada",S08E10_Goodbye.Miami.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E10_Goodbye.Miami.mkv?a=0&id=0B3DfYHxscpQfNnJRR1RZbVJjbVk
+#EXTINF:-1  group-title="8° Temporada",S08E11_Monkey.in.a.Box.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E11_Monkey.in.a.Box.mkv?a=0&id=0B3DfYHxscpQfUURuN2ZIY01PVFk
+#EXTINF:-1  group-title="8° Temporada",S08E12_Remember.the.Monsters.mkv
+http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Dexter_S08E12_Remember.the.Monsters.mkv?a=0&id=0B3DfYHxscpQfRjh4MW1CalNxcFU
+
