@@ -14,6 +14,9 @@ http://ss-iptv.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 
 #PLAYLIST: ! Lançamentos 2021/2022
+
+#EXTINF:0 group-title="Filmes | Lançamentos", A Era do Gelo - As Aventuras de Buck
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
 #EXTINF:0 group-title="Filmes | Lançamentos", Cruella.2021
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
 #EXTINF:0 group-title="Filmes | Lançamentos", Os Simpsons Em Plusniversário (Curta) [2021]
@@ -21,7 +24,7 @@ https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-
 #EXTINF:0 group-title="Filmes | Lançamentos", Um Lugar Silencioso II
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
 #EXTINF:0 group-title="Filmes | Lançamentos", Trainspotting
-https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
+https://ss-iptv.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=17OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
 
 #EXTINF:0 group-title="Filmes | Lançamentos", 2 Mais 2 [2012]
 http://ss-iptv.herokuapp.com/api/v1/redirectdownload/2%20Mais%202%20%5B2012%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1uAnRxriKJb0V9NnRxqBOopJcuGXZGE5K
