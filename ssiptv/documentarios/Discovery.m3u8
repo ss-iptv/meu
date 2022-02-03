@@ -468,9 +468,9 @@ https://ss-iptv.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Largados e Pelados - A Tribo",S05E10.720p.WEBRip.H264-LAPUMiA.mp4
 https://ss-iptv.herokuapp.com/api/v1/redirectdownload/Largados.e.Pelados.A.Tribo.S05E10.720p.WEBRip.H264-LAPUMiA.mp4?a=0&id=1mwEzZld5XnIJKrVBVBQbMWq1Y3gWL3wc
 
-#EXTINF:-1 tvg-id="" tvg-name="S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Largados e Pelados - A Tribo",,S05 E11
+#EXTINF:-1 tvg-id="" tvg-name="S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Largados Desafio Extremo",S01 E01
 http://cdnrede.com:80/series/groove9197/81325036/191551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Largados e Pelados - A Tribo",S05 E12
+#EXTINF:-1 tvg-id="" tvg-name="S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Largados Desafio Extremo",S01 E02
 http://cdnrede.com:80/series/groove9197/81325036/222402.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg" group-title="Largados e Pelados - A Tribo",S06 E01
 http://cdnrede.com:80/series/groove9197/81325036/222403.mp4
