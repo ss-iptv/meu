@@ -10,7 +10,7 @@ http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plu
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/listas/canais.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FREEMIUM - Alternativo II
-http://168.205.87.198:8555/get.php?username=123456&password=123456&type=m3u_plus
+http://cdnrede.com:80/get.php?username=groove9197&password=81325036&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais Abertos
 https://raw.githubusercontent.com/jhonatadev/Canais-BR/main/Lista%20de%20canais
