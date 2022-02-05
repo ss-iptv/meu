@@ -2,58 +2,58 @@
 #EXTENC: UTF-8
 #PLAYLIST: 01 - Dexter - 1° Temporada 720p mkv
 #EXTINF:-1  group-title="1° Temporada",S01x01.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x01.mkv?a=0&id=1tlAtI0ZED4TaI4lUzZSHlzU6Jvj1s2e8
 #EXTINF:-1  group-title="1° Temporada",S01x02.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x02.mkv?a=0&id=1Wtzw5vd2cNTJL6iSRt3KFPZsiJWeuq3p
 #EXTINF:-1  group-title="1° Temporada",S01x03.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x03.mkv?a=0&id=1-3X0IA85BegPLxvayBL5JMJOyhtHHvaf
 #EXTINF:-1  group-title="1° Temporada",S01x04.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x04.mkv?a=0&id=10iDl-QfaxsjC_LNxOfcr4FRTCYFyXN5p
 #EXTINF:-1  group-title="1° Temporada",S01x05.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x05.mkv?a=0&id=1Y7u_9y6T1NPM7fgZn1DVwDbUG9gXCmlz
 #EXTINF:-1  group-title="1° Temporada",S01x06.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x06.mkv?a=0&id=1C3T-raha0ZsZq_EGVEv6uGhW7bVQWHA8
 #EXTINF:-1  group-title="1° Temporada",S01x07.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x07.mkv?a=0&id=1p_WNyui-HF1WLYST7cYLpsqj7yK65Oas
 #EXTINF:-1  group-title="1° Temporada",S01x08.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x08.mkv?a=0&id=17DvtIdP3JJXfBulYlWDetphkyA3EFWz9
 #EXTINF:-1  group-title="1° Temporada",S01x09.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x09.mkv?a=0&id=1HS63_ekshzTaE2_IrNzHdXo08qww5N2t
 #EXTINF:-1  group-title="1° Temporada",S01x10.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x10.mkv?a=0&id=1s86znxPMDQumwDGOPorZo2KSdwWbfTdS
 #EXTINF:-1  group-title="1° Temporada",S01x11.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x11.mkv?a=0&id=1l_vpmszwlEeIJC5xIal0OkZdSr59kJmZ
 #EXTINF:-1  group-title="1° Temporada",S01x12.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/S01x12.mkv?a=0&id=1PZyIe9q7TzkCrsknH23x07l4ZZuwu9MK
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 2° Temporada
 
 #EXTINF:-1  group-title="2° Temporada",S02x01.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1miPnACJ45gm6o107FNF8z3Qh6aOrYUnt
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1miPnACJ45gm6o107FNF8z3Qh6aOrYUnt
 #EXTINF:-1  group-title="2° Temporada",S02x02.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1BzSXV5pDTqMV6WIZdHPOid5BZPzUpqqc
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1BzSXV5pDTqMV6WIZdHPOid5BZPzUpqqc
 #EXTINF:-1  group-title="2° Temporada",S02x03.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1TeqjL3HyPTbz22su-xw2F9PSX1spDTbK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1TeqjL3HyPTbz22su-xw2F9PSX1spDTbK
 #EXTINF:-1  group-title="2° Temporada",S02x04.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Z6y0_VV7JMhemlb1fOnU7Q4qidhd2tP6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1Z6y0_VV7JMhemlb1fOnU7Q4qidhd2tP6
 #EXTINF:-1  group-title="2° Temporada",S02x05.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1Y1NS_Yf9tKsLD-WmgiqlQ2zwCX4-jnT0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1Y1NS_Yf9tKsLD-WmgiqlQ2zwCX4-jnT0
 #EXTINF:-1  group-title="2° Temporada",S02x06.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1VWTFMlNOAU-R-hVlOEzjYEqL0nqSjUXu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1VWTFMlNOAU-R-hVlOEzjYEqL0nqSjUXu
 #EXTINF:-1  group-title="2° Temporada",S02x07.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1U8M71ZPgokUNwO1lAsZkj78M6n-Go--d
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1U8M71ZPgokUNwO1lAsZkj78M6n-Go--d
 #EXTINF:-1  group-title="2° Temporada",S02x08.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1ST5CoT-uz5vpkYgGTVAaCbc-niuYsg6L
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1ST5CoT-uz5vpkYgGTVAaCbc-niuYsg6L
 #EXTINF:-1  group-title="2° Temporada",S02x09.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1lSD_5kgOw8RW0cszKzxi8Cja1FR4h1Fa
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1lSD_5kgOw8RW0cszKzxi8Cja1FR4h1Fa
 #EXTINF:-1  group-title="2° Temporada",S02x10.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1DrVO6yhZOv0ZH1DsG64sKElRvxUjiEv0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1DrVO6yhZOv0ZH1DsG64sKElRvxUjiEv0
 #EXTINF:-1  group-title="2° Temporada",S02x11.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1FWSMSEJFXHGd6NL7lmKUi-PNn5F57tsB
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1FWSMSEJFXHGd6NL7lmKUi-PNn5F57tsB
 #EXTINF:-1  group-title="2° Temporada",S02x12.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7ZUiXjSUugXYwQTKQOP_rEUG5Hq
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/dexter.mkv?a=0&id=1j2W_P7ZUiXjSUugXYwQTKQOP_rEUG5Hq
 
 #EXTM3U
 #EXTENC: UTF-8

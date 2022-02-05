@@ -7,7 +7,7 @@ http://teuku.herokuapp.com/api/v1/redirectdownload/teu_cu.mp4?a=0&id=1jnoZR8hHde
 #EXTINF:0  type="video" group-title="Filmes | Fabiana", [G]O Vendedor de Sonhos
 https://www.googleapis.com/drive/v3/files/1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Fabiana", O Vendedor de Sonhos
-https://teuku.herokuapp.com/api/v1/redirectdownload/O%20vendedor%20de%20sonhos.mp4?a=0&id=1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/O%20vendedor%20de%20sonhos.mp4?a=0&id=1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i
 #EXTINF:0 group-title="Filmes | Fabiana",Olhar de Anjo
 http://teuku.herokuapp.com/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
 #EXTINF:0 group-title="Filmes | Fabiana", Encontrando Forestier Completo Dublado.mp4
@@ -16,15 +16,15 @@ http://teuku.herokuapp.com/api/v1/redirectdownload/Encontrando%20Forestier%20Com
 #PLAYLIST: ! Lançamentos 2021/2022
 
 #EXTINF:0 group-title="Filmes | Lançamentos", A Era do Gelo - As Aventuras de Buck
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
 #EXTINF:0 group-title="Filmes | Lançamentos", Cruella.2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
 #EXTINF:0 group-title="Filmes | Lançamentos", Os Simpsons Em Plusniversário (Curta) [2021]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-n83lAIjiTK4w9ZHGOWPrnTuU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-n83lAIjiTK4w9ZHGOWPrnTuU
 #EXTINF:0 group-title="Filmes | Lançamentos", Um Lugar Silencioso II
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
 #EXTINF:0 group-title="Filmes | Lançamentos", Trainspotting
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=17OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=17OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
 
 #EXTINF:0 group-title="Filmes | Lançamentos", 2 Mais 2 [2012]
 http://teuku.herokuapp.com/api/v1/redirectdownload/2%20Mais%202%20%5B2012%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1uAnRxriKJb0V9NnRxqBOopJcuGXZGE5K
@@ -34,63 +34,63 @@ http://teuku.herokuapp.com/api/v1/redirectdownload/Jack.O.Estripador.%5B2021%5D?
 http://teuku.herokuapp.com/api/v1/redirectdownload/Viajantes%20-%20Instinto%20e%20Desejo%202021.mkv?a=0&id=1iludYhAiN1SQEYT7NHg07lVlYGVJ93ag
 
 #EXTINF:0 group-title="Filmes | Lançamentos", 007 - Sem Tempo Para Morrer [2021]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
 #EXTINF:0 group-title="Filmes | Lançamentos", Pânico 5 [2022]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1vnvVPfG2Un8-kW-Av1iYRSXZ7WQU9yqy
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1vnvVPfG2Un8-kW-Av1iYRSXZ7WQU9yqy
 #EXTINF:0 group-title="Filmes | Lançamentos", Ray Donovan - O Filme [2022]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1gK_fOqy0LCoEEPF0xptlVLG1GUnP9db0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1gK_fOqy0LCoEEPF0xptlVLG1GUnP9db0
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
 #EXTINF:0 group-title="Filmes | Lançamentos", Chernobyl - O Filme 2021 1080p BluRay DUAL.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
 #EXTINF:0 group-title="Filmes | Lançamentos", Clifford - O Gigante Cão Vermelho [2021]
-https://teuku.herokuapp.com/api/v1/redirectdownload/teucu.mp4?a=0&id=1DgWAXqtwmy-mh1hQUM7W0egJAuQYohh8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/teucu.mp4?a=0&id=1DgWAXqtwmy-mh1hQUM7W0egJAuQYohh8
 #EXTINF:0 group-title="Filmes | Lançamentos", Matrix 4 - Resurrections [2021] - Dublado
-https://teuku.herokuapp.com/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
 #EXTINF:0 group-title="Filmes | Lançamentos", Hotel.Transilvânia.4.2022.720p.DUB.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
 #EXTINF:0 group-title="Filmes | Lançamentos", Eternos [2021] - Dublado
-https://teuku.herokuapp.com/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
 #EXTINF:0 group-title="Filmes | Lançamentos", O Apanhador de Sonhos 2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
 #EXTINF:0 group-title="Filmes | Lançamentos", Mãe x Androides 2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
 #EXTINF:0 group-title="Filmes | Lançamentos", Ghostbusters.Afterlife.2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
 #EXTINF:0 group-title="Filmes | Lançamentos", Dois + Dois 2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
 #EXTINF:0 group-title="Filmes | Lançamentos", Getúlio (2014) 720p.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
 #EXTINF:0 group-title="Filmes | Lançamentos", Pokemon.Detetive.Pikachu
-https://teuku.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
 #EXTINF:0 group-title="Filmes | Lançamentos", Harry Potter 20th.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
 #EXTINF:0 group-title="Filmes | Lançamentos", S.P.P.C.2020
 https://www.googleapis.com/drive/v3/files/1abMZCubB8JaCu7Fx_mmGnBSXvVMd11u8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lançamentos", S.P.P.C.2021
 https://www.googleapis.com/drive/v3/files/1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lançamentos", Venom - Tempo de Carnificina (2021).mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
 #EXTINF:0 group-title="Filmes | Lançamentos", Finch [L].mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Finch%20%5BL%5D.mp4?a=0&id=13SYiVauH6BKz_YQM6z8phBTqVtL4HWSH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Finch%20%5BL%5D.mp4?a=0&id=13SYiVauH6BKz_YQM6z8phBTqVtL4HWSH
 #EXTINF:0 group-title="Filmes | Lançamentos", Finch.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Finch.mp4?a=0&id=13TG2NBIAXqi3jiVp-WH-x6WD4wipXhx5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Finch.mp4?a=0&id=13TG2NBIAXqi3jiVp-WH-x6WD4wipXhx5
 #EXTINF:0 group-title="Filmes | Lançamentos", A Glitch in the Matrix [L].mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
 #EXTINF:0 group-title="Filmes | Lançamentos", Animatrix.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/Animatrix.mp4?a=0&id=1El0J6A56Nnn0nrWcGXnwugJYR9HNfvbT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Animatrix.mp4?a=0&id=1El0J6A56Nnn0nrWcGXnwugJYR9HNfvbT
 #EXTINF:0 group-title="Filmes | Lançamentos", Apex.Dublado.1080p.2021.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/Apex.Dublado.1080p.2021.mkv?a=0&id=1JrK483XT-ILyhr_wfb8qfHIjFKqFKWe0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Apex.Dublado.1080p.2021.mkv?a=0&id=1JrK483XT-ILyhr_wfb8qfHIjFKqFKWe0
 #EXTINF:0 group-title="Filmes | Lançamentos", Efeito.Flashback.Dublado.1080p.2021.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/Efeito.Flashback.Dublado.1080p.2021.mkv?a=0&id=1dPC5-RpjSUqJBQaexzVgkSFNdreubI5Q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Efeito.Flashback.Dublado.1080p.2021.mkv?a=0&id=1dPC5-RpjSUqJBQaexzVgkSFNdreubI5Q
 #EXTINF:0 group-title="Filmes | Lançamentos", Encanto.2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pWxKXCWHvmXJzl5h4O7bxTQuWQHd9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pWxKXCWHvmXJzl5h4O7bxTQuWQHd9
 #EXTINF:0 group-title="Filmes | Lançamentos", Every.Breath.You.Take.Dublado.1080p.2021.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
 #EXTINF:0 group-title="Filmes | Lançamentos", South Park Pós Covid.2021
-https://teuku.herokuapp.com/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
 #EXTINF:0 group-title="Filmes | Lançamentos", #Nudes
 https://drive.aprovado.workers.dev/1:/Filmes/Filmes/%2523NUDES.mp4
 
@@ -108,37 +108,37 @@ http://teuku.herokuapp.com/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1Z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Ação", John Wick 3.mp4
 http://teuku.herokuapp.com/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", As Donas do Pedaço 2021 1080p WEB-DL DUAL.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Asteroid.2021.720p.WEBRip.Legendado.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Asteroid.2021.720p.WEBRip.Legendado.mkv?a=0&id=1-93kwnu3GtIZh0zmvItFLqqzmIH72xHR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Asteroid.2021.720p.WEBRip.Legendado.mkv?a=0&id=1-93kwnu3GtIZh0zmvItFLqqzmIH72xHR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Boogie 2021 1080p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Boogie%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-1PT8lZm_CbqJelK1OTgQv97Ld4FQ0DW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Boogie%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-1PT8lZm_CbqJelK1OTgQv97Ld4FQ0DW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", David e os Duendes de Natal 2021 1080p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20David%20e%20os%20Duendes%20de%20Natal%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1LD3tYDYcI0TPCJt5BGcN48gtpeT6UISk
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20David%20e%20os%20Duendes%20de%20Natal%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1LD3tYDYcI0TPCJt5BGcN48gtpeT6UISk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Dois 2021 1080p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Dois%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=11BAmW5CvQJYP5atsbowZ8BE55joknD0F
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Dois%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=11BAmW5CvQJYP5atsbowZ8BE55joknD0F
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Encontros 2021 1080p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Encontros%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=10qpbzDfm08ox90SwF5uzFPXbONUaDtRe
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Encontros%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=10qpbzDfm08ox90SwF5uzFPXbONUaDtRe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Home.2021.1080p.WEBRip.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Home.2021.1080p.WEBRip.mp4?a=0&id=1-OfQQ1ks1XzEGR3DFObnF7Uba3pyX9tS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Home.2021.1080p.WEBRip.mp4?a=0&id=1-OfQQ1ks1XzEGR3DFObnF7Uba3pyX9tS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Imperdoavel 2021 1080p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-Y_3iSxoBO6FpNvyG3D1M6PIFTAOEAwh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-Y_3iSxoBO6FpNvyG3D1M6PIFTAOEAwh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Limite do Mundo 2021 1080p BluRay DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Limite%20do%20Mundo%202021%201080p%20BluRay%20DUAL%205.1.mkv?a=0&id=1s915BzWhEhxcmBjg0ISM4wjSkxugcJg9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Limite%20do%20Mundo%202021%201080p%20BluRay%20DUAL%205.1.mkv?a=0&id=1s915BzWhEhxcmBjg0ISM4wjSkxugcJg9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Maledicto.2019.1080p.WEBRip.Dublado.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Maledicto.2019.1080p.WEBRip.Dublado.mkv?a=0&id=1-M61QCcieqjzKByNKuPurMjW2COe05Tk
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Maledicto.2019.1080p.WEBRip.Dublado.mkv?a=0&id=1-M61QCcieqjzKByNKuPurMjW2COe05Tk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Night.Night.2021.1080p.WEBRip.Legendado.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Night.Night.2021.1080p.WEBRip.Legendado.mkv?a=0&id=1-9xgpHDHmwgGUAw5RBUyxeNozd16JsBv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Night.Night.2021.1080p.WEBRip.Legendado.mkv?a=0&id=1-9xgpHDHmwgGUAw5RBUyxeNozd16JsBv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", O Mundo Mágico de Rufus 2021 1080p WEB-DL DUAL.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20O%20Mundo%20M%C3%A1gico%20de%20Rufus%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1kqoYQJJUTi1AXgQUPTyeAJAi6hugblIi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20O%20Mundo%20M%C3%A1gico%20de%20Rufus%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1kqoYQJJUTi1AXgQUPTyeAJAi6hugblIi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Death.Valley.2021.1080p.WEBRip.x264.mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Death.Valley.2021.1080p.WEBRip.x264.mp4?a=0&id=1-jKqDGvjB7qBInQsFNGoVBUbKhTXVQ7E
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Death.Valley.2021.1080p.WEBRip.x264.mp4?a=0&id=1-jKqDGvjB7qBInQsFNGoVBUbKhTXVQ7E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Duna 2021 720p WEB-DL DUAL 5.1.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%20Duna%202021%20720p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1hqlq3MDVkkQ7zzJobH7ENkBHZX2bs9tH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/C%C3%B3pia%20de%20Duna%202021%20720p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1hqlq3MDVkkQ7zzJobH7ENkBHZX2bs9tH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", L1G4.D4.JUSTIC4. DUAL AUDIO 720P. WWW.BAIXARVIAMEGA.COM-DUAL.mkv
-https://teuku.herokuapp.com/api/v1/redirectdownload/L1G4.D4.JUSTIC4.%20DUAL%20AUDIO%20720P.%20WWW.BAIXARVIAMEGA.COM-DUAL.mkv?a=0&id=1EZb3AUsYHoVPDqXXB-mpwm-EUhkcVwce
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/L1G4.D4.JUSTIC4.%20DUAL%20AUDIO%20720P.%20WWW.BAIXARVIAMEGA.COM-DUAL.mkv?a=0&id=1EZb3AUsYHoVPDqXXB-mpwm-EUhkcVwce
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Diário de um Banana (2021).mp4
-https://teuku.herokuapp.com/api/v1/redirectdownload/maquina%20do%20zaca_Di%C3%A1rio%20de%20um%20Banana%20(2021).mp4?a=0&id=1fH7lp6SXPegSXMMSxAmfWB-ox2pEk8Lh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/maquina%20do%20zaca_Di%C3%A1rio%20de%20um%20Banana%20(2021).mp4?a=0&id=1fH7lp6SXPegSXMMSxAmfWB-ox2pEk8Lh
 
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", #REALITYHIGH.mp4
