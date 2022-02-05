@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: ED STAFFORD O SOBREVIVENTE
+#EXTINF:0, 219169.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/219169.mp4?a=0&id=1imeWWU9cCUFM2DUgwNN3NNT2_VLgr0nO
+#EXTINF:0, 219170.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/219170.mp4?a=0&id=1imqa-i-wqHyUc5PcCW8yJXHhPF8ZRWF1
+#EXTINF:0, 219171.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/219171.mp4?a=0&id=1imyNEwZLcCL_SvQGdVNgy9zcQXtIaQDa
+#EXTINF:0, 219172.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/219172.mp4?a=0&id=1in0khNG2DcDc32z61UAxmdrQPfrfjHYv
+#EXTINF:0, 219173.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/219173.mp4?a=0&id=1inDna5smiQQIi9cpPH1Hsj4N6l81mSJC
+#EXTINF:0, ED STAFFORD NU E ABANDONADO S01 E01.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/ED%20STAFFORD%20NU%20E%20ABANDONADO%20S01%20E01.mp4?a=0&id=1io3B_A0Gt_CeZpRyJbMX50xylzuhQ5d7
+#EXTINF:0, ED STAFFORD NU E ABANDONADO S01 E02.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/ED%20STAFFORD%20NU%20E%20ABANDONADO%20S01%20E02.mp4?a=0&id=1io3YqHNuvYf5XNkq52GqNJQz9uz-ukZm
+#EXTINF:0, ED STAFFORD NU E ABANDONADO S01 E03.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/ED%20STAFFORD%20NU%20E%20ABANDONADO%20S01%20E03.mp4?a=0&id=1iosgCE9_WaYhcr-aBpCYLMRBQO8Wjd9L
+#EXTINF:0, S02 E01.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E01.mp4?a=0&id=1ijr7obEYroFT2XC-PgGT1BzTKioPvizM
+#EXTINF:0, S02 E02.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E02.mp4?a=0&id=1ikOLVcB3oceBlCWWsOZGh4jtnG8JZPzP
+#EXTINF:0, S02 E03.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E03.mp4?a=0&id=1im68cE5TgjaB5jhF_aCNj0rnK45DGuae
+#EXTINF:0, S02 E04.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E04.mp4?a=0&id=1imQHQo3ct4YKyMKkaNwOA6BZ7h0xXsV1
+#EXTINF:0, S02 E05.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E05.mp4?a=0&id=1imTxjKpURu-7ZQSFyPMcUPAj0M4TDTgr
+#EXTINF:0, S02 E06.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E06.mp4?a=0&id=1ipAgp1oY6GMgwLpHWLzaaRz8jEtG0zbd
+#EXTINF:0, S02 E07.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E07.mp4?a=0&id=1ipFd9X5v_7phcoG5stSvqZ6g02sKTDRf
+#EXTINF:0, S02 E08.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E08.mp4?a=0&id=1ipaBmTVLRa-ZUpjwKPuP5Y_IgyD6vUqq
+#EXTINF:0, S02 E09.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/S02%20E09.mp4?a=0&id=1ipl5hsNMPvJ5Ka9dwQMXl8OnNAYpBcnZ
+#EXTINF:0, Sobrevivendo nas Ruas E01.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/Sobrevivendo%20nas%20Ruas%20E01.mp4?a=0&id=1ingzZX1hRi_CMKZqZkjVfnescxL73bqp
+#EXTINF:0, Sobrevivendo nas Ruas E02.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/Sobrevivendo%20nas%20Ruas%20E02.mp4?a=0&id=1inr-kPsG-Y4oDht-q_G7h0E7Q_mT-M4c
