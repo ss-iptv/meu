@@ -3,77 +3,77 @@
 #EXTENC: UTF-8
 #PLAYLIST: Aeroporto Área Restrita
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E01.mp4?a=0&id=1-GeBoBK6Be6jQ5aoqlwLuAtdie4SFhs5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E01.mp4?a=0&id=1-GeBoBK6Be6jQ5aoqlwLuAtdie4SFhs5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E02.mp4?a=0&id=1m_v6LBAMoT9YOSlEsVWPCs7gIz8Onasw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E02.mp4?a=0&id=1m_v6LBAMoT9YOSlEsVWPCs7gIz8Onasw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E03.mp4?a=0&id=1Dco_HLsvRXLYEtcXRrgoB2DoiJ8Dpom_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E03.mp4?a=0&id=1Dco_HLsvRXLYEtcXRrgoB2DoiJ8Dpom_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E04.mp4?a=0&id=14znoPpLjBN9UIDguzZtCS4vvmNQIPaeF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E04.mp4?a=0&id=14znoPpLjBN9UIDguzZtCS4vvmNQIPaeF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E05.mp4?a=0&id=1NKmJ_PkwNIQsnKth6YnDuwaDVubDFubE
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E05.mp4?a=0&id=1NKmJ_PkwNIQsnKth6YnDuwaDVubDFubE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E06.mp4?a=0&id=1245nU5X9y9LsV1DpWMzTOJ_mjnHtxelE
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E06.mp4?a=0&id=1245nU5X9y9LsV1DpWMzTOJ_mjnHtxelE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E07.mp4?a=0&id=1hHE2mBhZjJJSz5B1fDsHm-vJXecs3g-2
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E07.mp4?a=0&id=1hHE2mBhZjJJSz5B1fDsHm-vJXecs3g-2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E08.mp4?a=0&id=1heQRvJSUIkIvQ1WOxEfnWjL7YXF8wrsE
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E08.mp4?a=0&id=1heQRvJSUIkIvQ1WOxEfnWjL7YXF8wrsE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E09.mp4?a=0&id=13xR9O9SrOnN9GH6UCKhq8468g-ttUb1D
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E09.mp4?a=0&id=13xR9O9SrOnN9GH6UCKhq8468g-ttUb1D
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E10.mp4?a=0&id=1ve7fQhMolWuge5laclm5pxI00OoD7kzg
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E10.mp4?a=0&id=1ve7fQhMolWuge5laclm5pxI00OoD7kzg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E11.mp4?a=0&id=1z4A4aRL-BzY4qDLf6_ChygRFKp9Z8U2A
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E11.mp4?a=0&id=1z4A4aRL-BzY4qDLf6_ChygRFKp9Z8U2A
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S01 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E12.mp4?a=0&id=1qj2E0NHX8jlAKzlFvvD27TSAlWqe-5n9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S01%20E12.mp4?a=0&id=1qj2E0NHX8jlAKzlFvvD27TSAlWqe-5n9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E01.mp4?a=0&id=1zXvBk7iBa_yBzRactwuvYDnAbcZeK2X3
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E01.mp4?a=0&id=1zXvBk7iBa_yBzRactwuvYDnAbcZeK2X3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E02.mp4?a=0&id=1rSxWteFyRrgpYNRviEylTC1QhIFC6L62
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E02.mp4?a=0&id=1rSxWteFyRrgpYNRviEylTC1QhIFC6L62
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E03.mp4?a=0&id=1M6pd4Y8s86Xft3Hfa2RXHsca4sVAASpU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E03.mp4?a=0&id=1M6pd4Y8s86Xft3Hfa2RXHsca4sVAASpU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E04.mp4?a=0&id=1WtoDB6MrunbwV7t_Y2ZXX_HIUkL1th1u
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E04.mp4?a=0&id=1WtoDB6MrunbwV7t_Y2ZXX_HIUkL1th1u
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E05.mp4?a=0&id=1XE7xlq6hdKM3C4tnFcjg9YqVwqoRWdJx
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E05.mp4?a=0&id=1XE7xlq6hdKM3C4tnFcjg9YqVwqoRWdJx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E06.mp4?a=0&id=1WHgpb6ijFRxUo_BKLSjT8SB8zNs7xiQd
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E06.mp4?a=0&id=1WHgpb6ijFRxUo_BKLSjT8SB8zNs7xiQd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E07.mp4?a=0&id=11_-Qv70_2hKDqxRxlHEiQpKgXoh4Sfcy
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E07.mp4?a=0&id=11_-Qv70_2hKDqxRxlHEiQpKgXoh4Sfcy
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E08.mp4?a=0&id=1-u8o7kK54NW6GJ_XYf3SbZBhJ0ovEa4I
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E08.mp4?a=0&id=1-u8o7kK54NW6GJ_XYf3SbZBhJ0ovEa4I
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E09.mp4?a=0&id=1S5Pj7A5Wo2y58i3hkA9kbrfK_zo_9X1U
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E09.mp4?a=0&id=1S5Pj7A5Wo2y58i3hkA9kbrfK_zo_9X1U
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E10.mp4?a=0&id=1pql9BXW1d1zYZNDhzMwOw6vvGFaVe2XG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E10.mp4?a=0&id=1pql9BXW1d1zYZNDhzMwOw6vvGFaVe2XG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E11.mp4?a=0&id=1UhoD_N-j4iN_GNrVouyRr0n36RbHmwj5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E11.mp4?a=0&id=1UhoD_N-j4iN_GNrVouyRr0n36RbHmwj5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S02 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E12.mp4?a=0&id=1CPjDPaTiQBXe4vE1YHuOupEkwCm-cPeR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S02%20E12.mp4?a=0&id=1CPjDPaTiQBXe4vE1YHuOupEkwCm-cPeR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E01.mp4?a=0&id=1EulW-IWhXZEPCkNWrNAI7VbWE__Axox7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E01.mp4?a=0&id=1EulW-IWhXZEPCkNWrNAI7VbWE__Axox7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E02.mp4?a=0&id=1GKL1HcZSlI7GpZZpyz4tqh0bq1FHWYB8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E02.mp4?a=0&id=1GKL1HcZSlI7GpZZpyz4tqh0bq1FHWYB8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E03.mp4?a=0&id=1MBLxLm8DZmUAUD-G7qMKd-Vpes4UYfft
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E03.mp4?a=0&id=1MBLxLm8DZmUAUD-G7qMKd-Vpes4UYfft
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E04.mp4?a=0&id=1VwLiBSt2p2CPVwCnfNm2AWvB3YcPvdbA
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E04.mp4?a=0&id=1VwLiBSt2p2CPVwCnfNm2AWvB3YcPvdbA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E05.mp4?a=0&id=1UISBM7PzyactyJ8yRsWQsHsonrb3nBma
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E05.mp4?a=0&id=1UISBM7PzyactyJ8yRsWQsHsonrb3nBma
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E06.mp4?a=0&id=1Z7Y8J73Hcz_YXPJlf7PhSRlsacjArJw-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E06.mp4?a=0&id=1Z7Y8J73Hcz_YXPJlf7PhSRlsacjArJw-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E07.mp4?a=0&id=1GwaoB2KvcQR_QDleNTu8Sa716Bcrta0o
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E07.mp4?a=0&id=1GwaoB2KvcQR_QDleNTu8Sa716Bcrta0o
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E08.mp4?a=0&id=1INtt_z4gxFRoJ392f2hep7cyFn_-VJGh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E08.mp4?a=0&id=1INtt_z4gxFRoJ392f2hep7cyFn_-VJGh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E09.mp4?a=0&id=1gJQ5I7CIdlkQuTHWPD01T5f6K_UYHmwG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E09.mp4?a=0&id=1gJQ5I7CIdlkQuTHWPD01T5f6K_UYHmwG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E10.mp4?a=0&id=16DXr5Q7_Yhf-xWkoC4d5XlsUKRBQLPri
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E10.mp4?a=0&id=16DXr5Q7_Yhf-xWkoC4d5XlsUKRBQLPri
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E11.mp4?a=0&id=1enWdY4M7Okhb5cJEr1Umx5QEqH80c2Ja
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E11.mp4?a=0&id=1enWdY4M7Okhb5cJEr1Umx5QEqH80c2Ja
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",S03 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E12.mp4?a=0&id=1P7SGfdm78VPhxrwNf21C5NDjefOtrWW-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Aeroporto%20%C3%81rea%20Restrita%20S03%20E12.mp4?a=0&id=1P7SGfdm78VPhxrwNf21C5NDjefOtrWW-
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -185,429 +185,429 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #EXTENC: UTF-8
 #PLAYLIST: Arquivo X
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E01.mp4?a=0&id=19d_fRmCB-9haecHRoRnCWPjQhj1CNF94
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E01.mp4?a=0&id=19d_fRmCB-9haecHRoRnCWPjQhj1CNF94
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E02.mp4?a=0&id=19eal5v9plT-9dWfrGpfa4IRySXESFZdn
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E02.mp4?a=0&id=19eal5v9plT-9dWfrGpfa4IRySXESFZdn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E03.mp4?a=0&id=19g848_rSECWSHRUZI_3dq_vVnd_MHAws
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E03.mp4?a=0&id=19g848_rSECWSHRUZI_3dq_vVnd_MHAws
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E04.mp4?a=0&id=19iJ2W96WACg4C2L3RWB1gjMXMRNepzZS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E04.mp4?a=0&id=19iJ2W96WACg4C2L3RWB1gjMXMRNepzZS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E05.mp4?a=0&id=19jACZj-r6OnqRqK1ey8haK3GUwSfgDZn
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E05.mp4?a=0&id=19jACZj-r6OnqRqK1ey8haK3GUwSfgDZn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E06.mp4?a=0&id=19k6gb_DF3SLS7llzXcjfMbMBV_EM67Mo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E06.mp4?a=0&id=19k6gb_DF3SLS7llzXcjfMbMBV_EM67Mo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E07.mp4?a=0&id=19mgX6VAKDX-NH4JEskE1xFjdcBn_1vUW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E07.mp4?a=0&id=19mgX6VAKDX-NH4JEskE1xFjdcBn_1vUW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E09.mp4?a=0&id=19y6NctEd7DP8350-tYosZw4knMF7OIFi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E09.mp4?a=0&id=19y6NctEd7DP8350-tYosZw4knMF7OIFi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E10.mp4?a=0&id=19zjYwwfMbU4H778hSe2bvLB2ata9TRFN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E10.mp4?a=0&id=19zjYwwfMbU4H778hSe2bvLB2ata9TRFN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E11.mp4?a=0&id=1A-rvoqDVrUWMaDw2CwlAysvFUYTEZW28
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E11.mp4?a=0&id=1A-rvoqDVrUWMaDw2CwlAysvFUYTEZW28
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E12.mp4?a=0&id=1A01zzSdqGKk_kWZeB4RTQvd1WDphXR3n
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E12.mp4?a=0&id=1A01zzSdqGKk_kWZeB4RTQvd1WDphXR3n
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E13.mp4?a=0&id=1A2fSKas-I4XIZ6tnIa3sTEmbFk9dnJ3S
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E13.mp4?a=0&id=1A2fSKas-I4XIZ6tnIa3sTEmbFk9dnJ3S
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E14.mp4?a=0&id=1AH3Q2cqDkhMcz1fm5oQ0o57YwZPSA8Oq
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E14.mp4?a=0&id=1AH3Q2cqDkhMcz1fm5oQ0o57YwZPSA8Oq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E15.mp4?a=0&id=1AKnVFxldDC6YLV0dvsP1K9vO5qi6fp6z
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E15.mp4?a=0&id=1AKnVFxldDC6YLV0dvsP1K9vO5qi6fp6z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E16.mp4?a=0&id=1AL70a4XXVUCdRqoBVCcsydI1-HQi3goh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E16.mp4?a=0&id=1AL70a4XXVUCdRqoBVCcsydI1-HQi3goh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E17.mp4?a=0&id=1ALGFUPpOMghKadi1HWWdCM2kc7QhN3wl
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E17.mp4?a=0&id=1ALGFUPpOMghKadi1HWWdCM2kc7QhN3wl
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E18.mp4?a=0&id=1AMUWNdsEZ0FXdgZVNOF7nSwoGjOJZ5A2
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E18.mp4?a=0&id=1AMUWNdsEZ0FXdgZVNOF7nSwoGjOJZ5A2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E19.mp4?a=0&id=1AbP-VOR_sOOwM7B5FVtageuWs__RllOB
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E19.mp4?a=0&id=1AbP-VOR_sOOwM7B5FVtageuWs__RllOB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E20.mp4?a=0&id=1AbfJQWpG69ZdNRhh-cJ2ROFFBvXj8rPZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E20.mp4?a=0&id=1AbfJQWpG69ZdNRhh-cJ2ROFFBvXj8rPZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E21.mp4?a=0&id=1Ac6PVI8Y6-bj1cAt85uAHLmkd2dNx01-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E21.mp4?a=0&id=1Ac6PVI8Y6-bj1cAt85uAHLmkd2dNx01-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E22.mp4?a=0&id=1B8r1WzaMkMgS0TlZ96RfTHvvTkYA7s80
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E22.mp4?a=0&id=1B8r1WzaMkMgS0TlZ96RfTHvvTkYA7s80
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E23.mp4?a=0&id=1B9IM3d6XK3pG2YWszOzoZ0zwswtsiaGh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E23.mp4?a=0&id=1B9IM3d6XK3pG2YWszOzoZ0zwswtsiaGh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S01 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S01%20E24.mp4?a=0&id=1B9x3xedgSM_PAlvlimjfThrRONMir6H5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S01%20E24.mp4?a=0&id=1B9x3xedgSM_PAlvlimjfThrRONMir6H5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E01.mp4?a=0&id=1BAlWlcC24a05uLDMpqn5qZGgfr74ZOSr
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E01.mp4?a=0&id=1BAlWlcC24a05uLDMpqn5qZGgfr74ZOSr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E02.mp4?a=0&id=1BSTLbZCq6njt-hRfgz_mQOsIc6fHouJ2
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E02.mp4?a=0&id=1BSTLbZCq6njt-hRfgz_mQOsIc6fHouJ2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E03.mp4?a=0&id=1BUxwtlznQUVPQAyKxtNRIhYd2Nfn9jUi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E03.mp4?a=0&id=1BUxwtlznQUVPQAyKxtNRIhYd2Nfn9jUi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E04.mp4?a=0&id=1BWKWed3kNA54m4WzoReHfi1FICywEvqF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E04.mp4?a=0&id=1BWKWed3kNA54m4WzoReHfi1FICywEvqF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E05.mp4?a=0&id=1BWeuo1Ch5pwnCJYwdEm0GhD_z9cwipjo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E05.mp4?a=0&id=1BWeuo1Ch5pwnCJYwdEm0GhD_z9cwipjo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E06.mp4?a=0&id=1B_3kRdV1Ag6kdIXgOH5Cv71RDbx-YpVk
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E06.mp4?a=0&id=1B_3kRdV1Ag6kdIXgOH5Cv71RDbx-YpVk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E08.mp4?a=0&id=1BchSXUbfYACS0RAbHkrx-MCq4LEXes_w
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E08.mp4?a=0&id=1BchSXUbfYACS0RAbHkrx-MCq4LEXes_w
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E09.mp4?a=0&id=1BhfOxZAt7x0C-eHR2sJVXf8J_jMF7pVK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E09.mp4?a=0&id=1BhfOxZAt7x0C-eHR2sJVXf8J_jMF7pVK
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E10.mp4?a=0&id=1BiW6i6fje0OkNvSDIZfdB355NG02MqT-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E10.mp4?a=0&id=1BiW6i6fje0OkNvSDIZfdB355NG02MqT-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E11.mp4?a=0&id=1BiuXzuEb9yHpEh8lR5aB3CdBFj7lrBxu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E11.mp4?a=0&id=1BiuXzuEb9yHpEh8lR5aB3CdBFj7lrBxu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E12.mp4?a=0&id=1Bjw2Y1qNYWp-BsVXjOBiwz9Mfz5bcEN_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E12.mp4?a=0&id=1Bjw2Y1qNYWp-BsVXjOBiwz9Mfz5bcEN_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E13.mp4?a=0&id=1Bnr4wEu-hjMg-Ax3ztoJh-2ZiYG3RIph
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E13.mp4?a=0&id=1Bnr4wEu-hjMg-Ax3ztoJh-2ZiYG3RIph
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E14.mp4?a=0&id=1Bnw9ZaTGo9Gm-32J_Vyo3d0kR4lw-Wvf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E14.mp4?a=0&id=1Bnw9ZaTGo9Gm-32J_Vyo3d0kR4lw-Wvf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E15.mp4?a=0&id=1Bo89sjp5QSAzG3kVYATK8jFeKPBX5AXz
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E15.mp4?a=0&id=1Bo89sjp5QSAzG3kVYATK8jFeKPBX5AXz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E16.mp4?a=0&id=1BqHcbQxIlJ5aF1YKUdyia1iabtuTK5K7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E16.mp4?a=0&id=1BqHcbQxIlJ5aF1YKUdyia1iabtuTK5K7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E17.mp4?a=0&id=1By2IUHSovGlxDDsxSY_f8_getb8pdk5J
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E17.mp4?a=0&id=1By2IUHSovGlxDDsxSY_f8_getb8pdk5J
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E18.mp4?a=0&id=1BzBNe0wDHxhG1VAfw-TZ4cRaqSBwsYz-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E18.mp4?a=0&id=1BzBNe0wDHxhG1VAfw-TZ4cRaqSBwsYz-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E19.mp4?a=0&id=1C-nubQOLmREmWnXBs0MB961mdsAy77if
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E19.mp4?a=0&id=1C-nubQOLmREmWnXBs0MB961mdsAy77if
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E20.mp4?a=0&id=1CCH6sLlzxDaWNMeeISepoUScN5Kegwsu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E20.mp4?a=0&id=1CCH6sLlzxDaWNMeeISepoUScN5Kegwsu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E21.mp4?a=0&id=1CE8BHmEjDTP82vOvi8ZV6J6-4U3d3r8W
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E21.mp4?a=0&id=1CE8BHmEjDTP82vOvi8ZV6J6-4U3d3r8W
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E22.mp4?a=0&id=1CRBA4elZVdJreLtKqY2v1UnvNZIuVQAj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E22.mp4?a=0&id=1CRBA4elZVdJreLtKqY2v1UnvNZIuVQAj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E23.mp4?a=0&id=1CTarfeNHxBI1EwsZ2LO5kiHydBRi0lBj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E23.mp4?a=0&id=1CTarfeNHxBI1EwsZ2LO5kiHydBRi0lBj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E24.mp4?a=0&id=1CV8XfO4JklUdxroTu4IuKbefGpKuP_oT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E24.mp4?a=0&id=1CV8XfO4JklUdxroTu4IuKbefGpKuP_oT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S02 E25.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S02%20E25.mp4?a=0&id=1CVouHqKSZ6mY0ReL1jnEriy08ybPzn4t
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S02%20E25.mp4?a=0&id=1CVouHqKSZ6mY0ReL1jnEriy08ybPzn4t
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E01.mp4?a=0&id=1CXj9r8GknwLhgCDt5LDSc76Dxux-jtge
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E01.mp4?a=0&id=1CXj9r8GknwLhgCDt5LDSc76Dxux-jtge
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E02.mp4?a=0&id=1CYkheN658AJ2IVWUr1YU7XubsWi3txJQ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E02.mp4?a=0&id=1CYkheN658AJ2IVWUr1YU7XubsWi3txJQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E03.mp4?a=0&id=1CZAHJi7CBm5_F4Dyp7Vup1Yjjq_7VzvP
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E03.mp4?a=0&id=1CZAHJi7CBm5_F4Dyp7Vup1Yjjq_7VzvP
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E04.mp4?a=0&id=1CZH8LAQK2R9CEhviXPtJwjNVCjbthJdh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E04.mp4?a=0&id=1CZH8LAQK2R9CEhviXPtJwjNVCjbthJdh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E05.mp4?a=0&id=1C_5jjtEn_N7yNV2KRiQYtcCf-qHnVXVx
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E05.mp4?a=0&id=1C_5jjtEn_N7yNV2KRiQYtcCf-qHnVXVx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E06.mp4?a=0&id=1CkkJcDv4oEaApfO_0b7pk6obQgPp1Mvk
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E06.mp4?a=0&id=1CkkJcDv4oEaApfO_0b7pk6obQgPp1Mvk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E07.mp4?a=0&id=1Cl7c50VyrLeAlnwF4c3heqwIDGgJjw5m
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E07.mp4?a=0&id=1Cl7c50VyrLeAlnwF4c3heqwIDGgJjw5m
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E08.mp4?a=0&id=1CmmYPZQn6mt6hmUaYPOsVsHjn4CAVRIW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E08.mp4?a=0&id=1CmmYPZQn6mt6hmUaYPOsVsHjn4CAVRIW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E09.mp4?a=0&id=1Cnon3fkL4mV7zNe__MrUV7ge6Pghgp6k
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E09.mp4?a=0&id=1Cnon3fkL4mV7zNe__MrUV7ge6Pghgp6k
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E10.mp4?a=0&id=1Cq1tU2GzvgGvSVEEMmTHYJTc0WOOSjR8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E10.mp4?a=0&id=1Cq1tU2GzvgGvSVEEMmTHYJTc0WOOSjR8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E11.mp4?a=0&id=1Cq6pQh5jUyw8P1OupKflsXUq4NcSeBhV
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E11.mp4?a=0&id=1Cq6pQh5jUyw8P1OupKflsXUq4NcSeBhV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E12.mp4?a=0&id=1J-xVc0M1M5ROa8cOzYw1nVuEg4WcbIHG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E12.mp4?a=0&id=1J-xVc0M1M5ROa8cOzYw1nVuEg4WcbIHG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E13.mp4?a=0&id=1V9zG7cUY5PYvGAvpwyztYLZ3lYOXufzO
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E13.mp4?a=0&id=1V9zG7cUY5PYvGAvpwyztYLZ3lYOXufzO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E14.mp4?a=0&id=1VKAalUkxvNYryjRlYV1AQq_9jj7rYxLh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E14.mp4?a=0&id=1VKAalUkxvNYryjRlYV1AQq_9jj7rYxLh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E15.mp4?a=0&id=1VL8WOeqowXODP2gs6YEzx6boxijjdttf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E15.mp4?a=0&id=1VL8WOeqowXODP2gs6YEzx6boxijjdttf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E16.mp4?a=0&id=1VLnUOlO7N3ilXpVLNwtDHuAJCIUBwvRp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E16.mp4?a=0&id=1VLnUOlO7N3ilXpVLNwtDHuAJCIUBwvRp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E17.mp4?a=0&id=1VMLKdUMKl2NS3b07BeUTzFof5XEVPyOj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E17.mp4?a=0&id=1VMLKdUMKl2NS3b07BeUTzFof5XEVPyOj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E18.mp4?a=0&id=1VMtlYGjp-C4cYt4WRJzjC_-0Gt2nq-8M
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E18.mp4?a=0&id=1VMtlYGjp-C4cYt4WRJzjC_-0Gt2nq-8M
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E19.mp4?a=0&id=1VNxeZMQGRS5nDzYTPSWhdf7YUplpwr_9
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E19.mp4?a=0&id=1VNxeZMQGRS5nDzYTPSWhdf7YUplpwr_9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E20.mp4?a=0&id=1VO-jonRILW4WrMiHPuMXuCYdtG97WkC6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E20.mp4?a=0&id=1VO-jonRILW4WrMiHPuMXuCYdtG97WkC6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E21.mp4?a=0&id=1VOocv31DYXlY_OFxQATMpNxojkdOl-AN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E21.mp4?a=0&id=1VOocv31DYXlY_OFxQATMpNxojkdOl-AN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E22.mp4?a=0&id=1VOwbYFgvW6-OOhtwgH48Mxu4OG2MeMtA
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E22.mp4?a=0&id=1VOwbYFgvW6-OOhtwgH48Mxu4OG2MeMtA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E23.mp4?a=0&id=1VPuuL7-Op0FPdYJtSmvkX24tpyRESt-o
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E23.mp4?a=0&id=1VPuuL7-Op0FPdYJtSmvkX24tpyRESt-o
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S03 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S03%20E24.mp4?a=0&id=1VTz_2Ay9UD1JVOTmeb1YfCT1yfUWEGMh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S03%20E24.mp4?a=0&id=1VTz_2Ay9UD1JVOTmeb1YfCT1yfUWEGMh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E01.mp4?a=0&id=1VUOA2gTrz49fcCK5WtlSLsGtVfhL1OoH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E01.mp4?a=0&id=1VUOA2gTrz49fcCK5WtlSLsGtVfhL1OoH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E02.mp4?a=0&id=1VV8KmwQhKB_QeLAFrhMUSrdK7DfyJ82v
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E02.mp4?a=0&id=1VV8KmwQhKB_QeLAFrhMUSrdK7DfyJ82v
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E03.mp4?a=0&id=1VWieNt9suydcPe0m9w30xk-6FTQL63gG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E03.mp4?a=0&id=1VWieNt9suydcPe0m9w30xk-6FTQL63gG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E04.mp4?a=0&id=1VWw6XL3cgJnYsKMYeLWMILK7cpNbxVBp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E04.mp4?a=0&id=1VWw6XL3cgJnYsKMYeLWMILK7cpNbxVBp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E05.mp4?a=0&id=1VYXxgo7ZvzNkBOxkXOoL1NQmVZeUbuxP
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E05.mp4?a=0&id=1VYXxgo7ZvzNkBOxkXOoL1NQmVZeUbuxP
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E06.mp4?a=0&id=1Vb3jR6vUB5mdsB6fXEe7m-pg4hngMFFX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E06.mp4?a=0&id=1Vb3jR6vUB5mdsB6fXEe7m-pg4hngMFFX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E07.mp4?a=0&id=1VbyjUZWLqfnsEltuifarkuCKGcpbqCJ6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E07.mp4?a=0&id=1VbyjUZWLqfnsEltuifarkuCKGcpbqCJ6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E08.mp4?a=0&id=1Vck636d10K1TB84NnFayUrrt3VD5uW7_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E08.mp4?a=0&id=1Vck636d10K1TB84NnFayUrrt3VD5uW7_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E09.mp4?a=0&id=1Ve3bvSzKt-k0eQkLtdnZ1g0-zIjIHkEc
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E09.mp4?a=0&id=1Ve3bvSzKt-k0eQkLtdnZ1g0-zIjIHkEc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E10.mp4?a=0&id=1VfDIoMNYQs9d7Ad8gzmg97lri5WbIUFd
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E10.mp4?a=0&id=1VfDIoMNYQs9d7Ad8gzmg97lri5WbIUFd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E11.mp4?a=0&id=1VfmNXpmSmC9HlzOOKXPzhuxqpg1n4PS8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E11.mp4?a=0&id=1VfmNXpmSmC9HlzOOKXPzhuxqpg1n4PS8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E12.mp4?a=0&id=1VgCOIzGR89Ta1cmhteHAhjafkiEI1l2s
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E12.mp4?a=0&id=1VgCOIzGR89Ta1cmhteHAhjafkiEI1l2s
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E13.mp4?a=0&id=1VhTRSV46RUlbNngQQMb2X36X5NVjtpC8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E13.mp4?a=0&id=1VhTRSV46RUlbNngQQMb2X36X5NVjtpC8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E14.mp4?a=0&id=1Vk1JRKrA3Ftyv_VrBWsKzUAGy1ruH0nN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E14.mp4?a=0&id=1Vk1JRKrA3Ftyv_VrBWsKzUAGy1ruH0nN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E15.mp4?a=0&id=1Vk2qqYg-OI10ALNBZ35qqH_It84N8HqR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E15.mp4?a=0&id=1Vk2qqYg-OI10ALNBZ35qqH_It84N8HqR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E16.mp4?a=0&id=1Vl28lMwPydoJjCnTeMUNafr5t58xvN2Z
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E16.mp4?a=0&id=1Vl28lMwPydoJjCnTeMUNafr5t58xvN2Z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E17.mp4?a=0&id=1Vm5yCcSiqjMNCTK3S_vckOadfesREpx7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E17.mp4?a=0&id=1Vm5yCcSiqjMNCTK3S_vckOadfesREpx7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E18.mp4?a=0&id=1VmIFjlNGlzarXLm2383jwFAtwv92WYI_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E18.mp4?a=0&id=1VmIFjlNGlzarXLm2383jwFAtwv92WYI_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E19.mp4?a=0&id=1Vog5t6O4g4Vv43QnozU8u_iNY0kG-K6q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E19.mp4?a=0&id=1Vog5t6O4g4Vv43QnozU8u_iNY0kG-K6q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E20.mp4?a=0&id=1VoqAcPzmxNeVoPgbKXLYCkCiLjqr-x51
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E20.mp4?a=0&id=1VoqAcPzmxNeVoPgbKXLYCkCiLjqr-x51
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E21.mp4?a=0&id=1VozN839_rpl1OAf1OwXP_9ZCKoJRltxY
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E21.mp4?a=0&id=1VozN839_rpl1OAf1OwXP_9ZCKoJRltxY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E22.mp4?a=0&id=1Vp0KFxWb3WMR13aZZVpN2VbQu6Wwne07
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E22.mp4?a=0&id=1Vp0KFxWb3WMR13aZZVpN2VbQu6Wwne07
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E23.mp4?a=0&id=1VpZANL9TdExXQuWjliaS3xyBV0CTha9n
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E23.mp4?a=0&id=1VpZANL9TdExXQuWjliaS3xyBV0CTha9n
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S04 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S04%20E24.mp4?a=0&id=1VqYWfAPQNiE6hzobuZU_hMKoUq2Zvqx6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S04%20E24.mp4?a=0&id=1VqYWfAPQNiE6hzobuZU_hMKoUq2Zvqx6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E01.mp4?a=0&id=1VrRIuVFIMXYnARYuV6BPmZxST2Lpad4f
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E01.mp4?a=0&id=1VrRIuVFIMXYnARYuV6BPmZxST2Lpad4f
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E02.mp4?a=0&id=1VttJBDRCsP673QGkUqHqhlWZh51KfST6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E02.mp4?a=0&id=1VttJBDRCsP673QGkUqHqhlWZh51KfST6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E03.mp4?a=0&id=1VwH8e_E-Jl_axqyDxmIBcM31_4g6l7pK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E03.mp4?a=0&id=1VwH8e_E-Jl_axqyDxmIBcM31_4g6l7pK
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E04.mp4?a=0&id=1VzgCgAEMcjcnJ7awUsMk0Ffg_m46bmXJ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E04.mp4?a=0&id=1VzgCgAEMcjcnJ7awUsMk0Ffg_m46bmXJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E05.mp4?a=0&id=1W1jRdruj9VTmpbjovlC4zEgz1zVRfhVU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E05.mp4?a=0&id=1W1jRdruj9VTmpbjovlC4zEgz1zVRfhVU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E06.mp4?a=0&id=1W3sPMTIZJSmStPbNzPOoiammgdbTLoI0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E06.mp4?a=0&id=1W3sPMTIZJSmStPbNzPOoiammgdbTLoI0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E07.mp4?a=0&id=1W5QMWXZSzCyUe10zkBQJChC8sKylsW23
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E07.mp4?a=0&id=1W5QMWXZSzCyUe10zkBQJChC8sKylsW23
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E08.mp4?a=0&id=1W6EXdGDk4giY1QSJaqC0raOWiOrF6MHp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E08.mp4?a=0&id=1W6EXdGDk4giY1QSJaqC0raOWiOrF6MHp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E09.mp4?a=0&id=1W6mk3wCSomyOKTxRCVyJggoTyUr1DVcj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E09.mp4?a=0&id=1W6mk3wCSomyOKTxRCVyJggoTyUr1DVcj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E10.mp4?a=0&id=1WD--78uBOolxKkH6gETGmku_6wk2zKpJ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E10.mp4?a=0&id=1WD--78uBOolxKkH6gETGmku_6wk2zKpJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E11.mp4?a=0&id=1WDApPJDJfYQsj4lxvxPidDspAE_NTGW6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E11.mp4?a=0&id=1WDApPJDJfYQsj4lxvxPidDspAE_NTGW6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E12.mp4?a=0&id=1WGlU2n7kqw2OED4jZO1vHEnpPtHS52_k
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E12.mp4?a=0&id=1WGlU2n7kqw2OED4jZO1vHEnpPtHS52_k
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E13.mp4?a=0&id=1WInx6-8qhFDaWVigPzyFIvIqEQx8_82D
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E13.mp4?a=0&id=1WInx6-8qhFDaWVigPzyFIvIqEQx8_82D
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E14.mp4?a=0&id=1WJmqQcGtdOaDQ5F1W5Y-HKNmJPjDT9ab
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E14.mp4?a=0&id=1WJmqQcGtdOaDQ5F1W5Y-HKNmJPjDT9ab
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E15.mp4?a=0&id=1WLqFyhtsjeWS6ixTusF3IN3LspCPu9Gc
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E15.mp4?a=0&id=1WLqFyhtsjeWS6ixTusF3IN3LspCPu9Gc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E16.mp4?a=0&id=1WNB8ABa_8O8OuoPdpef-_6s8XbjbCdAr
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E16.mp4?a=0&id=1WNB8ABa_8O8OuoPdpef-_6s8XbjbCdAr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E17.mp4?a=0&id=1WNL7cg1ifctUGYBUaGGsD_vt_ztzbk0p
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E17.mp4?a=0&id=1WNL7cg1ifctUGYBUaGGsD_vt_ztzbk0p
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E18.mp4?a=0&id=1WRDyhoD2g3hawXz2ouTtETmu6OYTMvOb
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E18.mp4?a=0&id=1WRDyhoD2g3hawXz2ouTtETmu6OYTMvOb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E19.mp4?a=0&id=1WRhmwp2KhyJif2oHb-yaeZlrW-yko5yu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E19.mp4?a=0&id=1WRhmwp2KhyJif2oHb-yaeZlrW-yko5yu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S05 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S05%20E20.mp4?a=0&id=1WSL8NsjBan45nt1Ty3-x1SsUuNkOR20e
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S05%20E20.mp4?a=0&id=1WSL8NsjBan45nt1Ty3-x1SsUuNkOR20e
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E01.mp4?a=0&id=1WSi-AzliSKWRGCKzuOwZrpHb0Py5-TsA
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E01.mp4?a=0&id=1WSi-AzliSKWRGCKzuOwZrpHb0Py5-TsA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E02.mp4?a=0&id=1WTa37GsLwyyVi0dZsKrNo0sEZTITDfOv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E02.mp4?a=0&id=1WTa37GsLwyyVi0dZsKrNo0sEZTITDfOv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E03.mp4?a=0&id=1WZOmDMed-MJCTzpZmN1TpbbZXH4sP56X
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E03.mp4?a=0&id=1WZOmDMed-MJCTzpZmN1TpbbZXH4sP56X
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E04.mp4?a=0&id=1WcpQejVuFXAwHqiDnW5G5qTP73K7JkCj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E04.mp4?a=0&id=1WcpQejVuFXAwHqiDnW5G5qTP73K7JkCj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E05.mp4?a=0&id=1Wh7LuUYsWC0cdKvOgu2CBatvCt_HeWsC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E05.mp4?a=0&id=1Wh7LuUYsWC0cdKvOgu2CBatvCt_HeWsC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E06.mp4?a=0&id=1WjCCrhzUnJ6GYQSjGrb7AJBoGlV6ZoUa
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E06.mp4?a=0&id=1WjCCrhzUnJ6GYQSjGrb7AJBoGlV6ZoUa
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E07.mp4?a=0&id=1WmnwyODTEF_ZQewDlVbHyfG-CSaHyEwK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E07.mp4?a=0&id=1WmnwyODTEF_ZQewDlVbHyfG-CSaHyEwK
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E08.mp4?a=0&id=1WnfPWoGDBrQjiAZM939sNHuzSfJ5zs8x
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E08.mp4?a=0&id=1WnfPWoGDBrQjiAZM939sNHuzSfJ5zs8x
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E09.mp4?a=0&id=1WoK9yceXktTeRqy-ZYyZvKbLmfr1yIi-
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E09.mp4?a=0&id=1WoK9yceXktTeRqy-ZYyZvKbLmfr1yIi-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E10.mp4?a=0&id=1WrJbu1spbdqi7_QcTXtMeNs6rl2MYzr7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E10.mp4?a=0&id=1WrJbu1spbdqi7_QcTXtMeNs6rl2MYzr7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E12.mp4?a=0&id=1Wt-fByfoQn_Vu45s5t0SG6sZszlna7qw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E12.mp4?a=0&id=1Wt-fByfoQn_Vu45s5t0SG6sZszlna7qw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E13.mp4?a=0&id=1WtYSC5Lwd7Dbe2LbnAN76ecCNSIaJNJj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E13.mp4?a=0&id=1WtYSC5Lwd7Dbe2LbnAN76ecCNSIaJNJj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E14.mp4?a=0&id=1WuLotKQQNSmSTESTsaxUbdsAzL80BlJ1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E14.mp4?a=0&id=1WuLotKQQNSmSTESTsaxUbdsAzL80BlJ1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E15.mp4?a=0&id=1WuZa5SRM9W-zehSCZg_irvGe4EjrKsxN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E15.mp4?a=0&id=1WuZa5SRM9W-zehSCZg_irvGe4EjrKsxN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E16.mp4?a=0&id=1Wv8Et4m2fEX0rVfxsuF68XpsdMoqlcub
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E16.mp4?a=0&id=1Wv8Et4m2fEX0rVfxsuF68XpsdMoqlcub
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E17.mp4?a=0&id=1WvZCT0jU5A23yZkGLliLhsOgv1GnGrJp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E17.mp4?a=0&id=1WvZCT0jU5A23yZkGLliLhsOgv1GnGrJp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E18.mp4?a=0&id=1WvtDYUXvRXgcIXfpBOLa8OyhO7IjE8HB
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E18.mp4?a=0&id=1WvtDYUXvRXgcIXfpBOLa8OyhO7IjE8HB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E19.mp4?a=0&id=1WwwLBPDzSTx2zP0f6oVSv54FWwc9E36m
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E19.mp4?a=0&id=1WwwLBPDzSTx2zP0f6oVSv54FWwc9E36m
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E20.mp4?a=0&id=1X0slYRCHTDz4HF-RXAr6u0XUOZjirn2m
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E20.mp4?a=0&id=1X0slYRCHTDz4HF-RXAr6u0XUOZjirn2m
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E21.mp4?a=0&id=1X1kfsVBJQ3LdiZ_2xQ_fVwo8-bsCiqDD
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E21.mp4?a=0&id=1X1kfsVBJQ3LdiZ_2xQ_fVwo8-bsCiqDD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S06 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S06%20E22.mp4?a=0&id=1X6XHX9SgUk-RKe3YWGZW8L7SNS5ZBx68
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S06%20E22.mp4?a=0&id=1X6XHX9SgUk-RKe3YWGZW8L7SNS5ZBx68
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E01.mp4?a=0&id=1X7hDJfXVC9FgptOeet02hS5caqlOGek7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E01.mp4?a=0&id=1X7hDJfXVC9FgptOeet02hS5caqlOGek7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E02.mp4?a=0&id=1X7t5eu8lPMrkb7ODIZyNXu7NheanawEG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E02.mp4?a=0&id=1X7t5eu8lPMrkb7ODIZyNXu7NheanawEG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E03.mp4?a=0&id=1X8_y72wEhtNpXgipPdF9wViSD7LdzyOb
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E03.mp4?a=0&id=1X8_y72wEhtNpXgipPdF9wViSD7LdzyOb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E04.mp4?a=0&id=1XA6fnZy2XJA-0SVtxEgHdGKzKmAXvVx7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E04.mp4?a=0&id=1XA6fnZy2XJA-0SVtxEgHdGKzKmAXvVx7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E05.mp4?a=0&id=1XCnNN2EWocLETYnkGJkbXoYniux_PkIa
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E05.mp4?a=0&id=1XCnNN2EWocLETYnkGJkbXoYniux_PkIa
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E06.mp4?a=0&id=1XDWxBBwBtfflD8H37soAIDI8vGFHrAuZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E06.mp4?a=0&id=1XDWxBBwBtfflD8H37soAIDI8vGFHrAuZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E07.mp4?a=0&id=1XDy_kc_LkTKe5Dt4AGHUARbZjYP90URH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E07.mp4?a=0&id=1XDy_kc_LkTKe5Dt4AGHUARbZjYP90URH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E08.mp4?a=0&id=1XDzgIjAhFr3OPNc7aE_Y-SDqI9VYsHXv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E08.mp4?a=0&id=1XDzgIjAhFr3OPNc7aE_Y-SDqI9VYsHXv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E09.mp4?a=0&id=1XEPa1t-_NzZ8n3i3YrnXJEFnYY6DE0nE
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E09.mp4?a=0&id=1XEPa1t-_NzZ8n3i3YrnXJEFnYY6DE0nE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E10.mp4?a=0&id=1XIguM9Igqbh-3QWPrEHqfOe0jK-f6baI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E10.mp4?a=0&id=1XIguM9Igqbh-3QWPrEHqfOe0jK-f6baI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E11.mp4?a=0&id=1XJ3dwLxwByKDdkvyWscPCJPLOnJFgmCN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E11.mp4?a=0&id=1XJ3dwLxwByKDdkvyWscPCJPLOnJFgmCN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E12.mp4?a=0&id=1XJJk4WTc1CDPnIlvclNSzx8STDuzWl20
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E12.mp4?a=0&id=1XJJk4WTc1CDPnIlvclNSzx8STDuzWl20
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E13.mp4?a=0&id=1XK1v_k-2W_l8DHPYyt8k323a0TwMfcYS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E13.mp4?a=0&id=1XK1v_k-2W_l8DHPYyt8k323a0TwMfcYS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E14.mp4?a=0&id=1XOWUf4KolH4pbXetabw0u_doEn_MyJdT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E14.mp4?a=0&id=1XOWUf4KolH4pbXetabw0u_doEn_MyJdT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E15.mp4?a=0&id=1XOy00UDG5gISwfBFlzHfxWioGVz0yso0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E15.mp4?a=0&id=1XOy00UDG5gISwfBFlzHfxWioGVz0yso0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E16.mp4?a=0&id=1XPtx3IVsev5wm_yTph4ZnO-krbD4Nm4V
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E16.mp4?a=0&id=1XPtx3IVsev5wm_yTph4ZnO-krbD4Nm4V
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E17.mp4?a=0&id=1XR_Jv3AvayfH91suaKSr1kZfvudNUUVq
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E17.mp4?a=0&id=1XR_Jv3AvayfH91suaKSr1kZfvudNUUVq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E18.mp4?a=0&id=1XW9vEvOjYU3CnbLK7Kbk0i_1BrdSsvN_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E18.mp4?a=0&id=1XW9vEvOjYU3CnbLK7Kbk0i_1BrdSsvN_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E19.mp4?a=0&id=1XXHGv2gtkUO485Ysrht6SCSZHI9_e28k
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E19.mp4?a=0&id=1XXHGv2gtkUO485Ysrht6SCSZHI9_e28k
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E20.mp4?a=0&id=1X_b3w7ID9aBuZ-ME0b-ZevDM39_5smmC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E20.mp4?a=0&id=1X_b3w7ID9aBuZ-ME0b-ZevDM39_5smmC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E21.mp4?a=0&id=1XcIb8rbX3maQLpEFdjPCT73vAC3vqqeZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E21.mp4?a=0&id=1XcIb8rbX3maQLpEFdjPCT73vAC3vqqeZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S07 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S07%20E22.mp4?a=0&id=1Xd4hz-axtXnDVl0hljkPMN-IKCoqO6bH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S07%20E22.mp4?a=0&id=1Xd4hz-axtXnDVl0hljkPMN-IKCoqO6bH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E01.mp4?a=0&id=1XddDXznlGUsr8SIf8bUGmWwfizG3qvor
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E01.mp4?a=0&id=1XddDXznlGUsr8SIf8bUGmWwfizG3qvor
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E02.mp4?a=0&id=1XizfEZDU-Sd_LMrn_HtPMkmD0vkIjoeI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E02.mp4?a=0&id=1XizfEZDU-Sd_LMrn_HtPMkmD0vkIjoeI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E03.mp4?a=0&id=1XjRqu-eVEzSLM5qvCHRANC3Y5rocC5TZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E03.mp4?a=0&id=1XjRqu-eVEzSLM5qvCHRANC3Y5rocC5TZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E04.mp4?a=0&id=1Xm4ldfOwK5Uj3xNtMlRNNJwKjuMLICJV
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E04.mp4?a=0&id=1Xm4ldfOwK5Uj3xNtMlRNNJwKjuMLICJV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E05.mp4?a=0&id=1XrXD36jIOgjwb72cuAwuhoYt7I3UGZZf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E05.mp4?a=0&id=1XrXD36jIOgjwb72cuAwuhoYt7I3UGZZf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E06.mp4?a=0&id=1Xwyf9jIhzLuAAd-8AoGNKFKv39tNfsUX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E06.mp4?a=0&id=1Xwyf9jIhzLuAAd-8AoGNKFKv39tNfsUX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E07.mp4?a=0&id=1Xx1sX4POUcLDgzMFtuM4-7jZP3j4-Yh6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E07.mp4?a=0&id=1Xx1sX4POUcLDgzMFtuM4-7jZP3j4-Yh6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E08.mp4?a=0&id=1XzB8iP1upPioYOWEyxWWemPVXC2MBsX5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E08.mp4?a=0&id=1XzB8iP1upPioYOWEyxWWemPVXC2MBsX5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E09.mp4?a=0&id=1XzNW5MT3Wmj9v7581EtSECgyOQZdx12e
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E09.mp4?a=0&id=1XzNW5MT3Wmj9v7581EtSECgyOQZdx12e
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E10.mp4?a=0&id=1Y-hauxlwXJ6-lKKE8zaCR_Hk3Uzg_7SS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E10.mp4?a=0&id=1Y-hauxlwXJ6-lKKE8zaCR_Hk3Uzg_7SS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E11.mp4?a=0&id=1Y0ZAb3h8q74zppLkrjHXtCoKybO44LEU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E11.mp4?a=0&id=1Y0ZAb3h8q74zppLkrjHXtCoKybO44LEU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E12.mp4?a=0&id=1Y3V10vLLP7XeP2GWn3OADuaGOJXL7Nv4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E12.mp4?a=0&id=1Y3V10vLLP7XeP2GWn3OADuaGOJXL7Nv4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E13.mp4?a=0&id=1Y3ZZHOySASJ4JYyQBNK8jbIuwkdnS_nG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E13.mp4?a=0&id=1Y3ZZHOySASJ4JYyQBNK8jbIuwkdnS_nG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E14.mp4?a=0&id=1Y3gLDtDnqCY4uINUK2y-LQB01Cj0fvw7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E14.mp4?a=0&id=1Y3gLDtDnqCY4uINUK2y-LQB01Cj0fvw7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E15.mp4?a=0&id=1Y435LyAMhEwg-WX1fWY0RRh_EHHeh0-s
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E15.mp4?a=0&id=1Y435LyAMhEwg-WX1fWY0RRh_EHHeh0-s
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E16.mp4?a=0&id=1Y4D15XMd3RrHicFLhALRgSOag3B02HXz
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E16.mp4?a=0&id=1Y4D15XMd3RrHicFLhALRgSOag3B02HXz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E17.mp4?a=0&id=1Y4N27cp_J2f-Jfm3wnw0VTqwomGzJG1i
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E17.mp4?a=0&id=1Y4N27cp_J2f-Jfm3wnw0VTqwomGzJG1i
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E18.mp4?a=0&id=1Y4vp8UqjUA3tU54lFiVDfwkTdEk5w_Nb
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E18.mp4?a=0&id=1Y4vp8UqjUA3tU54lFiVDfwkTdEk5w_Nb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E19.mp4?a=0&id=1Y54iJl3BcKWLR1sS72rTuDeONnuz3KvF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E19.mp4?a=0&id=1Y54iJl3BcKWLR1sS72rTuDeONnuz3KvF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E20.mp4?a=0&id=1Y5e-hQjjhucEF5TjuJi1JcnWmZ9ksEnX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E20.mp4?a=0&id=1Y5e-hQjjhucEF5TjuJi1JcnWmZ9ksEnX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S08 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S08%20E21.mp4?a=0&id=1Y76s9-wmbos1MQIu5LJggfpGXzSKpXPi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S08%20E21.mp4?a=0&id=1Y76s9-wmbos1MQIu5LJggfpGXzSKpXPi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E01.mp4?a=0&id=1Y8OzwPm7pyzeZdDROdfTYz3rW0CiK2WV
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E01.mp4?a=0&id=1Y8OzwPm7pyzeZdDROdfTYz3rW0CiK2WV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E02.mp4?a=0&id=1Y9K5X0HVKx_Pir5FLBfW5B-sTNsbb6jN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E02.mp4?a=0&id=1Y9K5X0HVKx_Pir5FLBfW5B-sTNsbb6jN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E03.mp4?a=0&id=1YBFbPj0l61f_zr6zMt-8pvqNzOUlfdSD
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E03.mp4?a=0&id=1YBFbPj0l61f_zr6zMt-8pvqNzOUlfdSD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E04.mp4?a=0&id=1YDeRKcbVd2KiYzkGW1ucwyzZyegNAT0q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E04.mp4?a=0&id=1YDeRKcbVd2KiYzkGW1ucwyzZyegNAT0q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E05.mp4?a=0&id=1YDluZFP4ZmTwI1ctLtU_HYaPWib-knHC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E05.mp4?a=0&id=1YDluZFP4ZmTwI1ctLtU_HYaPWib-knHC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E06.mp4?a=0&id=1YEpzvmO8RQ_yqvl2Waik_J8BGYMJsN7Z
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E06.mp4?a=0&id=1YEpzvmO8RQ_yqvl2Waik_J8BGYMJsN7Z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E07.mp4?a=0&id=1YFSwH5ZCp4yLXJD46UQxpJfgBdiLtBGX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E07.mp4?a=0&id=1YFSwH5ZCp4yLXJD46UQxpJfgBdiLtBGX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E08.mp4?a=0&id=1YGHv_Jq4pkPRQEUjyAIreXfoaNhJeErg
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E08.mp4?a=0&id=1YGHv_Jq4pkPRQEUjyAIreXfoaNhJeErg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E09.mp4?a=0&id=1YJyfgagdUnadg2XVOh74WRnn3UzOPJmY
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E09.mp4?a=0&id=1YJyfgagdUnadg2XVOh74WRnn3UzOPJmY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E10.mp4?a=0&id=1YKJ0vfhSU4DUHd63BnlKw5mX5Xrz2zsj
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E10.mp4?a=0&id=1YKJ0vfhSU4DUHd63BnlKw5mX5Xrz2zsj
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E11.mp4?a=0&id=1YKukfc4h4Ublg_hfGlWJCpDFPfMo13Sr
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E11.mp4?a=0&id=1YKukfc4h4Ublg_hfGlWJCpDFPfMo13Sr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E12.mp4?a=0&id=1YL0tXyw9sw2jrtzcRJQM8IHFsQZM4tj4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E12.mp4?a=0&id=1YL0tXyw9sw2jrtzcRJQM8IHFsQZM4tj4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E13.mp4?a=0&id=1YLwLT7wes_ReAdZUq1jgwX-cM781LXj8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E13.mp4?a=0&id=1YLwLT7wes_ReAdZUq1jgwX-cM781LXj8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E14.mp4?a=0&id=1YMnHk8zKXaeoLgCNmlhuu535ywZJK9BS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E14.mp4?a=0&id=1YMnHk8zKXaeoLgCNmlhuu535ywZJK9BS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E15.mp4?a=0&id=1YOftlzoII_dr4xlxCEUchw57otLHXkcF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E15.mp4?a=0&id=1YOftlzoII_dr4xlxCEUchw57otLHXkcF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E16.mp4?a=0&id=1YPOBF2JbWZTOiQFMzD0VSmhIq2OmULeG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E16.mp4?a=0&id=1YPOBF2JbWZTOiQFMzD0VSmhIq2OmULeG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E17.mp4?a=0&id=1YPSN6-751nZI9ILOoP17ByaNdouMrKRm
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E17.mp4?a=0&id=1YPSN6-751nZI9ILOoP17ByaNdouMrKRm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E18.mp4?a=0&id=1YQXQP29oZ3jwCyNCNhBlR-Z27xER85Hg
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E18.mp4?a=0&id=1YQXQP29oZ3jwCyNCNhBlR-Z27xER85Hg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S09 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S09%20E19.mp4?a=0&id=1YS6pKitYsfB3oUs1TCPbnkoTMzxUa4rZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S09%20E19.mp4?a=0&id=1YS6pKitYsfB3oUs1TCPbnkoTMzxUa4rZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E01.mp4?a=0&id=1YSmFUHmCt3CfJc2xz96wLrQqUaEopIgG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E01.mp4?a=0&id=1YSmFUHmCt3CfJc2xz96wLrQqUaEopIgG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E02.mp4?a=0&id=1YTxuLHQK-FCcgdObz7yUCz4VMHzZDwTF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E02.mp4?a=0&id=1YTxuLHQK-FCcgdObz7yUCz4VMHzZDwTF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E03.mp4?a=0&id=1YUAQP5mxqxWipYd1Abp_COal-t1_XG9q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E03.mp4?a=0&id=1YUAQP5mxqxWipYd1Abp_COal-t1_XG9q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E04.mp4?a=0&id=1YUpeZTnPFPrzU_ntQo_lxN128TNfIKaU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E04.mp4?a=0&id=1YUpeZTnPFPrzU_ntQo_lxN128TNfIKaU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E05.mp4?a=0&id=1YVYb7aOLMwnOZkEWtgK9xKhV9W9tvsfi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E05.mp4?a=0&id=1YVYb7aOLMwnOZkEWtgK9xKhV9W9tvsfi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S10 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S10%20E06.mp4?a=0&id=1YVhh9ht0aK-jECDQL-xKQc6JpqRY81eZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S10%20E06.mp4?a=0&id=1YVhh9ht0aK-jECDQL-xKQc6JpqRY81eZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E01.mp4?a=0&id=1YXpAWsQ4CsNE74gEV9cDj3QpEzOdDBSu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E01.mp4?a=0&id=1YXpAWsQ4CsNE74gEV9cDj3QpEzOdDBSu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E02.mp4?a=0&id=1YYI1tL2WFoQt73PkpsRB6W4_BtDESrth
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E02.mp4?a=0&id=1YYI1tL2WFoQt73PkpsRB6W4_BtDESrth
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E03.mp4?a=0&id=1YZ9ApKjVWZ2Kvgmg-Sn0cQYDpLkPWHkQ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E03.mp4?a=0&id=1YZ9ApKjVWZ2Kvgmg-Sn0cQYDpLkPWHkQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E04.mp4?a=0&id=1YZuOmpj5SmoCFLgQTn0ly4sKpUjVyenI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E04.mp4?a=0&id=1YZuOmpj5SmoCFLgQTn0ly4sKpUjVyenI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E05.mp4?a=0&id=1YbjzPhD45iezmbC4WbMqwBotoHkTBA8b
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E05.mp4?a=0&id=1YbjzPhD45iezmbC4WbMqwBotoHkTBA8b
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E06.mp4?a=0&id=1Ydsq_Rc6dpvdcxi57I977BMkB9NngGOF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E06.mp4?a=0&id=1Ydsq_Rc6dpvdcxi57I977BMkB9NngGOF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E07.mp4?a=0&id=1YfGFuco05vd9yGp4uxBeXgZN9I3zzbU7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E07.mp4?a=0&id=1YfGFuco05vd9yGp4uxBeXgZN9I3zzbU7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/x.png" group-title="Arquivo X",S11 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Arquivo%20X%20S11%20E08.mp4?a=0&id=1YgusgB_ggV-Z05zt6UtYG8sJWiJ_GFmR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Arquivo%20X%20S11%20E08.mp4?a=0&id=1YgusgB_ggV-Z05zt6UtYG8sJWiJ_GFmR
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -767,81 +767,81 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #EXTENC: UTF-8
 #PLAYLIST: Black Sails
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E01.mp4?a=0&id=1nj-K1zwqYrI_ZkWI5kJ2IBZ8w5BdzspK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E01.mp4?a=0&id=1nj-K1zwqYrI_ZkWI5kJ2IBZ8w5BdzspK
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E02.mp4?a=0&id=1nkazeMIAuKGI6i5JlV01BKKe9tGe9dli
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E02.mp4?a=0&id=1nkazeMIAuKGI6i5JlV01BKKe9tGe9dli
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E03.mp4?a=0&id=1nl8-OHpAJoPGdJEGWOB32RalE_5chQU1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E03.mp4?a=0&id=1nl8-OHpAJoPGdJEGWOB32RalE_5chQU1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E04.mp4?a=0&id=1nrb4pScanRV2to8ojpMNmZR5JQQ43iRd
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E04.mp4?a=0&id=1nrb4pScanRV2to8ojpMNmZR5JQQ43iRd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E05.mp4?a=0&id=1nrje4arPUdLhrV7NC2spqQeb7B3WaoqS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E05.mp4?a=0&id=1nrje4arPUdLhrV7NC2spqQeb7B3WaoqS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E06.mp4?a=0&id=1nsapUzKuEo8_BV2ivRpGr9lZXrkDI8JH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E06.mp4?a=0&id=1nsapUzKuEo8_BV2ivRpGr9lZXrkDI8JH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E07.mp4?a=0&id=1nsthB68nE_Fo3hvCEC8tDZRrSYL-bLwM
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E07.mp4?a=0&id=1nsthB68nE_Fo3hvCEC8tDZRrSYL-bLwM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S01 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S01%20E08.mp4?a=0&id=1nu8H_3nfskwn9v42qEa0LGnJKijxmqUh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S01%20E08.mp4?a=0&id=1nu8H_3nfskwn9v42qEa0LGnJKijxmqUh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E01.mp4?a=0&id=1nwTzWFbCgSYDlwHP1kpbKxS61uZFF6Uf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E01.mp4?a=0&id=1nwTzWFbCgSYDlwHP1kpbKxS61uZFF6Uf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E02.mp4?a=0&id=1nxHsSFGKZ01sNTlf7iGe117RIYftiKJZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E02.mp4?a=0&id=1nxHsSFGKZ01sNTlf7iGe117RIYftiKJZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E03.mp4?a=0&id=1o1vPgPJRICjMzTanA6FiqffOmX-ce4mX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E03.mp4?a=0&id=1o1vPgPJRICjMzTanA6FiqffOmX-ce4mX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E04.mp4?a=0&id=1o25x6_QFPYpss3r0FNzM2a4c3tpUvmPo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E04.mp4?a=0&id=1o25x6_QFPYpss3r0FNzM2a4c3tpUvmPo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E05.mp4?a=0&id=1o2HyI0RDVTD8txytj0PI6nTI1ABl_kJh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E05.mp4?a=0&id=1o2HyI0RDVTD8txytj0PI6nTI1ABl_kJh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E06.mp4?a=0&id=1o4KC8YPJRI64vkgwugZhTloR-KU0P1w3
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E06.mp4?a=0&id=1o4KC8YPJRI64vkgwugZhTloR-KU0P1w3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E07.mp4?a=0&id=1o4fUm3Db6qNI3BQJ9Ek-BV_l8YYc7T2X
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E07.mp4?a=0&id=1o4fUm3Db6qNI3BQJ9Ek-BV_l8YYc7T2X
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E08.mp4?a=0&id=1o5dcJfYMadYlaeLCEkF3zecFF33RuFQz
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E08.mp4?a=0&id=1o5dcJfYMadYlaeLCEkF3zecFF33RuFQz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E09.mp4?a=0&id=1o6YaBNXmM8YGlo2Jx0gEZXlHv5rH_vFp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E09.mp4?a=0&id=1o6YaBNXmM8YGlo2Jx0gEZXlHv5rH_vFp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S02 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S02%20E10.mp4?a=0&id=1o7DS0PQAeKd3ge9eh2xTDwNnGXBMWwN_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S02%20E10.mp4?a=0&id=1o7DS0PQAeKd3ge9eh2xTDwNnGXBMWwN_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E01.mp4?a=0&id=1o92Fk_ICCUOFhUIc3bE3hZi3YN07l8BR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E01.mp4?a=0&id=1o92Fk_ICCUOFhUIc3bE3hZi3YN07l8BR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E02.mp4?a=0&id=1oAJFeiszlPtW0nEVGFxXbZkt_ln3oxML
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E02.mp4?a=0&id=1oAJFeiszlPtW0nEVGFxXbZkt_ln3oxML
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E03.mp4?a=0&id=1oCMQsEw68pkc8a6FwARvi2J8mtcbxUh5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E03.mp4?a=0&id=1oCMQsEw68pkc8a6FwARvi2J8mtcbxUh5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E04.mp4?a=0&id=1oElFQ1e5eg6QwP6jmBkZCu0Hg0c1ICIN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E04.mp4?a=0&id=1oElFQ1e5eg6QwP6jmBkZCu0Hg0c1ICIN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E05.mp4?a=0&id=1oIAUyP6nnRu2y27SEdgckg-ARwtB4EgW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E05.mp4?a=0&id=1oIAUyP6nnRu2y27SEdgckg-ARwtB4EgW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E06.mp4?a=0&id=1oIj3TFUpUByGNin4iRtieW_SkqZrk9Hn
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E06.mp4?a=0&id=1oIj3TFUpUByGNin4iRtieW_SkqZrk9Hn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E07.mp4?a=0&id=1oKPcJFRwEniYoe7sJBUdKg5sMfkmDiNv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E07.mp4?a=0&id=1oKPcJFRwEniYoe7sJBUdKg5sMfkmDiNv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E08.mp4?a=0&id=1oKSh0b8Hb8NmlH420jY-EXbaqVvtSjBv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E08.mp4?a=0&id=1oKSh0b8Hb8NmlH420jY-EXbaqVvtSjBv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E09.mp4?a=0&id=1oRamr_6X1uMUT7GO5BUTXXF7gktO1H_3
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E09.mp4?a=0&id=1oRamr_6X1uMUT7GO5BUTXXF7gktO1H_3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S03 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S03%20E10.mp4?a=0&id=1oTJpFyTFFlFS7ISWroGka25rAPe0gHhe
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S03%20E10.mp4?a=0&id=1oTJpFyTFFlFS7ISWroGka25rAPe0gHhe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E01.mp4?a=0&id=1oUMJtuV1ktbyhTqXNMgr70uoIn5niMqF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E01.mp4?a=0&id=1oUMJtuV1ktbyhTqXNMgr70uoIn5niMqF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E02.mp4?a=0&id=1oVuFxy2xq_g2-CXS_BdHP1ogiuFmL0DN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E02.mp4?a=0&id=1oVuFxy2xq_g2-CXS_BdHP1ogiuFmL0DN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E03.mp4?a=0&id=1oZoneHQ0blT_HfjuabW8YL6cCBw2KKox
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E03.mp4?a=0&id=1oZoneHQ0blT_HfjuabW8YL6cCBw2KKox
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E04.mp4?a=0&id=1oZx7gCalmjdTSSRXsCVsTaXxsfRdQ6-l
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E04.mp4?a=0&id=1oZx7gCalmjdTSSRXsCVsTaXxsfRdQ6-l
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E05.mp4?a=0&id=1oa9guP__cE4xIlIrRAtfEPKGCftFUGpK
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E05.mp4?a=0&id=1oa9guP__cE4xIlIrRAtfEPKGCftFUGpK
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E06.mp4?a=0&id=1oeOrKKObAk4MHoNf1ftwj5U-hBy7-jXC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E06.mp4?a=0&id=1oeOrKKObAk4MHoNf1ftwj5U-hBy7-jXC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E07.mp4?a=0&id=1om1fJRJIFci-pIPhcO3W7LgAD2TG0zs4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E07.mp4?a=0&id=1om1fJRJIFci-pIPhcO3W7LgAD2TG0zs4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E08.mp4?a=0&id=1ooDoEaE6iPoaXZq-AvasBkHQVWdNkcZh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E08.mp4?a=0&id=1ooDoEaE6iPoaXZq-AvasBkHQVWdNkcZh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E09.mp4?a=0&id=1oot_NHXo5r4-udQpEyHP7EWUaid4kyFh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E09.mp4?a=0&id=1oot_NHXo5r4-udQpEyHP7EWUaid4kyFh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/cargo-ship.png" group-title="Black Sails", S04 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Black%20Sails%20S04%20E10.mp4?a=0&id=1osagN5f8BdvT9sVmramb6b6xT3UB352Y
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Black%20Sails%20S04%20E10.mp4?a=0&id=1osagN5f8BdvT9sVmramb6b6xT3UB352Y
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -1779,261 +1779,261 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #PLAYLIST: Friends
 https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E01.mp4?a=0&id=1ug5tOopGcHCze-Mkkfe48fMBB53cHmEC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E01.mp4?a=0&id=1ug5tOopGcHCze-Mkkfe48fMBB53cHmEC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E02.mp4?a=0&id=1atmks8EbgBaeb-syUwQqfCiL8caf0cU1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E02.mp4?a=0&id=1atmks8EbgBaeb-syUwQqfCiL8caf0cU1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E03.mp4?a=0&id=19ax2b0D437GALuLgaLXghrUdlUnJHn4F
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E03.mp4?a=0&id=19ax2b0D437GALuLgaLXghrUdlUnJHn4F
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E04.mp4?a=0&id=1OxJor9dtoCvXCTBEFTLA3Ey7TKhuOuYw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E04.mp4?a=0&id=1OxJor9dtoCvXCTBEFTLA3Ey7TKhuOuYw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E05.mp4?a=0&id=1iMNfW6Zn258RjxiNeMYE_AELy5dZf_DW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E05.mp4?a=0&id=1iMNfW6Zn258RjxiNeMYE_AELy5dZf_DW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E06.mp4?a=0&id=1TmQXuBTIQGslvias3eQZHj__si0MZc-d
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E06.mp4?a=0&id=1TmQXuBTIQGslvias3eQZHj__si0MZc-d
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E07.mp4?a=0&id=11xYFVfY5R7uqCs2WUZYG5K24exRTUilA
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E07.mp4?a=0&id=11xYFVfY5R7uqCs2WUZYG5K24exRTUilA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E08.mp4?a=0&id=1OzIlwl4s4FN77gG9GrPbytsz5tx1wQH_
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E08.mp4?a=0&id=1OzIlwl4s4FN77gG9GrPbytsz5tx1wQH_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E09.mp4?a=0&id=1AD9_1rt4Riz8uuWiJcCEm6zOGHfXLoSQ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E09.mp4?a=0&id=1AD9_1rt4Riz8uuWiJcCEm6zOGHfXLoSQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E10.mp4?a=0&id=1XRrhwJblF9EO-ZFPGUvI9gMO5U-XCQdw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E10.mp4?a=0&id=1XRrhwJblF9EO-ZFPGUvI9gMO5U-XCQdw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E11.mp4?a=0&id=1ONoqwQVBY45X3HMsgzBRAMAlrAoo8l1Z
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E11.mp4?a=0&id=1ONoqwQVBY45X3HMsgzBRAMAlrAoo8l1Z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E12.mp4?a=0&id=1PTxC7ZijI6Ecv1InSc7IcZsz1Cs-UNDs
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E12.mp4?a=0&id=1PTxC7ZijI6Ecv1InSc7IcZsz1Cs-UNDs
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E13.mp4?a=0&id=1Ej3mXrST1xIBmv1BL-Bf9hgem9N56JRn
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E13.mp4?a=0&id=1Ej3mXrST1xIBmv1BL-Bf9hgem9N56JRn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E14.mp4?a=0&id=1AlEvE805dZyjq6KqNBKv1eDaOdb8S84E
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E14.mp4?a=0&id=1AlEvE805dZyjq6KqNBKv1eDaOdb8S84E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E15.mp4?a=0&id=1KHksR7neQwaUr5U6jP2HqSBuwdUdjCYx
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E15.mp4?a=0&id=1KHksR7neQwaUr5U6jP2HqSBuwdUdjCYx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E16.mp4?a=0&id=1BIN97Whpg2Br0gEk9bOB51xrSfCnEzYw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E16.mp4?a=0&id=1BIN97Whpg2Br0gEk9bOB51xrSfCnEzYw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E17.mp4?a=0&id=1TfSw_5o-wRNpQJ4zimPRDMoOqouZFDpw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E17.mp4?a=0&id=1TfSw_5o-wRNpQJ4zimPRDMoOqouZFDpw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E18.mp4?a=0&id=12ctwvbH7BEHm4mXZsn8iTUeTLaxzOmP7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E18.mp4?a=0&id=12ctwvbH7BEHm4mXZsn8iTUeTLaxzOmP7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E19.mp4?a=0&id=1BDpxRYgrAW_E0xjPIvrt7rNxXrBlFY-E
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E19.mp4?a=0&id=1BDpxRYgrAW_E0xjPIvrt7rNxXrBlFY-E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E20.mp4?a=0&id=1ad1oWHflBwUMrgs3ll2jUTViFgIsgVee
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E20.mp4?a=0&id=1ad1oWHflBwUMrgs3ll2jUTViFgIsgVee
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E21.mp4?a=0&id=1DvLtwRT0KBWrJBumNtIjGjhGIK_NZD1p
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E21.mp4?a=0&id=1DvLtwRT0KBWrJBumNtIjGjhGIK_NZD1p
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E22.mp4?a=0&id=1jW5gnYe3LvlwAem4g6TbGywishUXsAle
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E22.mp4?a=0&id=1jW5gnYe3LvlwAem4g6TbGywishUXsAle
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E23.mp4?a=0&id=1h1ZGt7o3pGKFqRXfXRpBRNL1_lttCXKJ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E23.mp4?a=0&id=1h1ZGt7o3pGKFqRXfXRpBRNL1_lttCXKJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S01 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S01%20E24.mp4?a=0&id=1kGGMMLGMWqSjm1D1gO1r93AxmTMC9ddP
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S01%20E24.mp4?a=0&id=1kGGMMLGMWqSjm1D1gO1r93AxmTMC9ddP
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E01.mp4?a=0&id=149cF3Uim9407m1jmMOB-HVLaB5g-sVKH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E01.mp4?a=0&id=149cF3Uim9407m1jmMOB-HVLaB5g-sVKH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E02.mp4?a=0&id=15OEe2dJOKCXppZFSB7W2dfzVwZiE33VM
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E02.mp4?a=0&id=15OEe2dJOKCXppZFSB7W2dfzVwZiE33VM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E03.mp4?a=0&id=1CNYdZitDMH6J7zofSldWrhBF5uIHlpQF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E03.mp4?a=0&id=1CNYdZitDMH6J7zofSldWrhBF5uIHlpQF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E04.mp4?a=0&id=13WtkcIfKNUYZaR26kA8DnPDxsz-SPVH0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E04.mp4?a=0&id=13WtkcIfKNUYZaR26kA8DnPDxsz-SPVH0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E05.mp4?a=0&id=1K-yMYm-K9JGJDps2GkLQDwy_ZpXWVmxv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E05.mp4?a=0&id=1K-yMYm-K9JGJDps2GkLQDwy_ZpXWVmxv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E06.mp4?a=0&id=1LR1aZPCHJXYHggl2jjRe6WRrqdOhuolF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E06.mp4?a=0&id=1LR1aZPCHJXYHggl2jjRe6WRrqdOhuolF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E07.mp4?a=0&id=1b7oFncoUTE5F2Rx8G_PWwgi4rTOHEd0T
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E07.mp4?a=0&id=1b7oFncoUTE5F2Rx8G_PWwgi4rTOHEd0T
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E08.mp4?a=0&id=1rpb-inzvYkCGiNYFBZkc5wQ5VSzTXKwc
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E08.mp4?a=0&id=1rpb-inzvYkCGiNYFBZkc5wQ5VSzTXKwc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E09.mp4?a=0&id=1q1vxMFiqEhoZ25UijwoyDimoVcBFCslC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E09.mp4?a=0&id=1q1vxMFiqEhoZ25UijwoyDimoVcBFCslC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E10.mp4?a=0&id=1RVVtVHuLHHKlZwYtFqBb14DiZ83yT17b
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E10.mp4?a=0&id=1RVVtVHuLHHKlZwYtFqBb14DiZ83yT17b
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E11.mp4?a=0&id=18yQeYstXAocOj8n5Df8ke_1R-1TRYQOy
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E11.mp4?a=0&id=18yQeYstXAocOj8n5Df8ke_1R-1TRYQOy
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E12.mp4?a=0&id=14LIL_FNgqprLyW3iENvYXkJEhgOdfbf5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E12.mp4?a=0&id=14LIL_FNgqprLyW3iENvYXkJEhgOdfbf5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E13.mp4?a=0&id=1dmjALvKhBbuYmwFq0ZrpBfow5URdGoxJ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E13.mp4?a=0&id=1dmjALvKhBbuYmwFq0ZrpBfow5URdGoxJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E14.mp4?a=0&id=1xtXalNlslwATtCfmlrgyzd0uoEXWmMUe
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E14.mp4?a=0&id=1xtXalNlslwATtCfmlrgyzd0uoEXWmMUe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E15.mp4?a=0&id=1fUBU0n_OKsWy63ZpPraOfZOA4slu_G_G
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E15.mp4?a=0&id=1fUBU0n_OKsWy63ZpPraOfZOA4slu_G_G
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E16.mp4?a=0&id=1nn9e8SeTd_gEI9vJv3adTOuPajBCwKct
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E16.mp4?a=0&id=1nn9e8SeTd_gEI9vJv3adTOuPajBCwKct
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E17.mp4?a=0&id=1n6cEl_myE8WYw4Sy9WafeN6kRS_h87vi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E17.mp4?a=0&id=1n6cEl_myE8WYw4Sy9WafeN6kRS_h87vi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E18.mp4?a=0&id=1M9PH6zV3_yMKMg7E_8stvbvf2bcFYwvN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E18.mp4?a=0&id=1M9PH6zV3_yMKMg7E_8stvbvf2bcFYwvN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E19.mp4?a=0&id=1z7KWHCHsg-lH_mC3P_FFiQe8Bge5rH0K
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E19.mp4?a=0&id=1z7KWHCHsg-lH_mC3P_FFiQe8Bge5rH0K
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E20.mp4?a=0&id=1rTLN1FIotfk2aKrUQ7bnM7CSosCVNe2B
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E20.mp4?a=0&id=1rTLN1FIotfk2aKrUQ7bnM7CSosCVNe2B
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E21.mp4?a=0&id=1B0ui7m6fAgGG9cOHZ5fpuYKNu8Vcni2B
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E21.mp4?a=0&id=1B0ui7m6fAgGG9cOHZ5fpuYKNu8Vcni2B
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E22.mp4?a=0&id=1_6XmuNkB2rTHzaKq-t0swtGLq_MLG7lO
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E22.mp4?a=0&id=1_6XmuNkB2rTHzaKq-t0swtGLq_MLG7lO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E23.mp4?a=0&id=1yM5DlBX2bhumfQSbmLJ3k3s73WNtpw1P
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E23.mp4?a=0&id=1yM5DlBX2bhumfQSbmLJ3k3s73WNtpw1P
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S02 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S02%20E24.mp4?a=0&id=1EzlqLmb4VbZrIRw-IimrXb_xJ8hppifo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S02%20E24.mp4?a=0&id=1EzlqLmb4VbZrIRw-IimrXb_xJ8hppifo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E01.mp4?a=0&id=13AbsCIU8crENTxt_19PcoAkyAfLgtOwf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E01.mp4?a=0&id=13AbsCIU8crENTxt_19PcoAkyAfLgtOwf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E02.mp4?a=0&id=1s4IrBz1vxE6NefWJwecI-JpOQFLggoRT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E02.mp4?a=0&id=1s4IrBz1vxE6NefWJwecI-JpOQFLggoRT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E03.mp4?a=0&id=1TBxDokORSF3Vr3RKNcMrg7p3awkpaUFe
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E03.mp4?a=0&id=1TBxDokORSF3Vr3RKNcMrg7p3awkpaUFe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E04.mp4?a=0&id=1PaCs4pFkzLYJh53ib9I54MP1Ej6b-0Oo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E04.mp4?a=0&id=1PaCs4pFkzLYJh53ib9I54MP1Ej6b-0Oo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E05.mp4?a=0&id=1XrSxJvIrmVW782SSnRSoDsDAXtl9OG3R
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E05.mp4?a=0&id=1XrSxJvIrmVW782SSnRSoDsDAXtl9OG3R
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E06.mp4?a=0&id=1c4BrweaBZsZYP1ARkrDnqQYNMNvo55WI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E06.mp4?a=0&id=1c4BrweaBZsZYP1ARkrDnqQYNMNvo55WI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E07.mp4?a=0&id=14Zefhui0Ryp8adgMMfmHRi2LwMnsdOxW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E07.mp4?a=0&id=14Zefhui0Ryp8adgMMfmHRi2LwMnsdOxW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E08.mp4?a=0&id=1hkSvBOKC-0wGP3m1v-FiRu6N-wPaZjlI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E08.mp4?a=0&id=1hkSvBOKC-0wGP3m1v-FiRu6N-wPaZjlI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E09.mp4?a=0&id=1oSwtIk9yHMAxIglLOJsxGk5X-FPEHu4f
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E09.mp4?a=0&id=1oSwtIk9yHMAxIglLOJsxGk5X-FPEHu4f
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E10.mp4?a=0&id=10xDW9oU_1RvYPUsorGL0wXHvOwlonyyF
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E10.mp4?a=0&id=10xDW9oU_1RvYPUsorGL0wXHvOwlonyyF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E11.mp4?a=0&id=1KEhfwVM3wgwZLnraF_uNc_XjoIy-jhRh
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E11.mp4?a=0&id=1KEhfwVM3wgwZLnraF_uNc_XjoIy-jhRh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E12.mp4?a=0&id=1ueGMbZv6F_sggTMZ8tx2tVuDDcSaR6ce
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E12.mp4?a=0&id=1ueGMbZv6F_sggTMZ8tx2tVuDDcSaR6ce
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E13.mp4?a=0&id=1ISFPUppQLHVK7ODF8nz04nKBv37j8qew
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E13.mp4?a=0&id=1ISFPUppQLHVK7ODF8nz04nKBv37j8qew
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E14.mp4?a=0&id=1K-U1kkt-ySLsopFXjSBtJFdyCau-bBPQ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E14.mp4?a=0&id=1K-U1kkt-ySLsopFXjSBtJFdyCau-bBPQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E15.mp4?a=0&id=1qX-UNtxV5UD05VxofxNNqllDJnfO4tNv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E15.mp4?a=0&id=1qX-UNtxV5UD05VxofxNNqllDJnfO4tNv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E16.mp4?a=0&id=1ceGAeBrHb2IAn-2KDDW9nWbt98sj3khM
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E16.mp4?a=0&id=1ceGAeBrHb2IAn-2KDDW9nWbt98sj3khM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E17.mp4?a=0&id=1ax6TTRs6I6qpbPchUXGbpK9MdePKy1le
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E17.mp4?a=0&id=1ax6TTRs6I6qpbPchUXGbpK9MdePKy1le
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E18.mp4?a=0&id=1w5BmD7Nj5KQfoemArl-lr9aJR-BQpGO7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E18.mp4?a=0&id=1w5BmD7Nj5KQfoemArl-lr9aJR-BQpGO7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E19.mp4?a=0&id=1XQCs1-P2dRiiTD0G2d2236x5sthYyBPS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E19.mp4?a=0&id=1XQCs1-P2dRiiTD0G2d2236x5sthYyBPS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E20.mp4?a=0&id=1eVMXytd1j03-o3qwsG8jTwJcRTvXxL0c
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E20.mp4?a=0&id=1eVMXytd1j03-o3qwsG8jTwJcRTvXxL0c
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E21.mp4?a=0&id=1Z_wvmRa44N6XwKXoaD1KnAIvEq6DHhEw
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E21.mp4?a=0&id=1Z_wvmRa44N6XwKXoaD1KnAIvEq6DHhEw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E22.mp4?a=0&id=1-gCt6IkjkpgxG_syaf_pndiVvCJ-YlJA
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E22.mp4?a=0&id=1-gCt6IkjkpgxG_syaf_pndiVvCJ-YlJA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E23.mp4?a=0&id=1xccwq3Q3KJeJmLYwtR287OugUMrqdyar
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E23.mp4?a=0&id=1xccwq3Q3KJeJmLYwtR287OugUMrqdyar
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E24.mp4?a=0&id=1Xw8fn8XaW-wZJpENr2QP-GHbIh-4fyy1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E24.mp4?a=0&id=1Xw8fn8XaW-wZJpENr2QP-GHbIh-4fyy1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S03 E25.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S03%20E25.mp4?a=0&id=1gmh8P8WuDE4pXC-N5Ph-d8yCalTDVEpu
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S03%20E25.mp4?a=0&id=1gmh8P8WuDE4pXC-N5Ph-d8yCalTDVEpu
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E01.mp4?a=0&id=1fhSYb7XjxrzMVdx4JrRHZxDuxmXTEdfS
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E01.mp4?a=0&id=1fhSYb7XjxrzMVdx4JrRHZxDuxmXTEdfS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E02.mp4?a=0&id=1PcYcLzdwdI6pIY8m8He0J83eZciY8uBm
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E02.mp4?a=0&id=1PcYcLzdwdI6pIY8m8He0J83eZciY8uBm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E03.mp4?a=0&id=1t0df1glrf806H-9VTIbYh5TXjs0ojU2q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E03.mp4?a=0&id=1t0df1glrf806H-9VTIbYh5TXjs0ojU2q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E04.mp4?a=0&id=1bJ3HwkU8zoinOBQzGXYkwlEubbJSHae3
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E04.mp4?a=0&id=1bJ3HwkU8zoinOBQzGXYkwlEubbJSHae3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E05.mp4?a=0&id=1hgF7dyBOZqKOZ6OvtZASODr7qatIoF3D
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E05.mp4?a=0&id=1hgF7dyBOZqKOZ6OvtZASODr7qatIoF3D
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E06.mp4?a=0&id=1YXZwfWv2osSe8aJXNfuWR1dU9HfHeYGZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E06.mp4?a=0&id=1YXZwfWv2osSe8aJXNfuWR1dU9HfHeYGZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E07.mp4?a=0&id=1vjUnwTMnikr0FlXpMKlK-Aj-iyjj5YEN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E07.mp4?a=0&id=1vjUnwTMnikr0FlXpMKlK-Aj-iyjj5YEN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E08.mp4?a=0&id=1vFkv11KZFtSvqDcR0jsYuNo1odcgin86
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E08.mp4?a=0&id=1vFkv11KZFtSvqDcR0jsYuNo1odcgin86
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E09.mp4?a=0&id=1RXrpxksHVtxD_AHDJ-NqSmBLppnQyYaf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E09.mp4?a=0&id=1RXrpxksHVtxD_AHDJ-NqSmBLppnQyYaf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E10.mp4?a=0&id=12_xBDuBlPWE31UZEoVZ_Al-lrTMr1uwU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E10.mp4?a=0&id=12_xBDuBlPWE31UZEoVZ_Al-lrTMr1uwU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E11.mp4?a=0&id=1WzRaGrUr7iehrBiu1vU1PXxliyZEec2q
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E11.mp4?a=0&id=1WzRaGrUr7iehrBiu1vU1PXxliyZEec2q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E12.mp4?a=0&id=1brmlKOpNfEUvXtGSopvJBUDZQTecWnhR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E12.mp4?a=0&id=1brmlKOpNfEUvXtGSopvJBUDZQTecWnhR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E13.mp4?a=0&id=1FQhjlY9bTOfDFhKmNdBMyqEiKHBH9UrX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E13.mp4?a=0&id=1FQhjlY9bTOfDFhKmNdBMyqEiKHBH9UrX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E14.mp4?a=0&id=1uynBwY-osTaAcSFOefOkvMyI26134nb4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E14.mp4?a=0&id=1uynBwY-osTaAcSFOefOkvMyI26134nb4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E15.mp4?a=0&id=1hWz2dwvGSu6H1mheGJ61KhPTg48q-1uf
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E15.mp4?a=0&id=1hWz2dwvGSu6H1mheGJ61KhPTg48q-1uf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E16.mp4?a=0&id=1NvxHnd52wANMmoozo1cXXER0k4U6Mh0r
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E16.mp4?a=0&id=1NvxHnd52wANMmoozo1cXXER0k4U6Mh0r
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E17.mp4?a=0&id=1-l4r-TTsB-myLQz2m6pnEY1QcU_-WKI6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E17.mp4?a=0&id=1-l4r-TTsB-myLQz2m6pnEY1QcU_-WKI6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E18.mp4?a=0&id=1nG8A-EjAPmSyEuSjQvY8vIIvW9-vSJRN
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E18.mp4?a=0&id=1nG8A-EjAPmSyEuSjQvY8vIIvW9-vSJRN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E19.mp4?a=0&id=12yNQPC1we1ixFyuHsy2SUNE6liMiggD4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E19.mp4?a=0&id=12yNQPC1we1ixFyuHsy2SUNE6liMiggD4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E20.mp4?a=0&id=1n9yQyyig8HHIo6318RMiv0axrpN6evD5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E20.mp4?a=0&id=1n9yQyyig8HHIo6318RMiv0axrpN6evD5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E21.mp4?a=0&id=1UlYAXGCIewzbpa_F5tCCQs14h2L_j85G
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E21.mp4?a=0&id=1UlYAXGCIewzbpa_F5tCCQs14h2L_j85G
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E22.mp4?a=0&id=1-1QrEHSoNdYICJfmRvDNOrSmuDPb-A_N
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E22.mp4?a=0&id=1-1QrEHSoNdYICJfmRvDNOrSmuDPb-A_N
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E23.mp4?a=0&id=1QJEPQ-oWBQ_wL5Map6PISuQ_Z-NsEBuW
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E23.mp4?a=0&id=1QJEPQ-oWBQ_wL5Map6PISuQ_Z-NsEBuW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S04 E24.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S04%20E24.mp4?a=0&id=1QoFsA1YTzQxA8-dw34P912hoKRmjB9Jx
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S04%20E24.mp4?a=0&id=1QoFsA1YTzQxA8-dw34P912hoKRmjB9Jx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E01.mp4?a=0&id=1H2G3DBbQN4iRjOATewc7gxJRP_MecreO
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E01.mp4?a=0&id=1H2G3DBbQN4iRjOATewc7gxJRP_MecreO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E02.mp4?a=0&id=1YJ3tGmf5diOilyFtf9xkWvqAd4WHIXs8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E02.mp4?a=0&id=1YJ3tGmf5diOilyFtf9xkWvqAd4WHIXs8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E03.mp4?a=0&id=1NXyUKL84bqhdwEHHdiQ_6cUHBhRV86n1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E03.mp4?a=0&id=1NXyUKL84bqhdwEHHdiQ_6cUHBhRV86n1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E04.mp4?a=0&id=1cNsuyttfAmoGCuXLYalx4OucZ9alm46I
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E04.mp4?a=0&id=1cNsuyttfAmoGCuXLYalx4OucZ9alm46I
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E05.mp4?a=0&id=1uCheioEm8-ZUTuv0TCF1CPuMAbbL7fZa
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E05.mp4?a=0&id=1uCheioEm8-ZUTuv0TCF1CPuMAbbL7fZa
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E06.mp4?a=0&id=162a3KyqlqCC3WNhhq4CbQnGiZAK8Yx8e
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E06.mp4?a=0&id=162a3KyqlqCC3WNhhq4CbQnGiZAK8Yx8e
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E07.mp4?a=0&id=17MHuJScCNAv4m4AC2kIpx1f9qfE7PdgG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E07.mp4?a=0&id=17MHuJScCNAv4m4AC2kIpx1f9qfE7PdgG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E08.mp4?a=0&id=1vITJbAZQuiFTouZ4oLKkgItQrww78Abn
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E08.mp4?a=0&id=1vITJbAZQuiFTouZ4oLKkgItQrww78Abn
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E09.mp4?a=0&id=1jykvUjty6astakeSK4Er7ElKTLJLLX15
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E09.mp4?a=0&id=1jykvUjty6astakeSK4Er7ElKTLJLLX15
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E10.mp4?a=0&id=1NGrH0jwP0Sb_xSLXbXUiSySXFAMaFxX8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E10.mp4?a=0&id=1NGrH0jwP0Sb_xSLXbXUiSySXFAMaFxX8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E11.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E11.mp4?a=0&id=12X411wGZTgTDoNSgVxEuqZh1BfxEtTTZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E11.mp4?a=0&id=12X411wGZTgTDoNSgVxEuqZh1BfxEtTTZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E12.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E12.mp4?a=0&id=10DkU-kw4AAjgRMHdHEjTbyoJPS-GITfU
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E12.mp4?a=0&id=10DkU-kw4AAjgRMHdHEjTbyoJPS-GITfU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E13.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E13.mp4?a=0&id=1gfXVW3lZRkkZUwH2BlNF8Bp1ruA59xpZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E13.mp4?a=0&id=1gfXVW3lZRkkZUwH2BlNF8Bp1ruA59xpZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E14.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E14.mp4?a=0&id=1nnrDR4qH40YwLFL48jCsrPK2-BwfwS6w
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E14.mp4?a=0&id=1nnrDR4qH40YwLFL48jCsrPK2-BwfwS6w
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E15.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E15.mp4?a=0&id=1KK7_MWb10hBIMPZ78EVIT3u-htJGWEf7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E15.mp4?a=0&id=1KK7_MWb10hBIMPZ78EVIT3u-htJGWEf7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E16.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E16.mp4?a=0&id=1Mm8_5YqfZB7QwguZeQXhWKmehiI8gVw7
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E16.mp4?a=0&id=1Mm8_5YqfZB7QwguZeQXhWKmehiI8gVw7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E17.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E17.mp4?a=0&id=1pMnKGvErwe6kVWn1dk9XHRZQwERXU2uT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E17.mp4?a=0&id=1pMnKGvErwe6kVWn1dk9XHRZQwERXU2uT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E18.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E18.mp4?a=0&id=1Cp4JpnWLDtL-0GhXxWabZxa_II6IaZwB
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E18.mp4?a=0&id=1Cp4JpnWLDtL-0GhXxWabZxa_II6IaZwB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E19.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E19.mp4?a=0&id=1H4WQaIOBN4BsXZOO0IpjvLBYfns2MKlR
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E19.mp4?a=0&id=1H4WQaIOBN4BsXZOO0IpjvLBYfns2MKlR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E20.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E20.mp4?a=0&id=1CQRDOllA600BAxW8C3vmyaTsE8DfnR21
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E20.mp4?a=0&id=1CQRDOllA600BAxW8C3vmyaTsE8DfnR21
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E21.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E21.mp4?a=0&id=1n0_3wj-XBpzgQ8pYM0NKdeC_NfjKNVtI
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E21.mp4?a=0&id=1n0_3wj-XBpzgQ8pYM0NKdeC_NfjKNVtI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E22.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E22.mp4?a=0&id=1ih9JFalisSVN313gpVBJA1Qa36xcaxlO
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E22.mp4?a=0&id=1ih9JFalisSVN313gpVBJA1Qa36xcaxlO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S05 E23.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S05%20E23.mp4?a=0&id=1bb6V2YBSeJqwT70GPeKR9TvSPrU5-WnZ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S05%20E23.mp4?a=0&id=1bb6V2YBSeJqwT70GPeKR9TvSPrU5-WnZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E01.mp4?a=0&id=1jmBdii9mq5sjw40HzUorbbeybgsFX8U8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E01.mp4?a=0&id=1jmBdii9mq5sjw40HzUorbbeybgsFX8U8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E02.mp4?a=0&id=150L0pBjCjvACapS6CSxaMEjTCWyBCVS6
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E02.mp4?a=0&id=150L0pBjCjvACapS6CSxaMEjTCWyBCVS6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E03.mp4?a=0&id=1Au9ztplmHV7wzSPCY-I2K23euUHcQAHV
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E03.mp4?a=0&id=1Au9ztplmHV7wzSPCY-I2K23euUHcQAHV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E04.mp4?a=0&id=15N1oiDZwRfWgBDEL2d0ip4hlQ-o2GnTB
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E04.mp4?a=0&id=15N1oiDZwRfWgBDEL2d0ip4hlQ-o2GnTB
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E05.mp4?a=0&id=1WHFdcxTiD4EP2YLjE_ovJBSS3AvlBMSr
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E05.mp4?a=0&id=1WHFdcxTiD4EP2YLjE_ovJBSS3AvlBMSr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E06.mp4?a=0&id=1Jqhc-K7jtPsS8yIEFSIv4j_daYj-Dfik
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E06.mp4?a=0&id=1Jqhc-K7jtPsS8yIEFSIv4j_daYj-Dfik
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E07.mp4?a=0&id=1RkKO2MMaWzDgbQlc4CI674bITbg-oT5x
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E07.mp4?a=0&id=1RkKO2MMaWzDgbQlc4CI674bITbg-oT5x
 #EXTINF:-1 tvg-logo="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/4a90e2/external-friends-back-to-school-vitaliy-gorbachev-lineal-vitaly-gorbachev.png" group-title="Friends ",S06 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Friends%20S06%20E08.mp4?a=0&id=1L8fU0btX32E2bG9egqLQ0GgileROCZ0O
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Friends%20S06%20E08.mp4?a=0&id=1L8fU0btX32E2bG9egqLQ0GgileROCZ0O
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -2215,35 +2215,35 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #EXTENC: UTF-8
 #PLAYLIST: His Dark Materials
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E01.mp4?a=0&id=1OxRz_KPbVXYYl72tfUb17GOFDh0yVbnJ
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E01.mp4?a=0&id=1OxRz_KPbVXYYl72tfUb17GOFDh0yVbnJ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E02.mp4?a=0&id=1POMGTZCapaxDZLd3gK8G9_PH5JJZz5IH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E02.mp4?a=0&id=1POMGTZCapaxDZLd3gK8G9_PH5JJZz5IH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E03.mp4?a=0&id=1PPXiTgP-aABJ-JV2RbXetb4noCkSmIbv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E03.mp4?a=0&id=1PPXiTgP-aABJ-JV2RbXetb4noCkSmIbv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E04.mp4?a=0&id=1PS4a1MhKQ6_NzfYC84GG3qmtALSQO8gc
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E04.mp4?a=0&id=1PS4a1MhKQ6_NzfYC84GG3qmtALSQO8gc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E05.mp4?a=0&id=1PSUg-QVtRGLLFXLUElU9MtQeelRQ6rj1
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E05.mp4?a=0&id=1PSUg-QVtRGLLFXLUElU9MtQeelRQ6rj1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E06.mp4?a=0&id=1PVsNOLB6HdM9nYs68fWbNN9ouWe5dGeX
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E06.mp4?a=0&id=1PVsNOLB6HdM9nYs68fWbNN9ouWe5dGeX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E07.mp4?a=0&id=1PlhF-orBXr1qzoHle3MAtwjI2JZJ9By5
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E07.mp4?a=0&id=1PlhF-orBXr1qzoHle3MAtwjI2JZJ9By5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S01 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E08.mp4?a=0&id=1PmXP3Q9p4oPedCQ3_kjdtootPtmW12kx
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S01%20E08.mp4?a=0&id=1PmXP3Q9p4oPedCQ3_kjdtootPtmW12kx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E01.mp4?a=0&id=1PmtoOzYBklXk_aD3PHu1jYLo1P5SkJKe
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E01.mp4?a=0&id=1PmtoOzYBklXk_aD3PHu1jYLo1P5SkJKe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E02.mp4?a=0&id=1Ps3Jr0e_cL4db8ffB6nGDhWjN39JoeDq
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E02.mp4?a=0&id=1Ps3Jr0e_cL4db8ffB6nGDhWjN39JoeDq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E03.mp4?a=0&id=1Ps41UyaFg66h8KFuCrHZxLBg__0SnCN8
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E03.mp4?a=0&id=1Ps41UyaFg66h8KFuCrHZxLBg__0SnCN8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E04.mp4?a=0&id=1PtHHiX_488wdtzsAQw7gt_LR7hXQOHm0
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E04.mp4?a=0&id=1PtHHiX_488wdtzsAQw7gt_LR7hXQOHm0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E05.mp4?a=0&id=1Pxg9NWoHN4QbaoZUgsJkfiNDOh9TS9ki
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E05.mp4?a=0&id=1Pxg9NWoHN4QbaoZUgsJkfiNDOh9TS9ki
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E06.mp4?a=0&id=1QBr7fOBubbc-HmdueyU-kjtHBKZpun7E
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E06.mp4?a=0&id=1QBr7fOBubbc-HmdueyU-kjtHBKZpun7E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/tv.png" group-title="His Dark Materials",S02 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E07.mp4?a=0&id=1QEZuYeapeBqCHrplMMvAnBaFqJg7xRhs
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/His%20Dark%20Materials%20-%20Fronteiras%20do%20Universo%20S02%20E07.mp4?a=0&id=1QEZuYeapeBqCHrplMMvAnBaFqJg7xRhs
 
 #EXTM3U
 #EXTENC: UTF-8
@@ -2293,22 +2293,22 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #EXTENC: UTF-8
 #PLAYLIST: Lovecraft Country
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E01.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E01.mp4?a=0&id=1AlcPiN53qzp04H7IUgapKlIuXkjEJnZG
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E01.mp4?a=0&id=1AlcPiN53qzp04H7IUgapKlIuXkjEJnZG
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E02.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E02.mp4?a=0&id=1BQeKM9jCT2d-yoLCXJq59fFPlRlqV9fz
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E02.mp4?a=0&id=1BQeKM9jCT2d-yoLCXJq59fFPlRlqV9fz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E03.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E03.mp4?a=0&id=1BQkS-5HjtJ3j6Kkuo3s43EsVfSpYAZeC
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E03.mp4?a=0&id=1BQkS-5HjtJ3j6Kkuo3s43EsVfSpYAZeC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E04.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E04.mp4?a=0&id=1CcigCextecxwENVYsAw79Uu5FkK7CM3z
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E04.mp4?a=0&id=1CcigCextecxwENVYsAw79Uu5FkK7CM3z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E05.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E05.mp4?a=0&id=1D2pMTzoSah2xFmNn_gK6ne_qgdpZvVmv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E05.mp4?a=0&id=1D2pMTzoSah2xFmNn_gK6ne_qgdpZvVmv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E06.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E06.mp4?a=0&id=1D2uFEN4kB_BoCsK1CBeU5tuHtazGHFNH
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E06.mp4?a=0&id=1D2uFEN4kB_BoCsK1CBeU5tuHtazGHFNH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E07.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E07.mp4?a=0&id=1DRD5eIQuGgJ3VbQEmxlwMQHfDH48xQxp
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E07.mp4?a=0&id=1DRD5eIQuGgJ3VbQEmxlwMQHfDH48xQxp
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E08.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E08.mp4?a=0&id=1DRzVV21BvYRfheYjm-efKF4a1bhT3kQo
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E08.mp4?a=0&id=1DRzVV21BvYRfheYjm-efKF4a1bhT3kQo
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E09.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E09.mp4?a=0&id=1DS6YPqsVKxfNy3tvsxk9WzOLirBeSKnT
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E09.mp4?a=0&id=1DS6YPqsVKxfNy3tvsxk9WzOLirBeSKnT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/tv-show.png" group-title="Lovecraft Country",S01 E10.mp4
-http://teuku.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E10.mp4?a=0&id=1DT6-F6fezWGl7y0Iw-PjgvDyqbB3vEZi
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E10.mp4?a=0&id=1DT6-F6fezWGl7y0Iw-PjgvDyqbB3vEZi
