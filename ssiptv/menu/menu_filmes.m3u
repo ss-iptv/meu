@@ -17,3 +17,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/filmes/menu_filmes_por
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FILMES HD
 http://bit.ly/Gleydson_FilmesHD
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ZOiO
+https://raw.githubusercontent.com/ss-iptv/meu/main/goormio/Filmes.m3u8
