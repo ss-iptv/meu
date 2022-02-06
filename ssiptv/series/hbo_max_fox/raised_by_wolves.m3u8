@@ -26,7 +26,17 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 #EXTENC: UTF-8
 #PLAYLIST: Temporada 2
 #EXTINF:-1  group-title="2° Temporada",S02E01
-http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Raised.By.Wolves.S02E01.1080p.WEB-DL.DUAL.mkv?a=0&id=1c4ZmmbTSvAoSg1L_dOchg9T4WDvTx8jg
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1GsqzMpjr3ex5qwQc3XJh0jKRexDwfIQ5
 #EXTINF:-1  group-title="2° Temporada",S02E02
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv?a=0&id=1DTQuPYJ0uApTrhwCbbxNRzC5vbosvqKg
 
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2° Temporada
+#EXTINF:0, Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1GsqzMpjr3ex5qwQc3XJh0jKRexDwfIQ5
+#EXTINF:0, Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1MwinB43-OzW7cVt9COLtaD-x51FjkeuN
+#EXTINF:0, Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv?a=0&id=1DTQuPYJ0uApTrhwCbbxNRzC5vbosvqKg
