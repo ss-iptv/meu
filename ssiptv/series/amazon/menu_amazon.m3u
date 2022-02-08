@@ -88,6 +88,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Chaves_A
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/A%20Rainha%20do%20Sul.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Princesa Espanhola
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/A%20Princesa%20Espanhola.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Carnival Row
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Carnival%20Row.m3u8
@@ -143,3 +147,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Castle_Ro
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Night Manager
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/The%20Night%20Manager.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Noite de Crime
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/uma_noite_de_crime.m3u8

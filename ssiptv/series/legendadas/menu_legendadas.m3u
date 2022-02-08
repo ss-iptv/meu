@@ -103,3 +103,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/Fern
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Ghost Whisperer
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/Ghost_Whisperer.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Firefly
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/firefly.m3u8
