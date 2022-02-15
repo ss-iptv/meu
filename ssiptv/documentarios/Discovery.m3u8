@@ -178,8 +178,6 @@ http://www.araujo.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1ingzZX1hRi_CMKZqZ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Ed Stafford", Sobrevivendo nas Ruas E02.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1inr-kPsG-Y4oDht-q_G7h0E7Q_mT-M4c
 
-#EXTM3U
-#EXTENC: UTF-8
 #PLAYLIST: A Prova de Tudo
 #EXTINF:-1 group-title="A Prova de Tudo", S01 E01.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/A%20PROVA%20DE%20TUDO%20S01%20E01.mp4?a=0&id=188vW-h7kMBxkG2SBwU9y5Ir1eSyS1Kyh
