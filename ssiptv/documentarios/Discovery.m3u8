@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Discovery
-#EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: As Piores Prisões do Mundo
 #EXTINF:-1 group-title="As Piores Prisões", S01 E01.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E01.mp4?a=0&id=135HC4g9A94uWDLDo-x5510bPGzqZdN8c
@@ -30,6 +29,28 @@ http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MU
 http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E06.mp4?a=0&id=13GWQiQDmLiEwufQRgqCg5s3HC2xgPm5c
 #EXTINF:-1 group-title="As Piores Prisões", S02 E07.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E07.mp4?a=0&id=13IE3k6dBj81Tr0RMutQzSbwIjFPqIJ-9
+
+#PLAYLIST: Enfermeiras que Matam
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E01.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E01.mp4?a=0&id=1HJG7EzDl5UJeQm102NdBM1PLAcWENykV
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E02.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E02.mp4?a=0&id=1HKel-dFQF7Y-Vt6WLpJIzm8JX1dSFCXe
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E03.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E03.mp4?a=0&id=1HLc9QsYVg03yRcINjA9yQMjM5eQIKlSJ
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E04.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E04.mp4?a=0&id=1HLliFqU3d2QhrXen9KzeCMDJtCCFWzV0
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E05.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E05.mp4?a=0&id=1HMdOlhOzPlhqBhnJegq32-uv_EFvJ7p2
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E06.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E06.mp4?a=0&id=1HN8xEqE-ZynGpPlUtr62nV5qlUC3AnGT
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E07.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E07.mp4?a=0&id=1HPtCiXHH4G8N-lMfjCjWAfBZtc3zwlcv
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E08.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E08.mp4?a=0&id=1HSzzbZo6oMlmvBHpPlRioFi58wk8b6W6
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E09.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E09.mp4?a=0&id=1HTvoA0r_LNSPj8IugBHw_9N2RgQqOI7S
+#EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E10.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E10.mp4?a=0&id=1HU4E6vj8VEaVj59YVETcVrWIfetd1b0o
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 1.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1rCToawCHXlJAWNKszU0ibbkE9bTyOn6A
