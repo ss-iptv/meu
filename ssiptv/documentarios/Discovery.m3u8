@@ -1,6 +1,36 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Discovery
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: As Piores Prisões do Mundo
+#EXTINF:-1 group-title="As Piores Prisões", S01 E01.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E01.mp4?a=0&id=135HC4g9A94uWDLDo-x5510bPGzqZdN8c
+#EXTINF:-1 group-title="As Piores Prisões", S01 E02.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E02.mp4?a=0&id=137vYo3ethP96zpbSP5dNVF5UBQxL83q_
+#EXTINF:-1 group-title="As Piores Prisões", S01 E03.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E03.mp4?a=0&id=13BWQ5NP0BS9HNForPYLQwUqCe7we9Gx_
+#EXTINF:-1 group-title="As Piores Prisões", S01 E04.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E04.mp4?a=0&id=13BctvkxwWcoJuL4dx-NllkxPhLy19ZaM
+#EXTINF:-1 group-title="As Piores Prisões", S01 E05.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E05.mp4?a=0&id=13CP-0dJCG24Amb4baNoEG_bgXUGowwR1
+#EXTINF:-1 group-title="As Piores Prisões", S01 E06.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S01%20E06.mp4?a=0&id=13DtHm0HaihU_U7oZXCPE-MQ5e9_NCRJQ
+#EXTINF:-1 group-title="As Piores Prisões", S02 E01.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E01.mp4?a=0&id=13ED9l58NyZA9TsapKtaqVjyXA4M1uYkl
+#EXTINF:-1 group-title="As Piores Prisões", S02 E02.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E02.mp4?a=0&id=13EFQzyTfoZtQsu39gC_T8UmkHnCpZqZD
+#EXTINF:-1 group-title="As Piores Prisões", S02 E03.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E03.mp4?a=0&id=13EzqMpm_A_AiCkhzsOovL9clJJXuWvAI
+#EXTINF:-1 group-title="As Piores Prisões", S02 E04.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E04.mp4?a=0&id=13GAnP3zSch1s33B9DgsKSS-aUc_B-75d
+#EXTINF:-1 group-title="As Piores Prisões", S02 E05.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E05.mp4?a=0&id=13GUOvBX0o37SqvGe_R5gnAwU72V4NDCy
+#EXTINF:-1 group-title="As Piores Prisões", S02 E06.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E06.mp4?a=0&id=13GWQiQDmLiEwufQRgqCg5s3HC2xgPm5c
+#EXTINF:-1 group-title="As Piores Prisões", S02 E07.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E07.mp4?a=0&id=13IE3k6dBj81Tr0RMutQzSbwIjFPqIJ-9
+
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 1.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1rCToawCHXlJAWNKszU0ibbkE9bTyOn6A
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Bem Vindo a Terra", Episódio 2.mp4
@@ -26,6 +56,48 @@ http://www.araujo.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1-Jn_zI1nGn6qz-1Hr
 http://www.araujo.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1cbsmg1nX7P-mZ0b1BGFkf-AbmoR_vvay
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Entre as Estrelas", Episódio6.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/6.mp4?a=0&id=1imj5QYu6nFYS7J2X7RxPn0ECJ400vLlu
+
+#PLAYLIST: Tatuagens Terríveis
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E01.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E01.mp4?a=0&id=11iCTLGTvxqQsIw3D4qmz3D33sQSzGpXd
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E02.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E02.mp4?a=0&id=11lUMYb_ATOeHpaGwVFXS30wA9dy0ThXg
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E03.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E03.mp4?a=0&id=11ma9cmeECqoa9dwQi5jGhXUHxMRMRPwI
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E04.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E04.mp4?a=0&id=11oO87HOT2-uw8czabr6ivMalYG5XC1Ap
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E05.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E05.mp4?a=0&id=11qW3MIhr9lhrpVEOq5UMHNP8GUP7hn3w
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E06.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E06.mp4?a=0&id=11sMN49cexJhqkOeZgadopewn_X4Dt47D
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E07.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E07.mp4?a=0&id=11ths0WpPezKEaPyqIYCOpqIbtDiUAftq
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E08.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E08.mp4?a=0&id=11urkSw_1DQb8T0zaAEl0zAWFPFOWu7-c
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E09.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E09.mp4?a=0&id=11wD-v6GDI3p379X8Eq67Gp9eX2jgIKlM
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E10.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E10.mp4?a=0&id=11wjm_PLJnD1Gz--4beCzQ2VfCQGGW_cp
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E11.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E11.mp4?a=0&id=11zIbvdftGVw6QFWSSenOmiKxF9Sitgis
+#EXTINF:-1 group-title="Tatuagens Terríveis", S01 E12.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S01%20E12.mp4?a=0&id=12-BdXTgLtjCrHDfJdOjO2ISWXMiLmsx9
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E01.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E01.mp4?a=0&id=12312TZByax8fXPXFGywrSXdagGy9dhxb
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E02.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E02.mp4?a=0&id=12522MugUusRnzPfR52UJhsNPuQB3RVMl
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E03.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E03.mp4?a=0&id=125uxRIov5Yp-3JXCsAXU43X3-HhFHBCE
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E04.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E04.mp4?a=0&id=126UqtjwblmbgXeNbnv09gf0MUFy4VCPZ
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E05.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E05.mp4?a=0&id=128T-XYa0AWMk5mNJOra0bc0QYNXYz_cZ
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E06.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E06.mp4?a=0&id=12AR1VsqAMn-WeG5qveM4ScYsKFXw78s4
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E07.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E07.mp4?a=0&id=12MStujTOSdRT83CwppMf2wIjRNOJQpG6
+#EXTINF:-1 group-title="Tatuagens Terríveis", S02 E08.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/TATUAGENS%20TERRIVEIS%20S02%20E08.mp4?a=0&id=12NNH5RQO2_cH819vneTZCrd7D7fNrjgW
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Apocalipse 101", S01 E01.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/APOCALYPSE%20101%20S01%20E01.mp4?a=0&id=11bYyybXh-wLmsToBsPZ4e9nvtwNnBSXM
