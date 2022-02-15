@@ -30,6 +30,26 @@ http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MU
 #EXTINF:-1 group-title="As Piores Prisões", S02 E07.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/AS%20PIORES%20PRISOES%20DO%20MUNDO%20S02%20E07.mp4?a=0&id=13IE3k6dBj81Tr0RMutQzSbwIjFPqIJ-9
 
+#EXTINF:0 group-title="A Vida Em Um Milhao de Anos", EP01.mkv
+http://www.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Em%20Um%20Milhao%20de%20Anos%20EP01.mkv?a=0&id=14NsUha8rOJP_JuQF5kRgZNQz6G84OQv5
+#EXTINF:0 group-title="A Vida Em Um Milhao de Anos", EP02.mkv
+http://www.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Em%20Um%20Milhao%20de%20Anos%20EP02.mkv?a=0&id=1dzQZv9SYGILJ46l6Z1uw1x6ychdzz0Lc
+#EXTINF:0 group-title="A Vida Em Um Milhao de Anos", EP03.mkv
+http://www.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Em%20Um%20Milhao%20de%20Anos%20EP03.mkv?a=0&id=1N7gIiEyF6MqXquN8B8kAj7cGuuuyNXUq
+#EXTINF:0 group-title="A Vida Em Um Milhao de Anos", EP05.mkv
+http://www.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Em%20Um%20Milhao%20de%20Anos%20EP05.mkv?a=0&id=14hqeBdnNfEZ6jzX2rkp1MqyzikySSF2Y
+#EXTINF:0 group-title="A Vida Em Um Milhao de Anos", EP06.mkv
+http://www.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Em%20Um%20Milhao%20de%20Anos%20EP06.mkv?a=0&id=1DsFsxfHE62pFjsM4AE6MxMA-MjDNnXhv
+
+#EXTINF:0 group-title="Celebridades à Prova de Tudo", Sobrevivendo com Ba rack Obama.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/Celebridades%20%C3%A0%20Prova%20de%20Tudo%20-%20Sobrevivendo%20com%20Ba%20rack%20Obama.mp4?a=0&id=1cdrZ97vrycxGGE0ZiePM8IorS7DbfHiH
+#EXTINF:0 group-title="Celebridades à Prova de Tudo", Sobrevivendo com Be n Stiller.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/Celebridades%20%C3%A0%20Prova%20de%20Tudo%20-%20Sobrevivendo%20com%20Be%20n%20Stiller.mp4?a=0&id=1pfU0hVDOnCTacKWKVj0A6_UNdXVRPSWy
+#EXTINF:0 group-title="Celebridades à Prova de Tudo", Sobrevivendo com Ch anning Tatum.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/Celebridades%20%C3%A0%20Prova%20de%20Tudo%20-%20Sobrevivendo%20com%20Ch%20anning%20Tatum.mp4?a=0&id=1XxqDAnmKC3AgmaVbuJhosyetWZTqkBCG
+#EXTINF:0 group-title="Celebridades à Prova de Tudo", Sobrevivendo com Za c Efron.mp4
+http://www.araujo.eu.org/api/v1/redirectdownload/Celebridades%20%C3%A0%20Prova%20de%20Tudo%20-%20Sobrevivendo%20com%20Za%20c%20Efron.mp4?a=0&id=1EO3gNWBOQ7BJ1_nXl4d0SbLFcqswaU8R
+
 #PLAYLIST: Enfermeiras que Matam
 #EXTINF:-1 group-title="TEnfermeiras que Matam", S01 E01.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/NURSES%20WHO%20KILL%20S01%20E01.mp4?a=0&id=1HJG7EzDl5UJeQm102NdBM1PLAcWENykV
@@ -144,6 +164,51 @@ http://www.araujo.eu.org/api/v1/redirectdownload/NOSTRADAMUS%20FIM%20DOS%20DIAS%
 http://www.araujo.eu.org/api/v1/redirectdownload/NOSTRADAMUS%20FIM%20DOS%20DIAS%20S01%20E06.mp4?a=0&id=11Z4c-14sIef-6rk9D7t_3NDPcyOJOdwl
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Nostradamus", S01 E07.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/NOSTRADAMUS%20FIM%20DOS%20DIAS%20S01%20E07.mp4?a=0&id=11b0XuyqQDyJSSa_SoB_OM8UZzZ-w49SX
+
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E00
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E00?a=0&id=1NheYUZ2I1OIQsgvlyc8YWjX-xM60H7oi
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E01
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E01?a=0&id=1hKnhzWNKBZhGHpS93HfiJXyMGZoo7pje
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E02
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E02?a=0&id=1a14KXnWgEerB-sBvLaBKwb8OxjlbPMKo
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E03
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E03?a=0&id=1x_1W3u5bURwmW0OM0oMY6KlYhSzbj7tW
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E04
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E04?a=0&id=1tt0iwI0S3aS8rXZUe0xz2Bqh3wvlDEAz
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E05
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E05?a=0&id=15YjwrToOskNHFQzVanW6yApB-Fbb00_-
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E06
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E06?a=0&id=17SwL1R0FPpM-PlMfKojEUtCufAmCaXBQ
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E07
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E07?a=0&id=1CUOlbpkDy4UUYD4T61pf_4BVtf85A-rP
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E08
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E08?a=0&id=1BVGVK00xicJ7pVGWvGbQdVb6dlbXLPU2
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E09
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E09?a=0&id=1J64FdjJ46EziODb0O1s6hgjZzZt3FDkO
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E10
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E10?a=0&id=11bSfPTwrVTiyLYoFnS9DegOUodKTl4rd
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E11
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E11?a=0&id=1QCCKUXNfkc2sPPgNV56V2dC7PQDBskTL
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S01E12
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S01E12?a=0&id=1U2DH4Dl0SkqQN6WA7wL_i8dCh0d6Mm_i
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E02
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E02?a=0&id=1LK_qgtDKh3Kq-jEAqOMsOhDywCDrg1uY
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E03
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E03?a=0&id=1LLAj82CeqgbH4O7IvY7HYBbM6c4_FSAx
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E04
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E04?a=0&id=1X0Lll7sNVID_0EZ04n1oSBEBj4lmE6Km
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E05
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E05?a=0&id=1J8iHe6R6QFsBoujX2csSl_N8yrHylraH
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E06
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E06?a=0&id=1FBBC5XE-X_dQwA88cBe0-IGM-vqLzfx4
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E07
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E07?a=0&id=1U03cHkz3fiSO6cu56WKhbTQEza8dRRaG
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E08
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E08?a=0&id=1nDWYpwCbP97GTK5stw4JUbB0wgDRPpYw
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E09
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E09?a=0&id=1xje7yT76OATvv0NTja-sDI5fwPyi-JuP
+#EXTINF:-1 group-title="Aeroporto - Área Restrita", S02E10
+http://www.araujo.eu.org/api/v1/redirectdownload/Aeroporto.Area.Restrita.S02E10?a=0&id=1TQ_K-8wNl1bcmieaWJhpvVB343_UzduJ
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Construções Remotas",S01 E05.mp4
 http://www.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1iim8zTlPEsO6mk_ItIXGObLEB7CvMvZF
