@@ -1,4 +1,129 @@
- #EXTM3U size="medium"
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Matemática Básica
+#EXTINF:-1  group-title="Ferreto",00 - Adição e subtração.mp4
+https://educa.eu.org/api/v1/redirectdownload/00%20-%20Adi%C3%A7%C3%A3o%20e%20subtra%C3%A7%C3%A3o.mp4?a=0&id=13xcUpKEm1zuw7DIhl_hVEvVDjFGpk8NB
+#EXTINF:-1  group-title="Ferreto",01 - Multiplicação e Divisão - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/01%20-%20Multiplica%C3%A7%C3%A3o%20e%20Divis%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=14THBG7p-d4rTWIpBjAM3Sir5mha4-fVx
+#EXTINF:-1  group-title="Ferreto",01 - Multiplicação e Divisão.mp4
+https://educa.eu.org/api/v1/redirectdownload/01%20-%20Multiplica%C3%A7%C3%A3o%20e%20Divis%C3%A3o.mp4?a=0&id=1thnemptrfjSyiikFKtld3X8YPmsLEhaE
+#EXTINF:-1  group-title="Ferreto",02 - Expressões Numéricas - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/02%20-%20Express%C3%B5es%20Num%C3%A9ricas%20-%20Exerc%C3%ADcios.mp4?a=0&id=1yjkR5xaXrf4dRaUJx4sFhYVPoceqsFFM
+#EXTINF:-1  group-title="Ferreto",02 - Expressões Numéricas.mp4
+https://educa.eu.org/api/v1/redirectdownload/02%20-%20Express%C3%B5es%20Num%C3%A9ricas.mp4?a=0&id=1A46cJqlDVObu4x_1R5KPfWAkyrs1B60k
+#EXTINF:-1  group-title="Ferreto",03 - Frações - Parte 1.mp4
+https://educa.eu.org/api/v1/redirectdownload/03%20-%20Fra%C3%A7%C3%B5es%20-%20Parte%201.mp4?a=0&id=13gEf4lXlB3Y_xV1FGNOsX3WqFcBc7dbk
+#EXTINF:-1  group-title="Ferreto",04 - Frações - Parte 2.mp4
+https://educa.eu.org/api/v1/redirectdownload/04%20-%20Fra%C3%A7%C3%B5es%20-%20Parte%202.mp4?a=0&id=1PLvOJTwHD-C9O61Z2cmAWRvj7afqzH8-
+#EXTINF:-1  group-title="Ferreto",05 - Potenciação - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/05%20-%20Potencia%C3%A7%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=1edYw-njwSyKhjljng8GCpczbOvJQobiB
+#EXTINF:-1  group-title="Ferreto",06 - Radiciação - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/06%20-%20Radicia%C3%A7%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=13bkCDZH0GIzSuBOWzk41s0d5AxbW7FqF
+#EXTINF:-1  group-title="Ferreto",06 - Radiciação.mp4
+https://educa.eu.org/api/v1/redirectdownload/06%20-%20Radicia%C3%A7%C3%A3o.mp4?a=0&id=152cF8jsY7YiKJeS7X44dfAoMFbuu-aSo
+#EXTINF:-1  group-title="Ferreto",07 - Racionalização de Denominadores - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/07%20-%20Racionaliza%C3%A7%C3%A3o%20de%20Denominadores%20-%20Exerc%C3%ADcios.mp4?a=0&id=1xOlMZSbmbSgq0bw5soCQxku0NJb704mf
+#EXTINF:-1  group-title="Ferreto",08 - Produtos Notáveis - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/08%20-%20Produtos%20Not%C3%A1veis%20-%20Exerc%C3%ADcios.mp4?a=0&id=1xKuA_Q06BDFNm5zWzSNePwNm8rd5nGwI
+#EXTINF:-1  group-title="Ferreto",08 - Produtos Notáveis.mp4
+https://educa.eu.org/api/v1/redirectdownload/08%20-%20Produtos%20Not%C3%A1veis.mp4?a=0&id=1G7LeuyNH4juiEZy4HQcnjoMQS0GEmDlm
+#EXTINF:-1  group-title="Ferreto",09 - Fatoração de Expressões Algébricas - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/09%20-%20Fatora%C3%A7%C3%A3o%20de%20Express%C3%B5es%20Alg%C3%A9bricas%20-%20Exerc%C3%ADcios.mp4?a=0&id=1lqpuvnpKw_kE9penyX4byexMYXGFRdT-
+#EXTINF:-1  group-title="Ferreto",10 - Sistema de Numeração Decimal.mp4
+https://educa.eu.org/api/v1/redirectdownload/10%20-%20Sistema%20de%20Numera%C3%A7%C3%A3o%20Decimal.mp4?a=0&id=1E_bXO-rKFwNRDyI0TplIxGZBScpx9L-3
+#EXTINF:-1  group-title="Ferreto",11 - Potência de Dez e Notação Científica - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/11%20-%20Pot%C3%AAncia%20de%20Dez%20e%20Nota%C3%A7%C3%A3o%20Cient%C3%ADfica%20-%20Exerc%C3%ADcios.mp4?a=0&id=1ew_AyfmppKBolN1qVpssDotkkHPGiaNe
+#EXTINF:-1  group-title="Ferreto",11 - Potência de Dez e Notação Científica.mp4
+https://educa.eu.org/api/v1/redirectdownload/11%20-%20Pot%C3%AAncia%20de%20Dez%20e%20Nota%C3%A7%C3%A3o%20Cient%C3%ADfica.mp4?a=0&id=1YpvlDueu4Xlf1sJWEl8RnLhlrAKoxIaa
+#EXTINF:-1  group-title="Ferreto",13 - Critérios de Divisibilidade - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/13%20-%20Crit%C3%A9rios%20de%20Divisibilidade%20-%20Exerc%C3%ADcios.mp4?a=0&id=1vdIfKZh6ahEvCpw_e8dioo93f7Mw-Thx
+#EXTINF:-1  group-title="Ferreto",13 - Critérios de Divisibilidade.mp4
+https://educa.eu.org/api/v1/redirectdownload/13%20-%20Crit%C3%A9rios%20de%20Divisibilidade.mp4?a=0&id=1tvIulBGt1jvP3n588h9smVtnqkUr8E89
+#EXTINF:-1  group-title="Ferreto",14 - Números Primos.mp4
+https://educa.eu.org/api/v1/redirectdownload/14%20-%20N%C3%BAmeros%20Primos.mp4?a=0&id=1MRISbmrOyMVn_gYYINqrn37zECEBCT54
+#EXTINF:-1  group-title="Ferreto",15 - Fatoração e Divisores de um Número - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/15%20-%20Fatora%C3%A7%C3%A3o%20e%20Divisores%20de%20um%20N%C3%BAmero%20-%20Exerc%C3%ADcios.mp4?a=0&id=1nL3_li7y7JaS-kaJo7mWnk7TFc_Pavem
+#EXTINF:-1  group-title="Ferreto",15 - Fatoração e Divisores de um Número.mp4
+https://educa.eu.org/api/v1/redirectdownload/15%20-%20Fatora%C3%A7%C3%A3o%20e%20Divisores%20de%20um%20N%C3%BAmero.mp4?a=0&id=1m6pbppn6oNV0SwCGxqsP1RbMf-QYyFcV
+#EXTINF:-1  group-title="Ferreto",16 - Múltiplos e Mínimo Múltiplo Comum (MMC) - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/16%20-%20M%C3%BAltiplos%20e%20M%C3%ADnimo%20M%C3%BAltiplo%20Comum%20(MMC)%20-%20Exerc%C3%ADcios.mp4?a=0&id=1d-vNmXcSnfF8jPeFoDXMc4mnHpElK77I
+#EXTINF:-1  group-title="Ferreto",17 - Máximo Divisor Comum (MDC).mp4
+https://educa.eu.org/api/v1/redirectdownload/17%20-%20M%C3%A1ximo%20Divisor%20Comum%20(MDC).mp4?a=0&id=1XTu0XRItxgy4l4c53UX3oqjQNANIbtlQ
+#EXTINF:-1  group-title="Ferreto",18 - Razão e Proporção (Parte 1).mp4
+https://educa.eu.org/api/v1/redirectdownload/18%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%201).mp4?a=0&id=1mDpvmXY4Og9EyreKYYdXIF9OeHRbQOUY
+#EXTINF:-1  group-title="Ferreto",19 - Razão e Proporção (Parte 2) - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/19%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%202)%20-%20Exerc%C3%ADcios.mp4?a=0&id=1WHoVyX1def1QfjTr-fT1JXM_CBZQrkgy
+#EXTINF:-1  group-title="Ferreto",19 - Razão e Proporção (Parte 2).mp4
+https://educa.eu.org/api/v1/redirectdownload/19%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%202).mp4?a=0&id=1H0eHcH9jZr5TyBJDp1MxIytI6RTI2WhR
+#EXTINF:-1  group-title="Ferreto",20 - Regra de Três Simples - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/20%20-%20Regra%20de%20Tr%C3%AAs%20Simples%20-%20Exerc%C3%ADcios.mp4?a=0&id=1Wek2_xHbi4Ejte314hO_Ocss1MR5Ds6n
+#EXTINF:-1  group-title="Ferreto",21 - Regra de Três Composta - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/21%20-%20Regra%20de%20Tr%C3%AAs%20Composta%20-%20Exerc%C3%ADcios.mp4?a=0&id=11s58lP74HbnUQr90e4UDCCfNqwkivhIC
+#EXTINF:-1  group-title="Ferreto",22 - Escalas Numéricas.mp4
+https://educa.eu.org/api/v1/redirectdownload/22%20-%20Escalas%20Num%C3%A9ricas.mp4?a=0&id=1VsEAh_AzyHuvQ15bLI1M_K3FqzMcEJgK
+#EXTINF:-1  group-title="Ferreto",24 - Juros Simples - Exercícios.mp4
+https://educa.eu.org/api/v1/redirectdownload/24%20-%20Juros%20Simples%20-%20Exerc%C3%ADcios.mp4?a=0&id=1fhsfueTJq_FXhgdsKYC759Wg-D42Ovh9
+#EXTINF:-1  group-title="Ferreto",26 - Equações Irracionais.mp4
+https://educa.eu.org/api/v1/redirectdownload/26%20-%20Equa%C3%A7%C3%B5es%20Irracionais.mp4?a=0&id=1b71pg9e-F_GQ6Df2XA3hXo-Ti380Xdrm
+#EXTINF:-1  group-title="Ferreto",Questões
+https://educa.eu.org/api/v1/redirectdownload/Quest%C3%B5es?a=0&id=1q3SLQuiMynUxZrUbVWJbHod7qi2rxJwm
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Raciocínio Lógico p TCM-SP (Auxiliar Técnico-Suporte Administrativo)
+#EXTINF:-1  group-title="Jhonny Zini",Aula (1) Matemática.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(1)%20Matem%C3%A1tica.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ziomznMJ7xNm64qt78N0BSgsC4LXNKdr
+#EXTINF:-1  group-title="Jhonny Zini",Aula (2).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zpamAxxYZtuwBHbb2S8QM8KJKY8rVrp4
+#EXTINF:-1  group-title="Jhonny Zini",Aula (3).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(3).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-C2QejMslS5cqeKbCLzz7vbwsPYHbGrd
+#EXTINF:-1  group-title="Jhonny Zini",Aula (4).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(4).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-UCDWAx4zXKuvZyNO98bJnLVnn51ZXZC
+#EXTINF:-1  group-title="Jhonny Zini",Aula (5).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(5).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-VMSneB9dLh8skMFR48GzlElQ_7eYqHU
+#EXTINF:-1  group-title="Jhonny Zini",Aula (6).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(6).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zxcwNQS0xTjWl_KHpax9IrTgC6_FWnRr
+#EXTINF:-1  group-title="Jhonny Zini",Aula (7).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(7).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zyIVAmCDfYGN5yeYjP00MeY1dbPtWSCS
+#EXTINF:-1  group-title="Jhonny Zini",Aula (8).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(8).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16IB65_J6yDIeCzNQl0NzY89Gg2Rsi6dy
+#EXTINF:-1  group-title="Jhonny Zini",Aula (9).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(9).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-9VoHadZBPOVC1kriomM6hEeCGLoD0DQ
+#EXTINF:-1  group-title="Jhonny Zini",Aula (10) - Conjuntos.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(10)%20-%20Conjuntos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-hToZcbRTK9vgNBmIWWNZdcEh4d9Gw97
+#EXTINF:-1  group-title="Jhonny Zini",Aula (11).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(11).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-iIzMwgHdvLly2f8gsH4GgOCO5JIKRPP
+#EXTINF:-1  group-title="Jhonny Zini",Aula (12).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(12).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16ETHwRakjscf4785frYErM4rT5Y1jCjV
+#EXTINF:-1  group-title="Jhonny Zini",Aula (13) - Operações com Conjuntos.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(13)%20-%20Opera%C3%A7%C3%B5es%20com%20Conjuntos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Ir5-xvFYlBIFQqVwWD94Swz0d-gehXU
+#EXTINF:-1  group-title="Jhonny Zini",Aula (14).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(14).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16XN13Ro-LkliFvniXHT7iTM1CH-zritw
+#EXTINF:-1  group-title="Jhonny Zini",Aula (15).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(15).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16YUmvWiD9X14RNd6jpp4_iy2Bot-du-5
+#EXTINF:-1  group-title="Jhonny Zini",Aula (16) Porcentagem.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(16)%20Porcentagem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16bCKu1_VIwIlxExms4UMsbKo-pBJizJa
+#EXTINF:-1  group-title="Jhonny Zini",Aula (17).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(17).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16mwsSwxUpDPPtEFJkPnSMfakpsvVSnG0
+#EXTINF:-1  group-title="Jhonny Zini",Aula (18).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(18).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16so5Ms4PeyEHeU9mW3x3xkZRvp4xTg82
+#EXTINF:-1  group-title="Jhonny Zini",Aula (19) Razão.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(19)%20Raz%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16wKGWPPs4jfqJcUYmKUaYBU2FkAzyctz
+#EXTINF:-1  group-title="Jhonny Zini",Aula (20) Proporção.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(20)%20Propor%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16wTZZx1J_1trRYImHjiXu8y1etIVQL3P
+#EXTINF:-1  group-title="Jhonny Zini",Aula (21).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(21).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=175Jhu0PVyOBOngZbkm9NEPlB4eNYhOlu
+#EXTINF:-1  group-title="Jhonny Zini",Aula (22).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(22).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17B1V_Duaw2EBKOk1PL--nVCNmSJECwuD
+#EXTINF:-1  group-title="Jhonny Zini",Aula (23).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(23).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17HW6QVVgWFuqVEg2DAXEc4h49kfpxT0i
+#EXTINF:-1  group-title="Jhonny Zini",Aula (24).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(24).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17KI11JGabc90M27XhsyBEkW_0z3SsM3Y
+#EXTINF:-1  group-title="Jhonny Zini",Aula (25).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(25).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17Om9l40FuJx7XQ2ute_RzOAUmtwxkg_A
+#EXTINF:-1  group-title="Jhonny Zini",Aula (26).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(26).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17SFUk4CztnlAKL--NXmCke27kylh9xCs
+#EXTINF:-1  group-title="Jhonny Zini",Aula (27).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(27).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17WiSVSMoD18x3-oy5GGVEkg3ZacDGnCg
+#EXTINF:-1  group-title="Jhonny Zini",Aula (28).mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%20(28).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17bhxltajQH7frd3PBzPqkI3V_dVksd-_
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Matemática
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/isabela/ferreto.m3u8
