@@ -22,7 +22,8 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/radio.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github (TV)
 #EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
+http://m3u4u.com/m3u/w16vy5w493fr98xy39pq
+##https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8##
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CDN REDE
 http://cdnrede.com:80/get.php?username=groove9197&password=81325036&type=m3u_plus
