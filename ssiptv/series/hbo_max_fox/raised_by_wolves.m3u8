@@ -22,21 +22,15 @@ https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised%20by%20Wolves%20S01%20E
 #EXTINF:-1  group-title="1° Temporada",S01 E10.mp4
 https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised%20by%20Wolves%20S01%20E10.mp4?a=0&id=1bA9xmGca_Cs5XwW3tSuRWxPkCCw7yZ3_
 
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: Temporada 2
-#EXTINF:-1  group-title="2° Temporada",S02E01
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1GsqzMpjr3ex5qwQc3XJh0jKRexDwfIQ5
-#EXTINF:-1  group-title="2° Temporada",S02E02
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv?a=0&id=1DTQuPYJ0uApTrhwCbbxNRzC5vbosvqKg
-
-
-#EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 2° Temporada
-#EXTINF:0, Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1GsqzMpjr3ex5qwQc3XJh0jKRexDwfIQ5
-#EXTINF:0, Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised.By.Wolves.S02e01.1080p.WEB-DL.DUAL.mkv?a=0&id=1MwinB43-OzW7cVt9COLtaD-x51FjkeuN
-#EXTINF:0, Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Raised.By.Wolves.S02E02.1080p.WEB-DL.DUAL.mkv?a=0&id=1DTQuPYJ0uApTrhwCbbxNRzC5vbosvqKg
+#EXTINF:-1  group-title="2° Temporada",S02E01.mp4
+https://araujo.eu.org/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EJ5TzCUU7-I6WKplHkqWIV-iEgVTFKI3
+#EXTINF:-1  group-title="2° Temporada",S02E02.mp4
+https://araujo.eu.org/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vm8R_ej2mp-E1QbbAQWDM_31vgdPQIMb
+#EXTINF:-1  group-title="2° Temporada",S02E03.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1p1amRs_95lP20wVFve9UxYcNlb0hYBUe
+#EXTINF:-1  group-title="2° Temporada",S02E04.mp4
+https://araujo.eu.org/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18CRhaM5j9-SHR_PZCJqIUIlODdGUBEtp
+#EXTINF:-1  group-title="2° Temporada",S02E05.mp4
+https://araujo.eu.org/api/v1/redirectdownload/5.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ngusVsw2tqZovH96U7PLYtIHQ127t_1g

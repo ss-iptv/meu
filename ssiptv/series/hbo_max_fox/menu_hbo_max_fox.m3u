@@ -43,10 +43,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox//Hi
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/raised_by_wolves.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Wolves
-#EXTBG: #11609E
-data:text/plain;charset=utf-8,%23EXTM3U%0A%23EXTENC%3A%20UTF-8%0A%23PLAYLIST%3A%202%C2%B0%20Temporada%0A%23EXTINF%3A0%2C%201.mp4%0Ahttps%3A%2F%2Faraujo.eu.org%2Fapi%2Fv1%2Fredirectdownload%2F1.mp4%3Fa%3Do6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d%26id%3D1EJ5TzCUU7-I6WKplHkqWIV-iEgVTFKI3%0A%23EXTINF%3A0%2C%202.mp4%0Ahttps%3A%2F%2Faraujo.eu.org%2Fapi%2Fv1%2Fredirectdownload%2F2.mp4%3Fa%3Do6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d%26id%3D1vm8R_ej2mp-E1QbbAQWDM_31vgdPQIMb%0A%23EXTINF%3A0%2C%203.mp4%0Ahttps%3A%2F%2Faraujo.eu.org%2Fapi%2Fv1%2Fredirectdownload%2F3.mp4%3Fa%3Do6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d%26id%3D1p1amRs_95lP20wVFve9UxYcNlb0hYBUe%0A%23EXTINF%3A0%2C%204.mp4%0Ahttps%3A%2F%2Faraujo.eu.org%2Fapi%2Fv1%2Fredirectdownload%2F4.mp4%3Fa%3Do6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d%26id%3D18CRhaM5j9-SHR_PZCJqIUIlODdGUBEtp%0A%23EXTINF%3A0%2C%205.mp4%0Ahttps%3A%2F%2Faraujo.eu.org%2Fapi%2Fv1%2Fredirectdownload%2F5.mp4%3Fa%3Do6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d%26id%3D1ngusVsw2tqZovH96U7PLYtIHQ127t_1g%0A
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Garota da Limpeza
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Garota%20da%20Limpeza.m3u8
 
