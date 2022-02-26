@@ -37,3 +37,15 @@ https://drive.aprovado.workers.dev/0:/3%20-%20Series%20/Superman%20&%20Lois/2%C2
 https://drive.aprovado.workers.dev/0:/3%20-%20Series%20/Superman%20&%20Lois/2%C2%B0%20Temporada/2.mp4
 #EXTINF:0 group-title="Temporada 1", S02 E03.mp4
 https://drive.aprovado.workers.dev/0:/3%20-%20Series%20/Superman%20&%20Lois/2%C2%B0%20Temporada/3.mp4
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2° Temporada
+#EXTINF:0 group-title="Temporada 2", S02 E01.mp4
+https://araujo.eu.org/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l6ZUS_8F8UZ_hesN2SP-bHVE-6yzA4UG
+#EXTINF:0 group-title="Temporada 2", S02 E02.mp4
+https://araujo.eu.org/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KBYddwz2EOXwRiLPPeJ2MZrTN_03E13F
+#EXTINF:0 group-title="Temporada 2", S02 E03.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iLOyr9aobKW6icgVjdVMYJUzT6-K66U_
+#EXTINF:0 group-title="Temporada 2", S02 E04.mp4
+https://araujo.eu.org/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17tbSv0k3WMHaHvv2cpsewXQsYFwMDa06
