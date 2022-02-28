@@ -175,3 +175,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Clique.m3
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Chernobyl
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Chernobyl.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Pablo Escobars
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/escobar.m3u8
