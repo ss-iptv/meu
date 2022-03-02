@@ -163,9 +163,65 @@ https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20I%20-%20ATE.mp4?a=o6
 https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20II%20-%20ATE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tIBt4U-KB3E9ORo42sxekrIdD-oYUIk6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Redação",DISSERTATIVA III - ATE.mp4
 https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20III%20-%20ATE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oZUt6-RFcEY0QnKeEb9gvW_qyC4q-22-
-#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE I.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Sustentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE I.mp4
 https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16xBW1Rqlp-yrK6bjcbv8VYp_WsFnEoAz
-#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE II.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Sustentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE II.mp4
 https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J7QmoaUDz9AuSFDWVMNIz45eGfzZgy-s
-#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE III.mp4
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Sustentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE III.mp4
 https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20III.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JzX3RA0x1x5CqpEBLwx4vtRf7FHt-Omp
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Módulo 6 - LEGISLAÇÃO MUNICIPAL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",DECRETO 57379-16 - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/DECRETO%2057379-16%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i-esjv1rJxwHRVFyQk4Dj7JVVequKgoP
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",DECRETO 57379-16 - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/DECRETO%2057379-16%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15db89kh-g3zo-RAsIDzhOpPoMugns04Q
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",DECRETO 57379-16 - PARTE III.mp4
+https://educa.eu.org/api/v1/redirectdownload/DECRETO%2057379-16%20-%20PARTE%20III.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d6s3_Jpli7g4DDqxVoX0dud22sa0y9Kj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",DECRETO 57379-16 - PARTE IV.mp4
+https://educa.eu.org/api/v1/redirectdownload/DECRETO%2057379-16%20-%20PARTE%20IV.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KCS6deCrq1pTL-WkXgvzwut7DtJUuRJB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",DECRETO 57379-16 - PARTE V.mp4
+https://educa.eu.org/api/v1/redirectdownload/DECRETO%2057379-16%20-%20PARTE%20V.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yfr7p2DoyDc6ovD1o_qVhwSA2buDPBr0
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA 13.2018 - PROGRAMA SÃO PAULO INTEGRAL - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%2013.2018%20-%20PROGRAMA%20S%C3%83O%20PAULO%20INTEGRAL%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1plmWy_Yn-wZzq4e9T1oMMjoUIjylfhYK
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA 13.2018 - PROGRAMA SÃO PAULO INTEGRAL - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%2013.2018%20-%20PROGRAMA%20S%C3%83O%20PAULO%20INTEGRAL%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ECimwaghcXc2-ZQ6ZehgSedLDR23xhPl
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA 13.2018 - PROGRAMA SÃO PAULO INTEGRAL - PARTE III.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%2013.2018%20-%20PROGRAMA%20S%C3%83O%20PAULO%20INTEGRAL%20-%20PARTE%20III.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PCWe2ySYDrgis2zRTdBdWmzhIA__Svar
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA 13.2018 - PROGRAMA SÃO PAULO INTEGRAL - PARTE IV.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%2013.2018%20-%20PROGRAMA%20S%C3%83O%20PAULO%20INTEGRAL%20-%20PARTE%20IV.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Sr5Om05lYxG36gUEnqBdk4T2BxwlJBwK
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA 13.2018 - PROGRAMA SÃO PAULO INTEGRAL - PARTE V.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%2013.2018%20-%20PROGRAMA%20S%C3%83O%20PAULO%20INTEGRAL%20-%20PARTE%20V.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oAdX6FticJ8LF7bcHvM3lbAhWPhOg2D5
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA N° 22-2018 - PARTE I - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%20N%C2%B0%2022-2018%20-%20PARTE%20I%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1F-v0SYZOjH7m1wxCdNHhLTJS3CkPHatB
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",INSTRUÇÃO NORMATIVA N° 22-2018 - PARTE II - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/INSTRU%C3%87%C3%83O%20NORMATIVA%20N%C2%B0%2022-2018%20-%20PARTE%20II%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nGAXJ9tcGEprU_Gc2bCKJdhBwmHh-fy-
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI 8.989-79 - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%208.989-79%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kg-XmbXxg8HmbNQU42RZGyyZ1qB5i7Le
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI 8.989-79 - PARTE II - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%208.989-79%20-%20PARTE%20II%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ga0OjgbAp0FL5IQw42swXGbk_dGeMMUi
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI 8.989-79 - PARTE III - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%208.989-79%20-%20PARTE%20III%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NyNJQz1L06NVD5Y3ZkzRZI8qOfBsSSxS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI 8.989-79 - PARTE IV - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%208.989-79%20-%20PARTE%20IV%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aeGrUjHznIGM9Us1NKeIIKiqPm7it7Ge
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI 8.989-79 - PARTE V - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%208.989-79%20-%20PARTE%20V%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12dFEDBNBoxv4t2bStT1W3xNjIQ_qWRrN
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI ORGÂNICA - SÃO PAULO - PARTE I - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%20ORG%C3%82NICA%20-%20S%C3%83O%20PAULO%20-%20PARTE%20I%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BHmiuiPYYP83tfOQvyzrU8Ff7XHLy0rn
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI ORGÂNICA - SÃO PAULO - PARTE II - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%20ORG%C3%82NICA%20-%20S%C3%83O%20PAULO%20-%20PARTE%20II%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yuPypsi-2mJxHel_weT2l16ZF7K6SYOD
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",LEI ORGÂNICA - SÃO PAULO - PARTE III - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/LEI%20ORG%C3%82NICA%20-%20S%C3%83O%20PAULO%20-%20PARTE%20III%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZwTANxZoTW_A3eqTRbkuP1u2LdEpCn0K
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PLANO MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL SP - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/PLANO%20MUNICIPAL%20DE%20PROMO%C3%87%C3%83O%20DA%20IGUALDADE%20RACIAL%20SP%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zhusrnCSNj13jtT7D47Ruk0ZlAUxhL4S
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PLANO MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL SP - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/PLANO%20MUNICIPAL%20DE%20PROMO%C3%87%C3%83O%20DA%20IGUALDADE%20RACIAL%20SP%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vFNmbfMJvSFWObIcRhwEurBXO77UqAp6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PORTARIA 8.824-2016 - PREFEITURA DE SÃO PAULO.mp4
+https://educa.eu.org/api/v1/redirectdownload/PORTARIA%208.824-2016%20-%20PREFEITURA%20DE%20S%C3%83O%20PAULO.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ed5cLjzLbZaYP6Dj342C7g0LQgaUcqKL
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PORTARIA N° 8764-2016 - PARTE I - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/PORTARIA%20N%C2%B0%208764-2016%20-%20PARTE%20I%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jyxo24OAhaPkD6YwF8tFlrWkI9HKApnp
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PORTARIA N° 8764-2016 - PARTE II - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/PORTARIA%20N%C2%B0%208764-2016%20-%20PARTE%20II%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ux6QXfAFEImdHr0oqvfWldv-w0I2MVll
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Legislação Municipal",PORTARIA N° 8764-2016 - PARTE III - ANGÉLICA.mp4
+https://educa.eu.org/api/v1/redirectdownload/PORTARIA%20N%C2%B0%208764-2016%20-%20PARTE%20III%20-%20ANG%C3%89LICA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qRLLFQQPtiNqYvS-PKj7jiSUY8E1nmad
