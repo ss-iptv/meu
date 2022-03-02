@@ -127,3 +127,45 @@ https://m3u.araujo.eu.org/api/v1/redirectdownload/3.1%20-%20T%C3%ADtulo%20VII-%2
 https://m3u.araujo.eu.org/api/v1/redirectdownload/3.2%20-%20T%C3%ADtulo%20VIII%20-%20Disposi%C3%A7%C3%B5es%20Gerais.mp4?a=0&id=16tOgc5BYdp3Fkyklvs_MzWJhF_oYDHG3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 3.3 - Título IX - Disposições Transitórias.mp4
 https://m3u.araujo.eu.org/api/v1/redirectdownload/3.3%20-%20T%C3%ADtulo%20IX%20-%20Disposi%C3%A7%C3%B5es%20Transit%C3%B3rias.mp4?a=0&id=11wf_cZdcpfsmWA_EKKRgzNKXAWyORNze
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Modulo 7 - Publicações Institucionais
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EDUCAÇÃO INFANTIL - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EDUCA%C3%87%C3%83O%20INFANTIL%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fL-2jwvrhyItdDqwuT5SfCtYB0YzqRfH
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EDUCAÇÃO INFANTIL - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EDUCA%C3%87%C3%83O%20INFANTIL%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KALwXJ5efRsg4y9pph3HQC6KKrypkSLu
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EDUCAÇÃO INFANTIL - PARTE III.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EDUCA%C3%87%C3%83O%20INFANTIL%20-%20PARTE%20III.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U2FtfjX4nmFh7ZylBP4bKAweDuh5neJD
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EDUCAÇÃO INFANTIL - PARTE IV.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EDUCA%C3%87%C3%83O%20INFANTIL%20-%20PARTE%20IV.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kIEeLnEqfC8E2V2DG6GDjJ9QAamAUZUq
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EDUCAÇÃO INFANTIL - PARTE V.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EDUCA%C3%87%C3%83O%20INFANTIL%20-%20PARTE%20V.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pqhcg_u24E4Er3BNFJwvGqDm42SMGTq-
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EJA - LÍNGUA PORTUGUESA - ATE - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EJA%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20ATE%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vbV9bRfUrjYMgo9jK3pJiXtrtYECJ8RS
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EJA - LÍNGUA PORTUGUESA - ATE - PARTE I - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EJA%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20ATE%20-%20PARTE%20I%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vH8ET3zZ-vudQCE-V6zK9nFOpbq30sax
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EJA - LÍNGUA PORTUGUESA - ATE - PARTE II - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EJA%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20ATE%20-%20PARTE%20II%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xDiLSfJzO5CKeitzrVR-sNa4kanIRfPd
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",EJA - LÍNGUA PORTUGUESA - ATE - PARTE III - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20EJA%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20ATE%20-%20PARTE%20III%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iQMbWnhGcwHymHj0_6k4Z36csNIFS3vh
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",LIBRAS - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20LIBRAS%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dTlioGBorsxQa9rcbeHgmQzDJ4SM0UDj
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",LIBRAS - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20LIBRAS%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-zQJt6LKfuKlG6FbUVPrB2KtKTmKSgQe
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",LÍNGUA PORTUGUESA - P 12 A 60 - PARTE I - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20P%2012%20A%2060%20-%20PARTE%20I%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JFsWxiMwnS15LB3imVaonzPLNyVZLjOC
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Institucionais SME",LÍNGUA PORTUGUESA - P 12 A 60 - PARTE II - MELINE.mp4
+https://educa.eu.org/api/v1/redirectdownload/CURR%C3%8DCULO%20DA%20CIDADE%20-%20L%C3%8DNGUA%20PORTUGUESA%20-%20P%2012%20A%2060%20-%20PARTE%20II%20-%20MELINE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fGYLWvH17NxRYkQdYlPCXOsJmDiHMsng
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Redação",DISSERTATIVA I - ATE.mp4
+https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20I%20-%20ATE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19f4UlQXfTn5LES3nLSjI5xVV0ntAiwvX
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Redação",DISSERTATIVA II - ATE.mp4
+https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20II%20-%20ATE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tIBt4U-KB3E9ORo42sxekrIdD-oYUIk6
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Redação",DISSERTATIVA III - ATE.mp4
+https://educa.eu.org/api/v1/redirectdownload/DISSERTATIVA%20III%20-%20ATE.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oZUt6-RFcEY0QnKeEb9gvW_qyC4q-22-
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE I.mp4
+https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16xBW1Rqlp-yrK6bjcbv8VYp_WsFnEoAz
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE II.mp4
+https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J7QmoaUDz9AuSFDWVMNIz45eGfzZgy-s
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Suatentabilidade na EDU",EDUCAÇÃO PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL - PARTE III.mp4
+https://educa.eu.org/api/v1/redirectdownload/EDUCA%C3%87%C3%83O%20PARA%20OS%20OBJETIVOS%20DO%20DESENVOLVIMENTO%20SUSTENT%C3%81VEL%20-%20PARTE%20III.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JzX3RA0x1x5CqpEBLwx4vtRf7FHt-Omp
