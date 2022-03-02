@@ -1,3 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: ! MARATONA CEBRASPE - MARCELO SOBRAL
+#EXTINF:0 group-title="Administrativo | Sobral",Organização Administrativa.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/01%20-%20Maratona%20CEBRASPE%20-%20Direito%20Administrativo%20-%20Organiza%C3%A7%C3%A3o%20Administrativa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=161uv6HBRVOfyJPfW1fLKreAurBALC-nD
+#EXTINF:0 group-title="Constitucional | Sobral", Direitos Fundamentais.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/02%20-%20Maratona%20CEBRASPE-%20Direito%20Constitucional-%20Direitos%20Fundamentais.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=165yrZPUxcKbkwH97bo4plypSa40UCKmW
+#EXTINF:0 group-title="Direito Penal Geral | Sobral",Princípios.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/03%20-%20Maratona%20CEBRASPE%20-%20Direito%20Penal%20-%20Princ%C3%ADpios.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16FF2pUTR1_IVEQYnoR3N5JT1fN84bJzm
+#EXTINF:0 group-title="Processo Penal | Sobral",Inquérito Policial.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/04%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal%20-%20Inqu%C3%A9rito%20Policial.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=167DnKfGdDyOrspU2qxvHZVh7kD1YHVGx
+#EXTINF:0 group-title="Administrativo | Sobral",Lei 8.112_90.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/05%20-%20Maratona%20CEBRASPE%20-%20Direito%20Administrativo%20-%20Lei%208.112_90.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Xer2kzwoVeEgPYKMD1SBJ_1Hdpq6aKU
+#EXTINF:0 group-title="Administrativo | Sobral",Organização Administrativa - parte 02.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/06%20-%20Maratona%20CEBRASPE%20-%20Direito%20Administrativo%20-%20Organiza%C3%A7%C3%A3o%20Administrativa%20-%20parte%2002.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Xx-XEiNnAe9aTTUM-vEsBVnf5rEJOBq
+#EXTINF:0 group-title="Constitucional | Sobral", Direitos Fundamentais - parte 02.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/07%20-%20Maratona%20CEBRASPE%20-%20Direito%20Constitucional%20-%20Direitos%20Fundamentais%20-%20parte%2002.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Z2dYViWqjck3e_GTuzIa_3oFzit1968
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão e Liberdade Provisória.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/09%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal%20-%20Pris%C3%A3o%20e%20Liberdade%20Provis%C3%B3ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16rxUQlzObTjzbWPy0j8Yw-_wYyN1_ijh
+#EXTINF:0 group-title="Administrativo | Sobral",Atos Administrativos.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/10%20-%20Maratona%20CEBRASPE%20-%20Direito%20Administrativo%20-%20Atos%20Administrativos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16uw89cy-KtVz1ZtIMgKgeRfigm8x_ebi
+#EXTINF:0, 14 - Maratona CEBRASPE - Direito Constitucional - Segurança Pública.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/14%20-%20Maratona%20CEBRASPE%20-%20Direito%20Constitucional%20-%20Seguran%C3%A7a%20P%C3%BAblica.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17UtIiyo5OSDppAVH6YCaIp2lgqp8GBtM
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão e Liberdade Provisória.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/15%20-%20Maratona%20CEBRASPE-%20Direito%20Processual%20Penal%20-%20Pris%C3%A3o%20e%20Liberdade%20Provis%C3%B3ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17UwheAmRPJpZK-WhIVWZQ8h0qPpW_bxk
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão e Liberdade Provisória.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/16%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal%20-%20Pris%C3%A3o%20e%20Liberdade%20Provis%C3%B3ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17EwViKAWQ54Xg_iBcwnw1mzgEM11PfUT
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão e Liberdade Provisória.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/17%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal%20-%20Pris%C3%A3o%20e%20Liberdade%20Provis%C3%B3ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RvGQZ8p7Ja6EwS7reA82iLYQ7YUVfDy6
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão preventiva.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/21%20-%20Maratona%20CEBRASPE%20-%20Processo%20penal%20-%20Pris%C3%A3o%20preventiva.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17qb-QpuIT2EyC1No6ujAzHAxVJPnnz1H
+#EXTINF:0 group-title="Processo Penal | Sobral",Prisão domiciliar e outras medidas cautelares.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/22%20-%20Maratona%20CEBRASPE%20-%20Pris%C3%A3o%20domiciliar%20e%20outras%20medidas%20cautelares.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17vWK7yk3pOtBQA3rQ1jY-3Jvm-YL2wqN
+#EXTINF:0 group-title="Processo Penal | Sobral",Liberdade Provisória.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/23%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal-%20Liberdade%20Provis%C3%B3ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17wlxp-l1AsX3Qm_fKDCaABsOZALWK4w_
+#EXTINF:0 group-title="Processo Penal | Sobral",Liberdade Provisória Pt. 2.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/24%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal-%20Liberdade%20Provis%C3%B3ria%20Pt.%202.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FXg_QJRX9jWaMd2kwHBbrvPvMgrP5r1T
+#EXTINF:0 group-title="Processo Penal | Sobral",Liberdade Provisória Pt. 3.mkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/25%20-%20Maratona%20CEBRASPE%20-%20Direito%20Processual%20Penal-%20Liberdade%20Provis%C3%B3ria%20Pt.%203.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17ysNSo_y1BuyhP41BL8p2pAjIH54kq3c
+
 #EXTINF:0 group-title="Processo Penal | Ridson", 01 - Conceito, Competencia Legislativa, Sistemas Processuais e Disposicoes Preliminares 
 https://m3u.araujo.eu.org/api/v1/redirectdownload/papa.mp4?a=0&id=1l4ifTpksNNguofnnEMp3fl_-MINvE8ZW
 #EXTINF:0 group-title="Processo Penal | Ridson", 02 - Parte 02 - Inquerito 
