@@ -147,58 +147,66 @@ https://m3u.araujo.eu.org/api/v1/redirectdownload/Aula%20(9).mp4?a=o6pw20syw347w
 
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: Direito Processual Penal (Noções) - Anterior ao Pacote Anticrime
-#EXTINF:-1  group-title="Processo Penal",Aula (1).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(1).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IHS2kkIKex4jFJoHu19YYlV8eL41DZjE
-#EXTINF:-1  group-title="Processo Penal",Aula (10).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(10).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OdZI1zApKjLn_B66jxZqBV8nqANeOKhd
-#EXTINF:-1  group-title="Processo Penal",Aula (11).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(11).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i1EFqrqwEjJ1uSGHc7yGmgDHg9knyJHw
-#EXTINF:-1  group-title="Processo Penal",Aula (12).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(12).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11LYBfo3og3BlozeleaLYiAPddRlfk0No
-#EXTINF:-1  group-title="Processo Penal",Aula (13).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(13).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JaaWCUX64gzYjCUsC86k5vkUz0AmAx6S
-#EXTINF:-1  group-title="Processo Penal",Aula (14).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(14).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Od73ZLrjuBMpG5hLongXhB4kVVEaPyyJ
-#EXTINF:-1  group-title="Processo Penal",Aula (15).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(15).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xhrP__SBRpRob_eScv9BEG-avX2aRMgv
-#EXTINF:-1  group-title="Processo Penal",Aula (16).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(16).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19SwAfq-OpdWWe3rW_nbP5FDJQwOZfB1T
-#EXTINF:-1  group-title="Processo Penal",Aula (17).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(17).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rj2JxRvJxTSbUX23847GF28dkpTPbAmF
-#EXTINF:-1  group-title="Processo Penal",Aula (18).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(18).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18akYxcEKrqTR2WPkfuVyOcBgE_6jSIMn
-#EXTINF:-1  group-title="Processo Penal",Aula (19).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(19).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tQkV9wQKElVlHuZMFx7ovvNIe59OKU_X
-#EXTINF:-1  group-title="Processo Penal",Aula (2).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rQNDzFX2fikepFzTyuLvJ77B64g3L_ym
-#EXTINF:-1  group-title="Processo Penal",Aula (20).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(20).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14pDbZAcxtYcunGFnQDPpDnju_ge2Ck8d
-#EXTINF:-1  group-title="Processo Penal",Aula (21).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(21).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BPHAjXC4qZfnwfxIC2ZiJE_OwPNkv_ns
-#EXTINF:-1  group-title="Processo Penal",Aula (22).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(22).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t9kv8tY7vdDWECSd1vPqmbOlj2ORQoz3
-#EXTINF:-1  group-title="Processo Penal",Aula (23).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(23).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sbOeyQgwRshdvWFglpoGp6ODxLK9pJKy
-#EXTINF:-1  group-title="Processo Penal",Aula (24).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(24).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18LQXEFN7Su-KGvkfZXAVF8a4NjLvTph1
-#EXTINF:-1  group-title="Processo Penal",Aula (25).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(25).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GGyM1lo7FmbQFKXyIATio02Z1MNbsUHI
-#EXTINF:-1  group-title="Processo Penal",Aula (26).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(26).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KlBzcaoXHbSnKo0qkLkhjC3Ih-dLivAP
-#EXTINF:-1  group-title="Processo Penal",Aula (27).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(27).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=136Rkmh6gxmd2P-WHANFW2Za-b2SIVJBh
-#EXTINF:-1  group-title="Processo Penal",Aula (3).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(3).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lpnbrv7SJT75YK2tNPO83vYn_OKBbMhU
-#EXTINF:-1  group-title="Processo Penal",Aula (4).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(4).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zr7BCJ4Cc-JhnGTlyr-b6IVJ6G5Bm7tc
-#EXTINF:-1  group-title="Processo Penal",Aula (5).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(5).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZZ4BKifG4CWvnBMQ3Uo4AymXHf_2jVxQ
-#EXTINF:-1  group-title="Processo Penal",Aula (6).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(6).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18IlxOWnbGDgNSLKjnaZP5aMtHJQH9Ru5
-#EXTINF:-1  group-title="Processo Penal",Aula (7).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(7).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OeBmrF5ReumLs6noV8c9W9peaaj9Mdjv
-#EXTINF:-1  group-title="Processo Penal",Aula (8).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(8).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MdB9PrRuHbEE5KTzUABv-GTioRsOEaek
-#EXTINF:-1  group-title="Processo Penal",Aula (9).mp4
-https://educa.eu.org/api/v1/redirectdownload/Aula%20(9).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v9gUNgU1KeyfTVli6ouySozo4ipt-NSe
+#PLAYLIST: Direito Processual Penal - Sengik
+#EXTINF:-1  group-title="Processo Penal",1.1 - Lei Processual no Tempo, Espaço e Interpretação.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.1%20-%20Lei%20Processual%20no%20Tempo,%20Espa%C3%A7o%20e%20Interpreta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PhE1A0tjHRtMeGnkq2mEtwJi6DpwkaKl
+#EXTINF:-1  group-title="Processo Penal",1.2 - Lei Processual no Tempo, Espaço e Interpretação.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.2%20-%20Lei%20Processual%20no%20Tempo,%20Espa%C3%A7o%20e%20Interpreta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PkrpP5_s0hgmTmQinammFa3gh7pBfLC3
+#EXTINF:-1  group-title="Processo Penal",1.3 - Lei Processual no Tempo, Espaço e Interpretação.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.3%20-%20Lei%20Processual%20no%20Tempo,%20Espa%C3%A7o%20e%20Interpreta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SZUBbkpxBnK0sRgYeBqTPQTDehlRwG3z
+#EXTINF:-1  group-title="Processo Penal",1.4 - Inquérito Policial# Conceito e Características.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.4%20-%20Inqu%C3%A9rito%20Policial#%20Conceito%20e%20Caracter%C3%ADsticas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WYQlF6aYnPe5a1XWAk43LdSCiCUOZfQY
+#EXTINF:-1  group-title="Processo Penal",1.5 - Inquérito Policial# Conceito e Características.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.5%20-%20Inqu%C3%A9rito%20Policial#%20Conceito%20e%20Caracter%C3%ADsticas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wmCGBoFeAa4k3jHxWwFFep6YTrvgOi5F
+#EXTINF:-1  group-title="Processo Penal",1.6 - Inquérito Policial# Conceito e Características.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.6%20-%20Inqu%C3%A9rito%20Policial#%20Conceito%20e%20Caracter%C3%ADsticas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-K3nWYRKqeAVuJNfWI03QZmLse420bGL
+#EXTINF:-1  group-title="Processo Penal",2.1 - Notitia Criminis.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.1%20-%20Notitia%20Criminis.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vcoHPPxbLa_6johy_pLL0a-BPF9qvyux
+#EXTINF:-1  group-title="Processo Penal",2.2 - Instauração do IP nos Diferentes Tipos de Ação Penal.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.2%20-%20Instaura%C3%A7%C3%A3o%20do%20IP%20nos%20Diferentes%20Tipos%20de%20A%C3%A7%C3%A3o%20Penal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TgN3UHBmJUHyHZQbjxtz4GxscN7SrLqy
+#EXTINF:-1  group-title="Processo Penal",2.3 - Diligências do IP # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.3%20-%20Dilig%C3%AAncias%20do%20IP%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15CgDZm4yw1I-ylN3Bdxxtn6h2ElHqAxJ
+#EXTINF:-1  group-title="Processo Penal",2.4 - Diligências do IP # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.4%20-%20Dilig%C3%AAncias%20do%20IP%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uXNHFOMVXm5Ov7ZGbaFTt6I3zwQszOFw
+#EXTINF:-1  group-title="Processo Penal",2.5 - Inquérito Policial - Encerramento.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.5%20-%20Inqu%C3%A9rito%20Policial%20-%20Encerramento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14-JV-pSDV-kdKR10LIXCyVHA5AzI2daD
+#EXTINF:-1  group-title="Processo Penal",2.6 - Inquérito Policial - Arquivamento # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.6%20-%20Inqu%C3%A9rito%20Policial%20-%20Arquivamento%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CgsNlm9d9EXKhWhr3tZlPv8RZ6WTtob2
+#EXTINF:-1  group-title="Processo Penal",2.7 - Inquérito Policial# Arquivamento # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.7%20-%20Inqu%C3%A9rito%20Policial#%20Arquivamento%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O1LXNiN6Sxn1G7VhkOciH2DEgMnpgGt2
+#EXTINF:-1  group-title="Processo Penal",3.1 - Prisões - Parte Geral.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.1%20-%20Pris%C3%B5es%20-%20Parte%20Geral.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pNv2MOUxPWphpra4Lq6viwpMMNT0gSDD
+#EXTINF:-1  group-title="Processo Penal",3.2 -  - Prisão em Flagrante Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.2%20-%20%20-%20Pris%C3%A3o%20em%20Flagrante%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aFxTpEbLP2s06J383S4SY9C68Xr2IAvY
+#EXTINF:-1  group-title="Processo Penal",3.2 - Prisão em Flagrante Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.2%20-%20Pris%C3%A3o%20em%20Flagrante%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10JjJ84YBkHruyHItAiUAeWivd8iJcIIu
+#EXTINF:-1  group-title="Processo Penal",3.3 - Prisão Preventiva.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.3%20-%20Pris%C3%A3o%20Preventiva.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YHjnt8-MNo3EzW0BCCcCB9-BV8F_0FMa
+#EXTINF:-1  group-title="Processo Penal",3.4 - Prisão Temporária.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.4%20-%20Pris%C3%A3o%20Tempor%C3%A1ria.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=191EaUN3u28Y4ykoAPl29bFpOkR0jr753
+#EXTINF:-1  group-title="Processo Penal",intensivo
+https://educa.eu.org/api/v1/redirectdownload/intensivo?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NoEGqXJy_dXG6r9vr8KH_DcXXojCN2HU
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: intensivo
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 01 - Inquérito Policial -  Lei 13.690-18, Lei 12.830 # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2001%20-%20Inqu%C3%A9rito%20Policial%20-%20%20Lei%2013.690-18,%20Lei%2012.830%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1I0wVyF37dBBb4954Ab78k2pCvDnrRwEd
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 01 - Diligências Inquérito Policial Encerramento Arquivamento # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2001%20-%20Dilig%C3%AAncias%20Inqu%C3%A9rito%20Policial%20Encerramento%20Arquivamento%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lz57Lj8LYNzKqt95UAE-Hvn5w2S2Fi25
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 02 - Teoria Geral das Provas # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2002%20-%20Teoria%20Geral%20das%20Provas%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NyUFI-GNRkPmg0yPu6G5g_CqWyske_P2
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 02 - Provas Ilícitas # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2002%20-%20Provas%20Il%C3%ADcitas%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18vP8DI82vOlh4Aat5CgSXadorEc78Fgi
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 03 - Busca e Apreensão # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2003%20-%20Busca%20e%20Apreens%C3%A3o%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19A6ipWWHU1O-W7K00vfJRjD4FGhZlwlA
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 03 - Busca e Apreensão Acareação  Documentos  Indícios  Recolhimento de Pessoas - Coisas # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2003%20-%20Busca%20e%20Apreens%C3%A3o%20Acarea%C3%A7%C3%A3o%20%20Documentos%20%20Ind%C3%ADcios%20%20Recolhimento%20de%20Pessoas%20-%20Coisas%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1abWdfpjFKWOJ3WhaIa20VW3pjWDpdRCp
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 04 - Flagrante Forjado Provocado Das Comunicações Resolução 213 Art. 310 do Relaxamento e Medidas Cautelares # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2004%20-%20Flagrante%20Forjado%20Provocado%20Das%20Comunica%C3%A7%C3%B5es%20Resolu%C3%A7%C3%A3o%20213%20Art.%20310%20do%20Relaxamento%20e%20Medidas%20Cautelares%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SWocBhONxf2x9bZD-LMPsl0eZMLdKluf
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 04 - Prisão em Flagrante Flagrante Próprio Impróprio Presumido Esperado Postergado # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2004%20-%20Pris%C3%A3o%20em%20Flagrante%20Flagrante%20Pr%C3%B3prio%20Impr%C3%B3prio%20Presumido%20Esperado%20Postergado%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AMjzZQBDuPgOnVeS8P5VEMK25lb6J1bf
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 05 - Questões # Parte I.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2005%20-%20Quest%C3%B5es%20#%20Parte%20I.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zvNBA9PhMS6-B8Ta2i_9GMcynVmf_HOb
+#EXTINF:-1  group-title="Intensivo Processo Penal",Aula 05 - Questões # Parte II.mp4
+https://educa.eu.org/api/v1/redirectdownload/Aula%2005%20-%20Quest%C3%B5es%20#%20Parte%20II.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hyr-lQfsrUQ2r0heGIsfluZOOpZf-9XY
