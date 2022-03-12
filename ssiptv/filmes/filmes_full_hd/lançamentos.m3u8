@@ -17,7 +17,8 @@ https://meu-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Samura
 
 
 #PLAYLIST: ! Lançamentos 2021/2022
-
+#EXTINF:0 group-title="Filmes | Lançamentos", Homem-Aranha 3 - Sem Volta Para Casa [2021].mp4 
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=16Y8UpuA-FzXxBJxyyN7ZxmNcqal-dpA8
 #EXTINF:0 group-title="Filmes | Lançamentos", A Era do Gelo - As Aventuras de Buck
 https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
 #EXTINF:0 group-title="Filmes | Lançamentos", Cruella.2021
