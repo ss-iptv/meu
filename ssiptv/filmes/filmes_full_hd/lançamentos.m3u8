@@ -20,6 +20,8 @@ https://meu-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Samura
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Filmes - Novidades
+#EXTINF:0 group-title="Filmes | Lançamentos", Red: Estranhamente Vermelho
+https://araujo.eu.org/api/v1/redirectdownload/Red.mp4?a=0&id=1dYEo73j2MO6BvGC9iNY4MJpCdsQh0KoB&itag=22
 #EXTINF:0 group-title="Filmes | Lançamentos", A Day To Die [2022] - Legendado .mp4
 https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Day%20To%20Die%20%5B2022%5D%20-%20Legendado%20.mp4?a=0&id=1WTZ8vsKgrMB1UuZfPu_icfupCfDVM7BB
 #EXTINF:0 group-title="Filmes | Lançamentos", A Era do Gelo - As Aventuras de Buck 2022
