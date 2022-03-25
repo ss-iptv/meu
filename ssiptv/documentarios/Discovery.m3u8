@@ -579,23 +579,27 @@ https://araujo.eu.org/api/v1/redirectdownload/BRASIL%20DE%20IMIGRANTES%20S01%20E
 #EXTINF:-1 group-title="Brasil de Imigrantes", S01 E07.mp4
 https://araujo.eu.org/api/v1/redirectdownload/BRASIL%20DE%20IMIGRANTES%20S01%20E07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RCHYiXAfjtFa-gP-i0rDQD11UOMdaw8l
 
-#EXTM3U
-#EXTENC: UTF-8
 #PLAYLIST: Brasil Imperial
 #EXTINF:-1 group-title="Brasil Imperial", S01 E01.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e14Qrt80uLpu0elUE_rrpRQRhcvW8PgH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sdKk-AT-ekc7c109vWpDWFI_pM8QgQmA
 #EXTINF:-1 group-title="Brasil Imperial", S01 E02.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e1RQIRL0fhkcEWQSE_Xh4Z7D5f1EB0io
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cguA-O-DchhBVmPt0FLCCXNa96DLONYc
 #EXTINF:-1 group-title="Brasil Imperial", S01 E03.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e2jyIt7HRrWcc0VXqJQyIgi9KtiTOwnN
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s20tvLT2-MDrk0kXcQ6BTTLEFXLnm16C
+#EXTINF:-1 group-title="Brasil Imperial", S01 E04.mp4
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J3rIg1sIUQlRTn8BUefSjcPTBH5P9oT9
+#EXTINF:-1 group-title="Brasil Imperial", S01 E05.mp4
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18WRZH7agnbHIavDYQqVEVjYhCu_gLap8
+#EXTINF:-1 group-title="Brasil Imperial", S01 E06.mp4
+https://m3u.araujo.eu.org/api/v1/redirectdownload/6.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-uY3dWR5ZB2U-md1OM1Rak9krbvBQYQi
 #EXTINF:-1 group-title="Brasil Imperial", S01 E07.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eCYYnQsxPYt5_4ynH74ghybktyNerodN
+https://m3u.araujo.eu.org/api/v1/redirectdownload/7.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DGEuBmtWgybRuTwqTW4BERYXcOHsDCKQ
 #EXTINF:-1 group-title="Brasil Imperial", S01 E08.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eFVXYI6OHWC_Dk-sCK72seuP-Awv0wQF
+https://m3u.araujo.eu.org/api/v1/redirectdownload/8.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RFXkryFZpzWQVFIMU9nqCpYvdzhyAHFq
 #EXTINF:-1 group-title="Brasil Imperial", S01 E09.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eHkT9Rn8Cjb2GlnIdUnbUA_Och0Z7re3
+https://m3u.araujo.eu.org/api/v1/redirectdownload/9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13wEBgTVqviLbnNTRou7rLd-hCqRDRog4
 #EXTINF:-1 group-title="Brasil Imperial", S01 E10.mp4
-https://m3u.araujo.eu.org/api/v1/redirectdownload/Brasil%20Imperial%20S01%20E10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eIlvb63XvhQQSF0Wr4WG2KOZCZL246Jt
+https://m3u.araujo.eu.org/api/v1/redirectdownload/10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D4XxBRo2oI-PPp_87ZDacdmjqiQ12DXq
 
 #EXTM3U
 #EXTENC: UTF-8
