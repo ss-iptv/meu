@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1° Temporada
+#EXTINF:-1 group-title="Temporada 1", Episódio 01.mp4
+https://araujo.eu.org/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sAyyBe1DW363FDna3UTUcBcb05UK0htT
+#EXTINF:-1 group-title="Temporada 1", Episódio 02.mp4
+https://araujo.eu.org/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MQ1lVHvpn4HHJOnb3UqCMNPXgSp5DS_g
+#EXTINF:-1 group-title="Temporada 1", Episódio 03.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pvPMwo0kgIJISz2CGZLFMNFgT_CCW7tH
+#EXTINF:-1 group-title="Temporada 1", Episódio 04.mp4
+https://araujo.eu.org/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eBl2Z9m0dCbjaBAoHoHzJ-TThX00GYnt
+#EXTINF:-1 group-title="Temporada 1", Episódio 05.mp4
+https://araujo.eu.org/api/v1/redirectdownload/5.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11oV5bH43UhM6DAR5m9lnb8Z-hHGSTKUD
+#EXTINF:-1 group-title="Temporada 1", Episódio 06.mp4
+https://araujo.eu.org/api/v1/redirectdownload/6.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V24-KvmgQZ0TxpEeA_PNQiy7PE11DGNn
+#EXTINF:-1 group-title="Temporada 1", Episódio 07.mp4
+https://araujo.eu.org/api/v1/redirectdownload/7.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fSaZjeEzUTnJlVp1eV6KOuRoBqHJHT9d
+#EXTINF:-1 group-title="Temporada 1", Episódio 08.mp4
+https://araujo.eu.org/api/v1/redirectdownload/8.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rEzz7lT50GDrHNvshEmtdh0o7qgj0u8C
+#EXTINF:-1 group-title="Temporada 1", Episódio 09.mp4
+https://araujo.eu.org/api/v1/redirectdownload/9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kykcGUCIFGtGoi80rxG8cb_OUYWSmnzz
+#EXTINF:-1 group-title="Temporada 1", Episódio 010.mp4
+https://araujo.eu.org/api/v1/redirectdownload/10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o7w_GdZroZqrxBNHRl14mwDlUdUdlp5B
+#EXTINF:-1 group-title="Temporada 1", Episódio 011.mp4
+https://araujo.eu.org/api/v1/redirectdownload/11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zYw8Cw5HMNTYdHNBrnS0dRwGEjIHwTXK
+#EXTINF:-1 group-title="Temporada 1", Episódio 012.mp4
+https://araujo.eu.org/api/v1/redirectdownload/12.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ahFT3Bam1EkYq7XB_zKaVAFdo5jpJevM
+#EXTINF:-1 group-title="Temporada 1", Episódio 013.mp4
+https://araujo.eu.org/api/v1/redirectdownload/13.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GyOL_9etrLq7PJGoLLotV-TN8GT4nCx3
+#EXTINF:-1 group-title="Temporada 1", Episódio 014.mp4
+https://araujo.eu.org/api/v1/redirectdownload/14.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1je_Pr7g-tWvpprdf8Wazmd6a-0xmvSib
+#EXTINF:-1 group-title="Temporada 1", Episódio 015.mp4
+https://araujo.eu.org/api/v1/redirectdownload/15.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xBc0b7P8L2kkkh152D3CYsotSKSIxadd
+#EXTINF:-1 group-title="Temporada 1", Episódio 016.mp4
+https://araujo.eu.org/api/v1/redirectdownload/16.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BM-EAqVGcjcNkq0jwAs5LEeQlPfeEA79
+#EXTINF:-1 group-title="Temporada 1", Episódio 017.mp4
+https://araujo.eu.org/api/v1/redirectdownload/17.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AxTZqjsf2Ycw1pcnSmrqcBKm0vTg6tu9
+#EXTINF:-1 group-title="Temporada 1", Episódio 018.mp4
+https://araujo.eu.org/api/v1/redirectdownload/18.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kvylvlRtEeyJSsH0D8UTkZ5ZaGpbU1hy
+#EXTINF:-1 group-title="Temporada 1", Episódio 019.mp4
+https://araujo.eu.org/api/v1/redirectdownload/19.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RgkNKEghmUSMSmI1zY87BfOfOEm0tnS2
+#EXTINF:-1 group-title="Temporada 1", Episódio 020.mp4
+https://araujo.eu.org/api/v1/redirectdownload/20.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Eq8-SNB_LuBnaj0IkpSbzUtWNVhOXOPf
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2° Temporada
+#EXTINF:-1 group-title="Temporada 2", Episódio 01.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/1.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aEZn3CZIWR_90GDcqJTZQvj2GjPpuNS_
+#EXTINF:-1 group-title="Temporada 2", Episódio 02.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/2.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kjB1fHDNF94v_lAVqFukyRxk6I7gjcqm
+#EXTINF:-1 group-title="Temporada 2", Episódio 03.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JOqcHJEcfwF3emMexDFNmH4Tf0zwitId
+#EXTINF:-1 group-title="Temporada 2", Episódio 04.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/4.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hm3AXIwWKvgusFJbDoAj8XYpuhQ76EYL
+#EXTINF:-1 group-title="Temporada 2", Episódio 05.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/5.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KX-94U5FaxqnRCrerIuBQSSxjPFtOCjx
+#EXTINF:-1 group-title="Temporada 2", Episódio 06.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/6.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RA8O3sTYYO3JtG_BFguR4p-fz5QITG7Z
+#EXTINF:-1 group-title="Temporada 2", Episódio 07.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/7.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K5pqbjV8SwjTyE2bs89-N-Q0O_cZ2q8p
+#EXTINF:-1 group-title="Temporada 2", Episódio 08.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/8.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BCrusLj1o5TbrcLWxZIglpfmU0bB2nLw
+#EXTINF:-1 group-title="Temporada 2", Episódio 09.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/9.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1axKQmwCY462YJQT8pSVa8yumbQnBb60C
+#EXTINF:-1 group-title="Temporada 2", Episódio 010.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/10.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LCmygm7HKwXySbvfRlIkDp_n95Jes3kF
+#EXTINF:-1 group-title="Temporada 2", Episódio 011.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/11.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18wWlNNfhlFQTwDx5lSafrMXBMaSYXO_G
+#EXTINF:-1 group-title="Temporada 2", Episódio 012.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/12.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=171sFla1T0m-owqQ7RMXhmCgKiroDUqPJ
+#EXTINF:-1 group-title="Temporada 2", Episódio 013.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/13.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tpSG2zmU_ZtyjQ0mKyGJfciNLse65A8u
+#EXTINF:-1 group-title="Temporada 2", Episódio 014.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/14.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1joI0hWBNJr6jAvb4jXvbUKhPpemmYOco
+#EXTINF:-1 group-title="Temporada 2", Episódio 015.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/15.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bukHmfhU5pbnVj3v2i6k5mKMsg4sXWLK
+#EXTINF:-1 group-title="Temporada 2", Episódio 016.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/16.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12vvO0Bw5VN_lnd6fh7i9QvekXBNID8QZ
+#EXTINF:-1 group-title="Temporada 2", Episódio 017.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/17.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B5nuD_Wb7_NzEYqGBWwz0TNebGPg1IPs
+#EXTINF:-1 group-title="Temporada 2", Episódio 018.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/18.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HPD-2pgLEuaG6NC99FOhw-l5fn2MdcW5
+#EXTINF:-1 group-title="Temporada 2", Episódio 019.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/19.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16DueONOxzPeP4pemzrziicgk7kxEtMdH
+#EXTINF:-1 group-title="Temporada 2", Episódio 020.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/20.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KpLF-_fARTupnBkNzgEKsVmwq4FUFoJI
+#EXTINF:-1 group-title="Temporada 2", Episódio 021.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/21.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CEJlBOHO8KZt59TPK_2KDVf2yL4tQjtm
+#EXTINF:-1 group-title="Temporada 2", Episódio 022.- Legendado.mp4
+https://araujo.eu.org/api/v1/redirectdownload/22.-%20Legendado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12phdM2hqefioUdqp5cdVMrEHRgSD3lac

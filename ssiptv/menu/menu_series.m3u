@@ -68,6 +68,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/dr_who/menu_dr_
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/chuck/chuck.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",REVOLUTION
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/revolution.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Magia
 #EXTBG: #11609E
 http://assistaiptvplay.com/get.php?username=vilmar123&password=vilmar321&type=m3u_plus
