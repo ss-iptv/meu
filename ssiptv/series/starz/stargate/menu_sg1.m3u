@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: S01 LEG
-#EXTINF:-1 group-title="Temporada 1", metadata
-https://araujo.eu.org/api/v1/redirectdownload/metadata?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1b4QNNUzGIuC4324e4W85P_VPAPJZkO9D
+
 #EXTINF:-1 group-title="Temporada 1", S01E01-02
 https://araujo.eu.org/api/v1/redirectdownload/S01E01-02?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JEQuxqorMmz9NWT3tOVWqcgzxHj5Dnxy
 #EXTINF:-1 group-title="Temporada 1", S01E03
@@ -48,8 +47,7 @@ https://araujo.eu.org/api/v1/redirectdownload/S01E22?a=o6pw20syw347wsxa32p23okci
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: S02 LEG
-#EXTINF:0, metadata
-https://araujo.eu.org/api/v1/redirectdownload/metadata?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yJQ2Y5ll3g681jmiBrTMWg6nIIvYUgEe
+
 #EXTINF:-1 group-title="Temporada 2",S02E01
 https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S02E01?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YH0p9PCrkw9FeTSAEId4lyixlVvf1e-O
 #EXTINF:-1 group-title="Temporada 2",S02E02
@@ -94,3 +92,51 @@ https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S02E20?a=o6pw20syw34
 https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S02E21?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T3FZ8616tndLkaKiR7T0SuCtn8FEnxUR
 #EXTINF:-1 group-title="Temporada 2",S02E22
 https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S02E22?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_c0rWRaIieC7NonJ8wRVcE4t3tDlKemE
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: S03 LEG
+
+#EXTINF:-1 group-title="Temporada 3",S03E01
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E01?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UKOREoLApYxnAnbAkrGjuJV1YBcnrqo0
+#EXTINF:-1 group-title="Temporada 3",S03E02
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E02?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13uS2zcum8CNXY8ttdMuVwyLMlJGeDDbn
+#EXTINF:-1 group-title="Temporada 3",S03E03
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E03?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sBdRYNN3jT0DLNLzBukTyGqzmIOsL46N
+#EXTINF:-1 group-title="Temporada 3",S03E04
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E04?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aLGYSfPsyI2LZotJLGRw6Pd4itCch-bB
+#EXTINF:-1 group-title="Temporada 3",S03E05
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E05?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=133ZO7wTFtUBD_X0rGJ_Ce6J9CRGdfCTk
+#EXTINF:-1 group-title="Temporada 3",S03E06
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E06?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18OOFjGt_tnwIo6r8Eg2DGn0cC8qG03jy
+#EXTINF:-1 group-title="Temporada 3",S03E07
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E07?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZliqGoRHB9lrCCGk4F-aTwZGiJKWKvsw
+#EXTINF:-1 group-title="Temporada 3",S03E08
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E08?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oX7qUxddD1EpF40foMmVr90uaKxyCsIl
+#EXTINF:-1 group-title="Temporada 3",S03E09
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E09?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15HZabgz09ab7FNN5pJvRioIGJ1SWNIF4
+#EXTINF:-1 group-title="Temporada 3",S03E10
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E10?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z9DmA9F8uIxhW_qlo7aznIkRQBC06ZJT
+#EXTINF:-1 group-title="Temporada 3",S03E11
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E11?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GcoFdz3hXRoXoBldkmdj_MNYSXbgtGbC
+#EXTINF:-1 group-title="Temporada 3",S03E12
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E12?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HUYFX6BXOcdP3ZGyco0vY9hTHn9cXWwf
+#EXTINF:-1 group-title="Temporada 3",S03E13
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E13?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_b3-qIPUcaXTvA7tCMfCc4JXlwJ_EJxK
+#EXTINF:-1 group-title="Temporada 3",S03E14
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E14?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m4U-HDTr_Hjx7-BwLtyaM4f1TBR4N6Uw
+#EXTINF:-1 group-title="Temporada 3",S03E15
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E15?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dwDV7qjginwlJ47-7bQhTgi7rDLU_LCU
+#EXTINF:-1 group-title="Temporada 3",S03E16
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E16?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E_0wdO5c_7mipgGsV37LuCGx9lbcNRY4
+#EXTINF:-1 group-title="Temporada 3",S03E17
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E17?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Tm3kH8XcFE8Akrdlj32F3shZKKjTKCbA
+#EXTINF:-1 group-title="Temporada 3",S03E18
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E18?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=133oKBXgO2IwRbeM_SMjob6Y9aOXrlng4
+#EXTINF:-1 group-title="Temporada 3",S03E19
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E19?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lg8tFwAgDbyQq90YNel08X4TFRtgNdlY
+#EXTINF:-1 group-title="Temporada 3",S03E20
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_8_a-n2MxvoA1cQYNELMtyh4J6Xmk4JP
+#EXTINF:-1 group-title="Temporada 3",S03E21
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E21?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x5XTRrbFAYa_CkukUyaLMymKOq7Ky5DE
+#EXTINF:-1 group-title="Temporada 3",S03E22
+https://araujo.eu.org/api/v1/redirectdownload/Stargate.SG-1.S03E22?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-mnJOvlmmSdM8s36RiyveUoiCTmfFz5r
