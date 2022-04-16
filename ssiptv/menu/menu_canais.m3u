@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BRAZIL
 https://raw.githubusercontent.com/HasBahCa/IPTV-LIST/main/HasBahCa_Amerika_Brasil_BREZILYA.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PORTUGAL
+https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/47b742e19fb4cddf186db2235622ceb0053212e0/CanaisWEB/PortTV-PT
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ESPORTES
 #EXTBG: #11609E
 https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
