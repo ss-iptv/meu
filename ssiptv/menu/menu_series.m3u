@@ -52,6 +52,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/south_park/menu
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dr_house/menu_dr_house.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/50/4a90e2/amazon-prime-video.png",JOGO DAS CHAVES
+#EXTBG: #000000
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/jogo_das_chaves.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TRÊS É DEMAIS
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/tres_e_demais/menu_tres_e_demais.m3u
