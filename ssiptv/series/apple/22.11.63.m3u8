@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: 22.11.63
-#EXTINF:0, 22.11.63 S01 E01.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E01.mp4?a=0&id=1g7Xeh0Ya9VNc9Lk7HgM_ddbkR0SC-0Gt
-#EXTINF:0, 22.11.63 S01 E02.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E02.mp4?a=0&id=1g9OVXH3W_VkfFpToApaQTooEDvIfQW0w
-#EXTINF:0, 22.11.63 S01 E03.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E03.mp4?a=0&id=1gCrG2cOMxO50tcj7B3D4RKYa9ABxWMtQ
-#EXTINF:0, 22.11.63 S01 E04.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E04.mp4?a=0&id=1gFtAqSnEFLIIk452vZGu9uT5sz22uUMF
-#EXTINF:0, 22.11.63 S01 E05.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E05.mp4?a=0&id=1gIYFQWrXguES1fn9yuod7NlUymtOfma7
-#EXTINF:0, 22.11.63 S01 E06.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E06.mp4?a=0&id=1gKdMlIs6kZk633rR255im24ttnGWjW2k
-#EXTINF:0, 22.11.63 S01 E07.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E07.mp4?a=0&id=1gOc3che6hNVDtyYpWW3PpWBt-P_9FO9o
-#EXTINF:0, 22.11.63 S01 E08.mp4
-https://araujo.eu.org/api/v1/redirectdownload/22.11.63%20S01%20E08.mp4?a=0&id=1gTLzwPrhr1ESx9RPXJM3UfQacqG4YEBG
+#PLAYLIST: S01 LEG
+#EXTINF:0, 11.22.63.S01E01.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E01.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1FrGVc997Yyay1ow4BA4Tz4NTZl5tmrtS
+#EXTINF:0, 11.22.63.S01E02.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E02.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1xMeWBC7fS84m4wJUFPnN9wvXGmnWmQy7
+#EXTINF:0, 11.22.63.S01E03.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E03.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1M38QYkOFPNBb51lYWvOfsbm0OtvqwPca
+#EXTINF:0, 11.22.63.S01E04.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E04.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1pDWCyuJwgOvOAZdjhhfGbdXYNlBTvM7d
+#EXTINF:0, 11.22.63.S01E05.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E05.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1Yc6Yy0pHrhhAs43YvRi2ZM8CgJqm46ib
+#EXTINF:0, 11.22.63.S01E06.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E06.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1sbGPc_SaU527EziTMNZXy4cfc5k_Qttu
+#EXTINF:0, 11.22.63.S01E07.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E07.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1xrow--lqQ3Ghi9JM5uXRA2k1QSTjFdtT
+#EXTINF:0, 11.22.63.S01E08.MP4.LEG..mp4
+https://educacao.eu.org/api/v1/redirectdownload/11.22.63.S01E08.MP4.LEG..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1DEzdNUeJry4NF4TO8u5EjPX36DiLCoVb
