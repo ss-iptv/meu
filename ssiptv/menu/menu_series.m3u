@@ -52,30 +52,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/south_park/menu
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dr_house/menu_dr_house.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/50/4a90e2/amazon-prime-video.png",JOGO DAS CHAVES
-#EXTBG: #000000
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/jogo_das_chaves.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TRÊS É DEMAIS
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/tres_e_demais/menu_tres_e_demais.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",WALKING DEAD
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/walking_dead/menu_walking_dead.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DR. WHO
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/dr_who/menu_dr_who.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CHUCK
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/chuck/chuck.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",REVOLUTION
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/revolution.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",REVOLUTION
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/perifericos.m3u8
@@ -83,14 +59,6 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/perifericos.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",REVOLUTION
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/edicao.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",22.11.63
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/22.11.63.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Magia
-#EXTBG: #11609E
-http://assistaiptvplay.com/get.php?username=vilmar123&password=vilmar321&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GitHub Free
 https://raw.githubusercontent.com/joomaycon/Listam3u/main/lista.m3u
