@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ss-iptv 
+ss-iptv
+/
+meu
+Public
+forked from jhonatadev/meu
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+meu/ssiptv/series/edicao.m3u8
+@ss-iptv
+ss-iptv Update edicao.m3u8
+Latest commit 1b4da56 1 minute ago
+ History
+ 1 contributor
+198 lines (192 sloc)  19.6 KB
+
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 1° Temporada
@@ -101,52 +132,52 @@ https://araujo.eu.org/api/v1/redirectdownload/22%20-%20Segunda%20Vis%C3%A3o.avi?
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 3° Temporada
-#EXTINF:0, S03 01.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%201.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=13qdlSQky8Sv5npch2rcVq17DLHpsS-Xo
-#EXTINF:0, S03 02.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%202.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1QR6yX8T9jmsDPZnmKXkrWXrEuspLrW4C
-#EXTINF:0, S03 03.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%203.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1EnJ2Srmg61yBXWTQrzVtme1OJt0-9-pt
-#EXTINF:0, S03 04.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%204.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1VKKT3Kz1Cu7OW5gJtSVV1eNnj8rr6lyM
-#EXTINF:0, S03 05.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%205.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1ycguYqmgABI8Cf4phLLLcyjaWaN8qYDT
-#EXTINF:0, S03 06.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%206.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1nTwdtY6AhlnNXTt5wr6dtPBwwyFyS_-V
-#EXTINF:0, S03 07.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%207.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1IEMAOCRDQobk02szKPZGyIgsJcLG1u1O
-#EXTINF:0, S03 08.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%208.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1FHjfNLOAEjKdiMR5Zy20duddoiTD0Prk
-#EXTINF:0, S03 09.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%209.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=17E3kvfJCMtQiBygGhncU-hmu9rlHFZKD
-#EXTINF:0, S03 010.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2010.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1M3sAnSjALrv5kXkkavnRuDd56yi24c3T
-#EXTINF:0, S03 011.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2011.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1ysxvaUsbayqvchCQMlYNeJdJQDUkORb_
-#EXTINF:0, S03 012.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2012.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=13YBc0LO0awenDabWcrxlvLubxQVVzkrL
-#EXTINF:0, S03 013.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2013.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1gWWz5XuIOTn1QRm7yIWVUILeiBVswCc4
-#EXTINF:0, S03 014.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2014.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1qrogTjLsWwsjB_X5iEFinh19oKyi_kT2
-#EXTINF:0, S03 015.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2015.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1ViXl3mM_gsWBZvwgItvdBJeuL5XaDhUI
-#EXTINF:0, S03 016.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2016.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1mwboHILaBZPwRD-Z0NA9q5Ng6_7zrTL3
-#EXTINF:0, S03 017.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2017.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1lvhLvuNgv7jFNMZ5ZlBZjUcKYKQp1J7L
-#EXTINF:0, S03 018.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2018.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1-2c6JLbGVkVD6pkj30uzKwoVR5Z5J360
-#EXTINF:0, S03 019.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2019.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=12ApAFUaacqNx4asNjj597cpG6y4atvvD
-#EXTINF:0, S03 020.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2020.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1F1Ry0NvKugCfat7c5YJCvs-liAk3AKr0
-#EXTINF:0, S03 021.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2021.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1ca0-tCCLlK7GpBSOfh7rUTMqYW4XGI3-
-#EXTINF:0, S03 022.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2022.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1l-F3elOnnxtEJWBeB6xAsaM2PCft-j04
-#EXTINF:0, S03 023.mp4
-https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2023.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1xzFVb6IWG8pgiNyiU10sYcx8UrMdNGnx
+#EXTINF:0, 3ª Temporada - Episódio 1.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VDdzUyLAfgH4YZPg9CX7-9M-wglAFFaB
+#EXTINF:0, 3ª Temporada - Episódio 2.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vMDzHpJShi7HjDqht6ZC6UJvwetJ_Hev
+#EXTINF:0, 3ª Temporada - Episódio 3.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%203.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10y3DfH19Gz6v5uN3pHjS3McKs92wXxiy
+#EXTINF:0, 3ª Temporada - Episódio 4.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%204.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fyPGS1On-Slbe3NlcqS_DIhAuQy5Q7Rr
+#EXTINF:0, 3ª Temporada - Episódio 5.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%205.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ey9N-4qgsWZEHobO-LTIxgiYPnJ_l54n
+#EXTINF:0, 3ª Temporada - Episódio 6.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%206.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RVmisyKX38bFX7j_oEJ82Cz5OFhx0ZUV
+#EXTINF:0, 3ª Temporada - Episódio 7.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%207.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ad12A1IEfgiM0JHXOSZiepN-sMupDzVK
+#EXTINF:0, 3ª Temporada - Episódio 8.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%208.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1viItg9lXNaRoYrOK4N6kKl14_HOsM7_2
+#EXTINF:0, 3ª Temporada - Episódio 9.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%209.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ktiI_5MFLLez1quieWONwjzoC2MrQiqT
+#EXTINF:0, 3ª Temporada - Episódio 10.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2010.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18JR88caNzeQgJJ1Uyzqy3zXnZL37XM0q
+#EXTINF:0, 3ª Temporada - Episódio 11.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2011.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mP3wL5mYU91EMuKE309BYaxeqCSnkM7z
+#EXTINF:0, 3ª Temporada - Episódio 12.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2012.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10pLnqlYyS9Vn66cHnRpEJX7vNWvUazBp
+#EXTINF:0, 3ª Temporada - Episódio 13.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2013.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pKVZ6e96_TVO0hr0czM166h_VgrghWdW
+#EXTINF:0, 3ª Temporada - Episódio 14.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2014.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mwF0QhFPSgMuZ8UM8AHdL3c-XOOHZ6cy
+#EXTINF:0, 3ª Temporada - Episódio 15.mp4
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2015.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ujT2EMlSAw-ag0yKum1jihSDn9u6mU3F
+#EXTINF:0, 3ª Temporada - Episódio 16.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2016.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZHl14XoSja_Wootnc_DiZSHsaU8qY90w
+#EXTINF:0, 3ª Temporada - Episódio 17.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2017.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VYHtDXlgfpB9sbehSpaLlKyjH-xrzX_B
+#EXTINF:0, 3ª Temporada - Episódio 18.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2018.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1na6aQcuoPBWlVVH98T1AJY5tYt51gEMn
+#EXTINF:0, 3ª Temporada - Episódio 19.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2019.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YpnH-Ixf6wFC3j_pX3CyQmhMiXpDA7Ft
+#EXTINF:0, 3ª Temporada - Episódio 20.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2020.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15PyiqPpN0YheHNQmxE_WTo-ZusyJKX4F
+#EXTINF:0, 3ª Temporada - Episódio 21.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2021.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k3-U6WcOaUyIjEK8813Zjxcei1YmUsPm
+#EXTINF:0, 3ª Temporada - Episódio 22.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2022.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sSeJ8gMrG6aIJL-3oXYJ2mWCGDUL5G_0
+#EXTINF:0, 3ª Temporada - Episódio 23.mkv
+https://araujo.eu.org/api/v1/redirectdownload/3%C2%AA%20Temporada%20-%20Epis%C3%B3dio%2023.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xc9FXYbi5RSVo04SI2trvpZIIMyapBN6
 
 
 #EXTM3U
@@ -196,3 +227,4 @@ https://araujo.eu.org/api/v1/redirectdownload/Edi%C3%A7%C3%A3o%20de%20Amanha%204
 https://araujo.eu.org/api/v1/redirectdownload/Edi%C3%A7%C3%A3o%20de%20Amanha%204%C2%BA%20temporada%2021.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S0DZpXqNUqCaNp09m1zmgX-KjEGbsxDa
 #EXTINF:0, Edição de Amanha 4º temporada 22.mkv
 https://araujo.eu.org/api/v1/redirectdownload/Edi%C3%A7%C3%A3o%20de%20Amanha%204%C2%BA%20temporada%2022.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lMxWkEcU7v412YQaSZW4MfWRPwqBruQW
+
