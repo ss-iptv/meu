@@ -11,3 +11,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa/pcivilonli
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Processo do Trabalho
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa/ptrabalho.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Processo do Trabalho
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa/ptrabalho.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Processo Penal - Teoria
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa/ppenal-teoria.m3u8
+
