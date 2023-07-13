@@ -1,45 +1,47 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: S06
-#EXTINF:0, DR.H0U53.S06E22.MP4.DUB..mp4
-https://araujo.eu.org/api/v1/redirectdownload/DR.H0U53.S06E22.MP4.DUB..mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1_0hWiklFFx9pDWoILiHhs850ufXkvH5W
-#EXTINF:0, House.S06E01-02.Broken.+.Epic.Fail.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E01-02.Broken.+.Epic.Fail.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1KwP75aBjGcxc0UXkmOSAIRAudZOqKya-
-#EXTINF:0, House.S06E03.The.Tyrant.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E03.The.Tyrant.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=10xPggJkILD5WiAqXe2y8DpKzrp2rQUuC
-#EXTINF:0, House.S06E04.Instant.Karma.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E04.Instant.Karma.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1D0Vz-0irlp19I8uamZk3ROg0TjNJeYEa
-#EXTINF:0, House.S06E05.Brave.Heart.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E05.Brave.Heart.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1fjqwm4VFbkYTn583-uiVUHp7vcFz7J_z
-#EXTINF:0, House.S06E06.Known.Unknowns.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E06.Known.Unknowns.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=19enaF9FLYZ1hEPGdX5H8gei0Eah8WV18
-#EXTINF:0, House.S06E07.Teamwork.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E07.Teamwork.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1vZPEtXej2NWeK7oCwwQiL5pwhCiKJhk5
-#EXTINF:0, House.S06E08.Ignorance.is.Bliss.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E08.Ignorance.is.Bliss.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1Zg22YbdoMlRQHSiPQYBv4NYKTJp-SOLQ
-#EXTINF:0, House.S06E09.Wilson.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E09.Wilson.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1MhY66I6lSeuw_DBgUPyCtqNdkoX-1qNm
-#EXTINF:0, House.S06E10.The.Down.Low.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E10.The.Down.Low.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1o0ufnGoNWikyU9PK0a0w5PuMhbF0ebBR
-#EXTINF:0, House.S06E11.Remorse.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E11.Remorse.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1E3Pt7yx3LBak7O9X8_xBdJy20JGmAPo1
-#EXTINF:0, House.S06E12.Moving.the.Chains.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E12.Moving.the.Chains.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1ZuqpT8OXCy-1qo-S2AIrrZdVaSON6eR5
-#EXTINF:0, House.S06E13.5.to.9.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E13.5.to.9.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1FRmAiVo4UTwxWYF5jXM3fdfbQn2o2XCx
-#EXTINF:0, House.S06E14.Private.Lives.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E14.Private.Lives.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1-WPzFmIGqFGhezu0pJDOHndnICvJd5MN
-#EXTINF:0, House.S06E15.Black.Hole.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E15.Black.Hole.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1bwnfQq-6COycVjpnP5qwSG0U-Gq_-V1E
-#EXTINF:0, House.S06E16.Lockdown.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E16.Lockdown.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1g4gYfZZXkLXrHPyjoBQfB08Gc3QOtRTn
-#EXTINF:0, House.S06E17.Knight.Fall.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E17.Knight.Fall.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1yLqACVuWq2APPUefxanS7Hd_h9sTOO-b
-#EXTINF:0, House.S06E18.Open.and.Shut.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E18.Open.and.Shut.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1rNEgYCsSvbRY2yzQw-qMi1dbd2DzBfzM
-#EXTINF:0, House.S06E19.The.Choice.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E19.The.Choice.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1MuiPyaK_K-05Nx__egCPfxwLgxADTCCf
-#EXTINF:0, House.S06E20.Baggage.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E20.Baggage.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=124x6QBHobH_rcWgkJjXeLNlQA41Qf35J
-#EXTINF:0, House.S06E21.Help.Me.SDTV.mp4
-https://araujo.eu.org/api/v1/redirectdownload/House.S06E21.Help.Me.SDTV.mp4?a=mz15ihxmdeyn3p3x4ltl0bbm7f94s9yrv207ea2yxqvf7ceuu3&id=1MgzL_S8IOaPs2TioKVTYDzMM6ft6NomE
+#PLAYLIST: 6ª Temporada 
+#EXTINF:0, Dr.House.S06E01.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E01.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1WK5OysbuXtrW8NUZM1wh2_nXRb_y60dX
+#EXTINF:0, Dr.House.S06E02.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E02.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1y423Bdb0q66mpUEJpex352ltswf7RsbO
+#EXTINF:0, Dr.House.S06E03.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E03.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=14xOZ8-NHP5seW96GjWJIeUb0k4rwl3a5
+#EXTINF:0, Dr.House.S06E04.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E04.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1ESoL7IP5f686FSWC32vfbzKUUDkJACZq
+#EXTINF:0, Dr.House.S06E05.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E05.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1XQyOn4sFJ0HqX3L9GyikvL07fjslUD8Q
+#EXTINF:0, Dr.House.S06E06.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E06.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1JDrkslUpwOXNX-qRI2YVRiwgks1aFndK
+#EXTINF:0, Dr.House.S06E07.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E07.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1HpGpJhkZaK6kh7cW3GYJzWwoPpcLhG09
+#EXTINF:0, Dr.House.S06E08.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E08.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1ufCrToaJ8D9n9GHHRy-9CcdlbmMjgKCc
+#EXTINF:0, Dr.House.S06E09.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E09.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1AK8xfnSVIMgZERp8a4gzYlUBcQjqRYdK
+#EXTINF:0, Dr.House.S06E10.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E10.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=12Af0Krtoz44p2UCL8pgsZ8aIvhPA4GGH
+#EXTINF:0, Dr.House.S06E11.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E11.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=15IlQXa6x9we03C5MVwHL1zeyXtafIUzA
+#EXTINF:0, Dr.House.S06E12.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E12.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1faskrCqBH_4vtruwxcWeEoObkkfhTXOU
+#EXTINF:0, Dr.House.S06E13.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E13.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1doktVhTI2PMfqq1_SypjAdqkIAF66yQc
+#EXTINF:0, Dr.House.S06E14.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E14.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1i3uM9JsJA_iXZ3xlVy8pKTxj4XW6iXvQ
+#EXTINF:0, Dr.House.S06E15.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E15.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1B2IYv2r4U4_Hg4Dt4hbFRZRj_7l0zO6p
+#EXTINF:0, Dr.House.S06E16.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E16.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1TGYrC8c46CADdVC2nyZDWuyGBTqFMJKp
+#EXTINF:0, Dr.House.S06E17.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E17.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=13YZ--r3CxsVJqwtknWclWHIGA0sMUree
+#EXTINF:0, Dr.House.S06E18.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E18.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1k14Xq-A2MlVvwsKqksKG0gi0mRYoPWdK
+#EXTINF:0, Dr.House.S06E19.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E19.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1JUIyY6o-A1fDQrL6IOBKikYZYDTpKC43
+#EXTINF:0, Dr.House.S06E20.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E20.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1josudFDSEbrU41x_ubmzAMk0ad_ePZnG
+#EXTINF:0, Dr.House.S06E21.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E21.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1JSk7ifKBpyFYDD-VFVLS7aXL1dAFB7iB
+#EXTINF:0, Dr.House.S06E22.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv
+https://ssiptv.eu.org/api/v1/redirectdownload/Dr.House.S06E22.1080p.Mini.NF.WEB-DL.DD2.0.H.264.DUAL-Dinho.mkv?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1i-6knysn1L8dEme4fyJDOOEE0XwiLuqt
