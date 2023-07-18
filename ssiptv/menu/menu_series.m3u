@@ -12,9 +12,13 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/perifericos.m3u
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/shipuden.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DRAGON BALL: SUPER HERO
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DRAGON BALL SUPER
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/dbsshero.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LIGA DA JUSTIÇA
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/liga.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",EDIÇÃO DE AMANHÃ
 #EXTBG: #11609E
