@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/perifericos.m3u
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/shipuden.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DRAGON BALL: SUPER HERO
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/dbsshero.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",EDIÇÃO DE AMANHÃ
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/edicao.m3u8
@@ -24,7 +28,7 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/Jaspion.m3u8
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/ruptura.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Gods
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",AMERICAN GODS
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/american_gods.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GitHub Free
