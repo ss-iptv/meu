@@ -2,9 +2,9 @@
 #EXTENC: UTF-8
 #PLAYLIST: 1°temporada
 #EXTINF:0, BOY NAMED CHARLIE BROWN.avi
-https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/BOY%20NAMED%20CHARLIE%20BROWN.avi
+https://ssiptv.eu.org/api/v1/redirectdownload/BOY%20NAMED%20CHARLIE%20BROWN.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1txwWq_Y7Z4GLw1POVl6gegJoydJ3G2h-
 #EXTINF:0, CBNASO1.avi
-https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO1.avi
+https://ssiptv.eu.org/api/v1/redirectdownload/CBNASO1.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1Ow6DBsN77DFAlEFgU2kP6fewDsPIxVsk
 #EXTINF:0, CBNASO2.avi
 https://ssiptv.eu.org/api/v1/redirectdownload/CBNASO2.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1GOnilcYX_ZIvgvQj83N06lgEtbxoPBZe
 #EXTINF:0, Charlie Brown - EP03 - E Grande Abobora Charlie Brown.avi
@@ -55,3 +55,9 @@ https://ssiptv.eu.org/api/v1/redirectdownload/Snoopy.-.O.Dia.dos.Namorados.Dubla
 https://ssiptv.eu.org/api/v1/redirectdownload/Snoopy.-.Toque.de.Novo.Charlie.Brown.Dublado.mpg.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1n29n6Co-ClNExcvOed9ZP9RFs1-pqoMK
 #EXTINF:0, Todas.As.Estrelas.De.Charlie.Brown.Dublado.DVDRip.Xvid.AC3.avi
 https://ssiptv.eu.org/api/v1/redirectdownload/Todas.As.Estrelas.De.Charlie.Brown.Dublado.DVDRip.Xvid.AC3.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1mXhmXyiwqWkh-xpyOMnCvRwBeJvV5QcQ
+#EXTINF:0, BOY NAMED CHARLIE BROWN.avi
+https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/BOY%20NAMED%20CHARLIE%20BROWN.avi
+#EXTINF:0, CBNASO1.avi
+https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO1.avi
+#EXTINF:0, CBNASO2.avi
+https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO2.avi
