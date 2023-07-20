@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 1°temporada
-#EXTINF:0, BOY NAMED CHARLIE BROWN.mkv
-https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/BOY%20NAMED%20CHARLIE%20BROWN.mkv
-#EXTINF:0, BOY NAMED CHARLIE BROWN.avi
+#EXTINF:0, Charlie Brown - ESPECIAL
 https://serieszoiudo.eu.org/api/v1/redirectdownload/BOY%20NAMED%20CHARLIE%20BROWN.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1txwWq_Y7Z4GLw1POVl6gegJoydJ3G2h-
-#EXTINF:0, CBNASO1.avi
-https://serieszoiudo.eu.org/api/v1/redirectdownload/CBNASO1.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1Ow6DBsN77DFAlEFgU2kP6fewDsPIxVsk
-#EXTINF:0, CBNASO2.avi
-https://serieszoiudo.eu.org/api/v1/redirectdownload/CBNASO2.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1GOnilcYX_ZIvgvQj83N06lgEtbxoPBZe
+#EXTINF:0, Charlie Brown - EP01.mkv
+https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO1.mkv
+#EXTINF:0, Charlie Brown - EP02.avi
+https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO2.mkv
 #EXTINF:0, Charlie Brown - EP03 - E Grande Abobora Charlie Brown.avi
 https://serieszoiudo.eu.org/api/v1/redirectdownload/Charlie%20Brown%20-%20EP03%20-%20E%20Grande%20Abobora%20Charlie%20Brown.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1coTJo5ps37GiSIkc08nemYY9qhkJuAwa
 #EXTINF:0, Charlie Brown - EP04 - Voce Esta Apaixonado Charlie Brown.avi
@@ -59,7 +57,3 @@ https://serieszoiudo.eu.org/api/v1/redirectdownload/Snoopy.-.Toque.de.Novo.Charl
 https://serieszoiudo.eu.org/api/v1/redirectdownload/Todas.As.Estrelas.De.Charlie.Brown.Dublado.DVDRip.Xvid.AC3.avi?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1mXhmXyiwqWkh-xpyOMnCvRwBeJvV5QcQ
 #EXTINF:0, BOY NAMED CHARLIE BROWN.avi
 https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/BOY%20NAMED%20CHARLIE%20BROWN.avi
-#EXTINF:0, CBNASO1.mkv
-https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO1.mkv
-#EXTINF:0, CBNASO2.avi
-https://schauer.eu.org/0:/4%20-%20Desenhos%20/Snoopy%20/1%C2%B0temporada/CBNASO2.avi
