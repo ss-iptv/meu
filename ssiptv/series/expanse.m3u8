@@ -3,8 +3,6 @@
 #PLAYLIST: 1° Temporada
 #EXTINF:0, 1x1.mp4
 https://serieszoiudo.eu.org/api/v1/redirectdownload/1x1.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1a6bVCXPcbOiIeOKnAhU6BM4PjvrSV7Nt
-#EXTINF:0, 1x10.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/1x10.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1MeOR5WzbljDqcbTJMJW3u9_BokYOGoRn
 #EXTINF:0, 1x2.mp4
 https://serieszoiudo.eu.org/api/v1/redirectdownload/1x2.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1DWfryuWv5TC3ZHJlm548kayuBBLNXAHD
 #EXTINF:0, 1x3.mp4
@@ -21,6 +19,8 @@ https://serieszoiudo.eu.org/api/v1/redirectdownload/1x7.mp4?a=hdxlzf3pavrgrjkw6b
 https://serieszoiudo.eu.org/api/v1/redirectdownload/1x8.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1h9us6AcTMMG2hATVCgGb2Qx_aEz1Hrl9
 #EXTINF:0, 1x9.mp4
 https://serieszoiudo.eu.org/api/v1/redirectdownload/1x9.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1UOTLlF6K1FCBPymwSeQ2YLeR0J1_rlFh
+#EXTINF:0, 1x10.mp4
+https://serieszoiudo.eu.org/api/v1/redirectdownload/1x10.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1MeOR5WzbljDqcbTJMJW3u9_BokYOGoRn
 
 #EXTM3U
 #EXTENC: UTF-8
