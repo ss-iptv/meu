@@ -1,37 +1,41 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: 1° Temporada
-#EXTINF:0, 1.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/1.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1AjPovOfPjmwiUVSktqO1gjAPKByKb8Sh
-#EXTINF:0, 2.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/2.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1iokrF0bRepk6Li3T1JuPAeGGHoqcrpYg
-#EXTINF:0, 3.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/3.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1A8B2arcV6V-DYGH7ypuNySbDLuxFyWDn
-#EXTINF:0, 4.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/4.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1cm9AFmgMo5nznZQ3ZjI3-8KK4fgqlBfv
-#EXTINF:0, 5.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/5.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1T8Y06HUkZ1sLlmd6e-9_AO3xtRL5y18k
-#EXTINF:0, 6.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/6.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1tpq6A0qMlEA0p3iila5HSOH9pmHVgVoP
-#EXTINF:0, 7.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/7.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1jVd-0Vl-pn43EnZOziaVM9vY9YifyDBf
-#EXTINF:0, 8.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/8.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1cwZRbJkpd7PNdwjqchdMSuslKSCKshaU
-#EXTINF:0, 9.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/9.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1llBShoVP76_id80VgAe8sbeU6dycdLgF
-#EXTINF:0, 10.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/10.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1NXMDiUWz6tMjv01e5BvXdNRAettggR62
-#EXTINF:0, 4.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/4.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1rxKmhATDq-bF7F2rqsfriR6HqXmzYwGC
-#EXTINF:0, 5.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/5.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1Y38pPp4bc04lQ2-oCeaHxB0jiywm4b3X
-#EXTINF:0, 6.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/6.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1DwmuGy56Wbcbo8ByK1JjvL1PYzqwTPFQ
-#EXTINF:0, 7.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/7.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1j9jKxgFbcRXSfx4Kj3Yu3PNltS2V3uBe
-#EXTINF:0, 8.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/8.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1uJqIjKQSU3p2riD9CeCC_1KuhhiQcX69
-#EXTINF:0, 9.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/9.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1mQlNLUjH0IXNCWQlH_jrsnvd0auXnsWA
-#EXTINF:0, 10.mp4
-https://serieszoiudo.eu.org/api/v1/redirectdownload/10.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1-YxJLQQ3TVnX98_1Y3pcpYkeMvTRGKsO
+#EXTINF:0, S01E01.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/1.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1AjPovOfPjmwiUVSktqO1gjAPKByKb8Sh
+#EXTINF:0, S01E02.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/2.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1iokrF0bRepk6Li3T1JuPAeGGHoqcrpYg
+#EXTINF:0, S01E03.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/3.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1A8B2arcV6V-DYGH7ypuNySbDLuxFyWDn
+#EXTINF:0, S01E04.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/4.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1cm9AFmgMo5nznZQ3ZjI3-8KK4fgqlBfv
+#EXTINF:0, S01E05.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/5.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1T8Y06HUkZ1sLlmd6e-9_AO3xtRL5y18k
+#EXTINF:0, S01E06.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/6.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1tpq6A0qMlEA0p3iila5HSOH9pmHVgVoP
+#EXTINF:0, S01E07.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/7.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1jVd-0Vl-pn43EnZOziaVM9vY9YifyDBf
+#EXTINF:0, S01E08.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/8.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1cwZRbJkpd7PNdwjqchdMSuslKSCKshaU
+#EXTINF:0, S01E09.mp4
+https://cineclick.eu.org/api/v1/redirectdownload/9.mp4?a=hdxlzf3pavrgrjkw6bl2n4i3fa70l03go7lflr2modd77lsgy4&id=1llBShoVP76_id80VgAe8sbeU6dycdLgF
+#EXTINF:0, S01E10.mp4
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2ª Temporada
+#EXTINF:0, S02E01.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/1.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tyPQTD_OqtC7mnjcD5drHAUYC80bNXp5
+#EXTINF:0, S02E02.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/2.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HLm5BPtUdhKoDMCaWEUIlF88MhwzrjyZ
+#EXTINF:0, S02E03.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/3.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SphfBf0Ke_ZiRkjmH-ndspdA9DKFc3K_
+#EXTINF:0, S02E04.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/4.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ByjpzInP17PEpyp1X0pj6cMranlYerg0
+#EXTINF:0, S02E05.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/5.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16MX_VFvhEVjclff-BkzeW_dbyWQoteeJ
+#EXTINF:0, S02E05.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/5.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MRLoh8vtum2EfsSmsDvygdFSFgXaoJoy
+#EXTINF:0, S02E06.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/6.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yEwUpjgdLNBfRgnJzjw5sEDbCsO2V5nx
+#EXTINF:0, S02E06.mp4 (SeriesZoiudo)
+https://cineclick.eu.org/api/v1/redirectdownload/6.mp4%20(SeriesZoiudo)?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t6XHv_L-29mAbrrZrAo3-LeQCcCEJ2Mg
