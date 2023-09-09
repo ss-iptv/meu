@@ -3,17 +3,14 @@
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PLUTO TV
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/pluto_tv.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GITHUB TV
+https://iptv-org.github.io/iptv/languages/por.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV
 http://168.205.87.198:8555/get.php?username=renata&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV II
 http://168.205.87.198:8555/get.php?username=renato&password=123456&type=m3u_plus
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BRAZIL
-https://raw.githubusercontent.com/HasBahCa/IPTV-LIST/main/HasBahCa_Amerika_Brasil_BREZILYA.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PORTUGAL
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/portugal.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ESPORTES
 #EXTBG: #11609E
