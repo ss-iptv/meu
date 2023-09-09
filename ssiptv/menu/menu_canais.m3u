@@ -9,10 +9,6 @@ http://168.205.87.198:8555/get.php?username=renata&password=123456&type=m3u_plus
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV II
 http://168.205.87.198:8555/get.php?username=renato&password=123456&type=m3u_plus
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github (TV)
-#EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BRAZIL
 https://raw.githubusercontent.com/HasBahCa/IPTV-LIST/main/HasBahCa_Amerika_Brasil_BREZILYA.m3u
 
