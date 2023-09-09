@@ -6,6 +6,15 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/pluto_tv.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GITHUB TV
 https://iptv-org.github.io/iptv/languages/por.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BR
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BR SAMSUNG
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BR PLUTO
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV
 http://168.205.87.198:8555/get.php?username=renata&password=123456&type=m3u_plus
 
@@ -22,3 +31,27 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/radio.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais Abertos
 https://raw.githubusercontent.com/jhonatadev/Canais-BR/main/Lista%20de%20canais
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANGOLA
+#EXTBG: #11609E
+https://iptv-org.github.io/iptv/countries/ao.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CABO VERDE
+https://iptv-org.github.io/iptv/countries/cv.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GUINE B
+https://iptv-org.github.io/iptv/countries/gw.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GUINE EQU
+https://iptv-org.github.io/iptv/countries/gq.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TIMOR
+https://iptv-org.github.io/iptv/countries/tl.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ANGOLA
+https://iptv-org.github.io/iptv/countries/ao.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CABO VERDE
+https://iptv-org.github.io/iptv/countries/cv.m3u
+
+
