@@ -18,8 +18,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LT PLUTO
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV
-http://168.205.87.198:8555/get.php?username=renata&password=123456&type=m3u_plus
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",vozone
+https://voz.one/get.php?username=i3FDZBieukulSEi&password=zChA1EmW1R26AQd&type=m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV II
 http://168.205.87.198:8555/get.php?username=renato&password=123456&type=m3u_plus
